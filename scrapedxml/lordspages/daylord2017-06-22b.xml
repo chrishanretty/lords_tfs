@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<!DOCTYPE publicwhip
+[
+<!ENTITY ndash   "&#8211;">
+<!ENTITY mdash   "&#8212;">
+<!ENTITY iexcl   "&#161;">
+<!ENTITY divide  "&#247;">
+<!ENTITY euro    "&#8364;">
+<!ENTITY trade   "&#8482;">
+<!ENTITY bull    "&#8226;">
+<!ENTITY lsquo   "&#8216;">
+<!ENTITY rsquo   "&#8217;">
+<!ENTITY sbquo   "&#8218;">
+<!ENTITY ldquo   "&#8220;">
+<!ENTITY rdquo   "&#8221;">
+<!ENTITY bdquo   "&#8222;">
+<!ENTITY dagger  "&#8224;">
+
+<!ENTITY Ouml   "&#214;" >
+<!ENTITY szlig  "&#223;" >
+<!ENTITY agrave "&#224;" >
+<!ENTITY aacute "&#225;" >
+<!ENTITY acirc  "&#226;" >
+<!ENTITY atilde "&#227;" >
+<!ENTITY auml   "&#228;" >
+<!ENTITY ccedil "&#231;" >
+<!ENTITY egrave "&#232;" >
+<!ENTITY eacute "&#233;" >
+<!ENTITY ecirc  "&#234;" >
+<!ENTITY euml   "&#235;" >
+<!ENTITY iacute "&#237;" >
+<!ENTITY icirc  "&#238;" >
+<!ENTITY iuml	"&#239;" >
+<!ENTITY ntilde "&#241;" >
+<!ENTITY nbsp   "&#160;" >
+<!ENTITY oacute "&#243;" >
+<!ENTITY ocirc  "&#244;" >
+<!ENTITY ouml   "&#246;" >
+<!ENTITY oslash "&#248;" >
+<!ENTITY uacute "&#250;" >
+<!ENTITY uuml   "&#252;" >
+<!ENTITY thorn  "&#254;" >
+
+<!ENTITY pound  "&#163;" >
+<!ENTITY sect   "&#167;" >
+<!ENTITY copy   "&#169;" >
+<!ENTITY reg    "&#174;" >
+<!ENTITY deg    "&#176;" >
+<!ENTITY plusmn "&#177;" >
+<!ENTITY sup2   "&#178;" >
+<!ENTITY micro  "&#181;" >
+<!ENTITY para   "&#182;" >
+<!ENTITY middot "&#183;" >
+<!ENTITY ordm   "&#186;" >
+<!ENTITY frac14 "&#188;" >
+<!ENTITY frac12 "&#189;" >
+<!ENTITY frac34 "&#190;" >
+<!ENTITY oelig "&#339;" >
+<!ENTITY aelig  "&#230;" >
+
+]>
+
+<publicwhip scrapeversion="/home/twfy-live/parldata/scrapedxml/lordspages/daylord2017-06-22b.xml" latest="no">
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-06-22b.27.0" newgid="uk.org.publicwhip/lords/2017-06-22c.27.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-06-22b.27.1" newgid="uk.org.publicwhip/lords/2017-06-22c.27.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-06-22b.27.2" newgid="uk.org.publicwhip/lords/2017-06-22c.27.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-06-22b.27.3" newgid="uk.org.publicwhip/lords/2017-06-22c.27.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-06-22b.27.4" newgid="uk.org.publicwhip/lords/2017-06-22c.27.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-06-22b.27.5" newgid="uk.org.publicwhip/lords/2017-06-22c.27.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-06-22b.27.6" newgid="uk.org.publicwhip/lords/2017-06-22c.27.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-06-22b.27.7" newgid="uk.org.publicwhip/lords/2017-06-22c.27.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-06-22b.27.8" newgid="uk.org.publicwhip/lords/2017-06-22c.27.8" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-06-22b.27.9" newgid="uk.org.publicwhip/lords/2017-06-22c.27.9" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-06-22b.27.10" newgid="uk.org.publicwhip/lords/2017-06-22c.27.10" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-06-22b.28.0" newgid="uk.org.publicwhip/lords/2017-06-22c.28.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-06-22b.31.0" newgid="uk.org.publicwhip/lords/2017-06-22c.31.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-06-22b.31.1" newgid="uk.org.publicwhip/lords/2017-06-22c.31.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-06-22b.31.2" newgid="uk.org.publicwhip/lords/2017-06-22c.31.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-06-22b.34.0" newgid="uk.org.publicwhip/lords/2017-06-22c.34.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-06-22b.37.0" newgid="uk.org.publicwhip/lords/2017-06-22c.37.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-06-22b.39.0" newgid="uk.org.publicwhip/lords/2017-06-22c.39.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-06-22b.41.0" newgid="uk.org.publicwhip/lords/2017-06-22c.41.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-06-22b.44.0" newgid="uk.org.publicwhip/lords/2017-06-22c.44.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-06-22b.46.0" newgid="uk.org.publicwhip/lords/2017-06-22c.46.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-06-22b.47.0" newgid="uk.org.publicwhip/lords/2017-06-22c.47.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-06-22b.49.0" newgid="uk.org.publicwhip/lords/2017-06-22c.49.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-06-22b.50.0" newgid="uk.org.publicwhip/lords/2017-06-22c.50.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-06-22b.53.0" newgid="uk.org.publicwhip/lords/2017-06-22c.53.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-06-22b.56.0" newgid="uk.org.publicwhip/lords/2017-06-22c.56.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-06-22b.58.0" newgid="uk.org.publicwhip/lords/2017-06-22c.58.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-06-22b.60.0" newgid="uk.org.publicwhip/lords/2017-06-22c.60.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-06-22b.60.1" newgid="uk.org.publicwhip/lords/2017-06-22c.60.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-06-22b.60.2" newgid="uk.org.publicwhip/lords/2017-06-22c.60.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-06-22b.60.3" newgid="uk.org.publicwhip/lords/2017-06-22c.60.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-06-22b.62.0" newgid="uk.org.publicwhip/lords/2017-06-22c.62.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-06-22b.63.0" newgid="uk.org.publicwhip/lords/2017-06-22c.63.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-06-22b.64.0" newgid="uk.org.publicwhip/lords/2017-06-22c.64.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-06-22b.65.0" newgid="uk.org.publicwhip/lords/2017-06-22c.65.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-06-22b.65.1" newgid="uk.org.publicwhip/lords/2017-06-22c.65.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-06-22b.65.2" newgid="uk.org.publicwhip/lords/2017-06-22c.65.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-06-22b.65.3" newgid="uk.org.publicwhip/lords/2017-06-22c.65.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-06-22b.65.4" newgid="uk.org.publicwhip/lords/2017-06-22c.65.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-06-22b.65.5" newgid="uk.org.publicwhip/lords/2017-06-22c.65.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-06-22b.66.0" newgid="uk.org.publicwhip/lords/2017-06-22c.66.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-06-22b.66.1" newgid="uk.org.publicwhip/lords/2017-06-22c.66.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-06-22b.66.2" newgid="uk.org.publicwhip/lords/2017-06-22c.66.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-06-22b.66.3" newgid="uk.org.publicwhip/lords/2017-06-22c.66.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-06-22b.66.4" newgid="uk.org.publicwhip/lords/2017-06-22c.66.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-06-22b.67.0" newgid="uk.org.publicwhip/lords/2017-06-22c.67.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-06-22b.68.0" newgid="uk.org.publicwhip/lords/2017-06-22c.68.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-06-22b.68.1" newgid="uk.org.publicwhip/lords/2017-06-22c.68.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-06-22b.68.2" newgid="uk.org.publicwhip/lords/2017-06-22c.68.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-06-22b.68.3" newgid="uk.org.publicwhip/lords/2017-06-22c.68.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-06-22b.68.4" newgid="uk.org.publicwhip/lords/2017-06-22c.68.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-06-22b.68.5" newgid="uk.org.publicwhip/lords/2017-06-22c.68.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-06-22b.68.6" newgid="uk.org.publicwhip/lords/2017-06-22c.68.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-06-22b.69.0" newgid="uk.org.publicwhip/lords/2017-06-22c.69.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-06-22b.69.1" newgid="uk.org.publicwhip/lords/2017-06-22c.69.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-06-22b.69.2" newgid="uk.org.publicwhip/lords/2017-06-22c.69.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-06-22b.73.0" newgid="uk.org.publicwhip/lords/2017-06-22c.73.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-06-22b.76.0" newgid="uk.org.publicwhip/lords/2017-06-22c.76.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-06-22b.77.0" newgid="uk.org.publicwhip/lords/2017-06-22c.77.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-06-22b.79.0" newgid="uk.org.publicwhip/lords/2017-06-22c.79.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-06-22b.79.1" newgid="uk.org.publicwhip/lords/2017-06-22c.79.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-06-22b.80.0" newgid="uk.org.publicwhip/lords/2017-06-22c.80.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-06-22b.80.1" newgid="uk.org.publicwhip/lords/2017-06-22c.80.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-06-22b.80.2" newgid="uk.org.publicwhip/lords/2017-06-22c.80.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-06-22b.80.3" newgid="uk.org.publicwhip/lords/2017-06-22c.80.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-06-22b.80.4" newgid="uk.org.publicwhip/lords/2017-06-22c.80.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-06-22b.81.0" newgid="uk.org.publicwhip/lords/2017-06-22c.81.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-06-22b.81.1" newgid="uk.org.publicwhip/lords/2017-06-22c.81.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-06-22b.81.2" newgid="uk.org.publicwhip/lords/2017-06-22c.81.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-06-22b.81.3" newgid="uk.org.publicwhip/lords/2017-06-22c.81.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-06-22b.82.0" newgid="uk.org.publicwhip/lords/2017-06-22c.82.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-06-22b.82.1" newgid="uk.org.publicwhip/lords/2017-06-22c.82.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-06-22b.82.2" newgid="uk.org.publicwhip/lords/2017-06-22c.82.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-06-22b.82.3" newgid="uk.org.publicwhip/lords/2017-06-22c.82.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-06-22b.82.4" newgid="uk.org.publicwhip/lords/2017-06-22c.82.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-06-22b.83.0" newgid="uk.org.publicwhip/lords/2017-06-22c.83.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-06-22b.83.1" newgid="uk.org.publicwhip/lords/2017-06-22c.83.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-06-22b.83.2" newgid="uk.org.publicwhip/lords/2017-06-22c.83.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-06-22b.83.3" newgid="uk.org.publicwhip/lords/2017-06-22c.83.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-06-22b.83.4" newgid="uk.org.publicwhip/lords/2017-06-22c.83.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-06-22b.83.5" newgid="uk.org.publicwhip/lords/2017-06-22c.83.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-06-22b.83.6" newgid="uk.org.publicwhip/lords/2017-06-22c.83.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-06-22b.84.0" newgid="uk.org.publicwhip/lords/2017-06-22c.84.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-06-22b.84.1" newgid="uk.org.publicwhip/lords/2017-06-22c.84.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-06-22b.84.2" newgid="uk.org.publicwhip/lords/2017-06-22c.84.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-06-22b.84.3" newgid="uk.org.publicwhip/lords/2017-06-22c.84.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-06-22b.84.4" newgid="uk.org.publicwhip/lords/2017-06-22c.84.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-06-22b.84.5" newgid="uk.org.publicwhip/lords/2017-06-22c.84.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-06-22b.86.0" newgid="uk.org.publicwhip/lords/2017-06-22c.86.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-06-22b.89.0" newgid="uk.org.publicwhip/lords/2017-06-22c.89.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-06-22b.91.0" newgid="uk.org.publicwhip/lords/2017-06-22c.91.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-06-22b.93.0" newgid="uk.org.publicwhip/lords/2017-06-22c.93.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-06-22b.95.0" newgid="uk.org.publicwhip/lords/2017-06-22c.95.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-06-22b.95.1" newgid="uk.org.publicwhip/lords/2017-06-22c.95.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-06-22b.95.2" newgid="uk.org.publicwhip/lords/2017-06-22c.95.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-06-22b.98.0" newgid="uk.org.publicwhip/lords/2017-06-22c.98.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-06-22b.100.0" newgid="uk.org.publicwhip/lords/2017-06-22c.100.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-06-22b.102.0" newgid="uk.org.publicwhip/lords/2017-06-22c.102.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-06-22b.104.0" newgid="uk.org.publicwhip/lords/2017-06-22c.104.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-06-22b.106.0" newgid="uk.org.publicwhip/lords/2017-06-22c.106.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-06-22b.107.0" newgid="uk.org.publicwhip/lords/2017-06-22c.107.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-06-22b.110.0" newgid="uk.org.publicwhip/lords/2017-06-22c.110.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-06-22b.112.0" newgid="uk.org.publicwhip/lords/2017-06-22c.112.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-06-22b.113.0" newgid="uk.org.publicwhip/lords/2017-06-22c.113.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-06-22b.115.0" newgid="uk.org.publicwhip/lords/2017-06-22c.115.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-06-22b.117.0" newgid="uk.org.publicwhip/lords/2017-06-22c.117.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-06-22b.120.0" newgid="uk.org.publicwhip/lords/2017-06-22c.120.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-06-22b.121.0" newgid="uk.org.publicwhip/lords/2017-06-22c.121.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-06-22b.122.0" newgid="uk.org.publicwhip/lords/2017-06-22c.122.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-06-22b.124.0" newgid="uk.org.publicwhip/lords/2017-06-22c.124.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-06-22b.126.0" newgid="uk.org.publicwhip/lords/2017-06-22c.126.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-06-22b.129.0" newgid="uk.org.publicwhip/lords/2017-06-22c.129.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-06-22b.132.0" newgid="uk.org.publicwhip/lords/2017-06-22c.132.0" matchtype="changes"/>
+<speech id="uk.org.publicwhip/lords/2017-06-22b.132.0" speakername="Lord Ahmad of Wimbledon" person_id="uk.org.publicwhip/person/25040" colnum="132" time="18:13:00" url="">
+    <p pid="b132.0/1">My Lords, I begin by thanking all noble Lords who have taken part in this extremely diverse but expert debate on a range of issues. I also thank many noble Lords from across the House and Members of the other place for the warm reception that I have received in my new role—indeed, as we have learnt today, it is not just me who has received those felicitations but the noble Lord, Lord Alli. On behalf of both of us, I thank noble Lords for their kind and warm wishes. I should start also with a small caveat. I am some 15 hours into an  18-and-a-half-hour fast, so if the voice seems somewhat hoarse, I seek your Lordships’ indulgence right from the outset.</p>
+    <p pid="b132.0/2">I am delighted to have been given the great honour of being the new Minister of State at the Foreign and Commonwealth Office. As we have already heard during the debate, among my responsibilities are those of Minister for the Commonwealth. As the noble Lord, Lord Alton, so aptly put it, when I first came to your Lordships’ House, I said that it was full not only of wit but of wisdom and expertise. I often joke with friends, but with a degree of seriousness, “Forget Google, I have the House of Lords”. I shall certainly look towards the expertise across your Lordships’ House in the wide brief I must cover at this important juncture for not just the Government but the country as whole.</p>
+    <p pid="b132.0/3">Before going any further, it would be remiss of me not to pay great tribute to my predecessor, my noble friend Lady Anelay of St Johns. Joyce is a mentor in many ways. She was the Chief Whip when I first joined the Government so quite clearly I learned the ropes from her. She did some incredible work on a whole range of important issues, whether climate change, human rights or, of course, tackling sexual violence in conflict. I was delighted—I confirm this to the noble Lord, Lord Collins—to be appointed as the Prime Minister’s special representative on combating and preventing sexual violence in conflict. I look forward to working with all across your Lordships’ House, in particular my noble friend Lady Hodgson, on this important portfolio.</p>
+    <p pid="b132.0/4">It also gives me great pleasure to close this debate on Her Majesty’s gracious Speech. As we heard from noble Lords, this is a time of sombre reflection for our nation. I look towards the most reverend Primate the Archbishop of Canterbury. He is an inspiration to many of us, not just in the Chamber but across the country and to those of all faiths. I pay tribute to the personal example he has set at a time when the country needs to be brought together. I am sure that sentiment is shared by the whole House. He most poignantly reminded us that following recent tragic events we look towards ourselves and, as we go out on to the international stage, the values that bind us together.</p>
+    <p pid="b132.0/5">When we talk of the issues of religious freedom and the rights of all, as the noble Lord, Lord Alli, so poignantly expressed, they are a reflection of our incredible country. We heard when talking about trade and the Commonwealth just now that perhaps India should play a bigger role. Is it not a great tribute to our country to look across your Lordships’ House, or the other place, at the Government and Opposition Benches, and the Benches of all parties? We can proudly say that over the last 50, 40, 30 and 20 years, and the last decade, we have seen people of all backgrounds, faiths and communities coming forward to represent their country. Not only am I honoured, I am greatly humbled to stand in front of your Lordships’ House today in my new role.</p>
+    <p pid="b132.0/6">A great many points have been raised today. Of course, I will try my best in the next 20 minutes or so to cover what I can but I apologise from the start if I  am unable to answer all the points raised by noble Lords. I will endeavour to write to them and copy responses to the Library.</p>
+    <p pid="b132.0/7">Several noble Lords raised the issue of the roles of the Foreign Office and the Department for International Development. The noble Lord, Lord Purvis, the noble Baroness Sheehan, and others asked whether the Government are looking to combine the two departments. The short answer is no. We are ensuring that at this important time there is greater co-ordination across Whitehall, with a greater focus on the important areas on trade and international development, but also showing the support of Britain on the world stage. That is why I am delighted that the Prime Minister created two joint Ministers of State. Alistair Burt will cover both the Foreign and Commonwealth Office and the Department for International Development. He will be joined in that respect by the Minister for Africa, who will cover that brief in both departments—my honourable friend Rory Stewart.</p>
+    <p pid="b132.0/8">Equally, I am delighted that my noble friends Lord Bates and Lord Howe will work with me on this important agenda as we take Britain forward at a crucial time on Brexit negotiations. Of course, it is right that my noble friend Lord Price also joins us—his is an important department as we build new relationships. As we already heard in the contribution from the noble Baroness, Lady Tonge, my noble friend Lord Bates regrets that he is not here today but he is doing important work for DfID on behalf of the Government. Today, he is in Uganda for a solidarity summit for refugees.</p>
+    <p pid="b132.0/9">I assure noble Lords that we will use our status as a permanent member of the United Nations Security Council and our leading role in other multilateral institutions, together with our commitment to spend 0.7% of national income on international development, to promote peace, stability and prosperity around the world. We believe that our departure from the European Union gives us the opportunity to reset the UK’s role in the world. The Government are determined to draw on all our considerable assets—our diplomatic network, our strategic and military alliances, our trading ties, our universities, our cultural heritage, our democratic institutions, and, as we have heard from the House today, our communities—to build a truly global Britain. That means reinforcing our presence and relationships in key capitals—including in Europe. I assure the noble Lords, Lord Hannay and Lord Bilimoria, among others, that that means reinvigorating our role in multilateral institutions such as the UN, the WTO and the Commonwealth, while continuing to look at a newly defined but lasting relationship with our European Union partners.</p>
+    <p pid="b132.0/10">That is why, in this Session of Parliament, the Department for International Trade will introduce a trade Bill to establish the legislative framework for the UK’s future trade policy outside the EU. The Department for International Trade will renew the terms of our membership of the WTO, aiming for a smooth transition that fully meets existing obligations and avoids disruption to our trading relationships. We will seek a comprehensive  free trade agreement with the EU, while preparing the ground for our new independent trading relationships around the world.</p>
+    <p pid="b132.0/11">This Government believe that free and open trade in a liberal, rules-based system is vital for reducing poverty and sharing prosperity around the world. Encouraging trade and inward investment is a vital part of building a domestic economy that works for everyone, creating jobs and transforming local communities and industry. The UK is uniquely well placed to attract investment, and we are seeing results. In my previous role I signed a new air agreement with India, and others will follow.</p>
+    <p pid="b132.0/12">Turning to some of the specific points that were raised in this area, I assure the noble Lord, Lord Bilimoria, that our exit from the European Union will be discussed in greater detail next week. The public want the Government to provide certainty and stability and to get on with the immediate job. The first round of talks earlier this week was constructive, laying solid foundations for the discussions to come. As noble Lords will be aware, my right honourable friend the Prime Minister is in Brussels this evening. There is a long road ahead but the destination is clear: a deep and special partnership, enabling prosperity for both the UK and the European Union, allowing us to protect our shared European values. I hear what the noble Baroness, Lady Liddell, among others, says about our approach to these discussions. I am sure there will be much to be had from the expertise in your Lordships’ House.</p>
+    <p pid="b132.0/13">Turning to the question asked by my noble friend Lord Howell of Guildford, first, I thank him for his warm welcome for the international expert, Crawford Falconer, on his appointment as Chief Trade Negotiation Adviser and Second Permanent Secretary at the Department for International Trade. My noble friend spoke of both the agreement we will reach with the European Union on exit and the vast trading opportunities that lie beyond Europe. As set out by my right honourable friend the Prime Minister, we want to achieve the greatest possible tariff- and barrier-free trade with our European neighbours, and to be able to negotiate our own trade agreements with partners across the world.</p>
+    <p pid="b132.0/14">The transitional arrangements were raised by the noble Lords, Lord Purvis, Lord Anderson and Lord Bilimoria, among others. I assure the noble Lords that our exit from the European Union will be discussed next week, as I said. We want to minimise disruption as we leave the European Union and, as much as possible, give certainty to citizens in both the European Union and the UK, as well as businesses, and it is one of the Government’s key principles for the upcoming negotiations. We want to avoid any cliff edges as we move from our current relationship to a future partnership, where people and businesses benefit from implementation periods to adjust to new arrangements in a smooth and orderly way.</p>
+    <p pid="b132.0/15">The noble Baroness, Lady Liddell, spoke of the need to build a positive relationship with Europe and to maintain a positive and respectful rhetoric. The tone, not just the content, is important in discussions. I hear what the noble Baroness says. In this regard, I assure her that we are approaching discussions  constructively and respectfully and are confident that we can achieve outcomes that work in the interests of both sides.</p>
+    <p pid="b132.0/16">The noble Lord, Lord Collins, referred to the role of Parliament in reviewing trade deals. The Government are determined to secure the best trade opportunities and we will ensure that Parliament has a vital role to play in the scrutiny of the treaties, as it always does.</p>
+    <p pid="b132.0/17">My noble friend Lord Balfe raised the issue of the External Action Service. As set out in the UK’s EU exit White Paper:</p>
+    <p pid="b132.0/18">“We want to use our tools and privileged position in international affairs to continue to work with the EU on foreign policy security and defence”.</p>
+    <p pid="b132.0/19">Defining the specifics of our future foreign and security policy relationship with the EU, including with the External Action Service, will be an important consideration as we leave. I stress again that the UK is seeking a deep and special security partnership with the EU, in the interests of not just the UK but the remaining members of the European Union.</p>
+    <p pid="b132.0/20">The issue of international development was raised by many noble Lords, who spoke very passionately and from personal experience. I know of the personal commitment of the noble Lord, Lord Loomba, for example, in this respect. I acknowledge and warmly welcome the wide support we received for the Government’s continued commitment—and the Prime Minister’s personal commitment—to promote stability and economic opportunity around the world. That is why we remain committed on the 0.7% of our national income, and absolutely committed to determining that this money is spent in the most effective way. Let me assure noble Lords of that—I include within them the noble Baroness, Lady Tonge, the noble Earl, Lord Sandwich, and the noble Lord, Lord Crisp, who raised various and very important issues on this agenda. The noble Lord, Lord Crisp, asked some specific questions on the health partnerships, which we have continued to support. Perhaps I may write to him in that regard. Let me assure all noble Lords that this remains a priority.</p>
+    <p pid="b132.0/21">The noble Lord, Lord Dannatt, spoke about greater integration of development spending and diplomatic defence. DfID will continue to be a primary channel of UK overseas development assistance but, to respond to the changing world, more aid will be administered by other government departments, drawing on their complimentary skills. This has already begun: in 2015, other departments accounted for 19.5% of ODA spending, compared with 13.8% in 2014. The noble Lords, Lord Anderson, Lord Collins and Lord Bruce, talked of changing the rules of the ODA. The UK has driven and will continue to drive reform of the official aid rules. In an ever changing world, it is right to push for more changes to ensure that the aid rules remain relevant, credible and appropriate for today’s needs. I assure noble Lords that we are working closely with members of the Development Assistance Committee—by definition, a group of like-minded countries. As one of only two members of the G7 to meet the 0.7% ODA target, the UK is in a strong position to drive reform. In 2016, the DAC agreed to consider future reforms to the ODA system so that it remains relevant and credible.</p>
+    <p pid="b132.0/22">The noble Lords, Lord Collins and Lord Anderson, and the noble Baroness, Lady Sheehan, raised issues about consultation. I can assure them that the Government will certainly consult with key civil society organisations as we develop our plans for reform. We will be interested to hear what changes our NGO partners believe would be beneficial in delivering the SDGs.</p>
+    <p pid="b132.0/23">The noble Lord, Lord Purvis, referred to how money is being spent, particularly humanitarian aid to Iraq. On the current provision of aid to Mosul, we are clear that the protection of civilians must remain a top priority. The UK Government continue to be at the forefront of efforts supporting the Government of Iraq and the UN-supported humanitarian response. But as we saw only today, with the tragedy of the mosque being attacked and destroyed by Daesh forces, the challenges remain immense.</p>
+    <p pid="b132.0/24">On Syria, there were specific questions about how much was raised. Donors exceeded their pledge at the 2016 conference, having allocated £8 billion. I can share with your Lordships the fact that by February 2017, £6.2 billion of this had been delivered. The next tracking report is due in July, when we will be able to report on delivery against pledges at the Brussels conference.</p>
+    <p pid="b132.0/25">The noble Lord, Lord Chidgey, talked about the trade approach with countries that have international obligations linked to Sudan. I assure him that the UK has a strong history of protecting human rights. We will of course encourage all states to uphold international human rights obligations and work with those determined to reform. As the Minister responsible for human rights at the FCO, I certainly look forward to working with him and others on ensuring that the issues which need to be raised can be put on the table. Where we need to have those candid discussions with particular countries that are recipients of aid, yes, we want to help their development but at the same time, we need to ensure that their governance models are reflective of the democracies that they aspire to be. In relation to Sudan I assure the noble Lord and the noble Baroness, Lady Cox, that the UK will continue to be clear on where we have fundamental disagreements. But we believe that maintaining dialogue with Sudan is important, to improve co-operation in areas where we have shared interests and to press our case where we disagree.</p>
+    <p pid="b132.0/26">The noble Lord, Lord Chidgey, and the noble Earl, Lord Sandwich, also raised the question of EPAs. Around 80 countries currently benefit from preferences to the UK market under the EU scheme. Trade preferences boost economic growth and reduce poverty by helping to create jobs and by increasing growth. As we leave the EU, we will establish a UK trade preference scheme to minimise disruption to our trading relationships with developing nations. That includes replicating EU preferential arrangements to ensure continuity in our trade and investment relationships with third countries. Details of the UK’s future trade preference policy will be set out in Parliament.</p>
+    <p pid="b132.0/27">The noble Baroness, Lady Tonge, raised the question of the family planning summit. On safe abortion, I assure the noble Baroness that the US and the UK are  not like-minded. Research shows that restricting access to abortion services does not make abortions less common; it only increases the risk. The UK will continue to show global health leadership by promoting and supporting comprehensive, evidence-based sexual and reproductive health and rights, including through our global family planning summit in July. We will continue to work with all our partners to accelerate progress in this respect.</p>
+    <p pid="b132.0/28">To protect our people and our country, we will continue to invest in our Armed Forces. My noble friend Lord Howe very eloquently set out the detail about how we will progress. We will invest in the new generation of nuclear-armed submarines. We estimate that the cost equates to just 20p in every £100 of annual government spending over the next 35 years. I thank the noble and gallant Lord, Lord Craig, the noble Lord, Lord Dannatt, and other noble Lords for the broad support that we receive for the continued commitment to spending 2% of GDP on defence and 20% of the budget on equipment and research. I assure noble Lords that we will keep our people safe by tackling the threat of terrorism at source. That is why we will continue to play a leading role in international military action to tackle Daesh in Iraq and Syria.</p>
+    <p pid="b132.0/29">The noble Lord, Lord Touhig, asked about Royal Marine numbers. I assure him that we continue to have the appropriate number of front-line Royal Marines to achieve all tasking, and we will ensure that the Royal Marines are properly trained and equipped to perform the vital task that we ask of them. The noble Lord asked a series of questions, and I am sure my noble friend Lord Howe noted them and will write to him accordingly.</p>
+    <p pid="b132.0/30">The noble and gallant Lord, Lord Craig, and my noble friend Lord Sterling asked about the SDSR. The Government conducted a comprehensive strategic defence and security review in 2015. The evolving security situation means that we must constantly review the best way to keep Britain safe. That is why spending is continuously monitored. This approach helps to ensure that the £178 billion of equipment planned will deliver the cutting-edge ships, aircraft and armoured vehicles that our military needs now and in future.</p>
+    <p pid="b132.0/31">The noble Lord, Lord West, asked a series of questions about defence, including the defence of our waters. Maritime security remains a priority. The Ministry of Defence continues to contribute to Her Majesty’s Government’s efforts in protecting the UK’s territorial waters by providing a multilayered capability to deter incursions into territorial waters.</p>
+    <p pid="b132.0/32">The noble Lord, Lord Judd, asked about the nuclear deterrent. I believe he endorsed it, but he asked whether it costs too much. The cost of the Trident programme is around 6% of the total defence spend.</p>
+    <p pid="b132.0/33">The noble Lord, Lord West, raised the issue of the lack of weapons on ships. I assure him that all Royal Navy ships are equipped with weapons appropriate to their operational tasking. As he will know, the Royal Navy continually reviews the capabilities required to deliver that tasking.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-06-22b.138.0" newgid="uk.org.publicwhip/lords/2017-06-22c.138.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-06-22b.139.0" newgid="uk.org.publicwhip/lords/2017-06-22c.139.0" matchtype="perfectmatch"/>
+</publicwhip>
+

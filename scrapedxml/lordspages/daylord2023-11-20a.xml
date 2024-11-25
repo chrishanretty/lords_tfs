@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<!DOCTYPE publicwhip
+[
+<!ENTITY ndash   "&#8211;">
+<!ENTITY mdash   "&#8212;">
+<!ENTITY iexcl   "&#161;">
+<!ENTITY divide  "&#247;">
+<!ENTITY euro    "&#8364;">
+<!ENTITY trade   "&#8482;">
+<!ENTITY bull    "&#8226;">
+<!ENTITY lsquo   "&#8216;">
+<!ENTITY rsquo   "&#8217;">
+<!ENTITY sbquo   "&#8218;">
+<!ENTITY ldquo   "&#8220;">
+<!ENTITY rdquo   "&#8221;">
+<!ENTITY bdquo   "&#8222;">
+<!ENTITY dagger  "&#8224;">
+
+<!ENTITY Ouml   "&#214;" >
+<!ENTITY szlig  "&#223;" >
+<!ENTITY agrave "&#224;" >
+<!ENTITY aacute "&#225;" >
+<!ENTITY acirc  "&#226;" >
+<!ENTITY atilde "&#227;" >
+<!ENTITY auml   "&#228;" >
+<!ENTITY ccedil "&#231;" >
+<!ENTITY egrave "&#232;" >
+<!ENTITY eacute "&#233;" >
+<!ENTITY ecirc  "&#234;" >
+<!ENTITY euml   "&#235;" >
+<!ENTITY iacute "&#237;" >
+<!ENTITY icirc  "&#238;" >
+<!ENTITY iuml	"&#239;" >
+<!ENTITY ntilde "&#241;" >
+<!ENTITY nbsp   "&#160;" >
+<!ENTITY oacute "&#243;" >
+<!ENTITY ocirc  "&#244;" >
+<!ENTITY ouml   "&#246;" >
+<!ENTITY oslash "&#248;" >
+<!ENTITY uacute "&#250;" >
+<!ENTITY uuml   "&#252;" >
+<!ENTITY thorn  "&#254;" >
+
+<!ENTITY pound  "&#163;" >
+<!ENTITY sect   "&#167;" >
+<!ENTITY copy   "&#169;" >
+<!ENTITY reg    "&#174;" >
+<!ENTITY deg    "&#176;" >
+<!ENTITY plusmn "&#177;" >
+<!ENTITY sup2   "&#178;" >
+<!ENTITY micro  "&#181;" >
+<!ENTITY para   "&#182;" >
+<!ENTITY middot "&#183;" >
+<!ENTITY ordm   "&#186;" >
+<!ENTITY frac14 "&#188;" >
+<!ENTITY frac12 "&#189;" >
+<!ENTITY frac34 "&#190;" >
+<!ENTITY oelig "&#339;" >
+<!ENTITY aelig  "&#230;" >
+
+]>
+
+<publicwhip scrapeversion="/home/twfy-live/parldata/scrapedxml/lordspages/daylord2023-11-20a.xml" latest="no">
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-20a.593.0" newgid="uk.org.publicwhip/lords/2023-11-20b.593.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-20a.593.1" newgid="uk.org.publicwhip/lords/2023-11-20b.593.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-20a.593.2" newgid="uk.org.publicwhip/lords/2023-11-20b.593.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-20a.593.3" newgid="uk.org.publicwhip/lords/2023-11-20b.593.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-20a.593.4" newgid="uk.org.publicwhip/lords/2023-11-20b.593.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-20a.593.5" newgid="uk.org.publicwhip/lords/2023-11-20b.593.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-20a.593.6" newgid="uk.org.publicwhip/lords/2023-11-20b.593.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-20a.593.7" newgid="uk.org.publicwhip/lords/2023-11-20b.593.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-20a.594.0" newgid="uk.org.publicwhip/lords/2023-11-20b.594.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-20a.594.1" newgid="uk.org.publicwhip/lords/2023-11-20b.594.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-20a.594.2" newgid="uk.org.publicwhip/lords/2023-11-20b.594.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-20a.594.3" newgid="uk.org.publicwhip/lords/2023-11-20b.594.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-20a.594.4" newgid="uk.org.publicwhip/lords/2023-11-20b.594.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-20a.595.0" newgid="uk.org.publicwhip/lords/2023-11-20b.595.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-20a.595.1" newgid="uk.org.publicwhip/lords/2023-11-20b.595.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-20a.595.2" newgid="uk.org.publicwhip/lords/2023-11-20b.595.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-20a.595.3" newgid="uk.org.publicwhip/lords/2023-11-20b.595.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-20a.595.4" newgid="uk.org.publicwhip/lords/2023-11-20b.595.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-20a.595.5" newgid="uk.org.publicwhip/lords/2023-11-20b.595.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-20a.595.6" newgid="uk.org.publicwhip/lords/2023-11-20b.595.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-20a.595.7" newgid="uk.org.publicwhip/lords/2023-11-20b.595.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-20a.595.8" newgid="uk.org.publicwhip/lords/2023-11-20b.595.8" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-20a.596.0" newgid="uk.org.publicwhip/lords/2023-11-20b.596.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-20a.596.1" newgid="uk.org.publicwhip/lords/2023-11-20b.596.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-20a.596.2" newgid="uk.org.publicwhip/lords/2023-11-20b.596.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-20a.596.3" newgid="uk.org.publicwhip/lords/2023-11-20b.596.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-20a.596.4" newgid="uk.org.publicwhip/lords/2023-11-20b.596.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-20a.596.5" newgid="uk.org.publicwhip/lords/2023-11-20b.596.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-20a.596.6" newgid="uk.org.publicwhip/lords/2023-11-20b.596.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-20a.597.0" newgid="uk.org.publicwhip/lords/2023-11-20b.597.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-20a.597.1" newgid="uk.org.publicwhip/lords/2023-11-20b.597.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-20a.597.2" newgid="uk.org.publicwhip/lords/2023-11-20b.597.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-20a.597.3" newgid="uk.org.publicwhip/lords/2023-11-20b.597.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-20a.597.4" newgid="uk.org.publicwhip/lords/2023-11-20b.597.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-20a.597.5" newgid="uk.org.publicwhip/lords/2023-11-20b.597.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-20a.597.6" newgid="uk.org.publicwhip/lords/2023-11-20b.597.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-20a.598.0" newgid="uk.org.publicwhip/lords/2023-11-20b.598.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-20a.598.1" newgid="uk.org.publicwhip/lords/2023-11-20b.598.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-20a.598.2" newgid="uk.org.publicwhip/lords/2023-11-20b.598.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-20a.598.3" newgid="uk.org.publicwhip/lords/2023-11-20b.598.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-20a.598.4" newgid="uk.org.publicwhip/lords/2023-11-20b.598.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-20a.598.5" newgid="uk.org.publicwhip/lords/2023-11-20b.598.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-20a.598.6" newgid="uk.org.publicwhip/lords/2023-11-20b.598.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-20a.598.7" newgid="uk.org.publicwhip/lords/2023-11-20b.598.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-20a.599.0" newgid="uk.org.publicwhip/lords/2023-11-20b.599.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-20a.599.1" newgid="uk.org.publicwhip/lords/2023-11-20b.599.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-20a.599.2" newgid="uk.org.publicwhip/lords/2023-11-20b.599.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-20a.599.3" newgid="uk.org.publicwhip/lords/2023-11-20b.599.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-20a.599.4" newgid="uk.org.publicwhip/lords/2023-11-20b.599.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-20a.599.5" newgid="uk.org.publicwhip/lords/2023-11-20b.599.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-20a.599.6" newgid="uk.org.publicwhip/lords/2023-11-20b.599.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-20a.599.7" newgid="uk.org.publicwhip/lords/2023-11-20b.599.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-20a.599.8" newgid="uk.org.publicwhip/lords/2023-11-20b.599.8" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-20a.599.9" newgid="uk.org.publicwhip/lords/2023-11-20b.599.9" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-20a.600.0" newgid="uk.org.publicwhip/lords/2023-11-20b.600.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-20a.600.1" newgid="uk.org.publicwhip/lords/2023-11-20b.600.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-20a.600.2" newgid="uk.org.publicwhip/lords/2023-11-20b.600.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-20a.600.3" newgid="uk.org.publicwhip/lords/2023-11-20b.600.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-20a.600.4" newgid="uk.org.publicwhip/lords/2023-11-20b.600.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-20a.600.5" newgid="uk.org.publicwhip/lords/2023-11-20b.600.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-20a.601.0" newgid="uk.org.publicwhip/lords/2023-11-20b.601.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-20a.601.1" newgid="uk.org.publicwhip/lords/2023-11-20b.601.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-20a.601.2" newgid="uk.org.publicwhip/lords/2023-11-20b.601.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-20a.601.3" newgid="uk.org.publicwhip/lords/2023-11-20b.601.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-20a.601.4" newgid="uk.org.publicwhip/lords/2023-11-20b.601.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-20a.601.5" newgid="uk.org.publicwhip/lords/2023-11-20b.601.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-20a.601.6" newgid="uk.org.publicwhip/lords/2023-11-20b.601.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-20a.601.7" newgid="uk.org.publicwhip/lords/2023-11-20b.601.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-20a.601.8" newgid="uk.org.publicwhip/lords/2023-11-20b.601.8" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-20a.601.9" newgid="uk.org.publicwhip/lords/2023-11-20b.601.9" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-20a.601.10" newgid="uk.org.publicwhip/lords/2023-11-20b.601.10" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-20a.602.0" newgid="uk.org.publicwhip/lords/2023-11-20b.602.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-20a.602.1" newgid="uk.org.publicwhip/lords/2023-11-20b.602.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-20a.602.2" newgid="uk.org.publicwhip/lords/2023-11-20b.602.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-20a.602.3" newgid="uk.org.publicwhip/lords/2023-11-20b.602.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-20a.602.4" newgid="uk.org.publicwhip/lords/2023-11-20b.602.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-20a.602.5" newgid="uk.org.publicwhip/lords/2023-11-20b.602.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-20a.602.6" newgid="uk.org.publicwhip/lords/2023-11-20b.602.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-20a.603.0" newgid="uk.org.publicwhip/lords/2023-11-20b.603.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-20a.603.1" newgid="uk.org.publicwhip/lords/2023-11-20b.603.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-20a.603.2" newgid="uk.org.publicwhip/lords/2023-11-20b.603.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-20a.603.3" newgid="uk.org.publicwhip/lords/2023-11-20b.603.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-20a.603.4" newgid="uk.org.publicwhip/lords/2023-11-20b.603.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-20a.603.5" newgid="uk.org.publicwhip/lords/2023-11-20b.603.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-20a.603.6" newgid="uk.org.publicwhip/lords/2023-11-20b.603.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-20a.603.7" newgid="uk.org.publicwhip/lords/2023-11-20b.603.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-20a.604.0" newgid="uk.org.publicwhip/lords/2023-11-20b.604.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-20a.604.1" newgid="uk.org.publicwhip/lords/2023-11-20b.604.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-20a.604.2" newgid="uk.org.publicwhip/lords/2023-11-20b.604.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-20a.604.3" newgid="uk.org.publicwhip/lords/2023-11-20b.604.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-20a.604.4" newgid="uk.org.publicwhip/lords/2023-11-20b.604.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-20a.604.5" newgid="uk.org.publicwhip/lords/2023-11-20b.604.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-20a.605.0" newgid="uk.org.publicwhip/lords/2023-11-20b.605.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-20a.605.1" newgid="uk.org.publicwhip/lords/2023-11-20b.605.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-20a.605.2" newgid="uk.org.publicwhip/lords/2023-11-20b.605.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-20a.605.3" newgid="uk.org.publicwhip/lords/2023-11-20b.605.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-20a.605.4" newgid="uk.org.publicwhip/lords/2023-11-20b.605.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-20a.605.5" newgid="uk.org.publicwhip/lords/2023-11-20b.605.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-20a.605.6" newgid="uk.org.publicwhip/lords/2023-11-20b.605.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-20a.606.0" newgid="uk.org.publicwhip/lords/2023-11-20b.606.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-20a.606.1" newgid="uk.org.publicwhip/lords/2023-11-20b.606.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-20a.606.2" newgid="uk.org.publicwhip/lords/2023-11-20b.606.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-20a.606.3" newgid="uk.org.publicwhip/lords/2023-11-20b.606.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-20a.606.4" newgid="uk.org.publicwhip/lords/2023-11-20b.606.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-20a.606.5" newgid="uk.org.publicwhip/lords/2023-11-20b.606.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-20a.606.6" newgid="uk.org.publicwhip/lords/2023-11-20b.606.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-20a.606.7" newgid="uk.org.publicwhip/lords/2023-11-20b.606.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-20a.606.8" newgid="uk.org.publicwhip/lords/2023-11-20b.606.8" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-20a.607.0" newgid="uk.org.publicwhip/lords/2023-11-20b.607.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-20a.607.1" newgid="uk.org.publicwhip/lords/2023-11-20b.607.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-20a.609.0" newgid="uk.org.publicwhip/lords/2023-11-20b.609.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-20a.611.0" newgid="uk.org.publicwhip/lords/2023-11-20b.611.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-20a.612.0" newgid="uk.org.publicwhip/lords/2023-11-20b.612.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-20a.614.0" newgid="uk.org.publicwhip/lords/2023-11-20b.614.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-20a.614.1" newgid="uk.org.publicwhip/lords/2023-11-20b.614.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-20a.615.0" newgid="uk.org.publicwhip/lords/2023-11-20b.615.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-20a.615.1" newgid="uk.org.publicwhip/lords/2023-11-20b.615.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-20a.615.2" newgid="uk.org.publicwhip/lords/2023-11-20b.615.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-20a.615.3" newgid="uk.org.publicwhip/lords/2023-11-20b.615.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-20a.615.4" newgid="uk.org.publicwhip/lords/2023-11-20b.615.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-20a.616.0" newgid="uk.org.publicwhip/lords/2023-11-20b.616.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-20a.616.1" newgid="uk.org.publicwhip/lords/2023-11-20b.616.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-20a.616.2" newgid="uk.org.publicwhip/lords/2023-11-20b.616.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-20a.616.3" newgid="uk.org.publicwhip/lords/2023-11-20b.616.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-20a.617.0" newgid="uk.org.publicwhip/lords/2023-11-20b.617.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-20a.617.1" newgid="uk.org.publicwhip/lords/2023-11-20b.617.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-20a.617.2" newgid="uk.org.publicwhip/lords/2023-11-20b.617.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-20a.617.3" newgid="uk.org.publicwhip/lords/2023-11-20b.617.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-20a.617.4" newgid="uk.org.publicwhip/lords/2023-11-20b.617.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-20a.617.5" newgid="uk.org.publicwhip/lords/2023-11-20b.617.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-20a.618.0" newgid="uk.org.publicwhip/lords/2023-11-20b.618.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-20a.618.1" newgid="uk.org.publicwhip/lords/2023-11-20b.618.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-20a.618.2" newgid="uk.org.publicwhip/lords/2023-11-20b.618.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-20a.618.3" newgid="uk.org.publicwhip/lords/2023-11-20b.618.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-20a.619.0" newgid="uk.org.publicwhip/lords/2023-11-20b.619.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-20a.619.1" newgid="uk.org.publicwhip/lords/2023-11-20b.619.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-20a.619.2" newgid="uk.org.publicwhip/lords/2023-11-20b.619.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-20a.619.3" newgid="uk.org.publicwhip/lords/2023-11-20b.619.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-20a.619.4" newgid="uk.org.publicwhip/lords/2023-11-20b.619.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-20a.620.0" newgid="uk.org.publicwhip/lords/2023-11-20b.620.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-20a.620.1" newgid="uk.org.publicwhip/lords/2023-11-20b.620.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-20a.620.2" newgid="uk.org.publicwhip/lords/2023-11-20b.620.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-20a.620.3" newgid="uk.org.publicwhip/lords/2023-11-20b.620.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-20a.620.4" newgid="uk.org.publicwhip/lords/2023-11-20b.620.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-20a.620.5" newgid="uk.org.publicwhip/lords/2023-11-20b.620.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-20a.620.6" newgid="uk.org.publicwhip/lords/2023-11-20b.620.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-20a.625.0" newgid="uk.org.publicwhip/lords/2023-11-20b.625.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-20a.628.0" newgid="uk.org.publicwhip/lords/2023-11-20b.628.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-20a.631.0" newgid="uk.org.publicwhip/lords/2023-11-20b.631.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-20a.634.0" newgid="uk.org.publicwhip/lords/2023-11-20b.634.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-20a.635.0" newgid="uk.org.publicwhip/lords/2023-11-20b.635.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-20a.636.0" newgid="uk.org.publicwhip/lords/2023-11-20b.636.0" matchtype="changes"/>
+<speech id="uk.org.publicwhip/lords/2023-11-20a.636.0" speakername="Lord Strasburger" type="Start Speech" person_id="uk.org.publicwhip/person/25026" colnum="636" time="17:03:00" url="">
+    <p pid="a636.0/1">My Lords, I apologise before appearing—or, more precisely, not appearing—before your Lordships in this manner, but I understand that there has been a failure in the parliamentary network and I cannot appear in video; it was either by telephone or smoke signals, so I will settle for the phone.</p>
+    <p pid="a636.0/2">I should begin by declaring my interest as chair of Big Brother Watch, which campaigns for the privacy and freedom of speech of the citizens of our country and seeks to protect them from unwarranted intrusion by the state into their lives and their data. Big Brother Watch has managed to rapidly prepare a briefing for parliamentarians about this Bill, and I commend it to Members of this House. It sets out five areas of concern, which I will cover later in my contribution.</p>
+    <p pid="a636.0/3">However, Big Brother Watch had to work at pace to complete the briefing for this Second Reading because the Government published the Bill only on <phrase class="date" code="">8 November</phrase>, just eight working days ago. I wonder what the reason could be for this rushed processing. Could it be that the Government want to avoid the thorough examination that this detailed and complex Bill needs? If so, the small number of Members who are ready to speak about it today—just 11, including the Minister—suggests that this strategy might have worked. Therefore, my first question for the Minister is to ask for an explanation of why so little time has been given to prepare for this Second Reading.</p>
+    <p pid="a636.0/4">I sat on the Joint Committee that carried out the pre-legislative scrutiny of the original Investigatory Powers Bill in 2015 and 2016. The noble Lord, Lord Murphy of Torfaen, whom I am pleased to follow in this debate, was the chair of that committee and a very good job he did too. My view eight years ago was, and still is, that bulk data collection—that is, the interception or collection and indefinite storage of everybody’s innocent internet, phone and computer communication—is a serious intrusion on every citizen’s privacy and requires very strong judicial oversight.</p>
+    <p pid="a636.0/5">Those who support this mass surveillance seek to reassure us by saying that if you have nothing to hide you have nothing to fear. However, in truth do we not all have something to hide that we would prefer to keep to ourselves? That is why we shut the toilet or bedroom door behind us. That is why we do not speak in public about troubling issues in our family or friendship circle such as addictions, unwanted pregnancies, financial woes and the like. There are some things that we just feel are private—the kind of information that, in the wrong hands, can be used to demean or blackmail any of us. That detailed knowledge about every individual in the country could be used by an unscrupulous Government—who are considering ignoring laws and treaties, for example, if that rings any bells. They could use it to identify all citizens of a particular religion, political persuasion, sexual proclivity or whatever, to single them out for disadvantageous treatment or worse—much worse.</p>
+    <p pid="a636.0/6">The state is collecting this personal information about us all and we cannot predict who in a future Government will get their hands on it and might totally misuse it. All I can say with certainty is that East Germany’s Stasi would have thought that every day was Christmas if it could have laid its hands on such a rich source of intimate data about all its citizens. Therefore, we must achieve a balance between the privacy needs and rights of individual citizens and protection of those same citizens from terrorists and serious and organised crime. It is not an easy balance to get right. I fear that the Government are still erring in favour of capturing too much data about innocent citizens—of course, the vast majority of us.</p>
+    <p pid="a636.0/7">There is another very strong reason for not engaging in the collection of everyone’s data. The problem is that the useful information about terrorism or organised crime gets buried in a blizzard of useless data about the vast majority of us who are innocently going about our lives. In 2016, the Joint Committee on the Draft Investigatory Powers Bill heard startling evidence  about the problem that this causes for security services from a gentleman called Bill Binney, a retired technical director of the United States National Security Agency and a bit of a folk hero in the intelligence community because he predicted with great accuracy when the Russians would invade Afghanistan just by analysing the patterns of their military signals. However, later in his career Mr Binney concluded that the NSA’s policy of collecting the data of all American citizens was unconstitutional, so his team devised software called ThinThread. It used smart collection to pick out for inspection only the communications of known terrorists, those they were talking to—and who those people were talking to.</p>
+    <p pid="a636.0/8">The management of the NSA instead chose to go down the road of collecting 100% of the data through a highly expensive project, Trailblazer—which was later abandoned—and ignoring Bill Binney’s method of giving the analysts a much smaller but richer and more relevant set of data. The consequence was that the NSA missed the data that it already had in its systems which would have alerted it to the plot to attack the twin towers on 9/11. If only the NSA had known that it had it and had looked at it. We know that the NSA did have it because shortly after 9/11, Mr Binney’s team ran its ThinThread software against the NSA’s database at the time of 9/11 and found six of the 9/11 conspirators and their command centres. Mr Binney shocked the committee by revealing that 9/11 could, and should, have been prevented—if only the American security analysts had not been swamped with useless information.</p>
+    <p pid="a636.0/9">The price paid by the American people for their security services’ predilection for bulk data collection was very high indeed. Yet here we have in this Bill the continuation of that folly by our own intelligence services. I invite noble Lords to recall the terrorist attacks of the last 20 years and that, almost every time, it was later revealed that the perpetrators were known to the police or the intelligence services. Our people being swamped with irrelevant data must have contributed to the failure to further investigate these suspects before they acted.</p>
+    <p pid="a636.0/10">The Government will no doubt argue that the advent of artificial intelligence makes it more possible for them to search for needles in haystacks. That may well be so, but some of that advantage will be negated by the massive explosion of data volumes they are now collecting from a wide variety of sources, especially social media and video. The fact remains that they are still holding, and have available for inquiry, huge amounts of data about all of us in this House and in this country—all of it at risk of being misused. Bill Binney’s solution was to immediately encrypt the 99.9% of the data that was of no interest to protect it from snooping, official or unofficial. In the UK we have none of that protection.</p>
+    <p pid="a636.0/11">The Investigatory Powers Act, to the credit of the then Government, sought to reassure the public that there are limitations on the use of personal data by law enforcement and the security services, and how those limitations are policed. However, it is worth noting that it was also disclosed that several intrusive powers have been used on the British people for many years,  without any such constraint. That was because they had been in use without the consent or even the knowledge of Parliament. If it had not been for the brave whistleblowing of Edward Snowden, the contractor to the American National Security Agency, the scandal of the UK’s surveillance powers would not have been revealed to Parliament and may never have been addressed.</p>
+    <p pid="a636.0/12">We need an Edward Snowden-type whistleblower every few years to keep our security services and our Government honest, because the safeguards that are in place to ensure compliance by the security services and prevent misuse of these highly intrusive powers seem to be inadequate, as illustrated by the TechEn case. This was a very serious breach of the statutory safeguards in the Investigatory Powers Act and the Regulation of Investigatory Powers Act 2000. It was the subject of the scathing judgment against the Security Service and the Home Office by the Investigatory Powers Tribunal in January this year. MI5 admitted that it had been aware, since May 2016, that there was a very high risk it was in breach of its statutory obligations concerning the holding of personal data under both Acts. It also admitted that it should have immediately reported to the Investigatory Powers Tribunal but failed to do this for three years.</p>
+    <p pid="a636.0/13">The Investigatory Powers Tribunal found that</p>
+    <p pid="a636.0/14" class="indent">“there were serious failings in compliance with the statutory obligations of MI5 from late 2014 onwards”—</p>
+    <p pid="a636.0/15">that is, two years earlier than MI5 admitted—and that those failings should</p>
+    <p pid="a636.0/16" class="indent">“have been addressed … by the Management Board”.</p>
+    <p pid="a636.0/17">It was also strongly critical of the Home Office’s failure to inquire further into MI5’s long-standing compliance failures, after being made aware of them several times since 2016. The tribunal found that the Secretary of State breached their duty to make adequate inquiries as to whether the statutory safeguards were being met, and that warrants were issued after late 2014, through to <phrase class="date" code="">5 April 2019</phrase>, that were unlawful and did not meet the safeguarding requirements imposed by the Investigatory Powers Act and RIPA. Other breaches of the safeguards were alleged, but we do not know the tribunal’s verdict on them because they were covered only in the secret part of the judgment.</p>
+    <p pid="a636.0/18">As the noble Lord, Lord Anderson, whom I also thank for this thorough review, points out:</p>
+    <p pid="a636.0/19" class="indent">“MI5’s previous non-compliance has led to it being the subject of particularly rigorous oversight by IPCO with four extraordinary inspections taking place in 2019”.</p>
+    <p pid="a636.0/20">He later warns that the TechEn case is a</p>
+    <p pid="a636.0/21" class="indent">“salutary reminder of the principle underlying the IPA: that exceptional powers require strong and independent external oversight”.</p>
+    <p pid="a636.0/22">We would do well to remember those words when we come to consider the Bill in detail. There is clear, authoritative evidence that all is not well with the compliance mechanism in the Investigatory Powers Act. Some of us predicted this during the Bill’s consideration in this House. We also called for judicial authorisation to manage the risk of these suspicionless electronic surveillance powers, which are on a scale never seen before in a democracy. Instead, the Government set up a much weaker double-lock system, and now we see the consequences. So my second and third questions  for the Minister are: what are the Government’s plans to seriously improve compliance with the Investigatory Powers Act, and will they now recognise that the current supervision regime is failing and needs to be replaced with much stronger arrangements? On a related matter, my fourth question is: when will the Government introduce regulation of a highly intrusive technology that is running riot in policing and security with absolutely no rules, safeguards or oversight—namely, facial recognition?</p>
+    <p pid="a636.0/23">I turn to this Bill. There are five primary concerns that will be covered in detail in future stages in this House. As has been discussed, it weakens the safeguards against the intelligence services collecting bulk datasets of personal information by potentially harvesting millions of facial images and mass social media data. The Bill’s creation of a vague and nebulous category of information where there is deemed to be a low or no reasonable expectation of privacy is a concerning departure from existing privacy law, in particular data protection law. Such an undefined category requires agencies that are motivated to process such data to adjust safeguards according to unqualified assertions about other people’s expectations of the privacy of their data. On the contrary, data protection law is constructed according to the sensitivity of the information rather than guesswork about the individual’s expectation of privacy concerning personal information. In my view, this provision needs to be worded more tightly.</p>
+    <p pid="a636.0/24">It weakens safeguards when authorities harvest communications data—for example, membership of and Facebook posts to a racial equality group could be seen as data available to a section of the public as defined in this Bill, and therefore the authorities may wrongly believe that they consequently possess lawful authority to obtain associated communications data from the platform. Once again, more precise wording is needed.</p>
+    <p pid="a636.0/25">Thirdly, it expressly permits the harvesting and processing of internet connection records for generalised mass surveillance, which is a much wider purpose than originally envisioned.</p>
+    <p pid="a636.0/26">Fourthly, it increases the number of politicians who can authorise the surveillance of British parliamentarians and members of other domestic legislative bodies. Politicians are not above the law but, given their important constitutional role, spying on them must require the highest authority—namely, that of the Prime Minister.</p>
+    <p pid="a636.0/27">Fifthly and finally, it attempts to force technology companies, including those overseas, to inform the Government of any plans to improve security or privacy measures on their platforms so that the Government can consider serving a notice to prevent such changes. I am sorry to say that the Government must be suffering from delusions of grandeur if they think that Apple, for example, will agree to desist from improving the privacy protection of its products or to produce an iPhone with downgraded privacy features especially for the UK. Superior privacy for its customers is one of Apple’s main selling features, and it is not going to forfeit that to please the current Government in a small part of its worldwide market.</p>
+    <p pid="a636.0/28">We have much to discuss when this Bill reaches its Committee stage. In the meantime I look forward to hearing the Minister’s response to my four questions at the end of this debate.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-20a.641.0" newgid="uk.org.publicwhip/lords/2023-11-20b.641.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-20a.641.1" newgid="uk.org.publicwhip/lords/2023-11-20b.641.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-20a.641.2" newgid="uk.org.publicwhip/lords/2023-11-20b.641.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-20a.641.3" newgid="uk.org.publicwhip/lords/2023-11-20b.641.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-20a.642.0" newgid="uk.org.publicwhip/lords/2023-11-20b.642.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-20a.645.0" newgid="uk.org.publicwhip/lords/2023-11-20b.645.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-20a.647.0" newgid="uk.org.publicwhip/lords/2023-11-20b.647.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-20a.648.0" newgid="uk.org.publicwhip/lords/2023-11-20b.648.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-20a.649.0" newgid="uk.org.publicwhip/lords/2023-11-20b.649.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-20a.656.0" newgid="uk.org.publicwhip/lords/2023-11-20b.656.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-20a.656.1" newgid="uk.org.publicwhip/lords/2023-11-20b.656.1" matchtype="perfectmatch"/>
+</publicwhip>
+

@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<!DOCTYPE publicwhip
+[
+<!ENTITY ndash   "&#8211;">
+<!ENTITY mdash   "&#8212;">
+<!ENTITY iexcl   "&#161;">
+<!ENTITY divide  "&#247;">
+<!ENTITY euro    "&#8364;">
+<!ENTITY trade   "&#8482;">
+<!ENTITY bull    "&#8226;">
+<!ENTITY lsquo   "&#8216;">
+<!ENTITY rsquo   "&#8217;">
+<!ENTITY sbquo   "&#8218;">
+<!ENTITY ldquo   "&#8220;">
+<!ENTITY rdquo   "&#8221;">
+<!ENTITY bdquo   "&#8222;">
+<!ENTITY dagger  "&#8224;">
+
+<!ENTITY Ouml   "&#214;" >
+<!ENTITY szlig  "&#223;" >
+<!ENTITY agrave "&#224;" >
+<!ENTITY aacute "&#225;" >
+<!ENTITY acirc  "&#226;" >
+<!ENTITY atilde "&#227;" >
+<!ENTITY auml   "&#228;" >
+<!ENTITY ccedil "&#231;" >
+<!ENTITY egrave "&#232;" >
+<!ENTITY eacute "&#233;" >
+<!ENTITY ecirc  "&#234;" >
+<!ENTITY euml   "&#235;" >
+<!ENTITY iacute "&#237;" >
+<!ENTITY icirc  "&#238;" >
+<!ENTITY iuml	"&#239;" >
+<!ENTITY ntilde "&#241;" >
+<!ENTITY nbsp   "&#160;" >
+<!ENTITY oacute "&#243;" >
+<!ENTITY ocirc  "&#244;" >
+<!ENTITY ouml   "&#246;" >
+<!ENTITY oslash "&#248;" >
+<!ENTITY uacute "&#250;" >
+<!ENTITY uuml   "&#252;" >
+<!ENTITY thorn  "&#254;" >
+
+<!ENTITY pound  "&#163;" >
+<!ENTITY sect   "&#167;" >
+<!ENTITY copy   "&#169;" >
+<!ENTITY reg    "&#174;" >
+<!ENTITY deg    "&#176;" >
+<!ENTITY plusmn "&#177;" >
+<!ENTITY sup2   "&#178;" >
+<!ENTITY micro  "&#181;" >
+<!ENTITY para   "&#182;" >
+<!ENTITY middot "&#183;" >
+<!ENTITY ordm   "&#186;" >
+<!ENTITY frac14 "&#188;" >
+<!ENTITY frac12 "&#189;" >
+<!ENTITY frac34 "&#190;" >
+<!ENTITY oelig "&#339;" >
+<!ENTITY aelig  "&#230;" >
+
+]>
+
+<publicwhip scrapeversion="/home/twfy-live/parldata/scrapedxml/lordspages/daylord2019-06-04a.xml" latest="no">
+<gidredirect oldgid="uk.org.publicwhip/lords/2019-06-04a.1.0" newgid="uk.org.publicwhip/lords/2019-06-04b.1.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2019-06-04a.1.1" newgid="uk.org.publicwhip/lords/2019-06-04b.1.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2019-06-04a.1.2" newgid="uk.org.publicwhip/lords/2019-06-04b.1.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2019-06-04a.1.3" newgid="uk.org.publicwhip/lords/2019-06-04b.1.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2019-06-04a.1.4" newgid="uk.org.publicwhip/lords/2019-06-04b.1.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2019-06-04a.1.5" newgid="uk.org.publicwhip/lords/2019-06-04b.1.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2019-06-04a.1.6" newgid="uk.org.publicwhip/lords/2019-06-04b.1.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2019-06-04a.1.7" newgid="uk.org.publicwhip/lords/2019-06-04b.1.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2019-06-04a.1.8" newgid="uk.org.publicwhip/lords/2019-06-04b.1.8" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2019-06-04a.1.9" newgid="uk.org.publicwhip/lords/2019-06-04b.1.9" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2019-06-04a.1.10" newgid="uk.org.publicwhip/lords/2019-06-04b.1.10" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2019-06-04a.3.0" newgid="uk.org.publicwhip/lords/2019-06-04b.3.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2019-06-04a.3.1" newgid="uk.org.publicwhip/lords/2019-06-04b.3.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2019-06-04a.3.2" newgid="uk.org.publicwhip/lords/2019-06-04b.3.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2019-06-04a.3.3" newgid="uk.org.publicwhip/lords/2019-06-04b.3.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2019-06-04a.3.4" newgid="uk.org.publicwhip/lords/2019-06-04b.3.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2019-06-04a.4.0" newgid="uk.org.publicwhip/lords/2019-06-04b.4.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2019-06-04a.4.1" newgid="uk.org.publicwhip/lords/2019-06-04b.4.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2019-06-04a.4.2" newgid="uk.org.publicwhip/lords/2019-06-04b.4.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2019-06-04a.4.3" newgid="uk.org.publicwhip/lords/2019-06-04b.4.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2019-06-04a.4.4" newgid="uk.org.publicwhip/lords/2019-06-04b.4.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2019-06-04a.4.5" newgid="uk.org.publicwhip/lords/2019-06-04b.4.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2019-06-04a.4.6" newgid="uk.org.publicwhip/lords/2019-06-04b.4.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2019-06-04a.4.7" newgid="uk.org.publicwhip/lords/2019-06-04b.4.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2019-06-04a.5.0" newgid="uk.org.publicwhip/lords/2019-06-04b.5.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2019-06-04a.5.1" newgid="uk.org.publicwhip/lords/2019-06-04b.5.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2019-06-04a.5.2" newgid="uk.org.publicwhip/lords/2019-06-04b.5.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2019-06-04a.5.3" newgid="uk.org.publicwhip/lords/2019-06-04b.5.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2019-06-04a.5.4" newgid="uk.org.publicwhip/lords/2019-06-04b.5.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2019-06-04a.5.5" newgid="uk.org.publicwhip/lords/2019-06-04b.5.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2019-06-04a.5.6" newgid="uk.org.publicwhip/lords/2019-06-04b.5.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2019-06-04a.6.0" newgid="uk.org.publicwhip/lords/2019-06-04b.6.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2019-06-04a.6.1" newgid="uk.org.publicwhip/lords/2019-06-04b.6.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2019-06-04a.6.2" newgid="uk.org.publicwhip/lords/2019-06-04b.6.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2019-06-04a.6.3" newgid="uk.org.publicwhip/lords/2019-06-04b.6.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2019-06-04a.6.4" newgid="uk.org.publicwhip/lords/2019-06-04b.6.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2019-06-04a.6.5" newgid="uk.org.publicwhip/lords/2019-06-04b.6.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2019-06-04a.7.0" newgid="uk.org.publicwhip/lords/2019-06-04b.7.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2019-06-04a.7.1" newgid="uk.org.publicwhip/lords/2019-06-04b.7.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2019-06-04a.7.2" newgid="uk.org.publicwhip/lords/2019-06-04b.7.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2019-06-04a.7.3" newgid="uk.org.publicwhip/lords/2019-06-04b.7.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2019-06-04a.7.4" newgid="uk.org.publicwhip/lords/2019-06-04b.7.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2019-06-04a.7.5" newgid="uk.org.publicwhip/lords/2019-06-04b.7.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2019-06-04a.7.6" newgid="uk.org.publicwhip/lords/2019-06-04b.7.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2019-06-04a.7.7" newgid="uk.org.publicwhip/lords/2019-06-04b.7.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2019-06-04a.8.0" newgid="uk.org.publicwhip/lords/2019-06-04b.8.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2019-06-04a.8.1" newgid="uk.org.publicwhip/lords/2019-06-04b.8.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2019-06-04a.8.2" newgid="uk.org.publicwhip/lords/2019-06-04b.8.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2019-06-04a.8.3" newgid="uk.org.publicwhip/lords/2019-06-04b.8.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2019-06-04a.8.4" newgid="uk.org.publicwhip/lords/2019-06-04b.8.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2019-06-04a.8.5" newgid="uk.org.publicwhip/lords/2019-06-04b.8.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2019-06-04a.9.0" newgid="uk.org.publicwhip/lords/2019-06-04b.9.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2019-06-04a.9.1" newgid="uk.org.publicwhip/lords/2019-06-04b.9.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2019-06-04a.9.2" newgid="uk.org.publicwhip/lords/2019-06-04b.9.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2019-06-04a.9.3" newgid="uk.org.publicwhip/lords/2019-06-04b.9.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2019-06-04a.10.0" newgid="uk.org.publicwhip/lords/2019-06-04b.10.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2019-06-04a.10.1" newgid="uk.org.publicwhip/lords/2019-06-04b.10.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2019-06-04a.10.2" newgid="uk.org.publicwhip/lords/2019-06-04b.10.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2019-06-04a.10.3" newgid="uk.org.publicwhip/lords/2019-06-04b.10.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2019-06-04a.10.4" newgid="uk.org.publicwhip/lords/2019-06-04b.10.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2019-06-04a.11.0" newgid="uk.org.publicwhip/lords/2019-06-04b.11.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2019-06-04a.11.1" newgid="uk.org.publicwhip/lords/2019-06-04b.11.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2019-06-04a.11.2" newgid="uk.org.publicwhip/lords/2019-06-04b.11.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2019-06-04a.11.3" newgid="uk.org.publicwhip/lords/2019-06-04b.11.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2019-06-04a.11.4" newgid="uk.org.publicwhip/lords/2019-06-04b.11.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2019-06-04a.11.5" newgid="uk.org.publicwhip/lords/2019-06-04b.11.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2019-06-04a.12.0" newgid="uk.org.publicwhip/lords/2019-06-04b.12.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2019-06-04a.12.1" newgid="uk.org.publicwhip/lords/2019-06-04b.12.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2019-06-04a.12.2" newgid="uk.org.publicwhip/lords/2019-06-04b.12.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2019-06-04a.12.3" newgid="uk.org.publicwhip/lords/2019-06-04b.12.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2019-06-04a.12.4" newgid="uk.org.publicwhip/lords/2019-06-04b.12.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2019-06-04a.16.0" newgid="uk.org.publicwhip/lords/2019-06-04b.16.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2019-06-04a.17.0" newgid="uk.org.publicwhip/lords/2019-06-04b.17.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2019-06-04a.17.1" newgid="uk.org.publicwhip/lords/2019-06-04b.17.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2019-06-04a.18.0" newgid="uk.org.publicwhip/lords/2019-06-04b.18.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2019-06-04a.19.0" newgid="uk.org.publicwhip/lords/2019-06-04b.19.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2019-06-04a.19.1" newgid="uk.org.publicwhip/lords/2019-06-04b.19.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2019-06-04a.20.0" newgid="uk.org.publicwhip/lords/2019-06-04b.20.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2019-06-04a.23.0" newgid="uk.org.publicwhip/lords/2019-06-04b.23.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2019-06-04a.23.1" newgid="uk.org.publicwhip/lords/2019-06-04b.23.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2019-06-04a.23.2" newgid="uk.org.publicwhip/lords/2019-06-04b.23.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2019-06-04a.26.0" newgid="uk.org.publicwhip/lords/2019-06-04b.26.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2019-06-04a.28.0" newgid="uk.org.publicwhip/lords/2019-06-04b.28.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2019-06-04a.28.1" newgid="uk.org.publicwhip/lords/2019-06-04b.28.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2019-06-04a.29.0" newgid="uk.org.publicwhip/lords/2019-06-04b.29.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2019-06-04a.29.1" newgid="uk.org.publicwhip/lords/2019-06-04b.29.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2019-06-04a.31.0" newgid="uk.org.publicwhip/lords/2019-06-04b.31.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2019-06-04a.31.1" newgid="uk.org.publicwhip/lords/2019-06-04b.31.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2019-06-04a.31.2" newgid="uk.org.publicwhip/lords/2019-06-04b.31.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2019-06-04a.34.0" newgid="uk.org.publicwhip/lords/2019-06-04b.34.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2019-06-04a.35.0" newgid="uk.org.publicwhip/lords/2019-06-04b.35.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2019-06-04a.37.0" newgid="uk.org.publicwhip/lords/2019-06-04b.37.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2019-06-04a.39.0" newgid="uk.org.publicwhip/lords/2019-06-04b.39.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2019-06-04a.40.0" newgid="uk.org.publicwhip/lords/2019-06-04b.40.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2019-06-04a.43.0" newgid="uk.org.publicwhip/lords/2019-06-04b.43.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2019-06-04a.44.0" newgid="uk.org.publicwhip/lords/2019-06-04b.44.0" matchtype="changes"/>
+<speech id="uk.org.publicwhip/lords/2019-06-04a.44.0" speakername="Lord Dobbs" person_id="uk.org.publicwhip/person/25024" colnum="44" time="17:16:00" url="">
+    <p pid="a44.0/1">My Lords, what a privilege to follow that delightful speech of the noble Lord, Lord Reay, and an honour to welcome him to this House. It was a delightful, dignified and delicate speech, if I may say so, which is nothing less than we would expect from a noble Lord who is the clan chief of our own noble and learned Lord, Lord Mackay of Clashfern.</p>
+    <p pid="a44.0/2">I suspect it was always likely that the noble Lord would make an impact. He comes from a long line of Scottish lords, one of whom apparently was a legendary wizard who, having come out victorious from a clash  with a local witch, was rewarded with a young gang of tireless fairies who liked nothing more than to work. I am not sure whether the noble Lord has that gang of fairies still at his disposal, but on the basis of that very fine maiden speech, we can all look forward to his tireless work for us in this House.</p>
+    <p pid="a44.0/3">Earlier today, I had the great pleasure of showing some American friends round our Parliament—the former US Surgeon General, Admiral Richard Carmona and his family. I think they were impressed, particularly with the Royal Gallery, the most beautiful room in the kingdom in my opinion, dominated by those extraordinary murals of Waterloo and Trafalgar—ironically and exquisitely painted by an Irishman, Thomas Maclise.</p>
+    <p pid="a44.0/4">The quiet corner of the Royal Gallery that spoke to the admiral and me more than any other is where we usually keep the books of honour recording our war dead, which for the moment are not in their place. Beside them, amid the glorious Gothic extravagance of Augustus Pugin, are two simple reminders of times past that touched both his and my heart: a chunk of stout oak that formed the jetty at Dunkirk, where we were hurled off the continent at the end of the beginning, and that small box which the noble Lord, Lord Anderson of Swansea, so eloquently reminded us of earlier, that contains handfuls of sand taken from each of the five beaches of D-day, Utah, Omaha, Gold, Juno and Sword —the beginning of the end.</p>
+    <p pid="a44.0/5">They are such simple but intensely powerful reminders of what our fathers and grandfathers did. The outcome was no foregone conclusion—far from it. Churchill knew, after Gallipoli, the Norwegian campaign and Dieppe. Churchill certainly knew. And everything depending on that most mischievous of allies—the weather. Disaster hovered in the wings, looking for its chance. We can still see it today, in the old newsreel footage: the fear carved in the faces of those young soldiers as they ran from their landing crafts and up those bloody beaches, not knowing if it was the last step they would ever take. Their average age was little more than 20, with many of them still teenagers barely out of school.</p>
+    <p pid="a44.0/6">More than 425,000 troops were killed or wounded in the battle for Normandy: there were between 5,000 and 10,000 allied dead on <phrase class="date" code="2019-06-06">6 June</phrase> alone. They were not just British, of course, but Americans, Canadians, brave Poles and others, as the noble Earl so forcefully reminded us earlier. Mostly, however, they were American; we owe them an eternal debt. Many French civilians also died in the assault to liberate their country, and we should not forget the German dead, who were mostly young men and boys. I have a suspicion and a sense that they fought not with glory glinting in their eyes but with at least as much fear gripping their hearts as our own young men. “The glorious dead” is what we call them, but they would much rather have lived and grown old, like we who are left to grow old.</p>
+    <p pid="a44.0/7">That brings me to a point I fear I must make—it needs to be made gently but firmly. The US President is here to help us commemorate D-day and the extraordinary sacrifices that were made to secure our freedoms. He is here not as Donald Trump but as the elected President of the United States of America, the greatest democracy on the planet. It offered up more  of its young men on those beaches of D-day than any other country. They died for the freedoms that today we take perhaps too much for granted and which all too often we abuse. The protesters on our streets today are the same age as many of those who died on the beaches, and they of course have a right to protest—that is what their forefathers fought for. But oh how much happier I would be if that protest were conducted with dignity and thoughtfulness matching the moment we commemorate.</p>
+    <p pid="a44.0/8">I am the first generation of my family for perhaps a thousand generations who has not had to face the prospect of fighting and dying on some battlefield of Europe. I have been given that most precious prize of all prizes: being able to watch my own sons grow to manhood in peace and freedom. How I would have welcomed the chance to listen to President Trump address us here in this Parliament and reflect on the ties of liberty and mutual interest that still bind us. The refusal was, I think, a mistake, and diminishes  us all.</p>
+    <p pid="a44.0/9">Now, more than ever, we need reminding of those links and of what price all of us, but particularly the young, have to pay for political failure. During this current political turmoil, it is often said that Britain is looking back, trying to regain lost glories. But if that was glory, let me have none of it. Let us instead take the lessons and look forward to a better world based on the liberties that so many brave young men fought and died for.</p>
+    <p pid="a44.0/10">On Thursday, as old men gather on those beaches, let us honour the sacrifices that they and their comrades made for us and for future generations. In the morning—every morning—let us remember them.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/lords/2019-06-04a.46.0" newgid="uk.org.publicwhip/lords/2019-06-04b.46.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2019-06-04a.48.0" newgid="uk.org.publicwhip/lords/2019-06-04b.48.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2019-06-04a.50.0" newgid="uk.org.publicwhip/lords/2019-06-04b.50.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2019-06-04a.52.0" newgid="uk.org.publicwhip/lords/2019-06-04b.52.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2019-06-04a.53.0" newgid="uk.org.publicwhip/lords/2019-06-04b.53.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2019-06-04a.55.0" newgid="uk.org.publicwhip/lords/2019-06-04b.55.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2019-06-04a.57.0" newgid="uk.org.publicwhip/lords/2019-06-04b.57.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2019-06-04a.58.0" newgid="uk.org.publicwhip/lords/2019-06-04b.58.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2019-06-04a.59.0" newgid="uk.org.publicwhip/lords/2019-06-04b.59.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2019-06-04a.61.0" newgid="uk.org.publicwhip/lords/2019-06-04b.61.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2019-06-04a.62.0" newgid="uk.org.publicwhip/lords/2019-06-04b.62.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2019-06-04a.62.1" newgid="uk.org.publicwhip/lords/2019-06-04b.62.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2019-06-04a.64.0" newgid="uk.org.publicwhip/lords/2019-06-04b.64.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2019-06-04a.66.0" newgid="uk.org.publicwhip/lords/2019-06-04b.66.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2019-06-04a.68.0" newgid="uk.org.publicwhip/lords/2019-06-04b.68.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2019-06-04a.69.0" newgid="uk.org.publicwhip/lords/2019-06-04b.69.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2019-06-04a.70.0" newgid="uk.org.publicwhip/lords/2019-06-04b.70.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2019-06-04a.70.1" newgid="uk.org.publicwhip/lords/2019-06-04b.70.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2019-06-04a.71.0" newgid="uk.org.publicwhip/lords/2019-06-04b.71.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2019-06-04a.71.1" newgid="uk.org.publicwhip/lords/2019-06-04b.71.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2019-06-04a.71.2" newgid="uk.org.publicwhip/lords/2019-06-04b.71.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2019-06-04a.71.3" newgid="uk.org.publicwhip/lords/2019-06-04b.71.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2019-06-04a.71.4" newgid="uk.org.publicwhip/lords/2019-06-04b.71.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2019-06-04a.72.0" newgid="uk.org.publicwhip/lords/2019-06-04b.72.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2019-06-04a.72.1" newgid="uk.org.publicwhip/lords/2019-06-04b.72.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2019-06-04a.72.2" newgid="uk.org.publicwhip/lords/2019-06-04b.72.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2019-06-04a.73.0" newgid="uk.org.publicwhip/lords/2019-06-04b.73.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2019-06-04a.73.1" newgid="uk.org.publicwhip/lords/2019-06-04b.73.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2019-06-04a.73.2" newgid="uk.org.publicwhip/lords/2019-06-04b.73.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2019-06-04a.73.3" newgid="uk.org.publicwhip/lords/2019-06-04b.73.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2019-06-04a.74.0" newgid="uk.org.publicwhip/lords/2019-06-04b.74.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2019-06-04a.74.1" newgid="uk.org.publicwhip/lords/2019-06-04b.74.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2019-06-04a.74.2" newgid="uk.org.publicwhip/lords/2019-06-04b.74.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2019-06-04a.74.3" newgid="uk.org.publicwhip/lords/2019-06-04b.74.3" matchtype="changes"/>
+<speech id="uk.org.publicwhip/lords/2019-06-04a.74.3" speakername="Lord Craig of Radley" person_id="uk.org.publicwhip/person/13235" colnum="74" time="19:19:00" url="">
+    <p pid="a74.3/1">My Lords, it is fitting to remember the 75th anniversary of D-day, not just because it was an amazing feat of arms by the allied forces involved but because it gives the nation a chance to honour those still alive who fought at the time, and to remember with everlasting gratitude the thousands who lost their lives making the supreme sacrifice or who have since died, some facing and coping with life-changing injuries.</p>
+    <p pid="a74.3/2">It is sobering to realise that the deaths and casualties on each side were in the many thousands, each one a deeply personal tragedy for a family, a fiancée or a girlfriend. War is a brutal endeavour, no less so now than in years gone by. Today, individual families and partners still suffer and bear the same sense of grief and loss, just as much as those in World War II, but we have been saved the horrors of massive casualties because the nature of recent conflicts has been far more contained. Modern trauma treatments and rapid casualty evacuation have also saved hundreds of lives; in earlier generations, those people would not have survived. Modern medicine helps even the severely wounded to make remarkable physical recoveries. Sadly, success with mental illness is still elusive.</p>
+    <p pid="a74.3/3">While it is fitting to celebrate the anniversary, it should be a celebration of an extraordinary allied effort in which all involved played their full part. It irritates me to see claims that either the Americans or the British made the greater contribution to D-day. It was not a football contest with one team scoring more than the others. All the many nations involved, including the Commonwealth, the colonies of the day, the Free French and other Europeans, were playing a team game together. To claim that more troops were put ashore, more attack missions were flown or more barrages were fired from ships as a means of arguing who did the most on D-day is ridiculous. Normandy was not the only theatre of war in 1944; all allies were engaged in fighting elsewhere as well as in France. It was a collective effort to which all contributed massively, not least in blood and treasure.</p>
+    <p pid="a74.3/4">Like other noble Lords, I have been involved in events helping to mark the 75th anniversary of D-day. Last Saturday, I formally opened a special heritage event at Langham, near Blakeney, in Norfolk. A small, dome-shaped building was the centrepiece of the event. It was used to train anti-aircraft gunners in how best to shoot down enemy aircraft. Indeed, more than 40 of these secret trainers were built during World War II. After the war, they were all decommissioned and almost all were bulldozed into hardcore for new motorways or building sites. Although a listed building, the one at Langham was just left to decay. It escaped the bulldozers, slowly deteriorating as all neglected buildings will do.</p>
+    <p pid="a74.3/5">Then, in 2010, a group of enthusiasts, recognising the historic value of this near-unique building, raised funds to refurbish it to its original role as an anti-aircraft trainer. However, they did much more. The building is now a speciality museum and visitor centre, recording and demonstrating not only its trainer role but a host of information and displays about the Royal Air Force, the airfield at Langham, and the Royal Australian Air Force and the Royal New Zealand Air Force squadrons of coastal command, which were based there in 1944, operating mainly against enemy shipping off the coasts of Norway and Holland. There is information there about individual Australian and New Zealand air crew. Many had travelled from home via Canada to train before joining their national squadrons at Langham. There is information about the loss of life and the deaths of more than 150 soldiers from this one airfield. Many have no known grave but are  remembered on the memorial at Runnymede. Others lie in graves in Norway, Holland, Germany or this country. One is buried in Sweden.</p>
+    <p pid="a74.3/6">All this information, and the information about the subsequent Cold War use of the airfield until it was closed in 1958, gives a most interesting and telling account of Langham’s war. What particularly impresses me is the effort to tell the story of those years with contemporary touch screens and other devices in ways to interest and attract all ages. Special efforts have been made to excite and engage the interest of the younger generations. As the Friends of Langham Dome team say, they want to make it clear to all what fathers and grandfathers—indeed, mothers and grandmothers too—did then to ensure that we live in peace and freedom today. This mini-museum and visitor centre has just been awarded the exclusive and prestigious Queen’s Award for Voluntary Service, and the unique facility has been much praised on social media, TripAdvisor and the like. If your Lordships are ever on a visit to Norfolk, spare an hour or two to visit the Langham Dome; you will be impressed.</p>
+    <p pid="a74.3/7">Many other venues and imaginative schemes about this period in our nation’s history are to be found all around the country. Their great achievement and attraction is to help to bring life to history, to explain and pass on to today’s generations what their predecessors did and thought and felt. As a mark of respect for all those who fought on D-day, these efforts deserve universal praise and support.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/lords/2019-06-04a.76.0" newgid="uk.org.publicwhip/lords/2019-06-04b.76.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2019-06-04a.78.0" newgid="uk.org.publicwhip/lords/2019-06-04b.78.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2019-06-04a.79.0" newgid="uk.org.publicwhip/lords/2019-06-04b.79.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2019-06-04a.81.0" newgid="uk.org.publicwhip/lords/2019-06-04b.81.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2019-06-04a.84.0" newgid="uk.org.publicwhip/lords/2019-06-04b.84.0" matchtype="perfectmatch"/>
+</publicwhip>
+

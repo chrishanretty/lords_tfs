@@ -1,0 +1,1201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<!DOCTYPE publicwhip
+[
+<!ENTITY ndash   "&#8211;">
+<!ENTITY mdash   "&#8212;">
+<!ENTITY iexcl   "&#161;">
+<!ENTITY divide  "&#247;">
+<!ENTITY euro    "&#8364;">
+<!ENTITY trade   "&#8482;">
+<!ENTITY bull    "&#8226;">
+<!ENTITY lsquo   "&#8216;">
+<!ENTITY rsquo   "&#8217;">
+<!ENTITY sbquo   "&#8218;">
+<!ENTITY ldquo   "&#8220;">
+<!ENTITY rdquo   "&#8221;">
+<!ENTITY bdquo   "&#8222;">
+<!ENTITY dagger  "&#8224;">
+
+<!ENTITY Ouml   "&#214;" >
+<!ENTITY szlig  "&#223;" >
+<!ENTITY agrave "&#224;" >
+<!ENTITY aacute "&#225;" >
+<!ENTITY acirc  "&#226;" >
+<!ENTITY atilde "&#227;" >
+<!ENTITY auml   "&#228;" >
+<!ENTITY ccedil "&#231;" >
+<!ENTITY egrave "&#232;" >
+<!ENTITY eacute "&#233;" >
+<!ENTITY ecirc  "&#234;" >
+<!ENTITY euml   "&#235;" >
+<!ENTITY iacute "&#237;" >
+<!ENTITY icirc  "&#238;" >
+<!ENTITY iuml	"&#239;" >
+<!ENTITY ntilde "&#241;" >
+<!ENTITY nbsp   "&#160;" >
+<!ENTITY oacute "&#243;" >
+<!ENTITY ocirc  "&#244;" >
+<!ENTITY ouml   "&#246;" >
+<!ENTITY oslash "&#248;" >
+<!ENTITY uacute "&#250;" >
+<!ENTITY uuml   "&#252;" >
+<!ENTITY thorn  "&#254;" >
+
+<!ENTITY pound  "&#163;" >
+<!ENTITY sect   "&#167;" >
+<!ENTITY copy   "&#169;" >
+<!ENTITY reg    "&#174;" >
+<!ENTITY deg    "&#176;" >
+<!ENTITY plusmn "&#177;" >
+<!ENTITY sup2   "&#178;" >
+<!ENTITY micro  "&#181;" >
+<!ENTITY para   "&#182;" >
+<!ENTITY middot "&#183;" >
+<!ENTITY ordm   "&#186;" >
+<!ENTITY frac14 "&#188;" >
+<!ENTITY frac12 "&#189;" >
+<!ENTITY frac34 "&#190;" >
+<!ENTITY oelig "&#339;" >
+<!ENTITY aelig  "&#230;" >
+
+]>
+
+<publicwhip scrapeversion="/home/twfy-live/parldata/scrapedxml/lordspages/daylord2023-09-12a.xml" latest="no">
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.775.0" newgid="uk.org.publicwhip/lords/2023-09-12b.775.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.775.1" newgid="uk.org.publicwhip/lords/2023-09-12b.775.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.775.2" newgid="uk.org.publicwhip/lords/2023-09-12b.775.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.775.3" newgid="uk.org.publicwhip/lords/2023-09-12b.775.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.775.4" newgid="uk.org.publicwhip/lords/2023-09-12b.775.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.776.0" newgid="uk.org.publicwhip/lords/2023-09-12b.776.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.776.1" newgid="uk.org.publicwhip/lords/2023-09-12b.776.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.776.2" newgid="uk.org.publicwhip/lords/2023-09-12b.776.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.776.3" newgid="uk.org.publicwhip/lords/2023-09-12b.776.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.776.4" newgid="uk.org.publicwhip/lords/2023-09-12b.776.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.776.5" newgid="uk.org.publicwhip/lords/2023-09-12b.776.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.777.0" newgid="uk.org.publicwhip/lords/2023-09-12b.777.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.777.1" newgid="uk.org.publicwhip/lords/2023-09-12b.777.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.777.2" newgid="uk.org.publicwhip/lords/2023-09-12b.777.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.777.3" newgid="uk.org.publicwhip/lords/2023-09-12b.777.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.777.4" newgid="uk.org.publicwhip/lords/2023-09-12b.777.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.777.5" newgid="uk.org.publicwhip/lords/2023-09-12b.777.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.778.0" newgid="uk.org.publicwhip/lords/2023-09-12b.778.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.778.1" newgid="uk.org.publicwhip/lords/2023-09-12b.778.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.778.2" newgid="uk.org.publicwhip/lords/2023-09-12b.778.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.778.3" newgid="uk.org.publicwhip/lords/2023-09-12b.778.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.778.4" newgid="uk.org.publicwhip/lords/2023-09-12b.778.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.778.5" newgid="uk.org.publicwhip/lords/2023-09-12b.778.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.778.6" newgid="uk.org.publicwhip/lords/2023-09-12b.778.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.779.0" newgid="uk.org.publicwhip/lords/2023-09-12b.779.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.779.1" newgid="uk.org.publicwhip/lords/2023-09-12b.779.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.779.2" newgid="uk.org.publicwhip/lords/2023-09-12b.779.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.779.3" newgid="uk.org.publicwhip/lords/2023-09-12b.779.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.779.4" newgid="uk.org.publicwhip/lords/2023-09-12b.779.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.780.0" newgid="uk.org.publicwhip/lords/2023-09-12b.780.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.780.1" newgid="uk.org.publicwhip/lords/2023-09-12b.780.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.780.2" newgid="uk.org.publicwhip/lords/2023-09-12b.780.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.780.3" newgid="uk.org.publicwhip/lords/2023-09-12b.780.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.780.4" newgid="uk.org.publicwhip/lords/2023-09-12b.780.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.781.0" newgid="uk.org.publicwhip/lords/2023-09-12b.781.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.781.1" newgid="uk.org.publicwhip/lords/2023-09-12b.781.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.781.2" newgid="uk.org.publicwhip/lords/2023-09-12b.781.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.781.3" newgid="uk.org.publicwhip/lords/2023-09-12b.781.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.781.4" newgid="uk.org.publicwhip/lords/2023-09-12b.781.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.781.5" newgid="uk.org.publicwhip/lords/2023-09-12b.781.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.781.6" newgid="uk.org.publicwhip/lords/2023-09-12b.781.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.781.7" newgid="uk.org.publicwhip/lords/2023-09-12b.781.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.782.0" newgid="uk.org.publicwhip/lords/2023-09-12b.782.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.782.1" newgid="uk.org.publicwhip/lords/2023-09-12b.782.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.782.2" newgid="uk.org.publicwhip/lords/2023-09-12b.782.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.782.3" newgid="uk.org.publicwhip/lords/2023-09-12b.782.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.782.4" newgid="uk.org.publicwhip/lords/2023-09-12b.782.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.782.5" newgid="uk.org.publicwhip/lords/2023-09-12b.782.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.783.0" newgid="uk.org.publicwhip/lords/2023-09-12b.783.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.783.1" newgid="uk.org.publicwhip/lords/2023-09-12b.783.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.783.2" newgid="uk.org.publicwhip/lords/2023-09-12b.783.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.783.3" newgid="uk.org.publicwhip/lords/2023-09-12b.783.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.783.4" newgid="uk.org.publicwhip/lords/2023-09-12b.783.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.783.5" newgid="uk.org.publicwhip/lords/2023-09-12b.783.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.784.0" newgid="uk.org.publicwhip/lords/2023-09-12b.784.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.784.1" newgid="uk.org.publicwhip/lords/2023-09-12b.784.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.784.2" newgid="uk.org.publicwhip/lords/2023-09-12b.784.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.784.3" newgid="uk.org.publicwhip/lords/2023-09-12b.784.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.784.4" newgid="uk.org.publicwhip/lords/2023-09-12b.784.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.784.5" newgid="uk.org.publicwhip/lords/2023-09-12b.784.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.784.6" newgid="uk.org.publicwhip/lords/2023-09-12b.784.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.785.0" newgid="uk.org.publicwhip/lords/2023-09-12b.785.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.785.1" newgid="uk.org.publicwhip/lords/2023-09-12b.785.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.785.2" newgid="uk.org.publicwhip/lords/2023-09-12b.785.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.785.3" newgid="uk.org.publicwhip/lords/2023-09-12b.785.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.785.4" newgid="uk.org.publicwhip/lords/2023-09-12b.785.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.785.5" newgid="uk.org.publicwhip/lords/2023-09-12b.785.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.786.0" newgid="uk.org.publicwhip/lords/2023-09-12b.786.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.786.1" newgid="uk.org.publicwhip/lords/2023-09-12b.786.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.786.2" newgid="uk.org.publicwhip/lords/2023-09-12b.786.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.786.3" newgid="uk.org.publicwhip/lords/2023-09-12b.786.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.786.4" newgid="uk.org.publicwhip/lords/2023-09-12b.786.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.787.0" newgid="uk.org.publicwhip/lords/2023-09-12b.787.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.787.1" newgid="uk.org.publicwhip/lords/2023-09-12b.787.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.787.2" newgid="uk.org.publicwhip/lords/2023-09-12b.787.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.787.3" newgid="uk.org.publicwhip/lords/2023-09-12b.787.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.787.4" newgid="uk.org.publicwhip/lords/2023-09-12b.787.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.787.5" newgid="uk.org.publicwhip/lords/2023-09-12b.787.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.788.0" newgid="uk.org.publicwhip/lords/2023-09-12b.788.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.788.1" newgid="uk.org.publicwhip/lords/2023-09-12b.788.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.788.2" newgid="uk.org.publicwhip/lords/2023-09-12b.788.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.788.3" newgid="uk.org.publicwhip/lords/2023-09-12b.788.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.788.4" newgid="uk.org.publicwhip/lords/2023-09-12b.788.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.788.5" newgid="uk.org.publicwhip/lords/2023-09-12b.788.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.788.6" newgid="uk.org.publicwhip/lords/2023-09-12b.788.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.788.7" newgid="uk.org.publicwhip/lords/2023-09-12b.788.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.788.8" newgid="uk.org.publicwhip/lords/2023-09-12b.788.8" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.788.9" newgid="uk.org.publicwhip/lords/2023-09-12b.788.9" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.788.10" newgid="uk.org.publicwhip/lords/2023-09-12b.788.10" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.788.11" newgid="uk.org.publicwhip/lords/2023-09-12b.788.11" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.789.0" newgid="uk.org.publicwhip/lords/2023-09-12b.789.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.789.1" newgid="uk.org.publicwhip/lords/2023-09-12b.789.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.790.0" newgid="uk.org.publicwhip/lords/2023-09-12b.790.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.790.1" newgid="uk.org.publicwhip/lords/2023-09-12b.790.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.790.2" newgid="uk.org.publicwhip/lords/2023-09-12b.790.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.790.3" newgid="uk.org.publicwhip/lords/2023-09-12b.790.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.791.0" newgid="uk.org.publicwhip/lords/2023-09-12b.791.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.792.0" newgid="uk.org.publicwhip/lords/2023-09-12b.792.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.792.1" newgid="uk.org.publicwhip/lords/2023-09-12b.792.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.793.0" newgid="uk.org.publicwhip/lords/2023-09-12b.793.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.793.1" newgid="uk.org.publicwhip/lords/2023-09-12b.793.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.793.2" newgid="uk.org.publicwhip/lords/2023-09-12b.793.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.793.3" newgid="uk.org.publicwhip/lords/2023-09-12b.793.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.793.4" newgid="uk.org.publicwhip/lords/2023-09-12b.793.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.796.0" newgid="uk.org.publicwhip/lords/2023-09-12b.796.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.798.0" newgid="uk.org.publicwhip/lords/2023-09-12b.798.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.799.0" newgid="uk.org.publicwhip/lords/2023-09-12b.799.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.800.0" newgid="uk.org.publicwhip/lords/2023-09-12b.800.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.802.0" newgid="uk.org.publicwhip/lords/2023-09-12b.802.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.802.1" newgid="uk.org.publicwhip/lords/2023-09-12b.802.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.803.0" newgid="uk.org.publicwhip/lords/2023-09-12b.803.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.803.1" newgid="uk.org.publicwhip/lords/2023-09-12b.803.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.804.0" newgid="uk.org.publicwhip/lords/2023-09-12b.804.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.807.0" newgid="uk.org.publicwhip/lords/2023-09-12b.807.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.807.1" newgid="uk.org.publicwhip/lords/2023-09-12b.807.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.807.2" newgid="uk.org.publicwhip/lords/2023-09-12b.807.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.808.0" newgid="uk.org.publicwhip/lords/2023-09-12b.808.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.808.1" newgid="uk.org.publicwhip/lords/2023-09-12b.808.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.811.0" newgid="uk.org.publicwhip/lords/2023-09-12b.811.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.811.1" newgid="uk.org.publicwhip/lords/2023-09-12b.811.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.811.2" newgid="uk.org.publicwhip/lords/2023-09-12b.811.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.812.0" newgid="uk.org.publicwhip/lords/2023-09-12b.812.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.813.0" newgid="uk.org.publicwhip/lords/2023-09-12b.813.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.814.0" newgid="uk.org.publicwhip/lords/2023-09-12b.814.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.814.1" newgid="uk.org.publicwhip/lords/2023-09-12b.814.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.815.0" newgid="uk.org.publicwhip/lords/2023-09-12b.815.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.815.1" newgid="uk.org.publicwhip/lords/2023-09-12b.815.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.815.2" newgid="uk.org.publicwhip/lords/2023-09-12b.815.2" matchtype="changes"/>
+<speech id="uk.org.publicwhip/lords/2023-09-12a.815.2" nospeaker="true" colnum="815" time="16:45:00" url="">
+    <p pid="a815.2/1" class="italic" pwmotiontext="unrecognized">Moved by Lord Callanan</p>
+    <p pid="a815.2/2">That the House do agree with the Commons in their Amendments 17 to 164.</p>
+    <p pid="a815.2/3" class="indent">18: Clause 56, page 50, leave out lines 16 to 19</p>
+    <p pid="a815.2/4" class="indent">19: Clause 56, page 50, line 21, leave out “63(3)” and insert “64(4)”</p>
+    <p pid="a815.2/5" class="indent">20: Clause 56, page 50, line 21, at end insert—</p>
+    <p pid="a815.2/6" class="indent">““eligible hydrogen storage provider” is to be interpreted in accordance with section (Direction to offer to contract with eligible hydrogen storage provider)(4);</p>
+    <p pid="a815.2/7" class="indent">“eligible hydrogen transport provider” is to be interpreted in accordance with section (Direction to offer to contract with eligible hydrogen transport provider)(4)”</p>
+    <p pid="a815.2/8" class="indent">21: Clause 56, page 50, line 23, for “61(3)” substitute “62(4)”</p>
+    <p pid="a815.2/9" class="indent">22: Clause 56, page 50, line 24, at beginning insert “GB”</p>
+    <p pid="a815.2/10" class="indent">23: Clause 56, page 50, leave out lines 26 to 29</p>
+    <p pid="a815.2/11" class="indent">24: Clause 56, page 50, line 36, at end insert—</p>
+    <p pid="a815.2/12" class="indent">““hydrogen storage counterparty” has the meaning given by section (Designation of hydrogen storage counterparty)(3);</p>
+    <p pid="a815.2/13" class="indent">“hydrogen storage provider” has the meaning given by section (Designation of hydrogen storage counterparty)(7);</p>
+    <p pid="a815.2/14" class="indent">“hydrogen storage revenue support contract” has the meaning given by section (Designation of hydrogen storage counterparty)(2);</p>
+    <p pid="a815.2/15" class="indent">“hydrogen transport counterparty” has the meaning given by section (Designation of hydrogen transport counterparty)(3);</p>
+    <p pid="a815.2/16" class="indent">“hydrogen transport provider” has the meaning given by section (Designation of hydrogen transport counterparty)(7);</p>
+    <p pid="a815.2/17" class="indent">“hydrogen transport revenue support contract” has the meaning given by section (Designation of hydrogen transport counterparty)(2);”</p>
+    <p pid="a815.2/18" class="indent">25: Clause 56, page 50, line 37, at end insert—</p>
+    <p pid="a815.2/19" class="indent">““Northern Ireland gas shipper” means a person who holds a licence under Article 8(1)(c) of the Gas (Northern Ireland) Order 1996 (S.I. 1996/275 (N.I. 2)) and who in the opinion of the Secretary of State carries on an activity which is similar to an activity that (in Great Britain) may be authorised by a licence under section 7A(2) of the Gas Act 1986;”</p>
+    <p pid="a815.2/20" class="indent">26: Clause 56, page 51, leave out lines 3 to 6</p>
+    <p pid="a815.2/21" class="indent">27: Clause 57, page 51, line 16, after “a” insert “carbon dioxide”</p>
+    <p pid="a815.2/22" class="indent">28: Clause 57, page 51, line 16, at end insert—</p>
+    <p pid="a815.2/23" class="indent">“(aa) a hydrogen transport revenue support contract (see section (Designation of hydrogen transport counterparty)(2)),</p>
+    <p pid="a815.2/24" class="indent">(ab) a hydrogen storage revenue support contract (see section (Designation of hydrogen storage counterparty)(2)),”</p>
+    <p pid="a815.2/25" class="indent">29: 29 Clause 57, page 52, line 5, after “60(3),” insert “(Direction to offer to contract with eligible hydrogen transport provider)(2) or (4), (Direction to offer to contract with eligible hydrogen storage provider)(2) or (4),”</p>
+    <p pid="a815.2/26" class="indent">30: Clause 57, page 52, line 5, leave out “61(3)”</p>
+    <p pid="a815.2/27" class="indent">31: Clause 57, page 52, line 6, after “62(2)” insert “or (4)”</p>
+    <p pid="a815.2/28" class="indent">32: Clause 57, page 52, line 6, leave out “63(3)”</p>
+    <p pid="a815.2/29" class="indent">33: Clause 57, page 52, line 6, after “64(2)” insert “or (4)”</p>
+    <p pid="a815.2/30" class="indent">34: Clause 58, page 53, line 2, after “a” insert “carbon dioxide”</p>
+    <p pid="a815.2/31" class="indent">35: Clause 58, page 53, line 3, after “counterparty,” insert “hydrogen transport counterparty, hydrogen storage counterparty,”</p>
+    <p pid="a815.2/32" class="indent">36: Clause 58, page 53, line 4, after “any” insert “carbon dioxide”</p>
+    <p pid="a815.2/33" class="indent">37: Clause 58, page 53, line 5, after “contract” insert “hydrogen transport revenue support contract, hydrogen storage revenue support contract, ”</p>
+    <p pid="a815.2/34" class="indent">Clause 58, page 53, line 5, after “contract,” insert “hydrogen transport revenue support contract, hydrogen storage revenue support contract,”</p>
+    <p pid="a815.2/35" class="indent">38: Clause 58, page 53, line 8, after “a” insert “carbon dioxide”</p>
+    <p pid="a815.2/36" class="indent">39: Clause 58, page 53, line 8, at end insert—</p>
+    <p pid="a815.2/37" class="indent">“(aa) a hydrogen transport counterparty (see section (Designation of hydrogen transport counterparty)(3));</p>
+    <p pid="a815.2/38" class="indent">(ab) a hydrogen storage counterparty (see section (Designation of hydrogen strorage counterparty)(3));”</p>
+    <p pid="a815.2/39" class="indent">40: Clause 59, page 53, line 14, after “for” insert “carbon dioxide”</p>
+    <p pid="a815.2/40" class="indent">41: Clause 59, page 53, line 15, leave out ““transport” and insert ““carbon dioxide transport”</p>
+    <p pid="a815.2/41" class="indent">42: Clause 59, page 53, line 17, after “a” insert “carbon dioxide”</p>
+    <p pid="a815.2/42" class="indent">43: Clause 59, page 53, line 19, after “a” insert “carbon dioxide”</p>
+    <p pid="a815.2/43" class="indent">44: Clause 59, page 53, line 22, leave out ““transport” and insert ““carbon dioxide transport”</p>
+    <p pid="a815.2/44" class="indent">45: Clause 59, page 53, line 28, after “a” insert “carbon dioxide”</p>
+    <p pid="a815.2/45" class="indent">46: Clause 59, page 53, line 30, after “a” insert “carbon dioxide”</p>
+    <p pid="a815.2/46" class="indent">47: Clause 59, page 53, line 32, after “a” insert “carbon dioxide”</p>
+    <p pid="a815.2/47" class="indent">48: Clause 59, page 53, line 36, after “any” insert “carbon dioxide”</p>
+    <p pid="a815.2/48" class="indent">49: Clause 59, page 53, line 38, after first “a” insert “carbon dioxide”</p>
+    <p pid="a815.2/49" class="indent">50: Clause 60, page 54, line 3, after “a” insert “carbon dioxide”</p>
+    <p pid="a815.2/50" class="indent">51: After Clause 60, insert the following Clause—</p>
+    <p pid="a815.2/51" class="indent">“Designation of hydrogen transport counterparty</p>
+    <p pid="a815.2/52" class="indent">The Secretary of State may by notice given to a person designate the person to be a counterparty for hydrogen transport revenue support contracts.</p>
+    <p pid="a815.2/53" class="indent">(2) A “hydrogen transport revenue support contract” is a contract to which a hydrogen transport counterparty is a party and which was entered into by a hydrogen transport counterparty in pursuance of a direction given to it under section (Direction to offer to contract with eligible hydrogen transport provider)(1).</p>
+    <p pid="a815.2/54" class="indent">(3) A person designated under subsection (1) is referred to in this Chapter as a “hydrogen transport counterparty”.</p>
+    <p pid="a815.2/55" class="indent">(4) A designation may be made only with the consent of the person designated (except where that person is the Secretary of State).</p>
+    <p pid="a815.2/56" class="indent">(5) The Secretary of State may exercise the power of designation so that more than one designation has effect under subsection (1), but only if the Secretary of State considers it necessary for the purposes of ensuring that—</p>
+    <p pid="a815.2/57" class="indent">(a) liabilities under a hydrogen transport revenue support contract are met,</p>
+    <p pid="a815.2/58" class="indent">(b) arrangements entered into for purposes connected to a hydrogen transport revenue support contract continue to operate, or</p>
+    <p pid="a815.2/59" class="indent">(c) directions given to a hydrogen transport counterparty continue to have effect.</p>
+    <p pid="a815.2/60" class="indent">(6) As soon as reasonably practicable after a designation ceases to have effect, the Secretary of State must make one or more transfer schemes under section 82 to ensure the transfer of all rights and liabilities under any hydrogen transport revenue support contract to which the person who has ceased to be a hydrogen transport counterparty was a party.</p>
+    <p pid="a815.2/61" class="indent">(7) In this Chapter “hydrogen transport provider” means a person who carries on (or is to carry on) in the United Kingdom activities of transporting hydrogen.</p>
+    <p pid="a815.2/62" class="indent">(8) In subsection (7) the reference to carrying on activities in the United Kingdom includes carrying on activities in, above or below—</p>
+    <p pid="a815.2/63" class="indent">(a) the territorial sea adjacent to the United Kingdom;</p>
+    <p pid="a815.2/64" class="indent">(b) waters in a Renewable Energy Zone (within the meaning of Chapter 2 of Part 2 of the Energy Act 2004);</p>
+    <p pid="a815.2/65" class="indent">(c) waters in a Gas Importation and Storage Zone (within the meaning given by section 1 of the Energy Act 2008).</p>
+    <p pid="a815.2/66" class="indent">(9) In subsection (7) “transporting hydrogen” includes transporting a compound, of which hydrogen is an element, which revenue support regulations specify as a qualifying compound for the purposes of this section.”</p>
+    <p pid="a815.2/67" class="indent">52: Insert the following Clause—</p>
+    <p pid="a815.2/68" class="indent">“Direction to offer to contract with eligible hydrogen transport provider</p>
+    <p pid="a815.2/69" class="indent">(1) The Secretary of State may, in accordance with any provision made by revenue support regulations, direct a hydrogen transport counterparty to offer to contract with an eligible hydrogen transport provider specified in the direction, on terms specified in the direction.</p>
+    <p pid="a815.2/70" class="indent">(2) Revenue support regulations may make further provision about a direction under this section and in particular about—</p>
+    <p pid="a815.2/71" class="indent">(a) the circumstances in which a direction may or must be given;</p>
+    <p pid="a815.2/72" class="indent">(b) the terms that may or must be specified in a direction.</p>
+    <p pid="a815.2/73" class="indent">(3) Provision falling within subsection (2) may include provision for calculations or determinations to be made under the regulations, including by such persons, in accordance with such procedure and by reference to such matters and to the opinion of such persons, as may be specified in the regulations.</p>
+    <p pid="a815.2/74" class="indent">(4) Revenue support regulations must make provision for determining the meaning of “eligible” in relation to a hydrogen transport provider.</p>
+    <p pid="a815.2/75" class="indent">(5) Regulations within subsection (4) may in particular make provision by reference to standards or other published documents (as they have effect from time to time).”</p>
+    <p pid="a815.2/76" class="indent">53: Insert the following Clause—</p>
+    <p pid="a815.2/77" class="indent">“Designation of hydrogen storage counterparty</p>
+    <p pid="a815.2/78" class="indent">(1) The Secretary of State may by notice given to a person designate the person to be a counterparty for hydrogen storage revenue support contracts.</p>
+    <p pid="a815.2/79" class="indent">(2) A “hydrogen storage revenue support contract” is a contract to which a hydrogen storage counterparty is a party and which was entered into by a hydrogen storage counterparty in pursuance of a direction given to it under section (Direction to offer to contract with eligible hydrogen storage provider)(1).</p>
+    <p pid="a815.2/80" class="indent">(3) A person designated under subsection (1) is referred to in this Chapter as a “hydrogen storage counterparty”.</p>
+    <p pid="a815.2/81" class="indent">(4) A designation may be made only with the consent of the person designated (except where that person is the Secretary of State).</p>
+    <p pid="a815.2/82" class="indent">(5) The Secretary of State may exercise the power of designation so that more than one designation has effect under subsection (1), but only if the Secretary of State considers it necessary for the purposes of ensuring that—</p>
+    <p pid="a815.2/83" class="indent">(a) liabilities under a hydrogen storage revenue support contract are met,</p>
+    <p pid="a815.2/84" class="indent">(b) arrangements entered into for purposes connected to a hydrogen storage revenue support contract continue to operate, or</p>
+    <p pid="a815.2/85" class="indent">(c) directions given to a hydrogen storage counterparty continue to have effect.</p>
+    <p pid="a815.2/86" class="indent">(6) As soon as reasonably practicable after a designation ceases to have effect, the Secretary of State must make one or more transfer schemes under section 82 to ensure the transfer of all rights and liabilities under any hydrogen storage revenue support contract to which the person who has ceased to be a hydrogen storage counterparty was a party.</p>
+    <p pid="a815.2/87" class="indent">(7) In this Chapter “hydrogen storage provider” means a person who carries on (or is to carry on) in the United Kingdom activities of storing hydrogen.</p>
+    <p pid="a815.2/88" class="indent">(8) In subsection (7) the reference to carrying on activities in the United Kingdom includes carrying on activities in, above or below—</p>
+    <p pid="a815.2/89" class="indent">(a) the territorial sea adjacent to the United Kingdom;</p>
+    <p pid="a815.2/90" class="indent">(b) waters in a Renewable Energy Zone (within the meaning of Chapter 2 of Part 2 of the Energy Act 2004);</p>
+    <p pid="a815.2/91" class="indent">(c) waters in a Gas Importation and Storage Zone (within the meaning given by section 1 of the Energy Act 2008).</p>
+    <p pid="a815.2/92" class="indent">(9) In subsection (7) “storing hydrogen” includes storing a compound, of which hydrogen is an element, which revenue support regulations specify as a qualifying compound for the purposes of this section.”</p>
+    <p pid="a815.2/93" class="indent">54: Insert the following Clause—</p>
+    <p pid="a815.2/94" class="indent">“Direction to offer to contract with eligible hydrogen storage provider</p>
+    <p pid="a815.2/95" class="indent">(1) The Secretary of State may, in accordance with any provision made by revenue support regulations, direct a hydrogen storage counterparty to offer to contract with an eligible hydrogen storage provider specified in the direction, on terms specified in the direction.</p>
+    <p pid="a815.2/96" class="indent">(2) Revenue support regulations may make further provision about a direction under this section and in particular about—</p>
+    <p pid="a815.2/97" class="indent">(a) the circumstances in which a direction may or must be given;</p>
+    <p pid="a815.2/98" class="indent">(b) the terms that may or must be specified in a direction.</p>
+    <p pid="a815.2/99" class="indent">(3) Provision falling within subsection (2) may include provision for calculations or determinations to be made under the regulations, including by such persons, in accordance with such procedure and by reference to such matters and to the opinion of such persons, as may be specified in the regulations.</p>
+    <p pid="a815.2/100" class="indent">(4) Revenue support regulations must make provision for determining the meaning of “eligible” in relation to a hydrogen storage provider.</p>
+    <p pid="a815.2/101" class="indent">(5) Regulations within subsection (4) may in particular make provision by reference to standards or other published documents (as they have effect from time to time).”</p>
+    <p pid="a815.2/102" class="indent">55: Clause 61, page 54, line 18, leave out from second “contract” to “was” in line 22 and insert “to which a hydrogen production counterparty is a party and which”</p>
+    <p pid="a815.2/103" class="indent">56: Clause 61, page 54, line 25, leave out subsection (3)</p>
+    <p pid="a815.2/104" class="indent">57: Clause 61, page 55, line 8, after “on)” insert “in the United Kingdom”</p>
+    <p pid="a815.2/105" class="indent">58: Clause 61, page 55, line 12, at end insert—</p>
+    <p pid="a815.2/106" class="indent">“(9) In subsection (8) the reference to carrying on activities in the United Kingdom includes carrying on activities in, above or below—</p>
+    <p pid="a815.2/107" class="indent">(a) the territorial sea adjacent to the United Kingdom;</p>
+    <p pid="a815.2/108" class="indent">(b) waters in a Renewable Energy Zone (within the meaning of Chapter 2 of Part 2 of the Energy Act 2004).”</p>
+    <p pid="a815.2/109" class="indent">59: Clause 62, page 55, line 28, leave out subsection (4) and insert—</p>
+    <p pid="a815.2/110" class="indent">“(4) Revenue support regulations must make provision for determining the meaning of “eligible” in relation to a low carbon hydrogen producer.”</p>
+    <p pid="a815.2/111" class="indent">60: Clause 62, page 55, line 29, at end insert—</p>
+    <p pid="a815.2/112" class="indent">“(5) Regulations within subsection (4) may in particular make provision by reference to standards or other published documents (as they have effect from time to time).”</p>
+    <p pid="a815.2/113" class="indent">61: Clause 63, page 55, line 33, after “be” insert “(a)”</p>
+    <p pid="a815.2/114" class="indent">62: Clause 63, page 55, line 33, at end insert—</p>
+    <p pid="a815.2/115" class="indent">“(b) a counterparty for any one or more descriptions of carbon capture revenue support contract.”</p>
+    <p pid="a815.2/116" class="indent">63: Clause 63, page 55, line 34, leave out from second “contract” to “was” in line 1 on page 56 and insert “to which a carbon capture counterparty is a party and which”</p>
+    <p pid="a815.2/117" class="indent">64: Clause 63, page 56, line 4, leave out subsection (3)</p>
+    <p pid="a815.2/118" class="indent">65: Clause 63, page 56, line 10, leave out from “may” to end of line 17 and insert—</p>
+    <p pid="a815.2/119" class="indent">“(a) exercise the power under paragraph (a) of subsection (1) so that more than one designation has effect under that paragraph;</p>
+    <p pid="a815.2/120" class="indent">(b) exercise the power under paragraph (b) of that subsection so that more than one designation has effect in respect of any description of carbon capture revenue support contract.”</p>
+    <p pid="a815.2/121" class="indent">66: Clause 63, page 56, line 25, after “on)” insert “in the United Kingdom”</p>
+    <p pid="a815.2/122" class="indent">67: Clause 63, page 56, line 25, leave out from “on)” to end of line 27 and insert “, with a view to the storage of carbon dioxide, activities of capturing carbon dioxide (or any substance consisting primarily of carbon dioxide) that—</p>
+    <p pid="a815.2/123" class="indent">(i) has been produced by commercial or industrial activities,</p>
+    <p pid="a815.2/124" class="indent">(ii) is in the atmosphere, or</p>
+    <p pid="a815.2/125" class="indent">(iii) has dissolved in sea water.”</p>
+    <p pid="a815.2/126" class="indent">68: Clause 63, page 56, line 29, at end insert—</p>
+    <p pid="a815.2/127" class="indent">“(9) In subsection (8) the reference to carrying on activities in the United Kingdom includes carrying on activities in, above or below—</p>
+    <p pid="a815.2/128" class="indent">(a) the territorial sea adjacent to the United Kingdom;</p>
+    <p pid="a815.2/129" class="indent">(b) waters in a Gas Importation and Storage Zone (within the meaning given by section 1 of the Energy Act 2008).”</p>
+    <p pid="a815.2/130" class="indent">69: Clause 64, page 57, line 5, leave out subsection (4) and insert—</p>
+    <p pid="a815.2/131" class="indent">“(4) Revenue support regulations must make provision for determining the meaning of “eligible” in relation to a carbon capture entity.”</p>
+    <p pid="a815.2/132" class="indent">70: Clause 64, page 57, line 6, at end insert—</p>
+    <p pid="a815.2/133" class="indent">“(5) Regulations within subsection (4) may in particular make provision by reference to standards or other published documents (as they have effect from time to time).”</p>
+    <p pid="a815.2/134" class="indent">71: Clause 66, page 57, line 25, leave out “the Consolidated Fund or gas shippers” and insert “relevant market participants (see subsection (8))”</p>
+    <p pid="a815.2/135" class="indent">72: Clause 66, page 57, line 27, at end insert—</p>
+    <p pid="a815.2/136" class="indent">“(za) a hydrogen transport counterparty to make payments under a hydrogen transport revenue support contract or in respect of liabilities incurred in connection with hydrogen transport revenue support contracts;</p>
+    <p pid="a815.2/137" class="indent">(zb) a hydrogen storage counterparty to make payments under a hydrogen storage revenue support contract or in respect of liabilities incurred in connection with hydrogen storage revenue support contracts;”</p>
+    <p pid="a815.2/138" class="indent">73: Clause 66, page 57, line 31, after second “a” insert “carbon dioxide”</p>
+    <p pid="a815.2/139" class="indent">74: Clause 66, page 58, line 26, leave out from “but” to end of line 30 and insert “a description so specified may not include persons other than—</p>
+    <p pid="a815.2/140" class="indent">(a) GB gas shippers;</p>
+    <p pid="a815.2/141" class="indent">(b) Northern Ireland gas shippers.”</p>
+    <p pid="a815.2/142" class="indent">75: Clause 67, page 58, line 38, leave out “hydrogen production” and insert “relevant”</p>
+    <p pid="a815.2/143" class="indent">76: Clause 67, page 59, line 6, leave out “hydrogen production” and insert “relevant”</p>
+    <p pid="a815.2/144" class="indent">77: Clause 67, page 59, line 7, leave out “hydrogen production” and insert “relevant”</p>
+    <p pid="a815.2/145" class="indent">78: Clause 67, page 59, line 10, leave out “hydrogen production” and insert “relevant”</p>
+    <p pid="a815.2/146" class="indent">79: Clause 67, page 59, line 13, leave out “hydrogen production” and insert “relevant”</p>
+    <p pid="a815.2/147" class="indent">80: Clause 67, page 59, line 16, leave out “hydrogen production” and insert “relevant”</p>
+    <p pid="a815.2/148" class="indent">81: Clause 67, page 59, line 18, leave out “hydrogen production” and insert “relevant”</p>
+    <p pid="a815.2/149" class="indent">82: Clause 67, page 59, line 25, leave out “hydrogen production” and insert “relevant”</p>
+    <p pid="a815.2/150" class="indent">83: Clause 67, page 59, line 28, at end insert—</p>
+    <p pid="a815.2/151" class="indent">“(4) In this section “relevant counterparty” means any of the following—</p>
+    <p pid="a815.2/152" class="indent">(a) a hydrogen transport counterparty;</p>
+    <p pid="a815.2/153" class="indent">(b) a hydrogen storage counterparty;</p>
+    <p pid="a815.2/154" class="indent">(c) a hydrogen production counterparty.”</p>
+    <p pid="a815.2/155" class="indent">84: Clause 69, page 61, line 14, leave out “designation” and insert “appointment”</p>
+    <p pid="a815.2/156" class="indent">85: Clause 72, page 63, line 35, at end insert—</p>
+    <p pid="a815.2/157" class="indent">“(ba) make provision by reference to standards or other published documents (as they have effect from time to time);”</p>
+    <p pid="a815.2/158" class="indent">86: Clause 77, page 66, line 34, after “59,” insert “(Designation of hydrogen transport counterparty), (Designation of hydrogen storage counterparty),”</p>
+    <p pid="a815.2/159" class="indent">87: Clause 77, page 67, line 3, after “59,” insert “(Designation of hydrogen transport counterparty), (Designation of hydrogen storage counterparty),”</p>
+    <p pid="a815.2/160" class="indent">88: Clause 77, page 67, line 9, after “59(1),” insert “(Designation of hydrogen transport counterparty)(1), (Designation of hydrogen storage counterparty)(1),”</p>
+    <p pid="a815.2/161" class="indent">89: Clause 77, page 67, line 12, after “a” insert “carbon dioxide”</p>
+    <p pid="a815.2/162" class="indent">90: Clause 77, page 67, line 12, after “counterparty,” insert “hydrogen transport counterparty, hydrogen storage counterparty,”</p>
+    <p pid="a815.2/163" class="indent">91: Clause 79, page 68, line 23, leave out sub-paragraphs (iii) to (v) and insert—</p>
+    <p pid="a815.2/164" class="indent">“(iii) a relevant market participant, or”</p>
+    <p pid="a815.2/165" class="indent">92: Clause 80, page 69, line 5, leave out sub-paragraphs (i) and (ii) and insert “a GB gas shipper”</p>
+    <p pid="a815.2/166" class="indent">93: Clause 80, page 69, line 11, leave out paragraph (b)</p>
+    <p pid="a815.2/167" class="indent">94: Clause 80, page 69, line 16, leave out sub-paragraphs (i) and (ii) and insert “a person who holds a licence under Article 8(1)(c) of the Gas (Northern Ireland) Order 1996 (S.I. 1996/275 (N.I. 2))”</p>
+    <p pid="a815.2/168" class="indent">95: Clause 81, page 69, line 40, leave out “consult” and insert—</p>
+    <p pid="a815.2/169" class="indent">“(a) consult the persons mentioned in subsection (1A), and</p>
+    <p pid="a815.2/170" class="indent">specify a period of not less than 28 days for the purposes of subsection (1B).</p>
+    <p pid="a815.2/171" class="indent">(1A) The persons to be consulted under subsection (1) are—”</p>
+    <p pid="a815.2/172" class="indent">96: Clause 81, page 70, line 18, at end insert—</p>
+    <p pid="a815.2/173" class="indent">“(1B) The Secretary of State must consider any representations that are—</p>
+    <p pid="a815.2/174" class="indent">(a) duly made within the period specified under subsection (1)(b) by persons consulted under subsection (1), and</p>
+    <p pid="a815.2/175" class="indent">(b) not withdrawn.”</p>
+    <p pid="a815.2/176" class="indent">97: Clause 81, page 70, line 18, at end insert—</p>
+    <p pid="a815.2/177" class="indent">“(1C) Before making regulations under section 73(1) (power to appoint allocation bodies) the Secretary of State must consult—</p>
+    <p pid="a815.2/178" class="indent">(a) the Scottish Ministers, if the regulations contain provision that would be within the legislative competence of the Scottish Parliament if it were contained in an Act of that Parliament;</p>
+    <p pid="a815.2/179" class="indent">(b) the Welsh Ministers, if the regulations contain provision that would be within the legislative competence of Senedd Cymru if it were contained in an Act of the Senedd (ignoring any requirement for the consent of a Minister of the Crown imposed under Schedule 7B to the Government of Wales Act 2006);</p>
+    <p pid="a815.2/180" class="indent">(c) the Department for the Economy in Northern Ireland, if the regulations contain provision that—</p>
+    <p pid="a815.2/181" class="indent">(i) would be within the legislative competence of the Northern Ireland Assembly if it were contained in an Act of that Assembly, and</p>
+    <p pid="a815.2/182" class="indent">(ii) would not, if it were contained in a Bill in the Northern Ireland Assembly, result in the Bill requiring the consent of the Secretary of State under section 8 of the Northern Ireland Act 1998,</p>
+    <p pid="a815.2/183" class="indent">and the Secretary of State must consider any representations duly made by persons consulted under this subsection and not withdrawn.”</p>
+    <p pid="a815.2/184" class="indent">98: Clause 81, page 70, leave out lines 20 and 21 and insert—</p>
+    <p pid="a815.2/185" class="indent">“(a) consult the persons mentioned in subsection (2A), and</p>
+    <p pid="a815.2/186" class="indent">(b) specify a period of not less than 28 days for the purposes of subsection (2B).</p>
+    <p pid="a815.2/187" class="indent">(2A) The persons to be consulted under subsection (2) are—</p>
+    <p pid="a815.2/188" class="indent">(a) the Scottish Ministers, if the standard terms contain provision that would be within the legislative competence of the Scottish Parliament if it were contained in an Act of that Parliament;</p>
+    <p pid="a815.2/189" class="indent">(b) the Welsh Ministers, if the standard terms contain provision that would be within the legislative competence of Senedd Cymru if it were contained in an Act of the Senedd (ignoring any requirement for the consent of a Minister of the Crown imposed under Schedule 7B to the Government of Wales Act 2006);</p>
+    <p pid="a815.2/190" class="indent">(c) the Department for the Economy in Northern Ireland, if the standard terms contain provision that—</p>
+    <p pid="a815.2/191" class="indent">(i) would be within the legislative competence of the Northern Ireland Assembly if it were contained in an Act of that Assembly, and</p>
+    <p pid="a815.2/192" class="indent">(ii) would not, if it were contained in a Bill in the Northern Ireland Assembly, result in the Bill requiring the consent of the Secretary of State under section 8 of the Northern Ireland Act 1998;</p>
+    <p pid="a815.2/193" class="indent">(d) such other persons as the Secretary of State considers appropriate.</p>
+    <p pid="a815.2/194" class="indent">(2B) The Secretary of State must consider any representations that are—</p>
+    <p pid="a815.2/195" class="indent">(a) duly made within the period specified under subsection (2)(b) by persons consulted under subsection (2), and</p>
+    <p pid="a815.2/196" class="indent">(b) not withdrawn.”</p>
+    <p pid="a815.2/197" class="indent">99: Clause 85, page 73, line 25, leave out subsection (1)</p>
+    <p pid="a815.2/198" class="indent">100: Clause 85, page 73, line 41, leave out subsection (3)</p>
+    <p pid="a815.2/199" class="indent">101: Clause 85, page 74, line 17, leave out “(1) to” and insert “(2) and”</p>
+    <p pid="a815.2/200" class="indent">102: Clause 85, page 74, line 23, leave out “(1) to” and insert “(2) and”</p>
+    <p pid="a815.2/201" class="indent">103: Clause 85, page 74, line 29, leave out paragraph (a)</p>
+    <p pid="a815.2/202" class="indent">104: Clause 85, page 74, line 31, leave out paragraph (c)</p>
+    <p pid="a815.2/203" class="indent">105: Clause 85, page 74, line 35, leave out “(c) and”</p>
+    <p pid="a815.2/204" class="indent">106: Clause 85, page 74, line 36, leave out “those sub-paragraphs” and insert “that sub-paragraph”</p>
+    <p pid="a815.2/205" class="indent">107: Clause 85, page 74, line 38, leave out “(1) or”</p>
+    <p pid="a815.2/206" class="indent">108: Clause 85, page 75, line 1, leave out “(3) or”</p>
+    <p pid="a815.2/207" class="indent">109: Clause 87, page 76, line 14, leave out “any of subsections (1) to” and insert “subsection</p>
+    <p pid="a815.2/208" class="indent">(2) or”</p>
+    <p pid="a815.2/209" class="indent">110: Clause 87, page 77, line 10, leave out from “1986” to “or” in line 11</p>
+    <p pid="a815.2/210" class="indent">111: Clause 87, page 77, line 16, leave out “Smart Meters Act 2018” and insert “Energy Prices Act 2022”</p>
+    <p pid="a815.2/211" class="indent">112: Clause 87, page 77, line 18, leave out subsection (14)</p>
+    <p pid="a815.2/212" class="indent">113: Clause 88, page 79, line 7, at end insert—</p>
+    <p pid="a815.2/213" class="indent">““carbon storage installation” has the same meaning as in section 30 of the Energy Act 2008;”</p>
+    <p pid="a815.2/214" class="indent">114: After Clause 89, insert the following Clause—</p>
+    <p pid="a815.2/215" class="indent">“Regulations under section 88(1): procedure with devolved authorities</p>
+    <p pid="a815.2/216" class="indent">(1) Before making regulations under section 88(1) that contain provision within devolved competence, the Secretary of State must give notice to each relevant devolved authority—</p>
+    <p pid="a815.2/217" class="indent">(a) stating that the Secretary of State proposes to make regulations under section 88(1), and</p>
+    <p pid="a815.2/218" class="indent">(b) specifying the period (of not less than 28 days from the date on which the notice is given) within which representations may be made with respect to the provision within the relevant devolved competence,</p>
+    <p pid="a815.2/219" class="indent">and must consider any representations duly made and not withdrawn.</p>
+    <p pid="a815.2/220" class="indent">(2) In this section, “relevant devolved authority”, in relation to regulations, means—</p>
+    <p pid="a815.2/221" class="indent">(a) the Scottish Ministers, if the regulations contain provision within Scottish devolved competence;</p>
+    <p pid="a815.2/222" class="indent">(b) the Welsh Ministers, if the regulations contain provision within Welsh devolved competence;</p>
+    <p pid="a815.2/223" class="indent">(c) the Department for the Economy in Northern Ireland, if the regulations contain provision within Northern Ireland devolved competence;</p>
+    <p pid="a815.2/224" class="indent">and “the relevant devolved competence”, in relation to a relevant devolved authority, is to be construed accordingly.</p>
+    <p pid="a815.2/225" class="indent">(3) For the purposes of this section, provision—</p>
+    <p pid="a815.2/226" class="indent">(a) is within Scottish devolved competence if it would be within the legislative competence of the Scottish Parliament if it were contained in an Act of that Parliament;</p>
+    <p pid="a815.2/227" class="indent">(b) is within Welsh devolved competence if it would be within the legislative competence of Senedd Cymru if it were contained in an Act of the Senedd (ignoring any requirement for the consent of a Minister of the Crown imposed under Schedule 7B to the Government of Wales Act 2006);</p>
+    <p pid="a815.2/228" class="indent">(c) is within Northern Ireland devolved competence if it—</p>
+    <p pid="a815.2/229" class="indent">(i) would be within the legislative competence of the Northern Ireland Assembly if it were contained in an Act of that Assembly, and</p>
+    <p pid="a815.2/230" class="indent">(ii) would not, if it were contained in a Bill in the Northern Ireland Assembly, result in the Bill requiring the consent of the Secretary of State under section 8 of the Northern Ireland Act 1998,</p>
+    <p pid="a815.2/231" class="indent">and references to provision being within devolved competence are to provision that is within Scottish, Welsh or Northern Ireland devolved competence.”</p>
+    <p pid="a815.2/232" class="indent">115: Clause 90, page 80, line 36, leave out “(5)” and insert “(5A)”</p>
+    <p pid="a815.2/233" class="indent">116: Clause 90, page 82, line 43, leave out subsection (5) and insert—</p>
+    <p pid="a815.2/234" class="indent">“(5) In subsection (5), for the words from “falling” to the end substitute “which is or has been maintained, or is intended to be established, for the purposes of an activity mentioned in section 17(2)(a), (b) or (c) to which subsection (6) applies.</p>
+    <p pid="a815.2/235" class="indent">(5A) In subsection (6), for the words from the beginning to “it” substitute “This subsection applies to any activity which is carried on from, by means of or on an installation which”.”</p>
+    <p pid="a815.2/236" class="indent">117: Clause 96, page 90, line 40, leave out from beginning to “before”</p>
+    <p pid="a815.2/237" class="indent">118: Clause 96, page 90, line 41, at end insert “the Secretary of State must give notice to the appropriate consultees—</p>
+    <p pid="a815.2/238" class="indent">(a) setting out the Secretary of State’s proposed decision, and</p>
+    <p pid="a815.2/239" class="indent">(b) specifying the period (of not less than 28 days from the date on which the notice is given) within which representations must be made,</p>
+    <p pid="a815.2/240" class="indent">and the Secretary of State must consider any representations which are duly made and not withdrawn.</p>
+    <p pid="a815.2/241" class="indent">(10A) For the purposes of subsection (10), the “appropriate consultees” are—”</p>
+    <p pid="a815.2/242" class="indent">119: After Clause 101, insert the following Clause—</p>
+    <p pid="a815.2/243" class="indent">“Key definitions</p>
+    <p pid="a815.2/244" class="indent">(1) This section applies for the purposes of this Chapter.</p>
+    <p pid="a815.2/245" class="indent">(2) “Carbon storage licence” means a licence granted, or having effect as if granted, by the OGA under section 18(1) of the Energy Act 2008 (and references to a "licensee" are to a person who holds such a licence).</p>
+    <p pid="a815.2/246" class="indent">(3) “Exploration operator”, in relation to a carbon storage licence, means a person who is responsible for organising or supervising—</p>
+    <p pid="a815.2/247" class="indent">(a) the carrying on of exploration, within the area within which activities are authorised under the licence, with a view to, or in connection with, the carrying on of activities within section 17(2)(a) or (b) of the Energy Act 2008, or</p>
+    <p pid="a815.2/248" class="indent">(b) the establishment or maintenance in a controlled place (as defined in section 17 of the Energy Act 2008) of an installation for the purposes of such exploration.</p>
+    <p pid="a815.2/249" class="indent">(4) “Carbon storage information” means information acquired or created by or on behalf of a licensee in the course of carrying out activities under the licensee’s carbon storage licence.</p>
+    <p pid="a815.2/250" class="indent">(5) “Carbon storage samples” means samples of substances acquired by or on behalf of a licensee in the course of carrying out activities under the licensee’s carbon storage licence.</p>
+    <p pid="a815.2/251" class="indent">(6) “Sanctionable requirement” means a requirement imposed on a person by or under a provision of this Chapter which, by virtue of the provision, is sanctionable in accordance with this Chapter.”</p>
+    <p pid="a815.2/252" class="indent">120: Insert the following Clause—</p>
+    <p pid="a815.2/253" class="indent">“Retention of information and samples</p>
+    <p pid="a815.2/254" class="indent">(1) Regulations made by the Secretary of State may require—</p>
+    <p pid="a815.2/255" class="indent">(a) specified licensees to retain specified carbon storage information;</p>
+    <p pid="a815.2/256" class="indent">(b) specified licensees to retain specified carbon storage samples.</p>
+    <p pid="a815.2/257" class="indent">(2) “Specified” means specified, or of a description specified, in regulations under this section.</p>
+    <p pid="a815.2/258" class="indent">(3) Regulations under this section may include provision about—</p>
+    <p pid="a815.2/259" class="indent">(a) the form or manner in which information or samples are to be retained;</p>
+    <p pid="a815.2/260" class="indent">(b) the period for which information or samples are to be retained;</p>
+    <p pid="a815.2/261" class="indent">(c) the event that triggers the commencement of that period.</p>
+    <p pid="a815.2/262" class="indent">(4) Regulations under this section may provide for requirements imposed by the regulations to continue following a termination of rights under the licensee’s carbon storage licence (whether by transfer, surrender, expiry or revocation and whether in relation to all or only part of the licence).</p>
+    <p pid="a815.2/263" class="indent">(5) Regulations under this section may not impose requirements which have effect in relation to particular carbon storage information or particular carbon storage samples at any time when an information and samples plan dealing with the information or samples has effect.</p>
+    <p pid="a815.2/264" class="indent">(6) Requirements imposed by regulations under this section are sanctionable in accordance with this Chapter.</p>
+    <p pid="a815.2/265" class="indent">(7) Before making regulations under this section, the Secretary of State must consult each licensing authority that may under section 18(1) of the Energy Act 2008 grant a licence in respect of the carrying on, in a place to which the regulations would apply, of activities within section 17(2) of that Act.</p>
+    <p pid="a815.2/266" class="indent">(8) Regulations under this section are subject to the negative procedure.”</p>
+    <p pid="a815.2/267" class="indent">121: Insert the following Clause—</p>
+    <p pid="a815.2/268" class="indent">“Preparation and agreement of information and samples plans</p>
+    <p pid="a815.2/269" class="indent">(1) The responsible person must prepare an information and samples plan in connection with any of the following (each “a licence event”)—</p>
+    <p pid="a815.2/270" class="indent">(a) where a licensee is a company, a change in control of the company within the meaning of paragraph 6 of Schedule 1 to the Carbon Dioxide (Licensing etc.) Regulations 2010 (S.I. 2010/2221) (inserted by Schedule 6 to this Act);</p>
+    <p pid="a815.2/271" class="indent">(b) a change in the identity of—</p>
+    <p pid="a815.2/272" class="indent">(i) the exploration operator under a carbon storage licence, or</p>
+    <p pid="a815.2/273" class="indent">(ii) where a storage permit has been granted under a carbon storage licence, the operator in relation to the storage permit (within the meaning of regulation 1(3) of the Carbon Dioxide (Licensing etc.) Regulations 2010);</p>
+    <p pid="a815.2/274" class="indent">(c) a transfer of rights under a carbon storage licence, whether in relation to all or part of the area in respect of which the licence was granted;</p>
+    <p pid="a815.2/275" class="indent">(d) a surrender of rights under a carbon storage licence in relation to all of the area in respect of which the licence was granted, or in relation to so much of that area in respect of which the licence continues to have effect;</p>
+    <p pid="a815.2/276" class="indent">(e) the expiry of a carbon storage licence;</p>
+    <p pid="a815.2/277" class="indent">(f) the termination of a carbon storage licence;</p>
+    <p pid="a815.2/278" class="indent">(g) the revocation of a storage permit.</p>
+    <p pid="a815.2/279" class="indent">(2) “Responsible person”, in relation to a licence event, means the person who is or was, or the persons who are or were, the licensee in respect of the relevant licence immediately before the licence event.</p>
+    <p pid="a815.2/280" class="indent">(3) “Relevant licence”, in relation to a licence event, means the carbon storage licence in respect of which the licence event occurs.</p>
+    <p pid="a815.2/281" class="indent">(4) “Information and samples plan”, in relation to a licence event, means a plan dealing with what is to happen, following the event, to—</p>
+    <p pid="a815.2/282" class="indent">(a) carbon storage information held by the responsible person before the event, and</p>
+    <p pid="a815.2/283" class="indent">(b) carbon storage samples held by that person before the event.</p>
+    <p pid="a815.2/284" class="indent">(5) The responsible person must agree the information and samples plan with the OGA—</p>
+    <p pid="a815.2/285" class="indent">(a) in the case of a licence event mentioned in subsection (1)(a), (b), (c), (d) or (e), before the licence event takes place, or</p>
+    <p pid="a815.2/286" class="indent">(b) in the case of a licence event mentioned in subsection (1)(f) or (g), within a reasonable period after the termination of the carbon storage licence or revocation of the storage permit.</p>
+    <p pid="a815.2/287" class="indent">(6) An information and samples plan has effect once it is agreed with the OGA.</p>
+    <p pid="a815.2/288" class="indent">(7) If an information and samples plan is not agreed with the OGA as mentioned in subsection (5)(a) or (b), the OGA—</p>
+    <p pid="a815.2/289" class="indent">(a) may itself prepare an information and samples plan in connection with the licence event, and</p>
+    <p pid="a815.2/290" class="indent">(b) may require the responsible person to provide it with such information as the OGA may require to enable it to do so.</p>
+    <p pid="a815.2/291" class="indent">(8) The OGA must inform the responsible person of the terms of any information and samples plan it prepares in connection with a licence event.</p>
+    <p pid="a815.2/292" class="indent">(9) Where the OGA—</p>
+    <p pid="a815.2/293" class="indent">(a) prepares an information and samples plan in connection with a licence event, and</p>
+    <p pid="a815.2/294" class="indent">(b) informs the responsible person of the terms of the plan,</p>
+    <p pid="a815.2/295" class="indent">the plan has effect as if it had been prepared by the responsible person and agreed with the OGA.</p>
+    <p pid="a815.2/296" class="indent">(10) Where an information and samples plan has effect in connection with a licence event, the responsible person must comply with the plan.</p>
+    <p pid="a815.2/297" class="indent">(11) The requirements imposed by subsection (5) and (10), or under subsection (7)(b), are sanctionable in accordance with this Chapter.”</p>
+    <p pid="a815.2/298" class="indent">122: Insert the following Clause—</p>
+    <p pid="a815.2/299" class="indent">“Information and samples plans: supplementary</p>
+    <p pid="a815.2/300" class="indent">(1) Where an information and samples plan has effect in relation to a licence event, the OGA and the responsible person may agree changes to the plan.</p>
+    <p pid="a815.2/301" class="indent">(2) Once changes are agreed, the plan has effect subject to those changes.</p>
+    <p pid="a815.2/302" class="indent">(3) Where—</p>
+    <p pid="a815.2/303" class="indent">(a) two or more persons are the responsible person in relation to a licence event, and</p>
+    <p pid="a815.2/304" class="indent">(b) those persons include a company that has, since the licence event, been dissolved,</p>
+    <p pid="a815.2/305" class="indent">the reference to the responsible person in subsection (1) does not include that company.</p>
+    <p pid="a815.2/306" class="indent">(4) An information and samples plan, in relation to a licence event, may provide as appropriate for—</p>
+    <p pid="a815.2/307" class="indent">(a) the retention, by the responsible person, of any carbon storage information or carbon storage samples held by or on behalf of that person before the licence event,</p>
+    <p pid="a815.2/308" class="indent">(b) the transfer of any such information or samples to a new licensee, or</p>
+    <p pid="a815.2/309" class="indent">(c) appropriate storage of such information or samples.</p>
+    <p pid="a815.2/310" class="indent">(5) Where an information and samples plan makes provision under subsection (4) for a person, other than the responsible person, to hold information or samples in accordance with the plan—</p>
+    <p pid="a815.2/311" class="indent">(a) the plan may, with the consent of that other person, impose requirements on that person in connection with the information and samples, and</p>
+    <p pid="a815.2/312" class="indent">(b) any such requirements are sanctionable in accordance with this Chapter.</p>
+    <p pid="a815.2/313" class="indent">(6) An information and samples plan prepared by the OGA under section (Preparation and agreement of information and samples plans) may not include provision under subsection (4)(b) for the transfer of information or samples to another person without the consent of the responsible person.</p>
+    <p pid="a815.2/314" class="indent">(7) An information and samples plan may provide for the storage of information or samples as mentioned in subsection (4)(c) to be the responsibility of the OGA.</p>
+    <p pid="a815.2/315" class="indent">(8) Where a transfer of rights under a carbon storage licence relates to only part of the area in relation to which the licence was granted, the information and samples plan prepared in connection with the transfer is to relate to all carbon storage information and carbon storage samples held by the responsible person before the licence event, and not only information and samples in respect of that part of the area.</p>
+    <p pid="a815.2/316" class="indent">(9) In this section, “licence event” and “responsible person” have the same meaning as in section (Preparation and agreement of information and samples plans).”</p>
+    <p pid="a815.2/317" class="indent">123: Insert the following Clause—</p>
+    <p pid="a815.2/318" class="indent">“Information and samples coordinators</p>
+    <p pid="a815.2/319" class="indent">(1) A person within subsection (2) (a “relevant person”) must—</p>
+    <p pid="a815.2/320" class="indent">(a) appoint an individual to act as an information and samples coordinator, and</p>
+    <p pid="a815.2/321" class="indent">(b) notify the OGA of that individual’s name and contact details.</p>
+    <p pid="a815.2/322" class="indent">(2) The following persons are within this subsection—</p>
+    <p pid="a815.2/323" class="indent">(a) a licensee, and</p>
+    <p pid="a815.2/324" class="indent">(b) an exploration operator under a carbon storage licence.</p>
+    <p pid="a815.2/325" class="indent">(3) The information and samples coordinator is to be responsible for monitoring the relevant person’s compliance with its obligations under this Chapter.</p>
+    <p pid="a815.2/326" class="indent">(4) A relevant person must comply with subsection (1) within a reasonable period after—</p>
+    <p pid="a815.2/327" class="indent">(a) the date on which this section comes into force, if the person is a relevant person on that date, or</p>
+    <p pid="a815.2/328" class="indent">(b) becoming a relevant person, in any other case.</p>
+    <p pid="a815.2/329" class="indent">(5) The relevant person must notify the OGA of any change in the identity or contact details of the information and samples coordinator within a reasonable period of the change taking place.</p>
+    <p pid="a815.2/330" class="indent">(6) The requirements imposed by this section are sanctionable in accordance with this Chapter.”</p>
+    <p pid="a815.2/331" class="indent">124: Insert the following Clause—</p>
+    <p pid="a815.2/332" class="indent">“Power of OGA to require information and samples</p>
+    <p pid="a815.2/333" class="indent">(1) The OGA may by notice in writing, for the purpose of carrying out any of its functions under Chapter 3 of Part 1 of the Energy Act 2008 (storage of carbon dioxide), require—</p>
+    <p pid="a815.2/334" class="indent">(a) a licensee to provide it with any carbon storage information, or a portion of any carbon storage sample, held by or on behalf of the licensee;</p>
+    <p pid="a815.2/335" class="indent">(b) a person who holds information or samples in accordance with an information and samples plan to provide it with any such information or a portion of any such sample.</p>
+    <p pid="a815.2/336" class="indent">(2) The notice must specify—</p>
+    <p pid="a815.2/337" class="indent">(a) the form or manner in which the information or the portion of a sample must be provided;</p>
+    <p pid="a815.2/338" class="indent">(b) the time at which, or period within which, the information or the portion of a sample must be provided.</p>
+    <p pid="a815.2/339" class="indent">(3) Information requested under subsection (1) may not include items subject to legal privilege.</p>
+    <p pid="a815.2/340" class="indent">(4) Requirements imposed by a notice under this section are sanctionable in accordance with this Chapter.</p>
+    <p pid="a815.2/341" class="indent">125 Insert the following Clause—</p>
+    <p pid="a815.2/342" class="indent">“Prohibition on disclosure of information or samples obtained by OGA</p>
+    <p pid="a815.2/343" class="indent">(1) Protected material must not be disclosed—</p>
+    <p pid="a815.2/344" class="indent">(a) by the OGA, or</p>
+    <p pid="a815.2/345" class="indent">(b) by a subsequent holder,</p>
+    <p pid="a815.2/346" class="indent">except in accordance with section (Power of Secretary of State to require information and samples) or Schedule (Permitted disclosures of material obtained by OGA).</p>
+    <p pid="a815.2/347" class="indent">(2) In this section and in Schedule (Permitted disclosures of material obtained by OGA)— “protected material” means information or samples which have been obtained by the OGA under section (Power of OGA to require information and samples)</p>
+    <p pid="a815.2/348" class="indent">or (Sanctions: information powers);</p>
+    <p pid="a815.2/349" class="indent">“subsequent holder”, in relation to protected material, means a person holding protected material who has received it directly or indirectly from the OGA by virtue of a disclosure, or disclosures, in accordance with Schedule (Permitted disclosures of material obtained by OGA).</p>
+    <p pid="a815.2/350" class="indent">(3) References to disclosing protected material include references to making the protected material available to other persons (where the protected material includes samples).”</p>
+    <p pid="a815.2/351" class="indent">125: Insert the following Clause—</p>
+    <p pid="a815.2/352" class="indent">“Prohibition on disclosure of information or samples obtained by OGA</p>
+    <p pid="a815.2/353" class="indent">(1) Protected material must not be disclosed—</p>
+    <p pid="a815.2/354" class="indent">(a) by the OGA, or</p>
+    <p pid="a815.2/355" class="indent">(b) by a subsequent holder,</p>
+    <p pid="a815.2/356" class="indent">except in accordance with section (Power of Secretary of State to require information and samples) or Schedule (Permitted disclosures of material obtained by OGA).</p>
+    <p pid="a815.2/357" class="indent">(2) In this section and in Schedule (Permitted disclosures of material obtained by OGA)— “protected material” means information or samples which have been obtained by the OGA under section (Power of OGA to require information and samples) or (Sanctions: information powers);</p>
+    <p pid="a815.2/358" class="indent">“subsequent holder”, in relation to protected material, means a person holding protected material who has received it directly or indirectly from the OGA by virtue of a disclosure, or disclosures, in accordance with Schedule (Permitted disclosures of material obtained by OGA).</p>
+    <p pid="a815.2/359" class="indent">(3) References to disclosing protected material include references to making the protected material available to other persons (where the protected material includes samples).”</p>
+    <p pid="a815.2/360" class="indent">126: Insert the following Clause—</p>
+    <p pid="a815.2/361" class="indent">“Power of Secretary of State to require information and samples</p>
+    <p pid="a815.2/362" class="indent">(1) The Secretary of State may require the OGA to provide the Secretary of State with such information or samples held by or on behalf of the OGA as the Secretary of State may require for the purpose of—</p>
+    <p pid="a815.2/363" class="indent">(a) carrying out any function conferred by or under any Act,</p>
+    <p pid="a815.2/364" class="indent">(b) monitoring the OGA's performance of its functions, or</p>
+    <p pid="a815.2/365" class="indent">(c) any Parliamentary proceedings.</p>
+    <p pid="a815.2/366" class="indent">(2) The Secretary of State may use information or samples acquired under subsection</p>
+    <p pid="a815.2/367" class="indent">(1) (“acquired material”) only for the purpose for which it is provided.</p>
+    <p pid="a815.2/368" class="indent">(3) Acquired material must not be disclosed—</p>
+    <p pid="a815.2/369" class="indent">(a) by the Secretary of State, or</p>
+    <p pid="a815.2/370" class="indent">(b) by a subsequent holder,</p>
+    <p pid="a815.2/371" class="indent">except in accordance with this section.</p>
+    <p pid="a815.2/372" class="indent">(4) For the purposes of subsection (3)(b), “subsequent holder”, in relation to acquired material, means a person who receives acquired material directly or indirectly from the Secretary of State by virtue of a disclosure, or disclosures, in accordance with this section.</p>
+    <p pid="a815.2/373" class="indent">(5) Subsection (3) does not prohibit the Secretary of State from disclosing acquired material so far as necessary for the purpose for which it was provided.</p>
+    <p pid="a815.2/374" class="indent">(6) Subsection (3) does not prohibit a disclosure of acquired material if—</p>
+    <p pid="a815.2/375" class="indent">(a) the disclosure is required by virtue of an obligation imposed by or under any Act, or</p>
+    <p pid="a815.2/376" class="indent">(b) the OGA consents to the disclosure and, where the acquired material in question was provided to the OGA by or on behalf of another person, confirms that that person also consents to the disclosure.</p>
+    <p pid="a815.2/377" class="indent">(7) References in this section to disclosing acquired material include references to making the acquired material available to other persons (where the acquired material includes samples).”</p>
+    <p pid="a815.2/378" class="indent">127: Insert the following Clause—</p>
+    <p pid="a815.2/379" class="indent">“Power of OGA to give sanction notices</p>
+    <p pid="a815.2/380" class="indent">(1) If the OGA considers that a person has failed to comply with a sanctionable requirement imposed on the person, it may give the person a sanction notice in respect of that failure.</p>
+    <p pid="a815.2/381" class="indent">(2) If the OGA considers that there has a been a failure to comply with a sanctionable requirement imposed jointly on two or more persons, it may give a sanction notice in respect of that failure—</p>
+    <p pid="a815.2/382" class="indent">(a) to one only of those persons (subject to section (Revocation notices)(2)),</p>
+    <p pid="a815.2/383" class="indent">(b) jointly to two or more of them, or</p>
+    <p pid="a815.2/384" class="indent">(c) jointly to all of them,</p>
+    <p pid="a815.2/385" class="indent">but it may not give separate sanction notices to each of them in respect of the failure.</p>
+    <p pid="a815.2/386" class="indent">(3) In this Chapter “sanction notice” means—</p>
+    <p pid="a815.2/387" class="indent">(a) an enforcement notice (see section (Enforcement notices)),</p>
+    <p pid="a815.2/388" class="indent">(b) a financial penalty notice (see section (Financial penalty notices)),</p>
+    <p pid="a815.2/389" class="indent">(c) a revocation notice (see section (Revocation notices)), or</p>
+    <p pid="a815.2/390" class="indent">(d) an operator removal notice (see section (Operator removal notices)).</p>
+    <p pid="a815.2/391" class="indent">(4) Sanction notices, other than enforcement notices, may be given in respect of a failure to comply with a sanctionable requirement even if, at the time the notice is given, the failure to comply has already been remedied.</p>
+    <p pid="a815.2/392" class="indent">(5) Where the OGA gives a sanction notice to a person in respect of a particular failure to comply with a sanctionable requirement—</p>
+    <p pid="a815.2/393" class="indent">(a) it may, at the same time, give another type of sanction notice to the person in respect of that failure to comply;</p>
+    <p pid="a815.2/394" class="indent">(b) it may give subsequent sanction notices in respect of that failure only in accordance with section (Subsequent sanction notices) (subsequent sanction notices).</p>
+    <p pid="a815.2/395" class="indent">(6) The OGA’s power to give sanction notices under this section is subject to section (Duty of OGA to give sanction warning notices) (duty of OGA to give sanction warning notices).</p>
+    <p pid="a815.2/396" class="indent">(7) Where the OGA gives a sanction notice to a licensee in respect of a failure to comply with a sanctionable requirement—</p>
+    <p pid="a815.2/397" class="indent">(a) the matter is to be dealt with in accordance with this Chapter, and</p>
+    <p pid="a815.2/398" class="indent">(b) any requirement under the licensee’s carbon storage licence to deal with the matter in a certain way (including by arbitration) does not apply in respect of that failure to comply.”</p>
+    <p pid="a815.2/399" class="indent">128: Insert the following Clause—</p>
+    <p pid="a815.2/400" class="indent">“Enforcement notices</p>
+    <p pid="a815.2/401" class="indent">(1) An enforcement notice is a notice which—</p>
+    <p pid="a815.2/402" class="indent">(a) specifies the sanctionable requirement in question,</p>
+    <p pid="a815.2/403" class="indent">(b) gives details of the failure to comply with the requirement, and</p>
+    <p pid="a815.2/404" class="indent">(c) informs the person or persons to whom the notice is given that the person or persons must comply with—</p>
+    <p pid="a815.2/405" class="indent">(i) the sanctionable requirement, and</p>
+    <p pid="a815.2/406" class="indent">(ii) any directions included in the notice as mentioned in subsection (2),</p>
+    <p pid="a815.2/407" class="indent">before the end of the period specified in the notice.</p>
+    <p pid="a815.2/408" class="indent">(2) The notice may include directions as to the measures to be taken for the purposes of compliance with the sanctionable requirement.</p>
+    <p pid="a815.2/409" class="indent">(3) Requirements imposed by directions included in an enforcement notice as mentioned in subsection (2) are sanctionable in accordance with this Chapter.”</p>
+    <p pid="a815.2/410" class="indent">129: Insert the following Clause—</p>
+    <p pid="a815.2/411" class="indent">“Financial penalty notices</p>
+    <p pid="a815.2/412" class="indent">(1) A financial penalty notice is a notice which—</p>
+    <p pid="a815.2/413" class="indent">(a) specifies the sanctionable requirement in question,</p>
+    <p pid="a815.2/414" class="indent">(b) gives details of the failure to comply with the requirement, and</p>
+    <p pid="a815.2/415" class="indent">(c) informs the person or persons to whom the notice is given that the person or persons must—</p>
+    <p pid="a815.2/416" class="indent">(i) comply with the sanctionable requirement before the end of a period specified in the notice, where it is appropriate to require such compliance and the failure to comply with the requirement has not already been remedied at the time the notice is given, and</p>
+    <p pid="a815.2/417" class="indent">(ii) pay the OGA a financial penalty of the amount specified in the notice before the end of a period specified in the notice.</p>
+    <p pid="a815.2/418" class="indent">(2) The period specified under subsection (1)(c)(ii) must not end earlier than the end of the period of 28 days beginning with the day on which the financial penalty notice is given.</p>
+    <p pid="a815.2/419" class="indent">(3) The financial penalty payable under a financial penalty notice in respect of a failure to comply with a sanctionable requirement (whether payable by one person, or jointly by two or more persons) must not exceed £1 million.</p>
+    <p pid="a815.2/420" class="indent">(4) If a financial penalty notice is given jointly to two or more persons, those persons are jointly and severally liable to pay the financial penalty under it.</p>
+    <p pid="a815.2/421" class="indent">(5) A financial penalty payable under a financial penalty notice is to be recoverable as a civil debt if it is not paid before the end of the period specified under subsection (1)(c)(ii).</p>
+    <p pid="a815.2/422" class="indent">(6) The OGA must—</p>
+    <p pid="a815.2/423" class="indent">(a) issue guidance as to the matters to which it will have regard when determining the amount of the financial penalty to be imposed by a financial penalty notice, and</p>
+    <p pid="a815.2/424" class="indent">(b) have regard to the guidance when determining the amount of the penalty in any particular case.</p>
+    <p pid="a815.2/425" class="indent">(7) The OGA may from time to time review guidance issued under subsection (6)(a) and, if it considers appropriate, revise it.</p>
+    <p pid="a815.2/426" class="indent">(8) Before issuing or revising guidance under this section, the OGA must consult such persons as it considers appropriate.</p>
+    <p pid="a815.2/427" class="indent">(9) The OGA must—</p>
+    <p pid="a815.2/428" class="indent">(a) lay any guidance issued under this section, and any revision of it, before each House of Parliament;</p>
+    <p pid="a815.2/429" class="indent">(b) publish any guidance issued under this section, and any revision of it, in such manner as the OGA considers appropriate.</p>
+    <p pid="a815.2/430" class="indent">(10) The Secretary of State may by regulations subject to the affirmative procedure amend subsection (3) to change the amount specified to an amount not exceeding £5 million.</p>
+    <p pid="a815.2/431" class="indent">(11) Money received by the OGA under a financial penalty notice must be paid into the Consolidated Fund.”</p>
+    <p pid="a815.2/432" class="indent">130: Insert the following Clause—</p>
+    <p pid="a815.2/433" class="indent">“Revocation notices</p>
+    <p pid="a815.2/434" class="indent">(1) A revocation notice may be given only in respect of a failure to comply with a sanctionable requirement imposed on a licensee in that capacity.</p>
+    <p pid="a815.2/435" class="indent">(2) Where two or more persons are the licensee in respect of a carbon storage licence, the revocation notice must be given jointly to all of those persons.</p>
+    <p pid="a815.2/436" class="indent">(3) A revocation notice is a notice which—</p>
+    <p pid="a815.2/437" class="indent">(a) specifies the sanctionable requirement in question,</p>
+    <p pid="a815.2/438" class="indent">(b) gives details of the failure to comply with the requirement,</p>
+    <p pid="a815.2/439" class="indent">(c) informs the person or persons to whom the notice is given that—</p>
+    <p pid="a815.2/440" class="indent">(i) where no storage permit has been granted under the carbon storage licence, the licence is to be terminated, or</p>
+    <p pid="a815.2/441" class="indent">(ii) where a storage permit has been granted under the carbon storage licence, the permit is to be revoked,</p>
+    <p pid="a815.2/442" class="indent">on the date specified in the notice (“the revocation date”).</p>
+    <p pid="a815.2/443" class="indent">(4) The revocation date must not be earlier than the end of the period of 28 days beginning with the day on which the revocation notice is given.</p>
+    <p pid="a815.2/444" class="indent">(5) A revocation notice may not be given in circumstances where the carbon storage licence to be terminated, or the storage permit to be revoked, in accordance with the notice is one which, on the date the notice is given, the OGA would not have the power to grant.</p>
+    <p pid="a815.2/445" class="indent">(6) Where a carbon storage licence is terminated in accordance with a revocation notice—</p>
+    <p pid="a815.2/446" class="indent">(a) the rights granted to the licensee by the licence cease on the revocation date;</p>
+    <p pid="a815.2/447" class="indent">(b) the revocation does not affect any obligation or liability imposed on or incurred by the licensee under the terms and conditions of the licence;</p>
+    <p pid="a815.2/448" class="indent">(c) the terms and conditions of the licence apply as if the licence had been terminated in accordance with those terms and conditions, subject to section (Power of OGA to give sanction notices)(7)(b).</p>
+    <p pid="a815.2/449" class="indent">(7) Where a storage permit is revoked in accordance with a revocation notice—</p>
+    <p pid="a815.2/450" class="indent">(a) the authorisation granted by the storage permit ceases on the revocation date;</p>
+    <p pid="a815.2/451" class="indent">(b) the revocation does not affect any obligation or liability imposed or incurred under the terms and conditions of the storage permit;</p>
+    <p pid="a815.2/452" class="indent">(c) the terms and conditions of the carbon storage licence apply as if the storage permit had been revoked in accordance with those terms and conditions, subject to section (Power of OGA to give sanction notices)(7)(b).”</p>
+    <p pid="a815.2/453" class="indent">131: Insert the following Clause—</p>
+    <p pid="a815.2/454" class="indent">“Operator removal notices</p>
+    <p pid="a815.2/455" class="indent">(1) An operator removal notice may be given only in respect of a failure to comply with a sanctionable requirement imposed on an exploration operator under a carbon storage licence in that capacity.</p>
+    <p pid="a815.2/456" class="indent">(2) An operator removal notice is a notice which—</p>
+    <p pid="a815.2/457" class="indent">(a) specifies the sanctionable requirement,</p>
+    <p pid="a815.2/458" class="indent">(b) gives details of the failure to comply with the requirement, and</p>
+    <p pid="a815.2/459" class="indent">(c) informs the exploration operator to whom it is given that, with effect from a date specified in the notice (“the removal  date”), the licensee under whose carbon storage licence the exploration operator operates (“the relevant licensee”) is to be required to remove the exploration operator (see subsection (4)).</p>
+    <p pid="a815.2/460" class="indent">(3) The OGA must—</p>
+    <p pid="a815.2/461" class="indent">(a) give a copy of the operator removal notice to the relevant licensee, and</p>
+    <p pid="a815.2/462" class="indent">(b) require the relevant licensee to remove the exploration operator with effect from the removal date.</p>
+    <p pid="a815.2/463" class="indent">(4) Where a licensee is required to remove an exploration operator from a specified date, the licensee must ensure that, with effect from that date, the exploration operator does not exercise any function of organising or supervising any of the activities referred to in paragraphs (a) and (b) of section (Key definitions)(3).</p>
+    <p pid="a815.2/464" class="indent">(5) The removal date must not be earlier than the end of the period of 28 days beginning with the day on which the operator removal notice is given.</p>
+    <p pid="a815.2/465" class="indent">(6) An operator removal notice may not be given in circumstances where the carbon storage licence under which the exploration operator operates is one which, on the date the notice is given, the OGA would not have the power to grant.</p>
+    <p pid="a815.2/466" class="indent">(7) A requirement imposed on a licensee under subsection (3)(b) is sanctionable in accordance with this Chapter.”</p>
+    <p pid="a815.2/467" class="indent">132: Insert the following Clause—</p>
+    <p pid="a815.2/468" class="indent">“Duty of OGA to give sanction warning notices</p>
+    <p pid="a815.2/469" class="indent">(1) This section applies where the OGA proposes to give a sanction notice in respect of a failure to comply with a sanctionable requirement.</p>
+    <p pid="a815.2/470" class="indent">(2) The OGA must give a sanction warning notice in respect of the sanctionable requirement to—</p>
+    <p pid="a815.2/471" class="indent">(a) the person or persons to whom it proposes to give a sanction notice, and</p>
+    <p pid="a815.2/472" class="indent">(b) where it proposes to give an operator removal notice, the relevant licensee (see section (Operator removal notices)(2)(c)).</p>
+    <p pid="a815.2/473" class="indent">(3) A sanction warning notice, in respect of a sanctionable requirement, is a notice which—</p>
+    <p pid="a815.2/474" class="indent">(a) specifies the sanctionable requirement,</p>
+    <p pid="a815.2/475" class="indent">(b) informs the person or persons to whom it is given that the OGA proposes to give a sanction notice in respect of a failure to comply with the requirement,</p>
+    <p pid="a815.2/476" class="indent">(c) gives details of the failure to comply with the sanctionable requirement, and</p>
+    <p pid="a815.2/477" class="indent">(d) informs the person or persons to whom it is given that the person or persons may, within the period specified in the notice (“the representations period”), make representations to the OGA in relation to the matters dealt with in the notice.</p>
+    <p pid="a815.2/478" class="indent">(4) The representations period must be such period as the OGA considers appropriate in the circumstances.</p>
+    <p pid="a815.2/479" class="indent">(5) Subsections (6) and (7) apply where the OGA gives a sanction warning notice to a person or persons in respect of a sanctionable requirement.</p>
+    <p pid="a815.2/480" class="indent">(6) The OGA must not give a sanction notice to the person or persons in respect of a failure to comply with the requirement until after the end of the representations period specified in the sanction warning notice.</p>
+    <p pid="a815.2/481" class="indent">(7) Having regard to representations made during the representations period specified in the sanction warning notice, the OGA may decide—</p>
+    <p pid="a815.2/482" class="indent">(a) to give the person or persons a sanction notice in respect of the failure to comply with the requirement detailed in the sanction warning notice under subsection (3)(c),</p>
+    <p pid="a815.2/483" class="indent">(b) to give the person or persons a sanction notice in respect of a failure to comply with the requirement which differs from the failure detailed in the sanction warning notice under subsection (3)(c), or</p>
+    <p pid="a815.2/484" class="indent">(c) not to give the person or persons a sanction notice in respect of a failure to comply with the requirement.”</p>
+    <p pid="a815.2/485" class="indent">133: Insert the following Clause—</p>
+    <p pid="a815.2/486" class="indent">“Publication of details of sanctions</p>
+    <p pid="a815.2/487" class="indent">(1) The OGA may publish details of any sanction notice given in accordance with this Chapter.</p>
+    <p pid="a815.2/488" class="indent">(2) But the OGA may not publish anything that, in its opinion—</p>
+    <p pid="a815.2/489" class="indent">(a) is commercially sensitive,</p>
+    <p pid="a815.2/490" class="indent">(b) is not in the public interest to publish, or</p>
+    <p pid="a815.2/491" class="indent">(c) is otherwise not appropriate for publication.</p>
+    <p pid="a815.2/492" class="indent">(3) If, after details of a sanction notice are published by the OGA, the sanction notice is—</p>
+    <p pid="a815.2/493" class="indent">(a) cancelled on appeal, or</p>
+    <p pid="a815.2/494" class="indent">(b) withdrawn under section (Withdrawal of sanction notices),</p>
+    <p pid="a815.2/495" class="indent">the OGA must publish details of the cancellation or withdrawal.”</p>
+    <p pid="a815.2/496" class="indent">134: Insert the following Clause—</p>
+    <p pid="a815.2/497" class="indent">“Subsequent sanction notices</p>
+    <p pid="a815.2/498" class="indent">(1) This section applies where the OGA gives a sanction notice in respect of a particular failure to comply with a sanctionable requirement (whether the notice is given alone or at the same time as another type of sanction notice).</p>
+    <p pid="a815.2/499" class="indent">(2) If the sanction notice given is a revocation notice or an operator removal notice, no further sanction notices may be given in respect of the failure to comply.</p>
+    <p pid="a815.2/500" class="indent">(3) If the sanction notice given is a financial penalty notice which does not require compliance with the sanctionable requirement, no further sanction notices may be given in respect of the failure to comply.</p>
+    <p pid="a815.2/501" class="indent">(4) Subsection (5) applies if the sanction notice given is—</p>
+    <p pid="a815.2/502" class="indent">(a) an enforcement notice, or</p>
+    <p pid="a815.2/503" class="indent">(b) a financial penalty notice which requires compliance with the sanctionable requirement.</p>
+    <p pid="a815.2/504" class="indent">(5) No further sanction notices may be given in respect of the failure to comply before the end of the period specified under section (Enforcement notices)(1)(c) or (Financial penalty notices)(1)(c)(i), as the case may be (period for compliance with sanctionable requirement).”</p>
+    <p pid="a815.2/505" class="indent">135: Insert the following Clause—</p>
+    <p pid="a815.2/506" class="indent">“Withdrawal of sanction notices</p>
+    <p pid="a815.2/507" class="indent">(1) The OGA may, at any time after giving a sanction notice, withdraw the sanction notice.</p>
+    <p pid="a815.2/508" class="indent">(2) If a sanction notice is withdrawn by the OGA—</p>
+    <p pid="a815.2/509" class="indent">(a) the notice ceases to have effect, and</p>
+    <p pid="a815.2/510" class="indent">(b) the OGA must notify the following persons of the withdrawal of the notice—</p>
+    <p pid="a815.2/511" class="indent">(i) the person or persons to whom the notice was given;</p>
+    <p pid="a815.2/512" class="indent">(ii) in the case of an operator removal notice, the licensee under whose carbon storage licence the exploration operator operates.”</p>
+    <p pid="a815.2/513" class="indent">136: Insert the following Clause—</p>
+    <p pid="a815.2/514" class="indent">“Sanctions: information powers</p>
+    <p pid="a815.2/515" class="indent">(1) This section applies for the purposes of an investigation which—</p>
+    <p pid="a815.2/516" class="indent">(a) concerns whether a person has failed to comply with a sanctionable requirement, and</p>
+    <p pid="a815.2/517" class="indent">(b) is carried out by the OGA for the purpose of enabling it to decide whether to give the person a sanction notice, or on what terms a sanction notice should be given to the person.</p>
+    <p pid="a815.2/518" class="indent">(2) The OGA may by notice in writing, for the purposes of that investigation, require the person to provide specified documents or other information.</p>
+    <p pid="a815.2/519" class="indent">(3) “Specified” means specified, or of a description specified, in a notice under this section.</p>
+    <p pid="a815.2/520" class="indent">(4) A requirement under subsection (2) applies only to the extent—</p>
+    <p pid="a815.2/521" class="indent">(a) that the documents requested are documents in the person’s possession or control, or</p>
+    <p pid="a815.2/522" class="indent">(b) that the information requested is information in the person’s possession or control.</p>
+    <p pid="a815.2/523" class="indent">(5) A requirement imposed by a notice under subsection (2) is sanctionable in accordance with this Chapter.</p>
+    <p pid="a815.2/524" class="indent">(6) The documents or information requested—</p>
+    <p pid="a815.2/525" class="indent">(a) may include documents or information held in any form (including in electronic form);</p>
+    <p pid="a815.2/526" class="indent">(b) may include documents or information that may be regarded as commercially sensitive;</p>
+    <p pid="a815.2/527" class="indent">(c) may not include items that are subject to legal privilege.</p>
+    <p pid="a815.2/528" class="indent">(7) The notice must specify—</p>
+    <p pid="a815.2/529" class="indent">(a) to whom the information is to be provided;</p>
+    <p pid="a815.2/530" class="indent">(b) where it is to be provided;</p>
+    <p pid="a815.2/531" class="indent">(c) when it is to be provided;</p>
+    <p pid="a815.2/532" class="indent">(d) the form and manner in which it is to be provided.”</p>
+    <p pid="a815.2/533" class="indent">137: Insert the following Clause—</p>
+    <p pid="a815.2/534" class="indent">“Appeals in connection with Chapter</p>
+    <p pid="a815.2/535" class="indent">In Schedule (Carbon storage information and samples: appeals)—</p>
+    <p pid="a815.2/536" class="indent">(a) Part 1 contains provision about appeals against decisions by the OGA relating to the preparation of an information and samples plan and appeals against the giving of a notice under section (Power of OGA to require information and samples), and</p>
+    <p pid="a815.2/537" class="indent">(b) Part 2 contains provision about appeals against the imposition of sanction notices and appeals against the giving of a notice under section (Sanctions: information powers).”</p>
+    <p pid="a815.2/538" class="indent">138: Insert the following Clause—</p>
+    <p pid="a815.2/539" class="indent">“Procedure for enforcement decisions</p>
+    <p pid="a815.2/540" class="indent">(1) The OGA—</p>
+    <p pid="a815.2/541" class="indent">(a) must determine the procedure that it proposes to follow in relation to enforcement decisions, and</p>
+    <p pid="a815.2/542" class="indent">(b) must issue a statement of its proposals.</p>
+    <p pid="a815.2/543" class="indent">(2) The procedure mentioned in subsection (1)(a) must be designed to secure, among other things, that an enforcement decision is taken—</p>
+    <p pid="a815.2/544" class="indent">(a) by a person falling within subsection (3), or</p>
+    <p pid="a815.2/545" class="indent">(b) by two or more persons, each of whom falls within subsection (3).</p>
+    <p pid="a815.2/546" class="indent">(3) A person falls within this subsection if the person was not directly involved in establishing the evidence on which the enforcement decision is based.</p>
+    <p pid="a815.2/547" class="indent">(4) The statement mentioned in subsection (1)(b) must be published in whatever way appears to the OGA to be best calculated to bring the statement to the attention of the public.</p>
+    <p pid="a815.2/548" class="indent">(5) When the OGA takes an enforcement decision, the OGA must follow its stated procedure.</p>
+    <p pid="a815.2/549" class="indent">(6) If the OGA changes its procedure in a material way, it must publish a revised statement.</p>
+    <p pid="a815.2/550" class="indent">(7) A failure of the OGA in a particular case to follow its procedure as set out in the latest published statement does not affect the validity of an enforcement decision taken in that case.</p>
+    <p pid="a815.2/551" class="indent">(8) But subsection (7) does not prevent the Tribunal from taking into account any such failure in considering an appeal under paragraph 4 or 5 of Schedule (Carbon storage information and samples: appeals) in relation to a sanction notice.</p>
+    <p pid="a815.2/552" class="indent">(9) In this section, “enforcement decision” means—</p>
+    <p pid="a815.2/553" class="indent">(a) a decision to give a sanction notice in respect of a failure to comply with a sanctionable requirement, or</p>
+    <p pid="a815.2/554" class="indent">(b) a decision as to the details of the sanction to be imposed by the notice.”</p>
+    <p pid="a815.2/555" class="indent">139: Insert the following Clause—</p>
+    <p pid="a815.2/556" class="indent">“Interpretation of Chapter</p>
+    <p pid="a815.2/557" class="indent">In this Chapter—</p>
+    <p pid="a815.2/558" class="indent">“information and samples plan” has the meaning given in section (Preparation and agreement of information and samples plans);</p>
+    <p pid="a815.2/559" class="indent">“items subject to legal privilege”—</p>
+    <p pid="a815.2/560" class="indent">(a) in England and Wales, has the same meaning as in the Police and Criminal Evidence Act 1984 (see section 10 of that Act);</p>
+    <p pid="a815.2/561" class="indent">(b) in Scotland, has the meaning given by section 412 of the Proceeds of Crime Act 2002;</p>
+    <p pid="a815.2/562" class="indent">(c) in Northern Ireland, has the same meaning as in the Police and Criminal Evidence (Northern Ireland) Order 1989 (S.I. 1989/1341 (NI 12));</p>
+    <p pid="a815.2/563" class="indent">“OGA” means the Oil and Gas Authority;</p>
+    <p pid="a815.2/564" class="indent">“protected material” has the meaning given in section (Prohibition on disclosure of information or samples obtained by OGA);</p>
+    <p pid="a815.2/565" class="indent">“sanction notice” has the meaning given in section (Power of OGA to give sanction notices);</p>
+    <p pid="a815.2/566" class="indent">“storage permit” has the same meaning as in the Storage of Carbon Dioxide (Licensing etc) Regulations 2010 (S.I. 2010/2221) (see regulation 1(3) of those Regulations);</p>
+    <p pid="a815.2/567" class="indent">“subsequent holder” has the meaning given in section (Prohibition on disclosure of information or samples obtained by OGA);</p>
+    <p pid="a815.2/568" class="indent">“Tribunal” means the First-tier tribunal.”</p>
+    <p pid="a815.2/569" class="indent">140: Clause 102, page 96, line 22, leave out “consult” and insert “give to the appropriate consultees a notice—</p>
+    <p pid="a815.2/570" class="indent">(a) stating that the Secretary of State proposes to make regulations under subsection (1), and</p>
+    <p pid="a815.2/571" class="indent">(b) specifying the period (of not less than 28 days from the date on which the notice is given) within which representations must be made with respect to the proposed provisions,</p>
+    <p pid="a815.2/572" class="indent">and must consider any representations duly made and not withdrawn.”</p>
+    <p pid="a815.2/573" class="indent">(6A) For the purposes of this section the “appropriate consultees” are—”</p>
+    <p pid="a815.2/574" class="indent">141: Clause 103, page 97, line 19, leave out “, out of money provided by Parliament,”</p>
+    <p pid="a815.2/575" class="indent">142: Clause 103, page 97, line 22, leave out “and storage”</p>
+    <p pid="a815.2/576" class="indent">143: Clause 103, page 97, line 22, at end insert—</p>
+    <p pid="a815.2/577" class="indent">“(aa) storage of carbon dioxide;”</p>
+    <p pid="a815.2/578" class="indent">144: Clause 103, page 97, line 24, leave out from “for” to end of line 25 and insert “any activity mentioned in paragraph (a) or (aa)”</p>
+    <p pid="a815.2/579" class="indent">145: Clause 103, page 97, line 27, leave out “and storage”</p>
+    <p pid="a815.2/580" class="indent">146: Clause 103, page 97, line 27, at end insert—</p>
+    <p pid="a815.2/581" class="indent">“(e) storage of hydrogen.”</p>
+    <p pid="a815.2/582" class="indent">147: Clause 103, page 98, line 3, leave out paragraph (f) and insert—</p>
+    <p pid="a815.2/583" class="indent">“(f) may be provided by the acquisition of shares or any other interest in, or securities of, a body corporate;”</p>
+    <p pid="a815.2/584" class="indent">148: Clause 103, page 98, line 5, leave out “take the form of investment” and insert “be provided”</p>
+    <p pid="a815.2/585" class="indent">149: After Clause 105, insert the following Clause—</p>
+    <p pid="a815.2/586" class="indent">“Key definitions for Part</p>
+    <p pid="a815.2/587" class="indent">(1) In this Part—</p>
+    <p pid="a815.2/588" class="indent">“designated person” means a person in relation to whom a designation under section (Designation)(1) has effect (and any reference to designation, in relation to a person, is to be construed accordingly);</p>
+    <p pid="a815.2/589" class="indent">“designated project”, in relation to a person, means a hydrogen pipeline project in relation to which the person is designated;</p>
+    <p pid="a815.2/590" class="indent">“gas transporter licence” means a licence under section 7 of the Gas Act 1986; “hydrogen” means any gas that consists wholly or mainly of hydrogen; “hydrogen pipeline project” means a project involving the construction,</p>
+    <p pid="a815.2/591" class="indent">alteration or operation of a pipeline for the purpose of the conveyance of</p>
+    <p pid="a815.2/592" class="indent">hydrogen.</p>
+    <p pid="a815.2/593" class="indent">(2) References in this Part to the extension or restriction of a licence are to the giving of a direction in respect of the licence under (respectively) section 7(4) or (4A) of the Gas Act 1986.”</p>
+    <p pid="a815.2/594" class="indent">150: Insert the following Clause—</p>
+    <p pid="a815.2/595" class="indent">“Designation</p>
+    <p pid="a815.2/596" class="indent">(1) The Secretary of State may by notice given to a person designate the person in relation to a hydrogen pipeline project.</p>
+    <p pid="a815.2/597" class="indent">(2) The Secretary of State may designate a person in relation to a hydrogen pipeline project only if the Secretary of State is of the opinion—</p>
+    <p pid="a815.2/598" class="indent">(a) that it is likely to be appropriate for conditions described in section (Scope of modification powers under section (Modification of gas transporter licences by Secretary of State))(1)(a) and (b) to be included in any gas transporter licence held by the person for the purposes of the project (whether or not the person already holds such a licence), and</p>
+    <p pid="a815.2/599" class="indent">(b) that the project is likely to result in value for money.</p>
+    <p pid="a815.2/600" class="indent">(3) A person may be designated only with the person’s consent.</p>
+    <p pid="a815.2/601" class="indent">(4) A designation may not relate to more than one hydrogen pipeline project (but a person who is designated in relation to one project may be designated separately in relation to another).”</p>
+    <p pid="a815.2/602" class="indent">151: Insert the following Clause—</p>
+    <p pid="a815.2/603" class="indent">“Designation: procedure</p>
+    <p pid="a815.2/604" class="indent">(1) The Secretary of State must publish a statement setting out—</p>
+    <p pid="a815.2/605" class="indent">(a) the procedure that the Secretary of State expects to follow in determining whether to exercise the power under section (Designation)(1), and</p>
+    <p pid="a815.2/606" class="indent">(b) how the Secretary of State expects to determine whether the conditions in section (Designation)(2) are met.</p>
+    <p pid="a815.2/607" class="indent">(2) A duty imposed by subsection (1) may be satisfied by things done before the passing of this Act (as well as by things done after that time).</p>
+    <p pid="a815.2/608" class="indent">(3) A designation notice must include—</p>
+    <p pid="a815.2/609" class="indent">(a) a description of the hydrogen pipeline project to which the designation relates,</p>
+    <p pid="a815.2/610" class="indent">(b) the Secretary of State’s reasons for the designation,</p>
+    <p pid="a815.2/611" class="indent">(c) details of any conditions to which the designation is subject, and</p>
+    <p pid="a815.2/612" class="indent">(d) the date of the notice.</p>
+    <p pid="a815.2/613" class="indent">(4) The Secretary of State must give the GEMA a copy of a designation notice.</p>
+    <p pid="a815.2/614" class="indent">(5) The Secretary of State must publish a designation notice, but may exclude from publication any material the disclosure or publication of which the Secretary of State considers—</p>
+    <p pid="a815.2/615" class="indent">(a) would be likely to prejudice the commercial interests of any person, or</p>
+    <p pid="a815.2/616" class="indent">(b) would be contrary to the interests of national security.</p>
+    <p pid="a815.2/617" class="indent">(6) In this section, “designation notice” means a notice under section (Designation)(1).”</p>
+    <p pid="a815.2/618" class="indent">152: Insert the following Clause—</p>
+    <p pid="a815.2/619" class="indent">“Revocation of designation</p>
+    <p pid="a815.2/620" class="indent">(1) The Secretary of State may by notice given to a designated person revoke the person’s designation in relation to a hydrogen pipeline project if—</p>
+    <p pid="a815.2/621" class="indent">(a) either of the conditions in section (Designation)(2) ceases to be met in relation to the project,</p>
+    <p pid="a815.2/622" class="indent">(b) the Secretary of State determines that a condition to which the designation is subject has not been met, or</p>
+    <p pid="a815.2/623" class="indent">(c) the person consents to the designation being revoked.</p>
+    <p pid="a815.2/624" class="indent">(2) Section (Designation: procedure)(3)(a), (b) and (d), (4) and (5) applies (with necessary modifications) in relation to the revocation of a person’s designation as it applies in relation to the designation of a person.</p>
+    <p pid="a815.2/625" class="indent">(3) Where the Secretary of State gives a notice to a person under subsection (1), the person’s designation in relation to the hydrogen pipeline project in question ceases to have effect at the end of the day on which the notice is given to the person.</p>
+    <p pid="a815.2/626" class="indent">(4) The revocation of a person’s designation in relation to a hydrogen pipeline project does not affect anything done in relation to the licence by the Secretary of State under or by virtue of this Part while the person was designated in relation to the project</p>
+    <p pid="a815.2/627" class="indent">153: Insert the following Clause—</p>
+    <p pid="a815.2/628" class="indent">“Grant, extension or restriction of gas transporter licence by Secretary of State</p>
+    <p pid="a815.2/629" class="indent">(1) The Secretary of State may exercise the power under section 7(2) of the Gas Act 1986 (grant of gas transporter licences) so as to grant a gas transporter licence to a designated person, subject to subsection (2).</p>
+    <p pid="a815.2/630" class="indent">(2) The Secretary of State may only grant a gas transporter licence which authorises the conveyance of hydrogen through pipes for the purposes of the person’s designated project.</p>
+    <p pid="a815.2/631" class="indent">(3) The Secretary of State may exercise the power under section 7(4) of the Gas Act 1986 (direction to extend licence) so as to extend a gas transporter licence where—</p>
+    <p pid="a815.2/632" class="indent">(a) the licence is held by a designated person, and</p>
+    <p pid="a815.2/633" class="indent">(b) the extension authorises the conveyance of hydrogen through pipes for the purposes of the person’s designated project.</p>
+    <p pid="a815.2/634" class="indent">(4) The Secretary of State may exercise the power under section 7(4A) of the Gas Act 1986 (direction to restrict licence) so as to restrict a gas transporter licence where—</p>
+    <p pid="a815.2/635" class="indent">(a) the licence is or was held by a designated person, and</p>
+    <p pid="a815.2/636" class="indent">(b) the restriction is in connection with the revocation of the person’s designation in relation to a hydrogen pipeline project.</p>
+    <p pid="a815.2/637" class="indent">(5) In its application for the purposes of subsections (1), (3) and (4), the Gas Act 1986 has effect as if—</p>
+    <p pid="a815.2/638" class="indent">(a) in the following provisions, references to the GEMA were to the Secretary of State—</p>
+    <p pid="a815.2/639" class="indent">(i) section 7(5) and (6)(a);</p>
+    <p pid="a815.2/640" class="indent">(ii) section 7B(9);</p>
+    <p pid="a815.2/641" class="indent">(iii) section 8(3), (4) and (5)(a);</p>
+    <p pid="a815.2/642" class="indent">(b) in sections 7(6)(b) and 8(5)(b), references to the Secretary of State were to the GEMA;</p>
+    <p pid="a815.2/643" class="indent">(c) in section 7B(4)(c), the reference to the GEMA included a reference to the Secretary of State, but only for the purpose of enabling the inclusion of conditions requiring the rendering of a payment on the grant of a licence;</p>
+    <p pid="a815.2/644" class="indent">(d) section 7B(9) also required a copy of the licence to be sent to the GEMA.</p>
+    <p pid="a815.2/645" class="indent">(6) When granting or extending a gas transporter licence by virtue of this section, the Secretary of State must have regard to—</p>
+    <p pid="a815.2/646" class="indent">(a) costs, expenditure or liabilities of any description that the designated person may reasonably be expected to incur in carrying out its activities;</p>
+    <p pid="a815.2/647" class="indent">(b) the need to secure that the designated person is able to finance its activities;</p>
+    <p pid="a815.2/648" class="indent">(c) the need to secure that the designated person has appropriate incentives in relation to the carrying on of its activities;</p>
+    <p pid="a815.2/649" class="indent">(d) such other matters as the Secretary of State considers appropriate.</p>
+    <p pid="a815.2/650" class="indent">(7) References in subsection (6) to a designated person’s activities are to the person’s activities for the purposes of—</p>
+    <p pid="a815.2/651" class="indent">(a) the designated project to which the grant or extension relates, and</p>
+    <p pid="a815.2/652" class="indent">(b) in the case of an extension, any other designated project already authorised by the person’s gas transporter licence.</p>
+    <p pid="a815.2/653" class="indent">(8) A gas transporter licence granted, extended or restricted by the Secretary of State by virtue of this section has effect for all purposes as if it had been granted, extended or restricted by the GEMA.”</p>
+    <p pid="a815.2/654" class="indent">154: Insert the following Clause—</p>
+    <p pid="a815.2/655" class="indent">“Applications for grant etc of gas transporter licence</p>
+    <p pid="a815.2/656" class="indent">(1) The Secretary of State may by regulations make provision about the making, consideration and determination of relevant applications, including provision—</p>
+    <p pid="a815.2/657" class="indent">(a) about the person to whom a relevant application must be made;</p>
+    <p pid="a815.2/658" class="indent">(b) about the form and manner in which a relevant application must be made;</p>
+    <p pid="a815.2/659" class="indent">(c) imposing timing requirements in relation to the making of a relevant application;</p>
+    <p pid="a815.2/660" class="indent">(d) requiring a relevant application to be accompanied by such information and documents as may be specified in the regulations;</p>
+    <p pid="a815.2/661" class="indent">(e) requiring a relevant application to be accompanied by such fee (if any) as may be—</p>
+    <p pid="a815.2/662" class="indent">(i) specified in the regulations, or</p>
+    <p pid="a815.2/663" class="indent">(ii) determined, by the person to whom the application is made, in accordance with the regulations;</p>
+    <p pid="a815.2/664" class="indent">(f) about the matters to be taken into account in determining a relevant application;</p>
+    <p pid="a815.2/665" class="indent">(g) requiring a determination to be accompanied by reasons;</p>
+    <p pid="a815.2/666" class="indent">(h) requiring determinations to be published;</p>
+    <p pid="a815.2/667" class="indent">(i) conferring functions on the Secretary of State or the GEMA (including functions involving the exercise of a discretion);</p>
+    <p pid="a815.2/668" class="indent">(j) for anything falling to be determined under the regulations to be determined—</p>
+    <p pid="a815.2/669" class="indent">(i) by the Secretary of State, the GEMA or another person specified in the regulations, and</p>
+    <p pid="a815.2/670" class="indent">(ii) in accordance with such procedure and by reference to such matters and to the opinion of such persons as may be so specified.</p>
+    <p pid="a815.2/671" class="indent">(2) “Relevant application” means an application within any of the following paragraphs (whether made to the Secretary of State or the GEMA)—</p>
+    <p pid="a815.2/672" class="indent">(a) an application by a designated person for the grant of a gas transporter licence that authorises the conveyance of hydrogen through pipes for the purposes of the person’s designated project;</p>
+    <p pid="a815.2/673" class="indent">(b) an application by a designated person for the extension of a gas transporter licence held by the person so that it authorises the conveyance of hydrogen through pipes for the purposes of the person’s designated project;</p>
+    <p pid="a815.2/674" class="indent">(c) an application by a person who is or has been designated for the restriction of a gas transporter licence held by the person, in connection with the person’s designation in relation to a hydrogen pipeline project ceasing to have effect.</p>
+    <p pid="a815.2/675" class="indent">(3) Provision made by virtue of subsection (1)(j)(ii) may in particular be made by reference to a document as amended from time to time.</p>
+    <p pid="a815.2/676" class="indent">(4) Regulations under this section—</p>
+    <p pid="a815.2/677" class="indent">(a) may provide for cases in which an application is not required;</p>
+    <p pid="a815.2/678" class="indent">(b) may provide for a relevant application that has been rejected by one person to be dealt with afresh by another person.</p>
+    <p pid="a815.2/679" class="indent">(5) Before making regulations under this section, the Secretary of State must consult the GEMA.</p>
+    <p pid="a815.2/680" class="indent">(6) Section 7B(1) to (2A) of the Gas Act 1986 does not apply to an application for the grant, extension or restriction of a gas transporter licence so far as the application is one to which regulations under this section apply.</p>
+    <p pid="a815.2/681" class="indent">(7) Any sums received by the Secretary of State or the GEMA by virtue of this section are to be paid into the Consolidated Fund.</p>
+    <p pid="a815.2/682" class="indent">(8) Regulations under this section are subject to the negative procedure.</p>
+    <p pid="a815.2/683" class="indent">(9) For the purposes of section 5A(1) to (10) of the Utilities Act 2000 (duty of the GEMA to carry out impact assessment), a function exercisable by the GEMA by virtue of regulations under this section is to be treated as if it were a function exercisable by it under or by virtue of Part 1 of the Gas Act 1986.”</p>
+    <p pid="a815.2/684" class="indent">155: Insert the following Clause—</p>
+    <p pid="a815.2/685" class="indent">“Modification of gas transporter licence by Secretary of State</p>
+    <p pid="a815.2/686" class="indent">(1) The Secretary of State may modify—</p>
+    <p pid="a815.2/687" class="indent">(a) the conditions of a designated person’s gas transporter licence;</p>
+    <p pid="a815.2/688" class="indent">(b) the terms of a designated person’s gas transporter licence;</p>
+    <p pid="a815.2/689" class="indent">(c) the standard conditions incorporated in gas transporter licences by virtue of section 8 of the Gas Act 1986;</p>
+    <p pid="a815.2/690" class="indent">(d) a document maintained in accordance with the conditions of licences of a relevant type or an agreement that gives effect to a document so maintained.</p>
+    <p pid="a815.2/691" class="indent">(2) The Secretary of State may exercise the power under subsection (1) only for the purpose of—</p>
+    <p pid="a815.2/692" class="indent">(a) facilitating or supporting the financing of the design, construction, commissioning or operation of a hydrogen pipeline project (or of hydrogen pipeline projects generally), or</p>
+    <p pid="a815.2/693" class="indent">(b) promoting value for money in connection with a hydrogen pipeline project (or in connection with hydrogen pipeline projects generally).</p>
+    <p pid="a815.2/694" class="indent">(3) When making modifications under subsection (1)(a) or (b), the Secretary of State must have regard to—</p>
+    <p pid="a815.2/695" class="indent">(a) the duties in sections 1 and 4(1)(b) of the Climate Change Act 2008 (carbon targets and budgets);</p>
+    <p pid="a815.2/696" class="indent">(b) the interests of existing and future consumers of gas conveyed through pipes, including their interests in relation to the cost and security of supply of gas;</p>
+    <p pid="a815.2/697" class="indent">(c) costs, expenditure or liabilities of any description that the designated person may reasonably be expected to incur in carrying out its activities;</p>
+    <p pid="a815.2/698" class="indent">(d) the need to secure that the designated person is able to finance its activities;</p>
+    <p pid="a815.2/699" class="indent">(e) the need to secure that the designated person has appropriate incentives in relation to the carrying on of its activities;</p>
+    <p pid="a815.2/700" class="indent">(f) such other matters as the Secretary of State considers appropriate.</p>
+    <p pid="a815.2/701" class="indent">In paragraph (b), “gas” has the same meaning as in Part 1 of the Gas Act 1986 (see section 48(1) of that Act).</p>
+    <p pid="a815.2/702" class="indent">(4) The Secretary of State may modify the conditions or terms of a gas transporter licence held by a person who is or was a designated person in connection with the revocation of the person’s designation in relation to a hydrogen pipeline project.</p>
+    <p pid="a815.2/703" class="indent">(5) For the purposes of subsection (1), each of the following is a relevant type of licence—</p>
+    <p pid="a815.2/704" class="indent">(a) a gas transporter licence;</p>
+    <p pid="a815.2/705" class="indent">(b) a licence under section 7A(1) of the Gas Act 1986 (gas supply licence);</p>
+    <p pid="a815.2/706" class="indent">(c) a licence under section 7AA of that Act (gas system planner licence);</p>
+    <p pid="a815.2/707" class="indent">(d) a licence under section 7AC of that Act (code manager licence).</p>
+    <p pid="a815.2/708" class="indent">(6) References in this section to a designated person’s activities are to the person’s activities for the purposes of—</p>
+    <p pid="a815.2/709" class="indent">(a) the designated project to which the modification relates, and</p>
+    <p pid="a815.2/710" class="indent">(b) any other designated project authorised by the person’s gas transporter licence.”</p>
+    <p pid="a815.2/711" class="indent">156: Insert the following Clause—</p>
+    <p pid="a815.2/712" class="indent">“Scope of modification powers under section (Modification of gas transporter licences by Secretary of State)</p>
+    <p pid="a815.2/713" class="indent">(1) Modifications made under section (Modification of gas transporter licences by Secretary of State)(1)(a) may include, for example, provision—</p>
+    <p pid="a815.2/714" class="indent">(a) about the revenue that the designated person may receive in respect of its activities (its “allowed revenue”);</p>
+    <p pid="a815.2/715" class="indent">(b) about how the designated person’s allowed revenue is to be calculated;</p>
+    <p pid="a815.2/716" class="indent">(c) about the amounts that the designated person is entitled to receive, or is required to pay, under any hydrogen transport revenue support contract (within the meaning of Chapter 1 of Part 2) to which it is a party;</p>
+    <p pid="a815.2/717" class="indent">(d) about activities that the designated person must, may or may not carry on;</p>
+    <p pid="a815.2/718" class="indent">(e) about the management of the designated person’s activities, including the manner in which they are carried out;</p>
+    <p pid="a815.2/719" class="indent">(f) conferring functions on the GEMA, including provision enabling or requiring the designated person to refer for determination, decision or approval by the GEMA matters specified, or of a description specified, in the licence;</p>
+    <p pid="a815.2/720" class="indent">(g) for the amendment of the licence for the purpose of implementing a determination or decision of the GEMA or the Competition and Markets Authority;</p>
+    <p pid="a815.2/721" class="indent">(h) requiring the designated person to comply with any direction or instruction, or to have regard to any guidance, given by the GEMA in relation to matters specified, or of a description specified, in the licence;</p>
+    <p pid="a815.2/722" class="indent">(i) requiring the designated person to co-operate with the GEMA and to provide such information and assistance to the GEMA as it may require for the purposes of carrying out any of its functions;</p>
+    <p pid="a815.2/723" class="indent">(j) about the payment by the designated person, to the GEMA or to the Competition and Markets Authority, of such amounts as may be determined by or in accordance with the licence;</p>
+    <p pid="a815.2/724" class="indent">(k) about the disclosure or publication of information by the designated person.</p>
+    <p pid="a815.2/725" class="indent">(2) Modifications made under section (Modification of gas transporter licences by Secretary of State)(1)(b) may include, for example, provision about the circumstances in which a licence may be revoked or suspended.</p>
+    <p pid="a815.2/726" class="indent">(3) The powers under section (Modification of gas transporter licences by Secretary of State)(1) and (4) to “modify” include the power to amend, add to or remove; and references to modification in section (Modification of gas transporter licences by Secretary of State), this section and section (Procedure etc relating to modifications under section (Modification of gas transporter licences by Secretary of State)) are to be construed accordingly.</p>
+    <p pid="a815.2/727" class="indent">(4) The powers conferred by section (Modification of gas transporter licences by Secretary of State)(1) and (4) —</p>
+    <p pid="a815.2/728" class="indent">(a) may be exercised generally, only in relation to specified cases, or subject to exceptions (including by making provision for a case to be excepted only so long as specified conditions are satisfied);</p>
+    <p pid="a815.2/729" class="indent">(b) may be exercised differently for different purposes or areas;</p>
+    <p pid="a815.2/730" class="indent">(c) include power to make incidental, supplementary, consequential or transitional modifications.</p>
+    <p pid="a815.2/731" class="indent">(5) Provision included in a gas transporter licence, or in a document or agreement described in section (Modification of gas transporter licences by Secretary of State)(1)(d), by virtue of section (Modification of gas transporter licences by Secretary of State)—</p>
+    <p pid="a815.2/732" class="indent">(a) need not relate to the activities authorised by the licence;</p>
+    <p pid="a815.2/733" class="indent">(b) may do anything authorised for gas transporter licences by section 7B(4A), (5)(a), (6) or (7) of the Gas Act 1986.</p>
+    <p pid="a815.2/734" class="indent">(6) The modification under section (Modification of gas transporter licences by Secretary of State)(1) or (4) of part of a standard condition of a gas transporter licence does not prevent any other part of the condition from continuing to be regarded as a standard condition for the purposes of Part 1 of the Gas Act 1986.</p>
+    <p pid="a815.2/735" class="indent">(7) In section 81(2) of the Utilities Act 2000 (standard conditions of gas licences), after “section 85” (as inserted by section 87(13) of this Act) insert “, (Modification of gas transporter licences by Secretary of State)(1) or (4)”.</p>
+    <p pid="a815.2/736" class="indent">(8) References in this section to a designated person’s activities are to the person’s activities for the purposes of—</p>
+    <p pid="a815.2/737" class="indent">(a) the designated project to which the modification relates, and</p>
+    <p pid="a815.2/738" class="indent">(b) any other designated project authorised by the person’s gas transporter licence.”</p>
+    <p pid="a815.2/739" class="indent">157: Insert the following Clause—</p>
+    <p pid="a815.2/740" class="indent">“Procedure etc relating to modifications under section (Modification of gas transporter licences by Secretary of State)</p>
+    <p pid="a815.2/741" class="indent">(1) Before making a modification under section (Modification of gas transporter licences by Secretary of State)(1) or (4), the Secretary of State must consult—</p>
+    <p pid="a815.2/742" class="indent">(a) the holder of any licence being modified,</p>
+    <p pid="a815.2/743" class="indent">(b) the GEMA, and</p>
+    <p pid="a815.2/744" class="indent">(c) such other persons as the Secretary of State considers appropriate.</p>
+    <p pid="a815.2/745" class="indent">(2) If under section (Modification of gas transporter licences by Secretary of State)(1) the Secretary of State modifies the standard conditions of a gas transporter licence, the GEMA must—</p>
+    <p pid="a815.2/746" class="indent">(a) make the same modification of those standard conditions for the purposes of their incorporation in gas transporter licences granted after that time, and</p>
+    <p pid="a815.2/747" class="indent">(b) publish the modification.</p>
+    <p pid="a815.2/748" class="indent">(3) The Secretary of State must publish details of any modifications made under section (Modification of gas transporter licences by Secretary of State)(1) and (4) as soon as reasonably practicable after they are made.</p>
+    <p pid="a815.2/749" class="indent">(4) The Secretary of State may exclude from publication under subsection (3) any material the disclosure or publication of which the Secretary of State considers—</p>
+    <p pid="a815.2/750" class="indent">(a) would be likely to prejudice the commercial interests of any person, or</p>
+    <p pid="a815.2/751" class="indent">(b) would be contrary to the interests of national security.”</p>
+    <p pid="a815.2/752" class="indent">158: Insert the following Clause—</p>
+    <p pid="a815.2/753" class="indent">“Information and advice</p>
+    <p pid="a815.2/754" class="indent">(1) The Secretary of State may by regulations make provision about the provision and publication of information and advice in connection with the carrying out of functions of any person under or by virtue of this Part.</p>
+    <p pid="a815.2/755" class="indent">(2) The provision that may be made by virtue of subsection (1) includes provision—</p>
+    <p pid="a815.2/756" class="indent">(a) for the Secretary of State to require the GEMA to provide information to a hydrogen transport counterparty or any other specified person;</p>
+    <p pid="a815.2/757" class="indent">(b) for a hydrogen transport counterparty to require the GEMA to provide information to it;</p>
+    <p pid="a815.2/758" class="indent">(c) for the Secretary of State to require a designated person, a hydrogen transport counterparty or any other specified person to provide information to the GEMA;</p>
+    <p pid="a815.2/759" class="indent">(d) for the GEMA to require a designated person, a hydrogen transport counterparty or any other specified person to provide information to the GEMA;</p>
+    <p pid="a815.2/760" class="indent">(e) for the Secretary of State to require a designated person, a hydrogen transport counterparty, the GEMA or any other specified person to provide information or advice to the Secretary of State or any other specified person;</p>
+    <p pid="a815.2/761" class="indent">(f) for the classification and protection of confidential or sensitive information;</p>
+    <p pid="a815.2/762" class="indent">(g) for the enforcement of any requirement imposed by virtue of any of paragraphs (a) to (f).</p>
+    <p pid="a815.2/763" class="indent">(3) Section 105(1) of the Utilities Act 2000 (general restrictions on disclosure of information) does not apply to a disclosure required by virtue of this section.</p>
+    <p pid="a815.2/764" class="indent">(4) The first regulations under this section are subject to the affirmative procedure.</p>
+    <p pid="a815.2/765" class="indent">(5) Any other regulations under this section are subject to the negative procedure.</p>
+    <p pid="a815.2/766" class="indent">(6) In this section—</p>
+    <p pid="a815.2/767" class="indent">“designated person” includes a person who has been a designated person; “hydrogen transport counterparty” has the same meaning as in Chapter 1 of Part 2 (see section 56);</p>
+    <p pid="a815.2/768" class="indent">“specified person” means a person specified, or of a description specified, in regulations under this section.</p>
+    <p pid="a815.2/769" class="indent">(7) See also section 34(4) of the Gas Act 1986 (general duty for the GEMA to give information, advice and assistance to the Secretary of State or the Competition and Markets Authority).”</p>
+    <p pid="a815.2/770" class="indent">159: Insert the following Clause—</p>
+    <p pid="a815.2/771" class="indent">“Conditions of gas transporter licences for conveyance of hydrogen</p>
+    <p pid="a815.2/772" class="indent">(1) For the purposes of this section, “relevant licence” means a gas transporter licence so far as it authorises a person to convey hydrogen through pipes in connection with the carrying on of a hydrogen pipeline project.</p>
+    <p pid="a815.2/773" class="indent">(2) Without prejudice to the generality of section 7B(4)(a) of the Gas Act 1986 (conditions of licences), conditions described in subsection (3) may be included in a relevant licence in respect of circumstances where a person other than the licence holder (“the candidate”)—</p>
+    <p pid="a815.2/774" class="indent">(a) has applied for, or is considering whether to apply for, a relevant licence, or</p>
+    <p pid="a815.2/775" class="indent">(b) is considering whether to apply for financial support for activities relating to the production, transportation, storage or use of hydrogen.</p>
+    <p pid="a815.2/776" class="indent">(3) The conditions referred to in subsection (2) are conditions that require the licence holder to comply with a direction given by the Secretary of State or the GEMA requiring the holder to provide to the candidate—</p>
+    <p pid="a815.2/777" class="indent">(a) information in relation to the activities authorised by the licence, and</p>
+    <p pid="a815.2/778" class="indent">(b) any other assistance that the candidate may reasonably require for the purpose of determining whether to—</p>
+    <p pid="a815.2/779" class="indent">(i) apply for a relevant licence, or</p>
+    <p pid="a815.2/780" class="indent">(ii) apply for financial support as mentioned in subsection (2)(b).</p>
+    <p pid="a815.2/781" class="indent">(4) A person (“P”) may not under section 8(3) of the Gas Act 1986 modify a condition of a relevant licence unless P is of the opinion that the modification is such that—</p>
+    <p pid="a815.2/782" class="indent">(a) the licence holder would not be unduly disadvantaged in competing with one or more other holders of relevant licences, and</p>
+    <p pid="a815.2/783" class="indent">(b) no other holder of a relevant licence would be unduly disadvantaged in competing with other holders of such licences (including the holder of the relevant licence to be modified).”</p>
+    <p pid="a815.2/784" class="indent">160: Insert the following Clause—</p>
+    <p pid="a815.2/785" class="indent">“Secretary of State directions to the GEMA</p>
+    <p pid="a815.2/786" class="indent">(1) In exercising any functions it has in relation to relevant gas transporter licences, the GEMA must comply with general or particular directions given to it by the Secretary of State for the purpose of promoting value for money in connection with a hydrogen pipeline project (or in connection with hydrogen pipeline projects generally).</p>
+    <p pid="a815.2/787" class="indent">(2) In subsection (1), “relevant gas transporter licence” means a gas transporter licence, held by a designated person, that authorises the conveyance of hydrogen through pipes in connection with the person’s designated project.”</p>
+    <p pid="a815.2/788" class="indent">161: Insert the following Clause—</p>
+    <p pid="a815.2/789" class="indent">“Repeal of Part</p>
+    <p pid="a815.2/790" class="indent">(1) The Secretary of State may by regulations repeal any of the preceding provisions of this Part.</p>
+    <p pid="a815.2/791" class="indent">(2) So far as any of those provisions is still in force on a relevant date, the Secretary of State must—</p>
+    <p pid="a815.2/792" class="indent">(a) consider whether it is appropriate to repeal that provision, and</p>
+    <p pid="a815.2/793" class="indent">(b) if satisfied that it is not appropriate to do so, publish a statement no later than 3 months after that date explaining why not.</p>
+    <p pid="a815.2/794" class="indent">(3) “Relevant date” in subsection (2) means <phrase class="date" code="">31 December 2040</phrase> and each five-year anniversary of that date.</p>
+    <p pid="a815.2/795" class="indent">(4) Regulations under this section are subject to the affirmative procedure.”</p>
+    <p pid="a815.2/796" class="indent">162: Clause 112, page 104, line 15, leave out subsection (3)</p>
+    <p pid="a815.2/797" class="indent">163: Clause 112, page 104, line 23, at end insert—</p>
+    <p pid="a815.2/798" class="indent">“(5) Before making scheme regulations that apply in relation to Scotland, Wales or Northern Ireland, the Secretary of State must give notice—</p>
+    <p pid="a815.2/799" class="indent">(a) stating that the Secretary of State proposes to make scheme regulations,</p>
+    <p pid="a815.2/800" class="indent">(b) setting out or describing the provisions of the regulations that apply in relation to Scotland, Wales or Northern Ireland, and</p>
+    <p pid="a815.2/801" class="indent">(c) specifying the period (of not less than 28 days from the date on which the notice is given) within which representations may be made with respect to those provisions,</p>
+    <p pid="a815.2/802" class="indent">and must consider any representations duly made and not withdrawn.</p>
+    <p pid="a815.2/803" class="indent">(6) A notice under subsection (5) must be given to each relevant devolved authority, that is to say—</p>
+    <p pid="a815.2/804" class="indent">(a) the Scottish Ministers, so far as the regulations apply in relation to Scotland;</p>
+    <p pid="a815.2/805" class="indent">(b) the Welsh Ministers, so far as the regulations apply in relation to Wales;</p>
+    <p pid="a815.2/806" class="indent">(c) the Department for the Economy in Northern Ireland, so far as the regulations apply in relation to Northern Ireland.</p>
+    <p pid="a815.2/807" class="indent">(7) The Secretary of State need not wait until the end of the period specified under subsection (5)(c) before making regulations if, before the end of that period, each relevant devolved authority to which the notice was given has confirmed that it has made any representations it intends to make with respect to the provisions referred to in subsection (5)(b).</p>
+    <p pid="a815.2/808" class="indent">(8) The Secretary of State must, if requested to do so by a relevant devolved authority, give the authority a statement setting out whether and how representations made by the authority with respect to the provisions referred to in subsection (5)(b) have been taken into account in the regulations.”</p>
+    <p pid="a815.2/809" class="indent">164: After Clause 115, insert the following Clause—</p>
+    <p pid="a815.2/810" class="indent">“Power to modify Gas Act 1986 in relation to hydrogen</p>
+    <p pid="a815.2/811" class="indent">(1) The Secretary of State may by regulations provide for any provision of the Gas Act 1986—</p>
+    <p pid="a815.2/812" class="indent">(a) not to apply, or</p>
+    <p pid="a815.2/813" class="indent">(b) to apply with modifications specified in the regulations,</p>
+    <p pid="a815.2/814" class="indent">in relation to the production, transportation, storage or use of hydrogen.</p>
+    <p pid="a815.2/815" class="indent">(2) The power under subsection (1) may be exercised by amending the Gas Act 1986.</p>
+    <p pid="a815.2/816" class="indent">(3) The power under subsection (1) may be exercised only for the purpose of facilitating or promoting the production, transportation, storage or use of hydrogen.</p>
+    <p pid="a815.2/817" class="indent">(4) Before exercising the power under subsection (1), the Secretary of State must consult—</p>
+    <p pid="a815.2/818" class="indent">(a) the GEMA, and</p>
+    <p pid="a815.2/819" class="indent">(b) such other persons as the Secretary of State considers appropriate.</p>
+    <p pid="a815.2/820" class="indent">(5) Regulations under subsection (1) are subject to the affirmative procedure.”</p>
+    <p pid="a815.2/821" class="italic">Motion on Amendments 18 to 164 agreed.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.843.0" newgid="uk.org.publicwhip/lords/2023-09-12b.843.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.843.1" newgid="uk.org.publicwhip/lords/2023-09-12b.843.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.843.2" newgid="uk.org.publicwhip/lords/2023-09-12b.843.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.843.3" newgid="uk.org.publicwhip/lords/2023-09-12b.843.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.849.0" newgid="uk.org.publicwhip/lords/2023-09-12b.849.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.849.1" newgid="uk.org.publicwhip/lords/2023-09-12b.849.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.849.2" newgid="uk.org.publicwhip/lords/2023-09-12b.849.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.849.3" newgid="uk.org.publicwhip/lords/2023-09-12b.849.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.849.4" newgid="uk.org.publicwhip/lords/2023-09-12b.849.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.849.5" newgid="uk.org.publicwhip/lords/2023-09-12b.849.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.852.0" newgid="uk.org.publicwhip/lords/2023-09-12b.852.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.852.1" newgid="uk.org.publicwhip/lords/2023-09-12b.852.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.859.0" newgid="uk.org.publicwhip/lords/2023-09-12b.859.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.859.1" newgid="uk.org.publicwhip/lords/2023-09-12b.859.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.859.2" newgid="uk.org.publicwhip/lords/2023-09-12b.859.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.859.3" newgid="uk.org.publicwhip/lords/2023-09-12b.859.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.860.0" newgid="uk.org.publicwhip/lords/2023-09-12b.860.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.860.1" newgid="uk.org.publicwhip/lords/2023-09-12b.860.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.860.2" newgid="uk.org.publicwhip/lords/2023-09-12b.860.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.860.3" newgid="uk.org.publicwhip/lords/2023-09-12b.860.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.861.0" newgid="uk.org.publicwhip/lords/2023-09-12b.861.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.861.1" newgid="uk.org.publicwhip/lords/2023-09-12b.861.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.861.2" newgid="uk.org.publicwhip/lords/2023-09-12b.861.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.861.3" newgid="uk.org.publicwhip/lords/2023-09-12b.861.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.861.4" newgid="uk.org.publicwhip/lords/2023-09-12b.861.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.861.5" newgid="uk.org.publicwhip/lords/2023-09-12b.861.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.862.0" newgid="uk.org.publicwhip/lords/2023-09-12b.862.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.862.1" newgid="uk.org.publicwhip/lords/2023-09-12b.862.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.864.0" newgid="uk.org.publicwhip/lords/2023-09-12b.864.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.864.1" newgid="uk.org.publicwhip/lords/2023-09-12b.864.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.864.2" newgid="uk.org.publicwhip/lords/2023-09-12b.864.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.864.3" newgid="uk.org.publicwhip/lords/2023-09-12b.864.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.865.0" newgid="uk.org.publicwhip/lords/2023-09-12b.865.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.865.1" newgid="uk.org.publicwhip/lords/2023-09-12b.865.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.866.0" newgid="uk.org.publicwhip/lords/2023-09-12b.866.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.866.1" newgid="uk.org.publicwhip/lords/2023-09-12b.866.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.866.2" newgid="uk.org.publicwhip/lords/2023-09-12b.866.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.866.3" newgid="uk.org.publicwhip/lords/2023-09-12b.866.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.867.0" newgid="uk.org.publicwhip/lords/2023-09-12b.867.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.867.1" newgid="uk.org.publicwhip/lords/2023-09-12b.867.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.867.2" newgid="uk.org.publicwhip/lords/2023-09-12b.867.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.867.3" newgid="uk.org.publicwhip/lords/2023-09-12b.867.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.867.4" newgid="uk.org.publicwhip/lords/2023-09-12b.867.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.867.5" newgid="uk.org.publicwhip/lords/2023-09-12b.867.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.867.6" newgid="uk.org.publicwhip/lords/2023-09-12b.867.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.870.0" newgid="uk.org.publicwhip/lords/2023-09-12b.870.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.870.1" newgid="uk.org.publicwhip/lords/2023-09-12b.870.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.870.2" newgid="uk.org.publicwhip/lords/2023-09-12b.870.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.870.3" newgid="uk.org.publicwhip/lords/2023-09-12b.870.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.870.4" newgid="uk.org.publicwhip/lords/2023-09-12b.870.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.870.5" newgid="uk.org.publicwhip/lords/2023-09-12b.870.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.871.0" newgid="uk.org.publicwhip/lords/2023-09-12b.871.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.871.1" newgid="uk.org.publicwhip/lords/2023-09-12b.871.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.871.2" newgid="uk.org.publicwhip/lords/2023-09-12b.871.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.874.0" newgid="uk.org.publicwhip/lords/2023-09-12b.874.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.874.1" newgid="uk.org.publicwhip/lords/2023-09-12b.874.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.903.0" newgid="uk.org.publicwhip/lords/2023-09-12b.903.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.903.1" newgid="uk.org.publicwhip/lords/2023-09-12b.903.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.903.2" newgid="uk.org.publicwhip/lords/2023-09-12b.903.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.903.3" newgid="uk.org.publicwhip/lords/2023-09-12b.903.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.903.4" newgid="uk.org.publicwhip/lords/2023-09-12b.903.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.904.0" newgid="uk.org.publicwhip/lords/2023-09-12b.904.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.904.1" newgid="uk.org.publicwhip/lords/2023-09-12b.904.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.905.0" newgid="uk.org.publicwhip/lords/2023-09-12b.905.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.906.0" newgid="uk.org.publicwhip/lords/2023-09-12b.906.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.906.1" newgid="uk.org.publicwhip/lords/2023-09-12b.906.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.907.0" newgid="uk.org.publicwhip/lords/2023-09-12b.907.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.908.0" newgid="uk.org.publicwhip/lords/2023-09-12b.908.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.909.0" newgid="uk.org.publicwhip/lords/2023-09-12b.909.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.909.1" newgid="uk.org.publicwhip/lords/2023-09-12b.909.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.911.0" newgid="uk.org.publicwhip/lords/2023-09-12b.911.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.913.0" newgid="uk.org.publicwhip/lords/2023-09-12b.913.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.914.0" newgid="uk.org.publicwhip/lords/2023-09-12b.914.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.916.0" newgid="uk.org.publicwhip/lords/2023-09-12b.916.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.917.0" newgid="uk.org.publicwhip/lords/2023-09-12b.917.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.918.0" newgid="uk.org.publicwhip/lords/2023-09-12b.918.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.918.1" newgid="uk.org.publicwhip/lords/2023-09-12b.918.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.918.2" newgid="uk.org.publicwhip/lords/2023-09-12b.918.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.918.3" newgid="uk.org.publicwhip/lords/2023-09-12b.918.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.918.4" newgid="uk.org.publicwhip/lords/2023-09-12b.918.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.919.0" newgid="uk.org.publicwhip/lords/2023-09-12b.919.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.919.1" newgid="uk.org.publicwhip/lords/2023-09-12b.919.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.919.2" newgid="uk.org.publicwhip/lords/2023-09-12b.919.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.919.3" newgid="uk.org.publicwhip/lords/2023-09-12b.919.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.919.4" newgid="uk.org.publicwhip/lords/2023-09-12b.919.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.919.5" newgid="uk.org.publicwhip/lords/2023-09-12b.919.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.919.6" newgid="uk.org.publicwhip/lords/2023-09-12b.919.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.919.7" newgid="uk.org.publicwhip/lords/2023-09-12b.919.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.920.0" newgid="uk.org.publicwhip/lords/2023-09-12b.920.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.922.0" newgid="uk.org.publicwhip/lords/2023-09-12b.922.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.922.1" newgid="uk.org.publicwhip/lords/2023-09-12b.922.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.924.0" newgid="uk.org.publicwhip/lords/2023-09-12b.924.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.924.1" newgid="uk.org.publicwhip/lords/2023-09-12b.924.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.924.2" newgid="uk.org.publicwhip/lords/2023-09-12b.924.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.925.0" newgid="uk.org.publicwhip/lords/2023-09-12b.925.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.925.1" newgid="uk.org.publicwhip/lords/2023-09-12b.925.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.925.2" newgid="uk.org.publicwhip/lords/2023-09-12b.925.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.927.0" newgid="uk.org.publicwhip/lords/2023-09-12b.927.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.930.0" newgid="uk.org.publicwhip/lords/2023-09-12b.930.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.930.1" newgid="uk.org.publicwhip/lords/2023-09-12b.930.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.930.2" newgid="uk.org.publicwhip/lords/2023-09-12b.930.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.932.0" newgid="uk.org.publicwhip/lords/2023-09-12b.932.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.934.0" newgid="uk.org.publicwhip/lords/2023-09-12b.934.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.935.0" newgid="uk.org.publicwhip/lords/2023-09-12b.935.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.936.0" newgid="uk.org.publicwhip/lords/2023-09-12b.936.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.937.0" newgid="uk.org.publicwhip/lords/2023-09-12b.937.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.937.1" newgid="uk.org.publicwhip/lords/2023-09-12b.937.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.938.0" newgid="uk.org.publicwhip/lords/2023-09-12b.938.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.939.0" newgid="uk.org.publicwhip/lords/2023-09-12b.939.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.941.0" newgid="uk.org.publicwhip/lords/2023-09-12b.941.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.941.1" newgid="uk.org.publicwhip/lords/2023-09-12b.941.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.941.2" newgid="uk.org.publicwhip/lords/2023-09-12b.941.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.941.3" newgid="uk.org.publicwhip/lords/2023-09-12b.941.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.941.4" newgid="uk.org.publicwhip/lords/2023-09-12b.941.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.943.0" newgid="uk.org.publicwhip/lords/2023-09-12b.943.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.943.1" newgid="uk.org.publicwhip/lords/2023-09-12b.943.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.944.0" newgid="uk.org.publicwhip/lords/2023-09-12b.944.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.944.1" newgid="uk.org.publicwhip/lords/2023-09-12b.944.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.946.0" newgid="uk.org.publicwhip/lords/2023-09-12b.946.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.946.1" newgid="uk.org.publicwhip/lords/2023-09-12b.946.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.946.2" newgid="uk.org.publicwhip/lords/2023-09-12b.946.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.947.0" newgid="uk.org.publicwhip/lords/2023-09-12b.947.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.947.1" newgid="uk.org.publicwhip/lords/2023-09-12b.947.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.947.2" newgid="uk.org.publicwhip/lords/2023-09-12b.947.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.947.3" newgid="uk.org.publicwhip/lords/2023-09-12b.947.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.948.0" newgid="uk.org.publicwhip/lords/2023-09-12b.948.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.948.1" newgid="uk.org.publicwhip/lords/2023-09-12b.948.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.948.2" newgid="uk.org.publicwhip/lords/2023-09-12b.948.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.948.3" newgid="uk.org.publicwhip/lords/2023-09-12b.948.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.948.4" newgid="uk.org.publicwhip/lords/2023-09-12b.948.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.948.5" newgid="uk.org.publicwhip/lords/2023-09-12b.948.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.950.0" newgid="uk.org.publicwhip/lords/2023-09-12b.950.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.950.1" newgid="uk.org.publicwhip/lords/2023-09-12b.950.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.951.0" newgid="uk.org.publicwhip/lords/2023-09-12b.951.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.952.0" newgid="uk.org.publicwhip/lords/2023-09-12b.952.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.952.1" newgid="uk.org.publicwhip/lords/2023-09-12b.952.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.952.2" newgid="uk.org.publicwhip/lords/2023-09-12b.952.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.952.3" newgid="uk.org.publicwhip/lords/2023-09-12b.952.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.952.4" newgid="uk.org.publicwhip/lords/2023-09-12b.952.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.952.5" newgid="uk.org.publicwhip/lords/2023-09-12b.952.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.953.0" newgid="uk.org.publicwhip/lords/2023-09-12b.953.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.953.1" newgid="uk.org.publicwhip/lords/2023-09-12b.953.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.954.0" newgid="uk.org.publicwhip/lords/2023-09-12b.954.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.954.1" newgid="uk.org.publicwhip/lords/2023-09-12b.954.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.955.0" newgid="uk.org.publicwhip/lords/2023-09-12b.955.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.955.1" newgid="uk.org.publicwhip/lords/2023-09-12b.955.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.955.2" newgid="uk.org.publicwhip/lords/2023-09-12b.955.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.955.3" newgid="uk.org.publicwhip/lords/2023-09-12b.955.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.955.4" newgid="uk.org.publicwhip/lords/2023-09-12b.955.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.956.0" newgid="uk.org.publicwhip/lords/2023-09-12b.956.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.956.1" newgid="uk.org.publicwhip/lords/2023-09-12b.956.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.956.2" newgid="uk.org.publicwhip/lords/2023-09-12b.956.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.956.3" newgid="uk.org.publicwhip/lords/2023-09-12b.956.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.956.4" newgid="uk.org.publicwhip/lords/2023-09-12b.956.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.956.5" newgid="uk.org.publicwhip/lords/2023-09-12b.956.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.956.6" newgid="uk.org.publicwhip/lords/2023-09-12b.956.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.957.0" newgid="uk.org.publicwhip/lords/2023-09-12b.957.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.957.1" newgid="uk.org.publicwhip/lords/2023-09-12b.957.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.957.2" newgid="uk.org.publicwhip/lords/2023-09-12b.957.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.957.3" newgid="uk.org.publicwhip/lords/2023-09-12b.957.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.957.4" newgid="uk.org.publicwhip/lords/2023-09-12b.957.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.958.0" newgid="uk.org.publicwhip/lords/2023-09-12b.958.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.958.1" newgid="uk.org.publicwhip/lords/2023-09-12b.958.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.958.2" newgid="uk.org.publicwhip/lords/2023-09-12b.958.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.960.0" newgid="uk.org.publicwhip/lords/2023-09-12b.960.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.960.1" newgid="uk.org.publicwhip/lords/2023-09-12b.960.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.960.2" newgid="uk.org.publicwhip/lords/2023-09-12b.960.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.960.3" newgid="uk.org.publicwhip/lords/2023-09-12b.960.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.960.4" newgid="uk.org.publicwhip/lords/2023-09-12b.960.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.961.0" newgid="uk.org.publicwhip/lords/2023-09-12b.961.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.961.1" newgid="uk.org.publicwhip/lords/2023-09-12b.961.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.961.2" newgid="uk.org.publicwhip/lords/2023-09-12b.961.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.961.3" newgid="uk.org.publicwhip/lords/2023-09-12b.961.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.963.0" newgid="uk.org.publicwhip/lords/2023-09-12b.963.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.963.1" newgid="uk.org.publicwhip/lords/2023-09-12b.963.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.964.0" newgid="uk.org.publicwhip/lords/2023-09-12b.964.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.964.1" newgid="uk.org.publicwhip/lords/2023-09-12b.964.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.965.0" newgid="uk.org.publicwhip/lords/2023-09-12b.965.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.965.1" newgid="uk.org.publicwhip/lords/2023-09-12b.965.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.965.2" newgid="uk.org.publicwhip/lords/2023-09-12b.965.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.965.3" newgid="uk.org.publicwhip/lords/2023-09-12b.965.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.965.4" newgid="uk.org.publicwhip/lords/2023-09-12b.965.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-09-12a.965.5" newgid="uk.org.publicwhip/lords/2023-09-12b.965.5" matchtype="perfectmatch"/>
+</publicwhip>
+

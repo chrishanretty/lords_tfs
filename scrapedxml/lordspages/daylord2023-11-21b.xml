@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<!DOCTYPE publicwhip
+[
+<!ENTITY ndash   "&#8211;">
+<!ENTITY mdash   "&#8212;">
+<!ENTITY iexcl   "&#161;">
+<!ENTITY divide  "&#247;">
+<!ENTITY euro    "&#8364;">
+<!ENTITY trade   "&#8482;">
+<!ENTITY bull    "&#8226;">
+<!ENTITY lsquo   "&#8216;">
+<!ENTITY rsquo   "&#8217;">
+<!ENTITY sbquo   "&#8218;">
+<!ENTITY ldquo   "&#8220;">
+<!ENTITY rdquo   "&#8221;">
+<!ENTITY bdquo   "&#8222;">
+<!ENTITY dagger  "&#8224;">
+
+<!ENTITY Ouml   "&#214;" >
+<!ENTITY szlig  "&#223;" >
+<!ENTITY agrave "&#224;" >
+<!ENTITY aacute "&#225;" >
+<!ENTITY acirc  "&#226;" >
+<!ENTITY atilde "&#227;" >
+<!ENTITY auml   "&#228;" >
+<!ENTITY ccedil "&#231;" >
+<!ENTITY egrave "&#232;" >
+<!ENTITY eacute "&#233;" >
+<!ENTITY ecirc  "&#234;" >
+<!ENTITY euml   "&#235;" >
+<!ENTITY iacute "&#237;" >
+<!ENTITY icirc  "&#238;" >
+<!ENTITY iuml	"&#239;" >
+<!ENTITY ntilde "&#241;" >
+<!ENTITY nbsp   "&#160;" >
+<!ENTITY oacute "&#243;" >
+<!ENTITY ocirc  "&#244;" >
+<!ENTITY ouml   "&#246;" >
+<!ENTITY oslash "&#248;" >
+<!ENTITY uacute "&#250;" >
+<!ENTITY uuml   "&#252;" >
+<!ENTITY thorn  "&#254;" >
+
+<!ENTITY pound  "&#163;" >
+<!ENTITY sect   "&#167;" >
+<!ENTITY copy   "&#169;" >
+<!ENTITY reg    "&#174;" >
+<!ENTITY deg    "&#176;" >
+<!ENTITY plusmn "&#177;" >
+<!ENTITY sup2   "&#178;" >
+<!ENTITY micro  "&#181;" >
+<!ENTITY para   "&#182;" >
+<!ENTITY middot "&#183;" >
+<!ENTITY ordm   "&#186;" >
+<!ENTITY frac14 "&#188;" >
+<!ENTITY frac12 "&#189;" >
+<!ENTITY frac34 "&#190;" >
+<!ENTITY oelig "&#339;" >
+<!ENTITY aelig  "&#230;" >
+
+]>
+
+<publicwhip scrapeversion="/home/twfy-live/parldata/scrapedxml/lordspages/daylord2023-11-21b.xml" latest="no">
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-21b.657.0" newgid="uk.org.publicwhip/lords/2023-11-21c.657.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-21b.657.1" newgid="uk.org.publicwhip/lords/2023-11-21c.657.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-21b.657.2" newgid="uk.org.publicwhip/lords/2023-11-21c.657.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-21b.657.3" newgid="uk.org.publicwhip/lords/2023-11-21c.657.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-21b.657.4" newgid="uk.org.publicwhip/lords/2023-11-21c.657.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-21b.657.5" newgid="uk.org.publicwhip/lords/2023-11-21c.657.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-21b.657.6" newgid="uk.org.publicwhip/lords/2023-11-21c.657.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-21b.658.0" newgid="uk.org.publicwhip/lords/2023-11-21c.658.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-21b.658.1" newgid="uk.org.publicwhip/lords/2023-11-21c.658.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-21b.658.2" newgid="uk.org.publicwhip/lords/2023-11-21c.658.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-21b.658.3" newgid="uk.org.publicwhip/lords/2023-11-21c.658.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-21b.658.4" newgid="uk.org.publicwhip/lords/2023-11-21c.658.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-21b.658.5" newgid="uk.org.publicwhip/lords/2023-11-21c.658.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-21b.659.0" newgid="uk.org.publicwhip/lords/2023-11-21c.659.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-21b.659.1" newgid="uk.org.publicwhip/lords/2023-11-21c.659.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-21b.659.2" newgid="uk.org.publicwhip/lords/2023-11-21c.659.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-21b.659.3" newgid="uk.org.publicwhip/lords/2023-11-21c.659.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-21b.659.4" newgid="uk.org.publicwhip/lords/2023-11-21c.659.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-21b.659.5" newgid="uk.org.publicwhip/lords/2023-11-21c.659.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-21b.659.6" newgid="uk.org.publicwhip/lords/2023-11-21c.659.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-21b.660.0" newgid="uk.org.publicwhip/lords/2023-11-21c.660.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-21b.660.1" newgid="uk.org.publicwhip/lords/2023-11-21c.660.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-21b.660.2" newgid="uk.org.publicwhip/lords/2023-11-21c.660.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-21b.660.3" newgid="uk.org.publicwhip/lords/2023-11-21c.660.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-21b.660.4" newgid="uk.org.publicwhip/lords/2023-11-21c.660.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-21b.660.5" newgid="uk.org.publicwhip/lords/2023-11-21c.660.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-21b.660.6" newgid="uk.org.publicwhip/lords/2023-11-21c.660.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-21b.661.0" newgid="uk.org.publicwhip/lords/2023-11-21c.661.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-21b.661.1" newgid="uk.org.publicwhip/lords/2023-11-21c.661.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-21b.661.2" newgid="uk.org.publicwhip/lords/2023-11-21c.661.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-21b.661.3" newgid="uk.org.publicwhip/lords/2023-11-21c.661.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-21b.661.4" newgid="uk.org.publicwhip/lords/2023-11-21c.661.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-21b.661.5" newgid="uk.org.publicwhip/lords/2023-11-21c.661.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-21b.662.0" newgid="uk.org.publicwhip/lords/2023-11-21c.662.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-21b.662.1" newgid="uk.org.publicwhip/lords/2023-11-21c.662.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-21b.662.2" newgid="uk.org.publicwhip/lords/2023-11-21c.662.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-21b.662.3" newgid="uk.org.publicwhip/lords/2023-11-21c.662.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-21b.662.4" newgid="uk.org.publicwhip/lords/2023-11-21c.662.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-21b.662.5" newgid="uk.org.publicwhip/lords/2023-11-21c.662.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-21b.662.6" newgid="uk.org.publicwhip/lords/2023-11-21c.662.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-21b.662.7" newgid="uk.org.publicwhip/lords/2023-11-21c.662.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-21b.663.0" newgid="uk.org.publicwhip/lords/2023-11-21c.663.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-21b.663.1" newgid="uk.org.publicwhip/lords/2023-11-21c.663.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-21b.663.2" newgid="uk.org.publicwhip/lords/2023-11-21c.663.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-21b.663.3" newgid="uk.org.publicwhip/lords/2023-11-21c.663.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-21b.663.4" newgid="uk.org.publicwhip/lords/2023-11-21c.663.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-21b.663.5" newgid="uk.org.publicwhip/lords/2023-11-21c.663.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-21b.663.6" newgid="uk.org.publicwhip/lords/2023-11-21c.663.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-21b.663.7" newgid="uk.org.publicwhip/lords/2023-11-21c.663.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-21b.663.8" newgid="uk.org.publicwhip/lords/2023-11-21c.663.8" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-21b.663.9" newgid="uk.org.publicwhip/lords/2023-11-21c.663.9" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-21b.664.0" newgid="uk.org.publicwhip/lords/2023-11-21c.664.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-21b.664.1" newgid="uk.org.publicwhip/lords/2023-11-21c.664.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-21b.664.2" newgid="uk.org.publicwhip/lords/2023-11-21c.664.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-21b.664.3" newgid="uk.org.publicwhip/lords/2023-11-21c.664.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-21b.665.0" newgid="uk.org.publicwhip/lords/2023-11-21c.665.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-21b.665.1" newgid="uk.org.publicwhip/lords/2023-11-21c.665.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-21b.665.2" newgid="uk.org.publicwhip/lords/2023-11-21c.665.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-21b.665.3" newgid="uk.org.publicwhip/lords/2023-11-21c.665.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-21b.665.4" newgid="uk.org.publicwhip/lords/2023-11-21c.665.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-21b.665.5" newgid="uk.org.publicwhip/lords/2023-11-21c.665.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-21b.666.0" newgid="uk.org.publicwhip/lords/2023-11-21c.666.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-21b.666.1" newgid="uk.org.publicwhip/lords/2023-11-21c.666.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-21b.666.2" newgid="uk.org.publicwhip/lords/2023-11-21c.666.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-21b.666.3" newgid="uk.org.publicwhip/lords/2023-11-21c.666.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-21b.666.4" newgid="uk.org.publicwhip/lords/2023-11-21c.666.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-21b.666.5" newgid="uk.org.publicwhip/lords/2023-11-21c.666.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-21b.666.6" newgid="uk.org.publicwhip/lords/2023-11-21c.666.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-21b.667.0" newgid="uk.org.publicwhip/lords/2023-11-21c.667.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-21b.667.1" newgid="uk.org.publicwhip/lords/2023-11-21c.667.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-21b.667.2" newgid="uk.org.publicwhip/lords/2023-11-21c.667.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-21b.667.3" newgid="uk.org.publicwhip/lords/2023-11-21c.667.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-21b.667.4" newgid="uk.org.publicwhip/lords/2023-11-21c.667.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-21b.667.5" newgid="uk.org.publicwhip/lords/2023-11-21c.667.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-21b.667.6" newgid="uk.org.publicwhip/lords/2023-11-21c.667.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-21b.668.0" newgid="uk.org.publicwhip/lords/2023-11-21c.668.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-21b.668.1" newgid="uk.org.publicwhip/lords/2023-11-21c.668.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-21b.668.2" newgid="uk.org.publicwhip/lords/2023-11-21c.668.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-21b.668.3" newgid="uk.org.publicwhip/lords/2023-11-21c.668.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-21b.668.4" newgid="uk.org.publicwhip/lords/2023-11-21c.668.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-21b.668.5" newgid="uk.org.publicwhip/lords/2023-11-21c.668.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-21b.668.6" newgid="uk.org.publicwhip/lords/2023-11-21c.668.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-21b.668.7" newgid="uk.org.publicwhip/lords/2023-11-21c.668.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-21b.668.8" newgid="uk.org.publicwhip/lords/2023-11-21c.668.8" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-21b.668.9" newgid="uk.org.publicwhip/lords/2023-11-21c.668.9" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-21b.668.10" newgid="uk.org.publicwhip/lords/2023-11-21c.668.10" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-21b.668.11" newgid="uk.org.publicwhip/lords/2023-11-21c.668.11" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-21b.669.0" newgid="uk.org.publicwhip/lords/2023-11-21c.669.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-21b.669.1" newgid="uk.org.publicwhip/lords/2023-11-21c.669.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-21b.669.2" newgid="uk.org.publicwhip/lords/2023-11-21c.669.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-21b.669.3" newgid="uk.org.publicwhip/lords/2023-11-21c.669.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-21b.669.4" newgid="uk.org.publicwhip/lords/2023-11-21c.669.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-21b.669.5" newgid="uk.org.publicwhip/lords/2023-11-21c.669.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-21b.669.6" newgid="uk.org.publicwhip/lords/2023-11-21c.669.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-21b.670.0" newgid="uk.org.publicwhip/lords/2023-11-21c.670.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-21b.670.1" newgid="uk.org.publicwhip/lords/2023-11-21c.670.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-21b.670.2" newgid="uk.org.publicwhip/lords/2023-11-21c.670.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-21b.670.3" newgid="uk.org.publicwhip/lords/2023-11-21c.670.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-21b.670.4" newgid="uk.org.publicwhip/lords/2023-11-21c.670.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-21b.670.5" newgid="uk.org.publicwhip/lords/2023-11-21c.670.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-21b.670.6" newgid="uk.org.publicwhip/lords/2023-11-21c.670.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-21b.670.7" newgid="uk.org.publicwhip/lords/2023-11-21c.670.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-21b.671.0" newgid="uk.org.publicwhip/lords/2023-11-21c.671.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-21b.671.1" newgid="uk.org.publicwhip/lords/2023-11-21c.671.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-21b.671.2" newgid="uk.org.publicwhip/lords/2023-11-21c.671.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-21b.671.3" newgid="uk.org.publicwhip/lords/2023-11-21c.671.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-21b.671.4" newgid="uk.org.publicwhip/lords/2023-11-21c.671.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-21b.671.5" newgid="uk.org.publicwhip/lords/2023-11-21c.671.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-21b.671.6" newgid="uk.org.publicwhip/lords/2023-11-21c.671.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-21b.671.7" newgid="uk.org.publicwhip/lords/2023-11-21c.671.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-21b.671.8" newgid="uk.org.publicwhip/lords/2023-11-21c.671.8" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-21b.671.9" newgid="uk.org.publicwhip/lords/2023-11-21c.671.9" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-21b.671.10" newgid="uk.org.publicwhip/lords/2023-11-21c.671.10" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-21b.672.0" newgid="uk.org.publicwhip/lords/2023-11-21c.672.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-21b.676.0" newgid="uk.org.publicwhip/lords/2023-11-21c.676.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-21b.678.0" newgid="uk.org.publicwhip/lords/2023-11-21c.678.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-21b.681.0" newgid="uk.org.publicwhip/lords/2023-11-21c.681.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-21b.683.0" newgid="uk.org.publicwhip/lords/2023-11-21c.683.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-21b.685.0" newgid="uk.org.publicwhip/lords/2023-11-21c.685.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-21b.686.0" newgid="uk.org.publicwhip/lords/2023-11-21c.686.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-21b.689.0" newgid="uk.org.publicwhip/lords/2023-11-21c.689.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-21b.692.0" newgid="uk.org.publicwhip/lords/2023-11-21c.692.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-21b.693.0" newgid="uk.org.publicwhip/lords/2023-11-21c.693.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-21b.696.0" newgid="uk.org.publicwhip/lords/2023-11-21c.696.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-21b.698.0" newgid="uk.org.publicwhip/lords/2023-11-21c.698.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-21b.699.0" newgid="uk.org.publicwhip/lords/2023-11-21c.699.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-21b.702.0" newgid="uk.org.publicwhip/lords/2023-11-21c.702.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-21b.704.0" newgid="uk.org.publicwhip/lords/2023-11-21c.704.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-21b.706.0" newgid="uk.org.publicwhip/lords/2023-11-21c.706.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-21b.710.0" newgid="uk.org.publicwhip/lords/2023-11-21c.710.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-21b.712.0" newgid="uk.org.publicwhip/lords/2023-11-21c.712.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-21b.714.0" newgid="uk.org.publicwhip/lords/2023-11-21c.714.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-21b.715.0" newgid="uk.org.publicwhip/lords/2023-11-21c.715.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-21b.717.0" newgid="uk.org.publicwhip/lords/2023-11-21c.717.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-21b.719.0" newgid="uk.org.publicwhip/lords/2023-11-21c.719.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-21b.721.0" newgid="uk.org.publicwhip/lords/2023-11-21c.721.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-21b.723.0" newgid="uk.org.publicwhip/lords/2023-11-21c.723.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-21b.725.0" newgid="uk.org.publicwhip/lords/2023-11-21c.725.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-21b.726.0" newgid="uk.org.publicwhip/lords/2023-11-21c.726.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-21b.729.0" newgid="uk.org.publicwhip/lords/2023-11-21c.729.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-21b.732.0" newgid="uk.org.publicwhip/lords/2023-11-21c.732.0" matchtype="changes"/>
+<speech id="uk.org.publicwhip/lords/2023-11-21b.732.0" speakername="Lord Johnson of Lainston" type="Start Speech" person_id="uk.org.publicwhip/person/26094" colnum="732" time="19:41:00" url="">
+    <p pid="b732.0/1">I thank the noble Lord for the segue into my closing address. It is an enormous pleasure to conclude this debate. Before I do so, I draw Members’ attention to my entries in the register of interests. I have investments in companies that operate in CPTPP member countries but, as often in these debates, I do not believe they represent a conflict given the nature of this Bill.</p>
+    <p pid="b732.0/2">I would like to join the very long line of Peers who complimented the opening and maiden speech made by my noble friend the Foreign Secretary, Lord Cameron of Chipping Norton. At one point I thought it was the popularity of my enthusiasm for free trade that encouraged so many people to sign up to speak in this debate. Only later did I realise that I had delegated the opening—as was heard earlier—to the newest Member of the House, of which I am extremely proud.</p>
+    <p pid="b732.0/3">I reinforce my own message that to have my noble friend Lord Cameron of Chipping Norton on these Benches, and in this House, is an enormous testament to the importance of this Chamber. I think we all believe strongly that, as an individual, he is absolutely the right person to take forward our foreign policy agenda at such a perilous time in the state of the world, and such an important time for the United Kingdom. I am very proud to have sat next to him during this debate. I hope noble Lords realise that he took the debate extremely seriously, given the other pressures on him relating to the state visit from the President of Korea, dedicating himself to almost the entirety of the debate. I know he would want me to ensure that there was some element of recognition for the seriousness with which we take the important issue of the CPTPP.</p>
+    <p pid="b732.0/4">I want to praise and pass thanks on to the IAC, which I believe to be one of the most important entities in this House, in ensuring that we reach strong conclusions as we prosecute our post-Brexit vision of Britain through our free trade agreements. The interlocution with the noble and learned Lord, Lord Goldsmith, has been particularly valuable for me over the past few weeks; I welcome him back to his usual place as chairman of the committee. It would be remiss of me not to pay homage to the noble Baroness, Lady Hayter, who has been a powerful representative of independent-minded Peers in ensuring that the Government are held to strong account when it comes to talking about our trade ambitions. I am extremely grateful to her that she remains highly active in this area.</p>
+    <p pid="b732.0/5">We have heard a number of extremely insightful points raised by many Peers. Listening to this debate, I am heartened by the seriousness with which we take this important subject and the key points that people wish to raise. I will try to respond to as many as possible. It is a very long list. It would have taken me the time that it has taken to discuss the Second Reading in this debate to fly to most of the countries in the CPTPP. But I believe that free trade genuinely gives us longer, happier and wealthier lives so, just through this debate on such an important subject, our lives have been extended and we have become personally richer.</p>
+    <p pid="b732.0/6">I hope your Lordships know that I will inspect the Hansard account of the debate afterwards and, if I have not covered everyone’s comments, ensure that Members of House are written to specifically. As a number of Members have mentioned, there is a sensible and lengthy journey around this process, which, as I will come on to, will include proper scrutiny of the CPTPP treaty itself.</p>
+    <p pid="b732.0/7">I will start by talking briefly about some of the benefits of the treaty, which can get lost in the details. I am particularly grateful to my noble friend Lord Vaizey of Didcot, whom many Members will know as a celebrity on the radio but whom I know as an important advocate of free trade. Some of the points that he raised on the specifics—which, as I said, often get lost in the detail—are extremely valuable: business mobility, the ability to trade, the ability to increase our exports and our imports, and, of particular interest to me as Investment Minister, the essential nature of bringing in more investment to the United Kingdom.</p>
+    <p pid="b732.0/8">This country is not a member of CPTPP but, today alone, we announced in conjunction with the President of South Korea’s visit to this great nation over £20 billion of investment into the UK. This is the value of trade writ large in pounds sterling. Imagine what we can do with countries with which we have an even closer relationship, through a treaty such as this.</p>
+    <p pid="b732.0/9">One point raised by a number of noble Lords—my noble friends Lord Lansley, Lord Howell and Lord Udny- Lister, and my noble friend Lord Lamont in particular—was the strategic importance of our membership of the CPTPP, which gives us this crucial presence in the Indo-Pacific region strategically, economically, philosophically, culturally and for reasons of alignment through defence. It is not simply a pounds, shillings and pence trade agreement but an essential component of how we as a nation wish to define ourselves when it comes to ensuring  our security and wealth creation into the future. I was very glad that so many Members, even Members who rightly had issues to raise on the specificity of the CPTPP, were fundamentally behind the crucial mission of this trading nation that is the United Kingdom. Fundamentally, the positive comments from noble Lords across the House I find extremely heartening.</p>
+    <p pid="b732.0/10">I want to bring to bear some of the comments that we have had from businesses and representative groups across the country. I will go on to touch on some of the consultations that we engaged in. I am very aware of the comments made by Members across this House on the importance of both promoting consultation as we go into the trade deal and promoting its benefits as we come out. We have consulted wide and extensively and the feedback that we have had has been overwhelmingly positive. Minette Batters said that</p>
+    <p pid="b732.0/11" class="indent">“the government continues to maintain its commitment to our food safety standards”—</p>
+    <p pid="b732.0/12">something that I ask noble Lords to bear in mind as I touch on that subject later on. She added that the UK achieved a</p>
+    <p pid="b732.0/13" class="indent">“balanced outcome, particularly with respect to managing market access in our most vulnerable sectors”.</p>
+    <p pid="b732.0/14">This is very important. I hope that all Members of the House will hear those points from the celebrated president of the NFU.</p>
+    <p pid="b732.0/15">William Bain, a former Member of the other place and now at the British Chambers of Commerce, said that the agreement was</p>
+    <p pid="b732.0/16" class="indent">“good news for UK business”</p>
+    <p pid="b732.0/17">and offered</p>
+    <p pid="b732.0/18" class="indent">“new prospects in a fast-growing region”.</p>
+    <p pid="b732.0/19">The Federation of Small Businesses—which the noble Earl, Lord Effingham, was right to point out is an essential component of all our trade deals—has said that it was</p>
+    <p pid="b732.0/20" class="indent">“very pleased to see the UK officially join the CPTPP trade agreement”.</p>
+    <p pid="b732.0/21">I turn now to some of the specific points raised. I will go through these relatively quickly, but I invite your Lordships to intervene if I miss a point; I am sure they will. As I said, there will be some instances where I will be obliged to write with further information.</p>
+    <p pid="b732.0/22">On issues of technical barriers to trade, a number of noble Lords raised questions as well as support. I was particularly grateful to my noble friends Lord Udny-Lister, Lord Frost and Lady Lawlor. This is important as it will enable us to certify conformity assessment bodies in CPTPP countries so that they can perform the relevant checks, which will enable trade to flow more efficiently. I have looked into this personally in some depth and I do not see there being an issue. The noble Lord, Lord Grantchester, raised a point on this. These arrangements are reciprocal, which enables us to have our conformity assessment bodies assessed by CPTPP members. It is common practice.</p>
+    <p pid="b732.0/23">I would like to stress that CABs established in CPTPP parties do not receive automatic approval in the UK; they have to be assessed. All this really does is to enable us to rightly ensure that CABs can be properly  accredited by CABs in the UK. I really do not personally see any issue, other than something that is positive, around that.</p>
+    <p pid="b732.0/24">We touched on government procurement and I am very comfortable discussing further any specifics. My noble friend Lord Lansley has raised some particularly pertinent points. I hope that I answered those in my letter to him, which I am sure has been lodged in the Library for everyone to read. If not, I would be delighted to circulate it to interested Peers. Ultimately, I agree that bringing in some of the procurement changes when we will introduce them under the Procurement Act, which comes into force next October, so that we can comply with our <phrase class="date" code="">17 July</phrase> obligations under CPTPP, seems a bit unnecessary. It is not unnecessary but extremely necessary for us to comply; clearly, it is not a specific or seismic issue. As I said, unfortunately we are obliged to fulfil those requirements of our obligations.</p>
+    <p pid="b732.0/25">On intellectual property, it is important that the CPTPP provisions commit parties to a minimum level of IP standards. This is not uncommon in plurilateral trade agreements, which often seek to set a baseline on which parties can build, and the UK’s accession to CPTPP will not limit our ability to seek more ambitious trade agreements with others, including those that are CPTPP members. We intend to be a constructive member and to champion our values and priorities, particularly through the committees and councils set up by the agreement.</p>
+    <p pid="b732.0/26">A question was raised on generic medicines to the UK market. Just to reassure noble Lords across the House, there will be no delays in the entry of generic medicines to the UK market as a result of the UK joining CPTPP and no increase in the cost that the NHS pays for medicines. We have made no domestic changes to our rules regarding the marketing of generic medicines and are committed to ensuring patient access to medicines and affordable medicine prices for the NHS, while also supporting the UK’s world-class life sciences sector. Our future trade agreements will not change this.</p>
+    <p pid="b732.0/27">I believe that the noble Lord, Lord Foster, asked a question around grace periods. The UK has signed up to the IP provisions in CPTPP, which is required of all members. We have agreed with the CPTPP parties that the UK will comply with Article 18.38 on grace periods only once the necessary amendments to the European Patent Convention and Strasbourg Patent Convention have been made, in line with Article 18.38 of the CPTPP, and not before. There is a process that we are going through on this point to ensure that all the necessary grace periods relating to IP provisions are aligned.</p>
+    <p pid="b732.0/28">The noble Lord, Lord Razzall, raised some justifiable points around the principles of copyright, as did the noble Lord, Lord Holmes, who asked whether there are reciprocal rights for our artists in CPTPP countries. There absolutely are; I reassure him that this is the whole point of signing up to this trade agreement. It is a free trade area rather than a country-specific free trade zone, so the reciprocity of the membership is entitled fundamentally to all the members. I am extremely keen to promote that. However, there will be a change  in the artists’ rights paid for performances broadcast over media in the UK—not over the internet—and we are applying this to all countries which sign up to these measures in the World Trade Organization. As the noble Lord, Lord Razzall, rightly raised, we are embarking on a consultation which will enable us to ensure that we set the right level of protection for our music industry and for our artists. But fundamentally, the idea of giving our artists half their royalties, as we do here for UK artists and broadcast artists of many other countries, strikes me as a very fair and equitable thing to do and very much part of the spirit of the agreement. However, the consultation will inform us appropriately whether we have that right and I look forward to it being reviewed.</p>
+    <p pid="b732.0/29">I turn briefly to geographical indicators. The noble Baroness, Lady Hayter, raised this, as did a number of noble Lords. These provisions would allow the Secretary of State to cancel future geographical indicators, not current existing ones, if it is felt that they are confusing or not appropriate. It is important to note that as part of our withdrawal agreement with the EU, we cannot cancel geographical indicators so any relationship between those indicators and other CPTPP members will be direct, rather than through us. I hope the House will be reassured by that.</p>
+    <p pid="b732.0/30">I turn to the important point of parliamentary scrutiny in the two minutes or so that I have left. I totally agree with the views of noble Lords: we must have a good debate on both the Bill, which contains relatively specific technical provisions, and the essence of the CPTPP, which is such a wonderful thing. I look forward to having these debates with noble Lords and it is not unusual for the CRaG process to run in parallel to the Bill since, as the noble and learned Lord, Lord Goldsmith, will be aware, they are two completely different things in the essence of parliamentary activity.</p>
+    <p pid="b732.0/31">I have made very clear to the noble Lords, Lord Kerr, Lord Trees, Lord Foster and Lord Grantchester, and to the noble Earl, Lord Sandwich, the importance of a strong, open and wide-ranging general debate on an FTA. That is right and I abide by the Grimstone principle—my formidable predecessor, whose immortality is secured by having a principle named after him; it is my own ambition to also work one into our future trade debates—to ensure that there is, as I say, a general debate. I think we have to go through a process when that is requested and I would be delighted to respond positively to that. I am also extremely available to the noble and learned Lord, Lord Goldsmith, and his committees, and to any noble Lord who wishes to spend time with me or the officials in my department to go through the intricacies of the Bill. We are waiting for the report from the Trade and Agriculture Commission, which I am told will come soon—certainly before the next part of this piece.</p>
+    <p pid="b732.0/32">I will just cover a few brief final points because, quite rightly, the screen is flashing at me. The noble Lord, Lord McNicol, touched on devolution, the one area that had not been covered. I am pleased to say that we are not trying to run concurrent powers through the Bill but looking for legislative consent Motions. I have written to the Trade Ministers of Wales and Scotland and look forward to having strong interlocution  with them, but the feedback that I have had from my officials so far has been extremely positive. I welcome that; there is no doubt that the benefits to Wales and Scotland from this deal are enormous. Scottish whisky alone is worth over £1 billion and the Malaysian opportunities, since we will see import tariffs cut from 80% down to zero, will be significant. That is just one commodity item.</p>
+    <p pid="b732.0/33">If I may briefly touch on the agricultural side before I come to a conclusion, this is very important and clearly will be the subject of a great deal of the debate in the coming sections of this discussion. It is essential to understand one key point: that there is no derogation of our standards on account of signing up to the CPTPP. We have also introduced a number of clear tariff-rate quota mechanisms to ensure that we are protecting our industries from excessive levels of import. I reassure noble Lords in this instance that actual imports of beef, poultry, eggs and sheep meat from the non-Australia/New Zealand CPTPP countries are extremely low in terms of the pressures on our own agricultural sector. In fact, we have not imported an egg from Mexico, for example, since 2015. It is important to stress that sensational statistic, which I picked up this morning. I was very keen to get my knowledge of it into the debate. I should rephrase that: we have not imported a hard-shell egg in its entirety—we do import egg powder from Mexico, as noble Lords will know.</p>
+    <p pid="b732.0/34">I turn to my final point before I come to a conclusion. In fact, there are two final points that I would like to cover briefly on China. It is very important in relation to China that we are clear, as are all CPTPP members, that decisions are taken by consensus. Applicant economies must be willing and able to meet the high standards of the agreement, demonstrate a pattern of complying with their existing trade commitments and be able to command consensus. Further to this, and importantly, we will join CPTPP first, so we will be on the inside, judging other applications, not vice versa. An entry into force of the accession protocol will permit us to be a party to the CPTPP, which is why it is so crucial that we ratify this agreement and become a party.</p>
+    <p pid="b732.0/35">I have one last piece for noble Lords, if I may be indulged by the House, on investor-state dispute settlements. I was extremely grateful to my noble friends Lord Livingston and Lord Lansley for the vocal support for these principles. From my historic experience, running investments in many of these countries, the investor-state dispute mechanisms are very important for allowing British businesses to invest safely and build in these economies. We feel, from the UK side, very protected by the fact that we run and operate a strong degree of rule of law and, as a result of which, we are protected by our own systems. I would not be keen to see us  derogate our responsibilities and links to investor-state dispute settlements, because they are important—and, in this instance, they will represent strong protections for our companies operating in CPTPP, resulting in more investment both ways.</p>
+    <p pid="b732.0/36">To conclude, this Bill represents the continuation of our policy of expanding our horizons to the four corners of the world, being party to the crucial liberalisation of trade which has played such an important part in the economic well-being of our citizens and is an essential component of our strategy to truly immerse ourselves among the faster growing economies of the Asia-Pacific regions. As William Seward said in 1852—and this is my favourite quote—</p>
+    <p pid="b732.0/37" class="indent">“the Pacific Ocean, its shores, its islands and the vast regions beyond will become the chief theatre of events in the world’s great hereafter”.</p>
+    <p pid="b732.0/38">He was correct, and I celebrate this new opportunity afforded us by our fellow nations in the CPTPP to join them in this new stage of development. We should be grateful to them, particularly to countries such as Japan, which led such an important campaign to encourage us to accede—but all the countries of the CPTPP. The Secretary of State for Business and Trade has stated:</p>
+    <p pid="b732.0/39" class="indent">“As CPTPP’s first ever new member, and the only European member, we are linking the UK to some of the world’s most dynamic economies, giving British businesses first-mover advantage in some of the fastest-growing markets in the world, and supporting jobs and economic growth right across the country”.</p>
+    <p pid="b732.0/40">I would also like to thank the former Secretary of State, Dr Liam Fox, who started these negotiations, Elizabeth Truss, the previous Secretary of State, Anne-Marie Trevelyan, Kemi Badenoch, the current Secretary of State, and all the civil servants and officials who have been so hard working in this process. This is an issue that transcends party politics: it is intrinsic to our way of life and our prosperity, not just here in the UK, but across the world. I commend the Bill to the House.</p>
+    <p pid="b732.0/41" class="italic">Bill read a second time.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-21b.738.0" newgid="uk.org.publicwhip/lords/2023-11-21c.738.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-11-21b.738.1" newgid="uk.org.publicwhip/lords/2023-11-21c.738.1" matchtype="perfectmatch"/>
+</publicwhip>
+

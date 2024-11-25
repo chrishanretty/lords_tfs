@@ -1,0 +1,569 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<!DOCTYPE publicwhip
+[
+<!ENTITY ndash   "&#8211;">
+<!ENTITY mdash   "&#8212;">
+<!ENTITY iexcl   "&#161;">
+<!ENTITY divide  "&#247;">
+<!ENTITY euro    "&#8364;">
+<!ENTITY trade   "&#8482;">
+<!ENTITY bull    "&#8226;">
+<!ENTITY lsquo   "&#8216;">
+<!ENTITY rsquo   "&#8217;">
+<!ENTITY sbquo   "&#8218;">
+<!ENTITY ldquo   "&#8220;">
+<!ENTITY rdquo   "&#8221;">
+<!ENTITY bdquo   "&#8222;">
+<!ENTITY dagger  "&#8224;">
+
+<!ENTITY Ouml   "&#214;" >
+<!ENTITY szlig  "&#223;" >
+<!ENTITY agrave "&#224;" >
+<!ENTITY aacute "&#225;" >
+<!ENTITY acirc  "&#226;" >
+<!ENTITY atilde "&#227;" >
+<!ENTITY auml   "&#228;" >
+<!ENTITY ccedil "&#231;" >
+<!ENTITY egrave "&#232;" >
+<!ENTITY eacute "&#233;" >
+<!ENTITY ecirc  "&#234;" >
+<!ENTITY euml   "&#235;" >
+<!ENTITY iacute "&#237;" >
+<!ENTITY icirc  "&#238;" >
+<!ENTITY iuml	"&#239;" >
+<!ENTITY ntilde "&#241;" >
+<!ENTITY nbsp   "&#160;" >
+<!ENTITY oacute "&#243;" >
+<!ENTITY ocirc  "&#244;" >
+<!ENTITY ouml   "&#246;" >
+<!ENTITY oslash "&#248;" >
+<!ENTITY uacute "&#250;" >
+<!ENTITY uuml   "&#252;" >
+<!ENTITY thorn  "&#254;" >
+
+<!ENTITY pound  "&#163;" >
+<!ENTITY sect   "&#167;" >
+<!ENTITY copy   "&#169;" >
+<!ENTITY reg    "&#174;" >
+<!ENTITY deg    "&#176;" >
+<!ENTITY plusmn "&#177;" >
+<!ENTITY sup2   "&#178;" >
+<!ENTITY micro  "&#181;" >
+<!ENTITY para   "&#182;" >
+<!ENTITY middot "&#183;" >
+<!ENTITY ordm   "&#186;" >
+<!ENTITY frac14 "&#188;" >
+<!ENTITY frac12 "&#189;" >
+<!ENTITY frac34 "&#190;" >
+<!ENTITY oelig "&#339;" >
+<!ENTITY aelig  "&#230;" >
+
+]>
+
+<publicwhip scrapeversion="/home/twfy-live/parldata/scrapedxml/lordspages/daylord2017-03-15a.xml" latest="no">
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1855.0" newgid="uk.org.publicwhip/lords/2017-03-15b.1855.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1855.2" newgid="uk.org.publicwhip/lords/2017-03-15b.1855.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1855.3" newgid="uk.org.publicwhip/lords/2017-03-15b.1855.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1855.4" newgid="uk.org.publicwhip/lords/2017-03-15b.1855.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1855.5" newgid="uk.org.publicwhip/lords/2017-03-15b.1855.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1855.6" newgid="uk.org.publicwhip/lords/2017-03-15b.1855.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1855.7" newgid="uk.org.publicwhip/lords/2017-03-15b.1855.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1856.0" newgid="uk.org.publicwhip/lords/2017-03-15b.1856.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1856.1" newgid="uk.org.publicwhip/lords/2017-03-15b.1856.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1856.2" newgid="uk.org.publicwhip/lords/2017-03-15b.1856.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1856.3" newgid="uk.org.publicwhip/lords/2017-03-15b.1856.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1856.4" newgid="uk.org.publicwhip/lords/2017-03-15b.1856.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1856.5" newgid="uk.org.publicwhip/lords/2017-03-15b.1856.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1857.0" newgid="uk.org.publicwhip/lords/2017-03-15b.1857.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1857.1" newgid="uk.org.publicwhip/lords/2017-03-15b.1857.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1857.2" newgid="uk.org.publicwhip/lords/2017-03-15b.1857.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1857.3" newgid="uk.org.publicwhip/lords/2017-03-15b.1857.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1857.4" newgid="uk.org.publicwhip/lords/2017-03-15b.1857.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1857.5" newgid="uk.org.publicwhip/lords/2017-03-15b.1857.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1857.6" newgid="uk.org.publicwhip/lords/2017-03-15b.1857.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1857.7" newgid="uk.org.publicwhip/lords/2017-03-15b.1857.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1857.8" newgid="uk.org.publicwhip/lords/2017-03-15b.1857.8" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1858.0" newgid="uk.org.publicwhip/lords/2017-03-15b.1858.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1858.1" newgid="uk.org.publicwhip/lords/2017-03-15b.1858.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1858.2" newgid="uk.org.publicwhip/lords/2017-03-15b.1858.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1858.3" newgid="uk.org.publicwhip/lords/2017-03-15b.1858.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1858.4" newgid="uk.org.publicwhip/lords/2017-03-15b.1858.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1859.0" newgid="uk.org.publicwhip/lords/2017-03-15b.1859.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1859.1" newgid="uk.org.publicwhip/lords/2017-03-15b.1859.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1859.2" newgid="uk.org.publicwhip/lords/2017-03-15b.1859.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1859.3" newgid="uk.org.publicwhip/lords/2017-03-15b.1859.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1859.4" newgid="uk.org.publicwhip/lords/2017-03-15b.1859.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1860.0" newgid="uk.org.publicwhip/lords/2017-03-15b.1860.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1860.1" newgid="uk.org.publicwhip/lords/2017-03-15b.1860.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1860.2" newgid="uk.org.publicwhip/lords/2017-03-15b.1860.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1860.3" newgid="uk.org.publicwhip/lords/2017-03-15b.1860.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1860.4" newgid="uk.org.publicwhip/lords/2017-03-15b.1860.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1860.5" newgid="uk.org.publicwhip/lords/2017-03-15b.1860.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1861.0" newgid="uk.org.publicwhip/lords/2017-03-15b.1861.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1861.1" newgid="uk.org.publicwhip/lords/2017-03-15b.1861.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1861.2" newgid="uk.org.publicwhip/lords/2017-03-15b.1861.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1861.3" newgid="uk.org.publicwhip/lords/2017-03-15b.1861.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1861.4" newgid="uk.org.publicwhip/lords/2017-03-15b.1861.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1861.5" newgid="uk.org.publicwhip/lords/2017-03-15b.1861.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1861.6" newgid="uk.org.publicwhip/lords/2017-03-15b.1861.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1862.0" newgid="uk.org.publicwhip/lords/2017-03-15b.1862.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1862.1" newgid="uk.org.publicwhip/lords/2017-03-15b.1862.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1862.2" newgid="uk.org.publicwhip/lords/2017-03-15b.1862.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1862.3" newgid="uk.org.publicwhip/lords/2017-03-15b.1862.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1862.4" newgid="uk.org.publicwhip/lords/2017-03-15b.1862.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1862.5" newgid="uk.org.publicwhip/lords/2017-03-15b.1862.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1862.6" newgid="uk.org.publicwhip/lords/2017-03-15b.1862.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1863.0" newgid="uk.org.publicwhip/lords/2017-03-15b.1863.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1863.1" newgid="uk.org.publicwhip/lords/2017-03-15b.1863.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1863.2" newgid="uk.org.publicwhip/lords/2017-03-15b.1863.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1863.3" newgid="uk.org.publicwhip/lords/2017-03-15b.1863.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1863.4" newgid="uk.org.publicwhip/lords/2017-03-15b.1863.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1864.0" newgid="uk.org.publicwhip/lords/2017-03-15b.1864.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1864.1" newgid="uk.org.publicwhip/lords/2017-03-15b.1864.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1864.2" newgid="uk.org.publicwhip/lords/2017-03-15b.1864.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1864.3" newgid="uk.org.publicwhip/lords/2017-03-15b.1864.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1864.4" newgid="uk.org.publicwhip/lords/2017-03-15b.1864.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1864.5" newgid="uk.org.publicwhip/lords/2017-03-15b.1864.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1864.6" newgid="uk.org.publicwhip/lords/2017-03-15b.1864.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1864.7" newgid="uk.org.publicwhip/lords/2017-03-15b.1864.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1865.0" newgid="uk.org.publicwhip/lords/2017-03-15b.1865.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1865.1" newgid="uk.org.publicwhip/lords/2017-03-15b.1865.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1865.2" newgid="uk.org.publicwhip/lords/2017-03-15b.1865.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1865.3" newgid="uk.org.publicwhip/lords/2017-03-15b.1865.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1865.4" newgid="uk.org.publicwhip/lords/2017-03-15b.1865.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1865.5" newgid="uk.org.publicwhip/lords/2017-03-15b.1865.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1865.6" newgid="uk.org.publicwhip/lords/2017-03-15b.1865.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1866.0" newgid="uk.org.publicwhip/lords/2017-03-15b.1866.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1866.1" newgid="uk.org.publicwhip/lords/2017-03-15b.1866.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1867.0" newgid="uk.org.publicwhip/lords/2017-03-15b.1867.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1867.1" newgid="uk.org.publicwhip/lords/2017-03-15b.1867.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1867.2" newgid="uk.org.publicwhip/lords/2017-03-15b.1867.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1867.3" newgid="uk.org.publicwhip/lords/2017-03-15b.1867.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1867.4" newgid="uk.org.publicwhip/lords/2017-03-15b.1867.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1868.0" newgid="uk.org.publicwhip/lords/2017-03-15b.1868.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1868.1" newgid="uk.org.publicwhip/lords/2017-03-15b.1868.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1868.2" newgid="uk.org.publicwhip/lords/2017-03-15b.1868.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1869.0" newgid="uk.org.publicwhip/lords/2017-03-15b.1869.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1869.1" newgid="uk.org.publicwhip/lords/2017-03-15b.1869.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1870.0" newgid="uk.org.publicwhip/lords/2017-03-15b.1870.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1870.1" newgid="uk.org.publicwhip/lords/2017-03-15b.1870.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1870.2" newgid="uk.org.publicwhip/lords/2017-03-15b.1870.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1870.3" newgid="uk.org.publicwhip/lords/2017-03-15b.1870.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1870.4" newgid="uk.org.publicwhip/lords/2017-03-15b.1870.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1871.0" newgid="uk.org.publicwhip/lords/2017-03-15b.1871.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1871.1" newgid="uk.org.publicwhip/lords/2017-03-15b.1871.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1871.2" newgid="uk.org.publicwhip/lords/2017-03-15b.1871.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1871.3" newgid="uk.org.publicwhip/lords/2017-03-15b.1871.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1871.4" newgid="uk.org.publicwhip/lords/2017-03-15b.1871.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1871.5" newgid="uk.org.publicwhip/lords/2017-03-15b.1871.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1871.6" newgid="uk.org.publicwhip/lords/2017-03-15b.1871.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1871.7" newgid="uk.org.publicwhip/lords/2017-03-15b.1871.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1872.0" newgid="uk.org.publicwhip/lords/2017-03-15b.1872.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1872.1" newgid="uk.org.publicwhip/lords/2017-03-15b.1872.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1872.2" newgid="uk.org.publicwhip/lords/2017-03-15b.1872.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1872.3" newgid="uk.org.publicwhip/lords/2017-03-15b.1872.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1873.0" newgid="uk.org.publicwhip/lords/2017-03-15b.1873.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1875.0" newgid="uk.org.publicwhip/lords/2017-03-15b.1875.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1876.0" newgid="uk.org.publicwhip/lords/2017-03-15b.1876.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1876.1" newgid="uk.org.publicwhip/lords/2017-03-15b.1876.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1877.0" newgid="uk.org.publicwhip/lords/2017-03-15b.1877.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1877.1" newgid="uk.org.publicwhip/lords/2017-03-15b.1877.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1877.2" newgid="uk.org.publicwhip/lords/2017-03-15b.1877.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1877.3" newgid="uk.org.publicwhip/lords/2017-03-15b.1877.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1878.0" newgid="uk.org.publicwhip/lords/2017-03-15b.1878.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1878.1" newgid="uk.org.publicwhip/lords/2017-03-15b.1878.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1878.2" newgid="uk.org.publicwhip/lords/2017-03-15b.1878.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1878.3" newgid="uk.org.publicwhip/lords/2017-03-15b.1878.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1878.4" newgid="uk.org.publicwhip/lords/2017-03-15b.1878.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1878.5" newgid="uk.org.publicwhip/lords/2017-03-15b.1878.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1878.6" newgid="uk.org.publicwhip/lords/2017-03-15b.1878.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1879.0" newgid="uk.org.publicwhip/lords/2017-03-15b.1879.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1879.1" newgid="uk.org.publicwhip/lords/2017-03-15b.1879.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1879.2" newgid="uk.org.publicwhip/lords/2017-03-15b.1879.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1879.3" newgid="uk.org.publicwhip/lords/2017-03-15b.1879.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1879.4" newgid="uk.org.publicwhip/lords/2017-03-15b.1879.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1880.0" newgid="uk.org.publicwhip/lords/2017-03-15b.1880.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1880.1" newgid="uk.org.publicwhip/lords/2017-03-15b.1880.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1880.2" newgid="uk.org.publicwhip/lords/2017-03-15b.1880.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1880.3" newgid="uk.org.publicwhip/lords/2017-03-15b.1880.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1880.4" newgid="uk.org.publicwhip/lords/2017-03-15b.1880.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1880.5" newgid="uk.org.publicwhip/lords/2017-03-15b.1880.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1880.6" newgid="uk.org.publicwhip/lords/2017-03-15b.1880.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1880.7" newgid="uk.org.publicwhip/lords/2017-03-15b.1880.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1881.0" newgid="uk.org.publicwhip/lords/2017-03-15b.1881.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1881.1" newgid="uk.org.publicwhip/lords/2017-03-15b.1881.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1881.2" newgid="uk.org.publicwhip/lords/2017-03-15b.1881.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1881.3" newgid="uk.org.publicwhip/lords/2017-03-15b.1881.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1881.4" newgid="uk.org.publicwhip/lords/2017-03-15b.1881.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1882.0" newgid="uk.org.publicwhip/lords/2017-03-15b.1882.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1882.1" newgid="uk.org.publicwhip/lords/2017-03-15b.1882.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1882.2" newgid="uk.org.publicwhip/lords/2017-03-15b.1882.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1882.3" newgid="uk.org.publicwhip/lords/2017-03-15b.1882.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1882.4" newgid="uk.org.publicwhip/lords/2017-03-15b.1882.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1882.5" newgid="uk.org.publicwhip/lords/2017-03-15b.1882.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1882.6" newgid="uk.org.publicwhip/lords/2017-03-15b.1882.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1883.0" newgid="uk.org.publicwhip/lords/2017-03-15b.1883.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1883.1" newgid="uk.org.publicwhip/lords/2017-03-15b.1883.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1883.2" newgid="uk.org.publicwhip/lords/2017-03-15b.1883.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1886.0" newgid="uk.org.publicwhip/lords/2017-03-15b.1886.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1888.0" newgid="uk.org.publicwhip/lords/2017-03-15b.1888.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1889.0" newgid="uk.org.publicwhip/lords/2017-03-15b.1889.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1890.0" newgid="uk.org.publicwhip/lords/2017-03-15b.1890.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1891.0" newgid="uk.org.publicwhip/lords/2017-03-15b.1891.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1891.1" newgid="uk.org.publicwhip/lords/2017-03-15b.1891.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1892.0" newgid="uk.org.publicwhip/lords/2017-03-15b.1892.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1895.0" newgid="uk.org.publicwhip/lords/2017-03-15b.1895.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1896.0" newgid="uk.org.publicwhip/lords/2017-03-15b.1896.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1896.1" newgid="uk.org.publicwhip/lords/2017-03-15b.1896.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1896.2" newgid="uk.org.publicwhip/lords/2017-03-15b.1896.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1897.0" newgid="uk.org.publicwhip/lords/2017-03-15b.1897.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1898.0" newgid="uk.org.publicwhip/lords/2017-03-15b.1898.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1899.0" newgid="uk.org.publicwhip/lords/2017-03-15b.1899.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1899.1" newgid="uk.org.publicwhip/lords/2017-03-15b.1899.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1900.0" newgid="uk.org.publicwhip/lords/2017-03-15b.1900.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1900.1" newgid="uk.org.publicwhip/lords/2017-03-15b.1900.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1900.2" newgid="uk.org.publicwhip/lords/2017-03-15b.1900.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1901.0" newgid="uk.org.publicwhip/lords/2017-03-15b.1901.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1903.0" newgid="uk.org.publicwhip/lords/2017-03-15b.1903.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1903.1" newgid="uk.org.publicwhip/lords/2017-03-15b.1903.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1906.0" newgid="uk.org.publicwhip/lords/2017-03-15b.1906.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1906.1" newgid="uk.org.publicwhip/lords/2017-03-15b.1906.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1906.2" newgid="uk.org.publicwhip/lords/2017-03-15b.1906.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1906.3" newgid="uk.org.publicwhip/lords/2017-03-15b.1906.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1907.0" newgid="uk.org.publicwhip/lords/2017-03-15b.1907.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1907.1" newgid="uk.org.publicwhip/lords/2017-03-15b.1907.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1907.2" newgid="uk.org.publicwhip/lords/2017-03-15b.1907.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1907.3" newgid="uk.org.publicwhip/lords/2017-03-15b.1907.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1907.4" newgid="uk.org.publicwhip/lords/2017-03-15b.1907.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1907.5" newgid="uk.org.publicwhip/lords/2017-03-15b.1907.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1907.6" newgid="uk.org.publicwhip/lords/2017-03-15b.1907.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1909.0" newgid="uk.org.publicwhip/lords/2017-03-15b.1909.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1910.0" newgid="uk.org.publicwhip/lords/2017-03-15b.1910.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1910.1" newgid="uk.org.publicwhip/lords/2017-03-15b.1910.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1911.0" newgid="uk.org.publicwhip/lords/2017-03-15b.1911.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1911.1" newgid="uk.org.publicwhip/lords/2017-03-15b.1911.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1912.0" newgid="uk.org.publicwhip/lords/2017-03-15b.1912.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1913.0" newgid="uk.org.publicwhip/lords/2017-03-15b.1913.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1913.1" newgid="uk.org.publicwhip/lords/2017-03-15b.1913.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1913.2" newgid="uk.org.publicwhip/lords/2017-03-15b.1913.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1914.0" newgid="uk.org.publicwhip/lords/2017-03-15b.1914.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1917.0" newgid="uk.org.publicwhip/lords/2017-03-15b.1917.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1917.1" newgid="uk.org.publicwhip/lords/2017-03-15b.1917.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1918.0" newgid="uk.org.publicwhip/lords/2017-03-15b.1918.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1920.0" newgid="uk.org.publicwhip/lords/2017-03-15b.1920.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1921.0" newgid="uk.org.publicwhip/lords/2017-03-15b.1921.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1921.1" newgid="uk.org.publicwhip/lords/2017-03-15b.1921.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1921.2" newgid="uk.org.publicwhip/lords/2017-03-15b.1921.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1921.3" newgid="uk.org.publicwhip/lords/2017-03-15b.1921.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1921.4" newgid="uk.org.publicwhip/lords/2017-03-15b.1921.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1921.5" newgid="uk.org.publicwhip/lords/2017-03-15b.1921.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1921.6" newgid="uk.org.publicwhip/lords/2017-03-15b.1921.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1922.0" newgid="uk.org.publicwhip/lords/2017-03-15b.1922.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1922.1" newgid="uk.org.publicwhip/lords/2017-03-15b.1922.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1922.2" newgid="uk.org.publicwhip/lords/2017-03-15b.1922.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1923.0" newgid="uk.org.publicwhip/lords/2017-03-15b.1923.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1923.1" newgid="uk.org.publicwhip/lords/2017-03-15b.1923.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1924.0" newgid="uk.org.publicwhip/lords/2017-03-15b.1924.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1924.1" newgid="uk.org.publicwhip/lords/2017-03-15b.1924.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1925.0" newgid="uk.org.publicwhip/lords/2017-03-15b.1925.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1927.0" newgid="uk.org.publicwhip/lords/2017-03-15b.1927.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1928.0" newgid="uk.org.publicwhip/lords/2017-03-15b.1928.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1928.1" newgid="uk.org.publicwhip/lords/2017-03-15b.1928.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1928.2" newgid="uk.org.publicwhip/lords/2017-03-15b.1928.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1928.3" newgid="uk.org.publicwhip/lords/2017-03-15b.1928.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1929.0" newgid="uk.org.publicwhip/lords/2017-03-15b.1929.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1929.1" newgid="uk.org.publicwhip/lords/2017-03-15b.1929.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1929.2" newgid="uk.org.publicwhip/lords/2017-03-15b.1929.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1930.0" newgid="uk.org.publicwhip/lords/2017-03-15b.1930.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1930.1" newgid="uk.org.publicwhip/lords/2017-03-15b.1930.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1931.0" newgid="uk.org.publicwhip/lords/2017-03-15b.1931.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1931.1" newgid="uk.org.publicwhip/lords/2017-03-15b.1931.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1933.0" newgid="uk.org.publicwhip/lords/2017-03-15b.1933.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1934.0" newgid="uk.org.publicwhip/lords/2017-03-15b.1934.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1935.0" newgid="uk.org.publicwhip/lords/2017-03-15b.1935.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1935.1" newgid="uk.org.publicwhip/lords/2017-03-15b.1935.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1936.0" newgid="uk.org.publicwhip/lords/2017-03-15b.1936.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1936.1" newgid="uk.org.publicwhip/lords/2017-03-15b.1936.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1936.2" newgid="uk.org.publicwhip/lords/2017-03-15b.1936.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1936.3" newgid="uk.org.publicwhip/lords/2017-03-15b.1936.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1936.4" newgid="uk.org.publicwhip/lords/2017-03-15b.1936.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1936.5" newgid="uk.org.publicwhip/lords/2017-03-15b.1936.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1937.0" newgid="uk.org.publicwhip/lords/2017-03-15b.1937.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1937.1" newgid="uk.org.publicwhip/lords/2017-03-15b.1937.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1937.2" newgid="uk.org.publicwhip/lords/2017-03-15b.1937.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1937.3" newgid="uk.org.publicwhip/lords/2017-03-15b.1937.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1937.4" newgid="uk.org.publicwhip/lords/2017-03-15b.1937.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1938.0" newgid="uk.org.publicwhip/lords/2017-03-15b.1938.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1939.0" newgid="uk.org.publicwhip/lords/2017-03-15b.1939.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1940.0" newgid="uk.org.publicwhip/lords/2017-03-15b.1940.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1940.1" newgid="uk.org.publicwhip/lords/2017-03-15b.1940.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1941.0" newgid="uk.org.publicwhip/lords/2017-03-15b.1941.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1941.1" newgid="uk.org.publicwhip/lords/2017-03-15b.1941.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1941.2" newgid="uk.org.publicwhip/lords/2017-03-15b.1941.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1944.0" newgid="uk.org.publicwhip/lords/2017-03-15b.1944.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1944.1" newgid="uk.org.publicwhip/lords/2017-03-15b.1944.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1944.2" newgid="uk.org.publicwhip/lords/2017-03-15b.1944.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1944.3" newgid="uk.org.publicwhip/lords/2017-03-15b.1944.3" matchtype="changes"/>
+<division id="uk.org.publicwhip/lords/2017-03-15a.1944.3" nospeaker="true" divdate="2017-03-15" divnumber="1" colnum="1944" time="20:00:00">
+    <divisioncount content="101" not-content="142"/>
+    <lordlist vote="content">
+      <lord person_id="uk.org.publicwhip/person/10003" vote="content">Baroness Adams of Craigielea</lord>
+      <lord person_id="uk.org.publicwhip/person/13103" vote="content">Lord Alton of Liverpool</lord>
+      <lord person_id="uk.org.publicwhip/person/13524" vote="content">Baroness Barker</lord>
+      <lord person_id="uk.org.publicwhip/person/13512" vote="content" teller="yes">Lord Bassam of Brighton</lord>
+      <lord person_id="uk.org.publicwhip/person/25009" vote="content">Lord Beecham</lord>
+      <lord person_id="uk.org.publicwhip/person/13508" vote="content">Lord Bhatia</lord>
+      <lord person_id="uk.org.publicwhip/person/13196" vote="content">Lord Bhattacharyya</lord>
+      <lord person_id="uk.org.publicwhip/person/13881" vote="content">Lord Bilimoria</lord>
+      <lord person_id="uk.org.publicwhip/person/13241" vote="content">Baroness Blackstone</lord>
+      <lord person_id="uk.org.publicwhip/person/13034" vote="content">Lord Bragg</lord>
+      <lord person_id="uk.org.publicwhip/person/13054" vote="content">Lord Broers</lord>
+      <lord person_id="uk.org.publicwhip/person/13606" vote="content">Lord Brookman</lord>
+      <lord person_id="uk.org.publicwhip/person/25486" vote="content">Baroness Brown of Cambridge</lord>
+      <lord person_id="uk.org.publicwhip/person/11823" vote="content">Baroness Burt of Solihull</lord>
+      <lord person_id="uk.org.publicwhip/person/13199" vote="content">Lord Carter of Coles</lord>
+      <lord person_id="uk.org.publicwhip/person/25581" vote="content">Baroness Chakrabarti</lord>
+      <lord person_id="uk.org.publicwhip/person/13010" vote="content">Viscount Chandos</lord>
+      <lord person_id="uk.org.publicwhip/person/10108" vote="content">Lord Clark of Windermere</lord>
+      <lord person_id="uk.org.publicwhip/person/25048" vote="content">Lord Collins of Highbury</lord>
+      <lord person_id="uk.org.publicwhip/person/10136" vote="content">Lord Cotter</lord>
+      <lord person_id="uk.org.publicwhip/person/13559" vote="content">Baroness Cox</lord>
+      <lord person_id="uk.org.publicwhip/person/13094" vote="content">Baroness Crawley</lord>
+      <lord person_id="uk.org.publicwhip/person/13395" vote="content">Lord Davies of Oldham</lord>
+      <lord person_id="uk.org.publicwhip/person/10160" vote="content">Lord Davies of Stamford</lord>
+      <lord person_id="uk.org.publicwhip/person/13661" vote="content">Lord Desai</lord>
+      <lord person_id="uk.org.publicwhip/person/24989" vote="content">Baroness Donaghy</lord>
+      <lord person_id="uk.org.publicwhip/person/13000" vote="content">Lord Dubs</lord>
+      <lord person_id="uk.org.publicwhip/person/13003" vote="content">Lord Elder</lord>
+      <lord person_id="uk.org.publicwhip/person/12846" vote="content">Baroness Farrington of Ribbleton</lord>
+      <lord person_id="uk.org.publicwhip/person/10207" vote="content">Lord Foster of Bishop Auckland</lord>
+      <lord person_id="uk.org.publicwhip/person/13310" vote="content">Baroness Gale</lord>
+      <lord person_id="uk.org.publicwhip/person/13938" vote="content">Baroness Garden of Frognal</lord>
+      <lord person_id="uk.org.publicwhip/person/13483" vote="content">Lord Giddens</lord>
+      <lord person_id="uk.org.publicwhip/person/10233" vote="content">Baroness Golding</lord>
+      <lord person_id="uk.org.publicwhip/person/13570" vote="content">Lord Grantchester</lord>
+      <lord person_id="uk.org.publicwhip/person/13422" vote="content">Baroness Hamwee</lord>
+      <lord person_id="uk.org.publicwhip/person/25071" vote="content">Viscount Hanworth</lord>
+      <lord person_id="uk.org.publicwhip/person/13499" vote="content">Lord Haskel</lord>
+      <lord person_id="uk.org.publicwhip/person/13052" vote="content">Lord Haworth</lord>
+      <lord person_id="uk.org.publicwhip/person/13495" vote="content">Baroness Hayman</lord>
+      <lord person_id="uk.org.publicwhip/person/24973" vote="content">Baroness Hayter of Kentish Town</lord>
+      <lord person_id="uk.org.publicwhip/person/25004" vote="content">Baroness Healy of Primrose Hill</lord>
+      <lord person_id="uk.org.publicwhip/person/13217" vote="content">Baroness Hollis of Heigham</lord>
+      <lord person_id="uk.org.publicwhip/person/10291" vote="content">Lord Howarth of Newport</lord>
+      <lord person_id="uk.org.publicwhip/person/13073" vote="content">Baroness Howells of St Davids</lord>
+      <lord person_id="uk.org.publicwhip/person/13350" vote="content">Lord Hoyle</lord>
+      <lord person_id="uk.org.publicwhip/person/25027" vote="content">Baroness Jolly</lord>
+      <lord person_id="uk.org.publicwhip/person/13877" vote="content">Baroness Jones of Whitchurch</lord>
+      <lord person_id="uk.org.publicwhip/person/10326" vote="content">Baroness Jowell</lord>
+      <lord person_id="uk.org.publicwhip/person/12989" vote="content">Lord Judd</lord>
+      <lord person_id="uk.org.publicwhip/person/24986" vote="content">Lord Kennedy of Southwark</lord>
+      <lord person_id="uk.org.publicwhip/person/12994" vote="content">Baroness Kennedy of The Shaws</lord>
+      <lord person_id="uk.org.publicwhip/person/13726" vote="content">Baroness Kingsmill</lord>
+      <lord person_id="uk.org.publicwhip/person/13212" vote="content">Lord Kirkhill</lord>
+      <lord person_id="uk.org.publicwhip/person/25193" vote="content">Baroness Lawrence of Clarendon</lord>
+      <lord person_id="uk.org.publicwhip/person/13379" vote="content">Lord Lea of Crondall</lord>
+      <lord person_id="uk.org.publicwhip/person/24975" vote="content">Lord Liddle</lord>
+      <lord person_id="uk.org.publicwhip/person/13646" vote="content">Earl of Listowel</lord>
+      <lord person_id="uk.org.publicwhip/person/25477" vote="content">Lord Livermore</lord>
+      <lord person_id="uk.org.publicwhip/person/10376" vote="content" teller="yes">Lord McAvoy</lord>
+      <lord person_id="uk.org.publicwhip/person/13565" vote="content">Lord Macdonald of Tradeston</lord>
+      <lord person_id="uk.org.publicwhip/person/13121" vote="content">Baroness McIntosh of Hudnall</lord>
+      <lord person_id="uk.org.publicwhip/person/13122" vote="content">Lord Mackay of Clashfern</lord>
+      <lord person_id="uk.org.publicwhip/person/13124" vote="content">Lord MacKenzie of Culkein</lord>
+      <lord person_id="uk.org.publicwhip/person/12909" vote="content">Baroness Masham of Ilton</lord>
+      <lord person_id="uk.org.publicwhip/person/10425" vote="content">Lord Maxton</lord>
+      <lord person_id="uk.org.publicwhip/person/25014" vote="content">Lord Monks</lord>
+      <lord person_id="uk.org.publicwhip/person/13727" vote="content">Lord Morris of Handsworth</lord>
+      <lord person_id="uk.org.publicwhip/person/10445" vote="content">Baroness Morris of Yardley</lord>
+      <lord person_id="uk.org.publicwhip/person/25007" vote="content">Baroness Nye</lord>
+      <lord person_id="uk.org.publicwhip/person/10475" vote="content">Lord Pendry</lord>
+      <lord person_id="uk.org.publicwhip/person/25244" vote="content">Baroness Pinnock</lord>
+      <lord person_id="uk.org.publicwhip/person/13424" vote="content">Baroness Pitkeathley</lord>
+      <lord person_id="uk.org.publicwhip/person/13475" vote="content">Baroness Prosser</lord>
+      <lord person_id="uk.org.publicwhip/person/13725" vote="content">Baroness Quin</lord>
+      <lord person_id="uk.org.publicwhip/person/13031" vote="content">Lord Redesdale</lord>
+      <lord person_id="uk.org.publicwhip/person/13481" vote="content">Lord Rosser</lord>
+      <lord person_id="uk.org.publicwhip/person/13452" vote="content">Baroness Royall of Blaisdon</lord>
+      <lord person_id="uk.org.publicwhip/person/13146" vote="content">Lord Sawyer</lord>
+      <lord person_id="uk.org.publicwhip/person/25022" vote="content">Lord Sharkey</lord>
+      <lord person_id="uk.org.publicwhip/person/24982" vote="content">Baroness Sherlock</lord>
+      <lord person_id="uk.org.publicwhip/person/13456" vote="content">Viscount Simon</lord>
+      <lord person_id="uk.org.publicwhip/person/10546" vote="content">Baroness Smith of Basildon</lord>
+      <lord person_id="uk.org.publicwhip/person/10547" vote="content">Lord Smith of Finsbury</lord>
+      <lord person_id="uk.org.publicwhip/person/10556" vote="content">Lord Soley</lord>
+      <lord person_id="uk.org.publicwhip/person/24999" vote="content">Lord Stevenson of Balmacara</lord>
+      <lord person_id="uk.org.publicwhip/person/13630" vote="content">Lord Stone of Blackheath</lord>
+      <lord person_id="uk.org.publicwhip/person/25052" vote="content">Lord Stoneham of Droxford</lord>
+      <lord person_id="uk.org.publicwhip/person/25060" vote="content">Lord Storey</lord>
+      <lord person_id="uk.org.publicwhip/person/13541" vote="content">Lord Tomlinson</lord>
+      <lord person_id="uk.org.publicwhip/person/12839" vote="content">Lord Triesman</lord>
+      <lord person_id="uk.org.publicwhip/person/13274" vote="content">Baroness Uddin</lord>
+      <lord person_id="uk.org.publicwhip/person/25481" vote="content">Baroness Watkins of Tavistock</lord>
+      <lord person_id="uk.org.publicwhip/person/12893" vote="content">Lord Watson of Invergowrie</lord>
+      <lord person_id="uk.org.publicwhip/person/25454" vote="content">Duke of Wellington</lord>
+      <lord person_id="uk.org.publicwhip/person/12957" vote="content">Baroness Whitaker</lord>
+      <lord person_id="uk.org.publicwhip/person/10635" vote="content">Lord Wigley</lord>
+      <lord person_id="uk.org.publicwhip/person/13620" vote="content">Lord Winston</lord>
+      <lord person_id="uk.org.publicwhip/person/25259" vote="content">Baroness Wolf of Dulwich</lord>
+      <lord person_id="uk.org.publicwhip/person/13450" vote="content">Lord Young of Norwood Green</lord>
+      <lord person_id="uk.org.publicwhip/person/13030" vote="content">Baroness Young of Old Scone</lord>
+    </lordlist>
+    <lordlist vote="not-content">
+      <lord person_id="uk.org.publicwhip/person/25040" vote="not-content">Lord Ahmad of Wimbledon</lord>
+      <lord person_id="uk.org.publicwhip/person/25445" vote="not-content">Baroness Altmann</lord>
+      <lord person_id="uk.org.publicwhip/person/13107" vote="not-content">Baroness Anelay of St Johns</lord>
+      <lord person_id="uk.org.publicwhip/person/10013" vote="not-content">Lord Arbuthnot of Edrom</lord>
+      <lord person_id="uk.org.publicwhip/person/25146" vote="not-content">Lord Ashton of Hyde</lord>
+      <lord person_id="uk.org.publicwhip/person/13503" vote="not-content">Lord Bell</lord>
+      <lord person_id="uk.org.publicwhip/person/25049" vote="not-content">Baroness Berridge</lord>
+      <lord person_id="uk.org.publicwhip/person/25589" vote="not-content">Baroness Bertin</lord>
+      <lord person_id="uk.org.publicwhip/person/10394" vote="not-content">Lord Blencathra</lord>
+      <lord person_id="uk.org.publicwhip/person/25582" vote="not-content">Baroness Bloomfield of Hinton Waldrist</lord>
+      <lord person_id="uk.org.publicwhip/person/25186" vote="not-content">Lord Borwick</lord>
+      <lord person_id="uk.org.publicwhip/person/10058" vote="not-content">Baroness Bottomley of Nettlestone</lord>
+      <lord person_id="uk.org.publicwhip/person/25192" vote="not-content">Lord Bourne of Aberystwyth</lord>
+      <lord person_id="uk.org.publicwhip/person/12984" vote="not-content">Lord Brabazon of Tara</lord>
+      <lord person_id="uk.org.publicwhip/person/13878" vote="not-content">Lord Browne of Belmont</lord>
+      <lord person_id="uk.org.publicwhip/person/10072" vote="not-content">Baroness Browning</lord>
+      <lord person_id="uk.org.publicwhip/person/13451" vote="not-content">Baroness Buscombe</lord>
+      <lord person_id="uk.org.publicwhip/person/13458" vote="not-content">Baroness Byford</lord>
+      <lord person_id="uk.org.publicwhip/person/13351" vote="not-content">Earl of Caithness</lord>
+      <lord person_id="uk.org.publicwhip/person/25250" vote="not-content">Lord Callanan</lord>
+      <lord person_id="uk.org.publicwhip/person/16901" vote="not-content">Lord Carrington of Fulham</lord>
+      <lord person_id="uk.org.publicwhip/person/13017" vote="not-content">Lord Cavendish of Furness</lord>
+      <lord person_id="uk.org.publicwhip/person/25241" vote="not-content">Baroness Chisholm of Owlpen</lord>
+      <lord person_id="uk.org.publicwhip/person/13550" vote="not-content">Lord Colwyn</lord>
+      <lord person_id="uk.org.publicwhip/person/12871" vote="not-content">Lord Cope of Berkeley</lord>
+      <lord person_id="uk.org.publicwhip/person/10134" vote="not-content">Lord Cormack</lord>
+      <lord person_id="uk.org.publicwhip/person/12873" vote="not-content" teller="yes">Earl of Courtown</lord>
+      <lord person_id="uk.org.publicwhip/person/25583" vote="not-content">Baroness Couttie</lord>
+      <lord person_id="uk.org.publicwhip/person/12952" vote="not-content">Lord Crathorne</lord>
+      <lord person_id="uk.org.publicwhip/person/13095" vote="not-content">Lord Crickhowell</lord>
+      <lord person_id="uk.org.publicwhip/person/13173" vote="not-content">Lord de Mauley</lord>
+      <lord person_id="uk.org.publicwhip/person/13665" vote="not-content">Lord Dixon-Smith</lord>
+      <lord person_id="uk.org.publicwhip/person/25024" vote="not-content">Lord Dobbs</lord>
+      <lord person_id="uk.org.publicwhip/person/12999" vote="not-content">Earl of Dundee</lord>
+      <lord person_id="uk.org.publicwhip/person/25441" vote="not-content">Lord Dunlop</lord>
+      <lord person_id="uk.org.publicwhip/person/25003" vote="not-content">Baroness Eaton</lord>
+      <lord person_id="uk.org.publicwhip/person/13172" vote="not-content">Viscount Eccles</lord>
+      <lord person_id="uk.org.publicwhip/person/12997" vote="not-content">Baroness Eccles of Moulton</lord>
+      <lord person_id="uk.org.publicwhip/person/13233" vote="not-content">Lord Elton</lord>
+      <lord person_id="uk.org.publicwhip/person/25245" vote="not-content">Baroness Evans of Bowes Park</lord>
+      <lord person_id="uk.org.publicwhip/person/25472" vote="not-content">Lord Fairfax of Cameron</lord>
+      <lord person_id="uk.org.publicwhip/person/25480" vote="not-content">Baroness Fall</lord>
+      <lord person_id="uk.org.publicwhip/person/25051" vote="not-content">Lord Fink</lord>
+      <lord person_id="uk.org.publicwhip/person/25201" vote="not-content">Lord Finkelstein</lord>
+      <lord person_id="uk.org.publicwhip/person/25473" vote="not-content">Baroness Finn</lord>
+      <lord person_id="uk.org.publicwhip/person/13474" vote="not-content">Baroness Fookes</lord>
+      <lord person_id="uk.org.publicwhip/person/10370" vote="not-content">Lord Framlingham</lord>
+      <lord person_id="uk.org.publicwhip/person/25594" vote="not-content">Lord Fraser of Corriegarth</lord>
+      <lord person_id="uk.org.publicwhip/person/24980" vote="not-content">Lord Gardiner of Kimble</lord>
+      <lord person_id="uk.org.publicwhip/person/13304" vote="not-content">Baroness Gardner of Parkes</lord>
+      <lord person_id="uk.org.publicwhip/person/13063" vote="not-content">Lord Garel-Jones</lord>
+      <lord person_id="uk.org.publicwhip/person/12919" vote="not-content">Lord Glenarthur</lord>
+      <lord person_id="uk.org.publicwhip/person/10234" vote="not-content">Lord Goodlad</lord>
+      <lord person_id="uk.org.publicwhip/person/12915" vote="not-content">Baroness Goudie</lord>
+      <lord person_id="uk.org.publicwhip/person/13560" vote="not-content">Lord Greenway</lord>
+      <lord person_id="uk.org.publicwhip/person/10283" vote="not-content">Viscount Hailsham</lord>
+      <lord person_id="uk.org.publicwhip/person/10255" vote="not-content">Lord Hamilton of Epsom</lord>
+      <lord person_id="uk.org.publicwhip/person/17722" vote="not-content">Lord Hayward</lord>
+      <lord person_id="uk.org.publicwhip/person/13493" vote="not-content">Lord Henley</lord>
+      <lord person_id="uk.org.publicwhip/person/13340" vote="not-content">Lord Higgins</lord>
+      <lord person_id="uk.org.publicwhip/person/25208" vote="not-content">Lord Holmes of Richmond</lord>
+      <lord person_id="uk.org.publicwhip/person/13081" vote="not-content">Baroness Hooper</lord>
+      <lord person_id="uk.org.publicwhip/person/13079" vote="not-content">Lord Hope of Craighead</lord>
+      <lord person_id="uk.org.publicwhip/person/25187" vote="not-content">Lord Horam</lord>
+      <lord person_id="uk.org.publicwhip/person/13074" vote="not-content">Lord Howell of Guildford</lord>
+      <lord person_id="uk.org.publicwhip/person/13355" vote="not-content">Lord Hunt of Wirral</lord>
+      <lord person_id="uk.org.publicwhip/person/13490" vote="not-content">Lord Inglewood</lord>
+      <lord person_id="uk.org.publicwhip/person/25064" vote="not-content">Baroness Jenkin of Kennington</lord>
+      <lord person_id="uk.org.publicwhip/person/12866" vote="not-content">Lord Jopling</lord>
+      <lord person_id="uk.org.publicwhip/person/25446" vote="not-content">Lord Keen of Elie</lord>
+      <lord person_id="uk.org.publicwhip/person/18019" vote="not-content">Lord Kirkhope of Harrogate</lord>
+      <lord person_id="uk.org.publicwhip/person/13382" vote="not-content">Lord Lang of Monkton</lord>
+      <lord person_id="uk.org.publicwhip/person/25196" vote="not-content">Lord Leigh of Hurley</lord>
+      <lord person_id="uk.org.publicwhip/person/25030" vote="not-content">Lord Lexden</lord>
+      <lord person_id="uk.org.publicwhip/person/13647" vote="not-content">Earl of Lindsay</lord>
+      <lord person_id="uk.org.publicwhip/person/25025" vote="not-content">Lord Lingfield</lord>
+      <lord person_id="uk.org.publicwhip/person/25466" vote="not-content">Lord Lupton</lord>
+      <lord person_id="uk.org.publicwhip/person/13564" vote="not-content">Lord McColl of Dulwich</lord>
+      <lord person_id="uk.org.publicwhip/person/10386" vote="not-content">Lord MacGregor of Pulham Market</lord>
+      <lord person_id="uk.org.publicwhip/person/25585" vote="not-content">Lord McInnes of Kilwinning</lord>
+      <lord person_id="uk.org.publicwhip/person/25062" vote="not-content">Lord Magan of Castletown</lord>
+      <lord person_id="uk.org.publicwhip/person/12905" vote="not-content">Lord Mancroft</lord>
+      <lord person_id="uk.org.publicwhip/person/25190" vote="not-content">Baroness Manzoor</lord>
+      <lord person_id="uk.org.publicwhip/person/12902" vote="not-content">Lord Marlesford</lord>
+      <lord person_id="uk.org.publicwhip/person/10423" vote="not-content">Lord Maude of Horsham</lord>
+      <lord person_id="uk.org.publicwhip/person/25235" vote="not-content">Baroness Mobarik</lord>
+      <lord person_id="uk.org.publicwhip/person/25173" vote="not-content">Lord Nash</lord>
+      <lord person_id="uk.org.publicwhip/person/13936" vote="not-content">Baroness Neville-Jones</lord>
+      <lord person_id="uk.org.publicwhip/person/24997" vote="not-content">Baroness Newlove</lord>
+      <lord person_id="uk.org.publicwhip/person/13706" vote="not-content">Baroness Nicholson of Winterbourne</lord>
+      <lord person_id="uk.org.publicwhip/person/13439" vote="not-content">Baroness Noakes</lord>
+      <lord person_id="uk.org.publicwhip/person/13165" vote="not-content">Baroness O'Cathain</lord>
+      <lord person_id="uk.org.publicwhip/person/25458" vote="not-content">Lord O'Shaughnessy</lord>
+      <lord person_id="uk.org.publicwhip/person/13602" vote="not-content">Lord Pearson of Rannoch</lord>
+      <lord person_id="uk.org.publicwhip/person/25467" vote="not-content">Baroness Pidding</lord>
+      <lord person_id="uk.org.publicwhip/person/25457" vote="not-content">Lord Polak</lord>
+      <lord person_id="uk.org.publicwhip/person/24995" vote="not-content">Lord Popat</lord>
+      <lord person_id="uk.org.publicwhip/person/25469" vote="not-content">Lord Porter of Spalding</lord>
+      <lord person_id="uk.org.publicwhip/person/10490" vote="not-content">Lord Prior of Brampton</lord>
+      <lord person_id="uk.org.publicwhip/person/13037" vote="not-content">Baroness Rawlings</lord>
+      <lord person_id="uk.org.publicwhip/person/25465" vote="not-content">Baroness Redfern</lord>
+      <lord person_id="uk.org.publicwhip/person/10561" vote="not-content">Lord Risby</lord>
+      <lord person_id="uk.org.publicwhip/person/10503" vote="not-content">Lord Robathan</lord>
+      <lord person_id="uk.org.publicwhip/person/25471" vote="not-content">Baroness Rock</lord>
+      <lord person_id="uk.org.publicwhip/person/13588" vote="not-content">Lord Ryder of Wensum</lord>
+      <lord person_id="uk.org.publicwhip/person/13625" vote="not-content">Lord St John of Bletso</lord>
+      <lord person_id="uk.org.publicwhip/person/25468" vote="not-content">Baroness Scott of Bybrook</lord>
+      <lord person_id="uk.org.publicwhip/person/13144" vote="not-content">Baroness Seccombe</lord>
+      <lord person_id="uk.org.publicwhip/person/13181" vote="not-content">Earl of Selborne</lord>
+      <lord person_id="uk.org.publicwhip/person/13182" vote="not-content">Lord Selkirk of Douglas</lord>
+      <lord person_id="uk.org.publicwhip/person/25029" vote="not-content">Baroness Shackleton of Belgravia</lord>
+      <lord person_id="uk.org.publicwhip/person/13734" vote="not-content">Lord Sheikh</lord>
+      <lord person_id="uk.org.publicwhip/person/25203" vote="not-content">Lord Sherbourne of Didsbury</lord>
+      <lord person_id="uk.org.publicwhip/person/25236" vote="not-content">Baroness Shields</lord>
+      <lord person_id="uk.org.publicwhip/person/25470" vote="not-content">Lord Shinkwin</lord>
+      <lord person_id="uk.org.publicwhip/person/13152" vote="not-content">Earl of Shrewsbury</lord>
+      <lord person_id="uk.org.publicwhip/person/13460" vote="not-content">Lord Skelmersdale</lord>
+      <lord person_id="uk.org.publicwhip/person/25453" vote="not-content">Lord Smith of Hindhead</lord>
+      <lord person_id="uk.org.publicwhip/person/25261" vote="not-content">Duke of Somerset</lord>
+      <lord person_id="uk.org.publicwhip/person/10560" vote="not-content">Lord Spicer</lord>
+      <lord person_id="uk.org.publicwhip/person/25001" vote="not-content">Baroness Stedman-Scott</lord>
+      <lord person_id="uk.org.publicwhip/person/25032" vote="not-content">Baroness Stowell of Beeston</lord>
+      <lord person_id="uk.org.publicwhip/person/13203" vote="not-content">Lord Strathclyde</lord>
+      <lord person_id="uk.org.publicwhip/person/25459" vote="not-content">Baroness Stroud</lord>
+      <lord person_id="uk.org.publicwhip/person/25586" vote="not-content">Baroness Sugg</lord>
+      <lord person_id="uk.org.publicwhip/person/25232" vote="not-content">Lord Suri</lord>
+      <lord person_id="uk.org.publicwhip/person/13720" vote="not-content" teller="yes">Lord Taylor of Holbeach</lord>
+      <lord person_id="uk.org.publicwhip/person/13194" vote="not-content">Lord Taylor of Warwick</lord>
+      <lord person_id="uk.org.publicwhip/person/13540" vote="not-content">Lord Trefgarne</lord>
+      <lord person_id="uk.org.publicwhip/person/10605" vote="not-content">Lord Trimble</lord>
+      <lord person_id="uk.org.publicwhip/person/25028" vote="not-content">Lord True</lord>
+      <lord person_id="uk.org.publicwhip/person/13273" vote="not-content">Viscount Ullswater</lord>
+      <lord person_id="uk.org.publicwhip/person/25587" vote="not-content">Baroness Vere of Norbiton</lord>
+      <lord person_id="uk.org.publicwhip/person/13730" vote="not-content">Baroness Verma</lord>
+      <lord person_id="uk.org.publicwhip/person/25037" vote="not-content">Lord Wasserman</lord>
+      <lord person_id="uk.org.publicwhip/person/25031" vote="not-content">Baroness Wheatcroft</lord>
+      <lord person_id="uk.org.publicwhip/person/25195" vote="not-content">Lord Whitby</lord>
+      <lord person_id="uk.org.publicwhip/person/12961" vote="not-content">Baroness Wilcox</lord>
+      <lord person_id="uk.org.publicwhip/person/10637" vote="not-content">Lord Willetts</lord>
+      <lord person_id="uk.org.publicwhip/person/25213" vote="not-content">Baroness Williams of Trafford</lord>
+      <lord person_id="uk.org.publicwhip/person/10659" vote="not-content">Lord Young of Cookham</lord>
+      <lord person_id="uk.org.publicwhip/person/24992" vote="not-content">Viscount Younger of Leckie</lord>
+    </lordlist>
+</division>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1944.4" newgid="uk.org.publicwhip/lords/2017-03-15b.1944.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1946.0" newgid="uk.org.publicwhip/lords/2017-03-15b.1946.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1946.1" newgid="uk.org.publicwhip/lords/2017-03-15b.1946.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1947.0" newgid="uk.org.publicwhip/lords/2017-03-15b.1947.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1947.1" newgid="uk.org.publicwhip/lords/2017-03-15b.1947.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1947.2" newgid="uk.org.publicwhip/lords/2017-03-15b.1947.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1947.3" newgid="uk.org.publicwhip/lords/2017-03-15b.1947.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1948.0" newgid="uk.org.publicwhip/lords/2017-03-15b.1948.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2017-03-15a.1948.1" newgid="uk.org.publicwhip/lords/2017-03-15b.1948.1" matchtype="perfectmatch"/>
+</publicwhip>
+

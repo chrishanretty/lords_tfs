@@ -1,0 +1,444 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<!DOCTYPE publicwhip
+[
+<!ENTITY ndash   "&#8211;">
+<!ENTITY mdash   "&#8212;">
+<!ENTITY iexcl   "&#161;">
+<!ENTITY divide  "&#247;">
+<!ENTITY euro    "&#8364;">
+<!ENTITY trade   "&#8482;">
+<!ENTITY bull    "&#8226;">
+<!ENTITY lsquo   "&#8216;">
+<!ENTITY rsquo   "&#8217;">
+<!ENTITY sbquo   "&#8218;">
+<!ENTITY ldquo   "&#8220;">
+<!ENTITY rdquo   "&#8221;">
+<!ENTITY bdquo   "&#8222;">
+<!ENTITY dagger  "&#8224;">
+
+<!ENTITY Ouml   "&#214;" >
+<!ENTITY szlig  "&#223;" >
+<!ENTITY agrave "&#224;" >
+<!ENTITY aacute "&#225;" >
+<!ENTITY acirc  "&#226;" >
+<!ENTITY atilde "&#227;" >
+<!ENTITY auml   "&#228;" >
+<!ENTITY ccedil "&#231;" >
+<!ENTITY egrave "&#232;" >
+<!ENTITY eacute "&#233;" >
+<!ENTITY ecirc  "&#234;" >
+<!ENTITY euml   "&#235;" >
+<!ENTITY iacute "&#237;" >
+<!ENTITY icirc  "&#238;" >
+<!ENTITY iuml	"&#239;" >
+<!ENTITY ntilde "&#241;" >
+<!ENTITY nbsp   "&#160;" >
+<!ENTITY oacute "&#243;" >
+<!ENTITY ocirc  "&#244;" >
+<!ENTITY ouml   "&#246;" >
+<!ENTITY oslash "&#248;" >
+<!ENTITY uacute "&#250;" >
+<!ENTITY uuml   "&#252;" >
+<!ENTITY thorn  "&#254;" >
+
+<!ENTITY pound  "&#163;" >
+<!ENTITY sect   "&#167;" >
+<!ENTITY copy   "&#169;" >
+<!ENTITY reg    "&#174;" >
+<!ENTITY deg    "&#176;" >
+<!ENTITY plusmn "&#177;" >
+<!ENTITY sup2   "&#178;" >
+<!ENTITY micro  "&#181;" >
+<!ENTITY para   "&#182;" >
+<!ENTITY middot "&#183;" >
+<!ENTITY ordm   "&#186;" >
+<!ENTITY frac14 "&#188;" >
+<!ENTITY frac12 "&#189;" >
+<!ENTITY frac34 "&#190;" >
+<!ENTITY oelig "&#339;" >
+<!ENTITY aelig  "&#230;" >
+
+]>
+
+<publicwhip scrapeversion="/home/twfy-live/parldata/scrapedxml/lordspages/daylord2020-06-23a.xml" latest="no">
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.103.0" newgid="uk.org.publicwhip/lords/2020-06-23b.103.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.103.1" newgid="uk.org.publicwhip/lords/2020-06-23b.103.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.103.2" newgid="uk.org.publicwhip/lords/2020-06-23b.103.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.103.3" newgid="uk.org.publicwhip/lords/2020-06-23b.103.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.103.4" newgid="uk.org.publicwhip/lords/2020-06-23b.103.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.103.5" newgid="uk.org.publicwhip/lords/2020-06-23b.103.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.103.6" newgid="uk.org.publicwhip/lords/2020-06-23b.103.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.103.7" newgid="uk.org.publicwhip/lords/2020-06-23b.103.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.104.0" newgid="uk.org.publicwhip/lords/2020-06-23b.104.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.104.1" newgid="uk.org.publicwhip/lords/2020-06-23b.104.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.104.2" newgid="uk.org.publicwhip/lords/2020-06-23b.104.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.104.3" newgid="uk.org.publicwhip/lords/2020-06-23b.104.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.104.4" newgid="uk.org.publicwhip/lords/2020-06-23b.104.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.104.5" newgid="uk.org.publicwhip/lords/2020-06-23b.104.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.105.0" newgid="uk.org.publicwhip/lords/2020-06-23b.105.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.105.1" newgid="uk.org.publicwhip/lords/2020-06-23b.105.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.105.2" newgid="uk.org.publicwhip/lords/2020-06-23b.105.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.105.3" newgid="uk.org.publicwhip/lords/2020-06-23b.105.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.105.4" newgid="uk.org.publicwhip/lords/2020-06-23b.105.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.105.5" newgid="uk.org.publicwhip/lords/2020-06-23b.105.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.106.0" newgid="uk.org.publicwhip/lords/2020-06-23b.106.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.106.1" newgid="uk.org.publicwhip/lords/2020-06-23b.106.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.106.2" newgid="uk.org.publicwhip/lords/2020-06-23b.106.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.106.3" newgid="uk.org.publicwhip/lords/2020-06-23b.106.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.106.4" newgid="uk.org.publicwhip/lords/2020-06-23b.106.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.106.5" newgid="uk.org.publicwhip/lords/2020-06-23b.106.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.106.6" newgid="uk.org.publicwhip/lords/2020-06-23b.106.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.107.0" newgid="uk.org.publicwhip/lords/2020-06-23b.107.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.107.1" newgid="uk.org.publicwhip/lords/2020-06-23b.107.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.107.2" newgid="uk.org.publicwhip/lords/2020-06-23b.107.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.107.3" newgid="uk.org.publicwhip/lords/2020-06-23b.107.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.107.4" newgid="uk.org.publicwhip/lords/2020-06-23b.107.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.107.5" newgid="uk.org.publicwhip/lords/2020-06-23b.107.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.108.0" newgid="uk.org.publicwhip/lords/2020-06-23b.108.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.108.1" newgid="uk.org.publicwhip/lords/2020-06-23b.108.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.108.2" newgid="uk.org.publicwhip/lords/2020-06-23b.108.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.108.3" newgid="uk.org.publicwhip/lords/2020-06-23b.108.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.108.4" newgid="uk.org.publicwhip/lords/2020-06-23b.108.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.109.0" newgid="uk.org.publicwhip/lords/2020-06-23b.109.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.109.1" newgid="uk.org.publicwhip/lords/2020-06-23b.109.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.109.2" newgid="uk.org.publicwhip/lords/2020-06-23b.109.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.109.3" newgid="uk.org.publicwhip/lords/2020-06-23b.109.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.109.4" newgid="uk.org.publicwhip/lords/2020-06-23b.109.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.109.5" newgid="uk.org.publicwhip/lords/2020-06-23b.109.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.110.0" newgid="uk.org.publicwhip/lords/2020-06-23b.110.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.110.1" newgid="uk.org.publicwhip/lords/2020-06-23b.110.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.110.2" newgid="uk.org.publicwhip/lords/2020-06-23b.110.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.110.3" newgid="uk.org.publicwhip/lords/2020-06-23b.110.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.110.4" newgid="uk.org.publicwhip/lords/2020-06-23b.110.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.110.5" newgid="uk.org.publicwhip/lords/2020-06-23b.110.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.110.6" newgid="uk.org.publicwhip/lords/2020-06-23b.110.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.110.7" newgid="uk.org.publicwhip/lords/2020-06-23b.110.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.111.0" newgid="uk.org.publicwhip/lords/2020-06-23b.111.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.111.1" newgid="uk.org.publicwhip/lords/2020-06-23b.111.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.111.2" newgid="uk.org.publicwhip/lords/2020-06-23b.111.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.111.3" newgid="uk.org.publicwhip/lords/2020-06-23b.111.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.111.4" newgid="uk.org.publicwhip/lords/2020-06-23b.111.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.111.5" newgid="uk.org.publicwhip/lords/2020-06-23b.111.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.111.6" newgid="uk.org.publicwhip/lords/2020-06-23b.111.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.111.7" newgid="uk.org.publicwhip/lords/2020-06-23b.111.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.112.0" newgid="uk.org.publicwhip/lords/2020-06-23b.112.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.112.1" newgid="uk.org.publicwhip/lords/2020-06-23b.112.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.112.2" newgid="uk.org.publicwhip/lords/2020-06-23b.112.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.112.3" newgid="uk.org.publicwhip/lords/2020-06-23b.112.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.112.4" newgid="uk.org.publicwhip/lords/2020-06-23b.112.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.112.5" newgid="uk.org.publicwhip/lords/2020-06-23b.112.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.113.0" newgid="uk.org.publicwhip/lords/2020-06-23b.113.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.113.1" newgid="uk.org.publicwhip/lords/2020-06-23b.113.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.113.2" newgid="uk.org.publicwhip/lords/2020-06-23b.113.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.113.3" newgid="uk.org.publicwhip/lords/2020-06-23b.113.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.113.4" newgid="uk.org.publicwhip/lords/2020-06-23b.113.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.113.5" newgid="uk.org.publicwhip/lords/2020-06-23b.113.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.113.6" newgid="uk.org.publicwhip/lords/2020-06-23b.113.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.113.7" newgid="uk.org.publicwhip/lords/2020-06-23b.113.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.114.0" newgid="uk.org.publicwhip/lords/2020-06-23b.114.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.114.1" newgid="uk.org.publicwhip/lords/2020-06-23b.114.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.114.2" newgid="uk.org.publicwhip/lords/2020-06-23b.114.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.114.3" newgid="uk.org.publicwhip/lords/2020-06-23b.114.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.114.4" newgid="uk.org.publicwhip/lords/2020-06-23b.114.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.114.5" newgid="uk.org.publicwhip/lords/2020-06-23b.114.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.114.6" newgid="uk.org.publicwhip/lords/2020-06-23b.114.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.114.7" newgid="uk.org.publicwhip/lords/2020-06-23b.114.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.115.0" newgid="uk.org.publicwhip/lords/2020-06-23b.115.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.115.1" newgid="uk.org.publicwhip/lords/2020-06-23b.115.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.115.2" newgid="uk.org.publicwhip/lords/2020-06-23b.115.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.115.3" newgid="uk.org.publicwhip/lords/2020-06-23b.115.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.115.4" newgid="uk.org.publicwhip/lords/2020-06-23b.115.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.115.5" newgid="uk.org.publicwhip/lords/2020-06-23b.115.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.115.6" newgid="uk.org.publicwhip/lords/2020-06-23b.115.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.115.7" newgid="uk.org.publicwhip/lords/2020-06-23b.115.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.115.8" newgid="uk.org.publicwhip/lords/2020-06-23b.115.8" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.116.0" newgid="uk.org.publicwhip/lords/2020-06-23b.116.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.116.1" newgid="uk.org.publicwhip/lords/2020-06-23b.116.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.116.2" newgid="uk.org.publicwhip/lords/2020-06-23b.116.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.116.3" newgid="uk.org.publicwhip/lords/2020-06-23b.116.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.116.4" newgid="uk.org.publicwhip/lords/2020-06-23b.116.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.116.5" newgid="uk.org.publicwhip/lords/2020-06-23b.116.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.117.0" newgid="uk.org.publicwhip/lords/2020-06-23b.117.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.117.1" newgid="uk.org.publicwhip/lords/2020-06-23b.117.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.117.2" newgid="uk.org.publicwhip/lords/2020-06-23b.117.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.117.3" newgid="uk.org.publicwhip/lords/2020-06-23b.117.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.117.4" newgid="uk.org.publicwhip/lords/2020-06-23b.117.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.117.5" newgid="uk.org.publicwhip/lords/2020-06-23b.117.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.118.0" newgid="uk.org.publicwhip/lords/2020-06-23b.118.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.118.1" newgid="uk.org.publicwhip/lords/2020-06-23b.118.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.118.2" newgid="uk.org.publicwhip/lords/2020-06-23b.118.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.118.3" newgid="uk.org.publicwhip/lords/2020-06-23b.118.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.118.4" newgid="uk.org.publicwhip/lords/2020-06-23b.118.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.118.5" newgid="uk.org.publicwhip/lords/2020-06-23b.118.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.120.0" newgid="uk.org.publicwhip/lords/2020-06-23b.120.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.122.0" newgid="uk.org.publicwhip/lords/2020-06-23b.122.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.124.0" newgid="uk.org.publicwhip/lords/2020-06-23b.124.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.124.1" newgid="uk.org.publicwhip/lords/2020-06-23b.124.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.125.0" newgid="uk.org.publicwhip/lords/2020-06-23b.125.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.125.1" newgid="uk.org.publicwhip/lords/2020-06-23b.125.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.125.2" newgid="uk.org.publicwhip/lords/2020-06-23b.125.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.125.3" newgid="uk.org.publicwhip/lords/2020-06-23b.125.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.125.4" newgid="uk.org.publicwhip/lords/2020-06-23b.125.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.125.5" newgid="uk.org.publicwhip/lords/2020-06-23b.125.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.125.6" newgid="uk.org.publicwhip/lords/2020-06-23b.125.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.126.0" newgid="uk.org.publicwhip/lords/2020-06-23b.126.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.126.1" newgid="uk.org.publicwhip/lords/2020-06-23b.126.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.126.2" newgid="uk.org.publicwhip/lords/2020-06-23b.126.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.126.3" newgid="uk.org.publicwhip/lords/2020-06-23b.126.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.127.0" newgid="uk.org.publicwhip/lords/2020-06-23b.127.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.127.1" newgid="uk.org.publicwhip/lords/2020-06-23b.127.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.127.2" newgid="uk.org.publicwhip/lords/2020-06-23b.127.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.127.3" newgid="uk.org.publicwhip/lords/2020-06-23b.127.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.127.4" newgid="uk.org.publicwhip/lords/2020-06-23b.127.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.127.5" newgid="uk.org.publicwhip/lords/2020-06-23b.127.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.128.0" newgid="uk.org.publicwhip/lords/2020-06-23b.128.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.128.1" newgid="uk.org.publicwhip/lords/2020-06-23b.128.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.128.2" newgid="uk.org.publicwhip/lords/2020-06-23b.128.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.128.3" newgid="uk.org.publicwhip/lords/2020-06-23b.128.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.129.0" newgid="uk.org.publicwhip/lords/2020-06-23b.129.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.129.1" newgid="uk.org.publicwhip/lords/2020-06-23b.129.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.129.2" newgid="uk.org.publicwhip/lords/2020-06-23b.129.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.129.3" newgid="uk.org.publicwhip/lords/2020-06-23b.129.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.129.4" newgid="uk.org.publicwhip/lords/2020-06-23b.129.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.130.0" newgid="uk.org.publicwhip/lords/2020-06-23b.130.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.130.1" newgid="uk.org.publicwhip/lords/2020-06-23b.130.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.130.2" newgid="uk.org.publicwhip/lords/2020-06-23b.130.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.130.3" newgid="uk.org.publicwhip/lords/2020-06-23b.130.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.130.4" newgid="uk.org.publicwhip/lords/2020-06-23b.130.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.130.5" newgid="uk.org.publicwhip/lords/2020-06-23b.130.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.132.0" newgid="uk.org.publicwhip/lords/2020-06-23b.132.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.133.0" newgid="uk.org.publicwhip/lords/2020-06-23b.133.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.135.0" newgid="uk.org.publicwhip/lords/2020-06-23b.135.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.136.0" newgid="uk.org.publicwhip/lords/2020-06-23b.136.0" matchtype="changes"/>
+<speech id="uk.org.publicwhip/lords/2020-06-23a.136.0" speakername="Baroness Warwick of Undercliffe" person_id="uk.org.publicwhip/person/12894" colnum="136" time="13:45:00" url="">
+    <p pid="a136.0/1">I added my name to Amendment 13 and I set out in Committee my concerns about the Bill. As I said then, I fully support the intention behind it—that the disruption caused by Covid-19 should not be allowed to trigger the failure of otherwise financially viable companies—but I was anxious, and I remain anxious, that some of the permanent and far-reaching proposals would be damaging to pension funds and to their members in the longer term. I assumed that this damage was unintended and was caused by the speed with which this package of protective measures had had to be introduced, and I am pleased that the Government have gone some way to acknowledging this in the amendments they have brought forward.</p>
+    <p pid="a136.0/2">Other noble Lords have set out in detail the problems that the Bill would cause as currently drafted. I emphasise just one point in relation to defined benefit pension schemes. The stability and effectiveness of the current system in dealing with insolvency has depended on unsecured pension debts ranking side by side—[Inaudible.] This has underpinned all valuation funding and covenant discussions. The super-priority status granted by the Bill to finance debts in an insolvency following a moratorium undermines that stability and endangers members of affected pension schemes, while preventing the PPF acting effectively as creditor. As I said in Committee, it also undermines the role of the regulator.  However, the Government have clearly made efforts to address these concerns and go some way to addressing the issues raised by me and other noble Lords. I have been convinced that the Government want to make this work and will ensure that the PPF has access to and influence on discussions about recovery plans.</p>
+    <p pid="a136.0/3">The Secretary of State will have access to considerable Henry VIII powers in the Bill and will be able to intervene swiftly if it seems that restructuring plans and insolvency procedures are being abused, to the detriment of pension scheme members. So in thanking the Minister for the way he has responded to the concerns we in this House have expressed about the Bill, I urge him to stay alert to any attempts to undermine the assurances he has given that the position of pension scheme members will not be weakened, and that their lifeboat—the protective umbrella of the PPF—will not be undermined in any restructuring and insolvency discussions.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.137.0" newgid="uk.org.publicwhip/lords/2020-06-23b.137.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.138.0" newgid="uk.org.publicwhip/lords/2020-06-23b.138.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.139.0" newgid="uk.org.publicwhip/lords/2020-06-23b.139.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.139.1" newgid="uk.org.publicwhip/lords/2020-06-23b.139.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.141.0" newgid="uk.org.publicwhip/lords/2020-06-23b.141.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.141.1" newgid="uk.org.publicwhip/lords/2020-06-23b.141.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.142.0" newgid="uk.org.publicwhip/lords/2020-06-23b.142.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.143.0" newgid="uk.org.publicwhip/lords/2020-06-23b.143.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.144.0" newgid="uk.org.publicwhip/lords/2020-06-23b.144.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.144.1" newgid="uk.org.publicwhip/lords/2020-06-23b.144.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.145.0" newgid="uk.org.publicwhip/lords/2020-06-23b.145.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.146.0" newgid="uk.org.publicwhip/lords/2020-06-23b.146.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.146.1" newgid="uk.org.publicwhip/lords/2020-06-23b.146.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.147.0" newgid="uk.org.publicwhip/lords/2020-06-23b.147.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.148.0" newgid="uk.org.publicwhip/lords/2020-06-23b.148.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.150.0" newgid="uk.org.publicwhip/lords/2020-06-23b.150.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.154.0" newgid="uk.org.publicwhip/lords/2020-06-23b.154.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.154.1" newgid="uk.org.publicwhip/lords/2020-06-23b.154.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.154.2" newgid="uk.org.publicwhip/lords/2020-06-23b.154.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.154.3" newgid="uk.org.publicwhip/lords/2020-06-23b.154.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.155.0" newgid="uk.org.publicwhip/lords/2020-06-23b.155.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.155.1" newgid="uk.org.publicwhip/lords/2020-06-23b.155.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.155.2" newgid="uk.org.publicwhip/lords/2020-06-23b.155.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.155.3" newgid="uk.org.publicwhip/lords/2020-06-23b.155.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.155.4" newgid="uk.org.publicwhip/lords/2020-06-23b.155.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.155.5" newgid="uk.org.publicwhip/lords/2020-06-23b.155.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.155.6" newgid="uk.org.publicwhip/lords/2020-06-23b.155.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.157.0" newgid="uk.org.publicwhip/lords/2020-06-23b.157.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.157.1" newgid="uk.org.publicwhip/lords/2020-06-23b.157.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.158.0" newgid="uk.org.publicwhip/lords/2020-06-23b.158.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.158.1" newgid="uk.org.publicwhip/lords/2020-06-23b.158.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.158.2" newgid="uk.org.publicwhip/lords/2020-06-23b.158.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.159.0" newgid="uk.org.publicwhip/lords/2020-06-23b.159.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.160.0" newgid="uk.org.publicwhip/lords/2020-06-23b.160.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.160.1" newgid="uk.org.publicwhip/lords/2020-06-23b.160.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.161.0" newgid="uk.org.publicwhip/lords/2020-06-23b.161.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.161.1" newgid="uk.org.publicwhip/lords/2020-06-23b.161.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.161.2" newgid="uk.org.publicwhip/lords/2020-06-23b.161.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.162.0" newgid="uk.org.publicwhip/lords/2020-06-23b.162.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.162.1" newgid="uk.org.publicwhip/lords/2020-06-23b.162.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.164.0" newgid="uk.org.publicwhip/lords/2020-06-23b.164.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.164.1" newgid="uk.org.publicwhip/lords/2020-06-23b.164.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.165.0" newgid="uk.org.publicwhip/lords/2020-06-23b.165.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.165.1" newgid="uk.org.publicwhip/lords/2020-06-23b.165.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.166.0" newgid="uk.org.publicwhip/lords/2020-06-23b.166.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.167.0" newgid="uk.org.publicwhip/lords/2020-06-23b.167.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.168.0" newgid="uk.org.publicwhip/lords/2020-06-23b.168.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.168.1" newgid="uk.org.publicwhip/lords/2020-06-23b.168.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.169.0" newgid="uk.org.publicwhip/lords/2020-06-23b.169.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.169.1" newgid="uk.org.publicwhip/lords/2020-06-23b.169.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.170.0" newgid="uk.org.publicwhip/lords/2020-06-23b.170.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.171.0" newgid="uk.org.publicwhip/lords/2020-06-23b.171.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.172.0" newgid="uk.org.publicwhip/lords/2020-06-23b.172.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.173.0" newgid="uk.org.publicwhip/lords/2020-06-23b.173.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.173.1" newgid="uk.org.publicwhip/lords/2020-06-23b.173.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.173.2" newgid="uk.org.publicwhip/lords/2020-06-23b.173.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.174.0" newgid="uk.org.publicwhip/lords/2020-06-23b.174.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.174.1" newgid="uk.org.publicwhip/lords/2020-06-23b.174.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.174.2" newgid="uk.org.publicwhip/lords/2020-06-23b.174.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.174.3" newgid="uk.org.publicwhip/lords/2020-06-23b.174.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.174.4" newgid="uk.org.publicwhip/lords/2020-06-23b.174.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.174.5" newgid="uk.org.publicwhip/lords/2020-06-23b.174.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.174.6" newgid="uk.org.publicwhip/lords/2020-06-23b.174.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.175.0" newgid="uk.org.publicwhip/lords/2020-06-23b.175.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.175.1" newgid="uk.org.publicwhip/lords/2020-06-23b.175.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.178.0" newgid="uk.org.publicwhip/lords/2020-06-23b.178.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.178.1" newgid="uk.org.publicwhip/lords/2020-06-23b.178.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.178.2" newgid="uk.org.publicwhip/lords/2020-06-23b.178.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.178.3" newgid="uk.org.publicwhip/lords/2020-06-23b.178.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.178.4" newgid="uk.org.publicwhip/lords/2020-06-23b.178.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.181.0" newgid="uk.org.publicwhip/lords/2020-06-23b.181.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.181.1" newgid="uk.org.publicwhip/lords/2020-06-23b.181.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.183.0" newgid="uk.org.publicwhip/lords/2020-06-23b.183.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.183.1" newgid="uk.org.publicwhip/lords/2020-06-23b.183.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.185.0" newgid="uk.org.publicwhip/lords/2020-06-23b.185.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.185.1" newgid="uk.org.publicwhip/lords/2020-06-23b.185.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.186.0" newgid="uk.org.publicwhip/lords/2020-06-23b.186.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.186.1" newgid="uk.org.publicwhip/lords/2020-06-23b.186.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.186.2" newgid="uk.org.publicwhip/lords/2020-06-23b.186.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.189.0" newgid="uk.org.publicwhip/lords/2020-06-23b.189.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.190.0" newgid="uk.org.publicwhip/lords/2020-06-23b.190.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.190.1" newgid="uk.org.publicwhip/lords/2020-06-23b.190.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.191.0" newgid="uk.org.publicwhip/lords/2020-06-23b.191.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.191.1" newgid="uk.org.publicwhip/lords/2020-06-23b.191.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.191.2" newgid="uk.org.publicwhip/lords/2020-06-23b.191.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.192.0" newgid="uk.org.publicwhip/lords/2020-06-23b.192.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.192.1" newgid="uk.org.publicwhip/lords/2020-06-23b.192.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.194.0" newgid="uk.org.publicwhip/lords/2020-06-23b.194.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.194.1" newgid="uk.org.publicwhip/lords/2020-06-23b.194.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.195.0" newgid="uk.org.publicwhip/lords/2020-06-23b.195.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.195.1" newgid="uk.org.publicwhip/lords/2020-06-23b.195.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.195.2" newgid="uk.org.publicwhip/lords/2020-06-23b.195.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.195.3" newgid="uk.org.publicwhip/lords/2020-06-23b.195.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.196.0" newgid="uk.org.publicwhip/lords/2020-06-23b.196.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.196.1" newgid="uk.org.publicwhip/lords/2020-06-23b.196.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.197.0" newgid="uk.org.publicwhip/lords/2020-06-23b.197.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.198.0" newgid="uk.org.publicwhip/lords/2020-06-23b.198.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.199.0" newgid="uk.org.publicwhip/lords/2020-06-23b.199.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.199.1" newgid="uk.org.publicwhip/lords/2020-06-23b.199.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.200.0" newgid="uk.org.publicwhip/lords/2020-06-23b.200.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.200.1" newgid="uk.org.publicwhip/lords/2020-06-23b.200.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.200.2" newgid="uk.org.publicwhip/lords/2020-06-23b.200.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.202.0" newgid="uk.org.publicwhip/lords/2020-06-23b.202.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.202.1" newgid="uk.org.publicwhip/lords/2020-06-23b.202.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.202.2" newgid="uk.org.publicwhip/lords/2020-06-23b.202.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.202.3" newgid="uk.org.publicwhip/lords/2020-06-23b.202.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.202.4" newgid="uk.org.publicwhip/lords/2020-06-23b.202.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.202.5" newgid="uk.org.publicwhip/lords/2020-06-23b.202.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.203.0" newgid="uk.org.publicwhip/lords/2020-06-23b.203.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.203.1" newgid="uk.org.publicwhip/lords/2020-06-23b.203.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.203.2" newgid="uk.org.publicwhip/lords/2020-06-23b.203.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.204.0" newgid="uk.org.publicwhip/lords/2020-06-23b.204.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.204.1" newgid="uk.org.publicwhip/lords/2020-06-23b.204.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.208.0" newgid="uk.org.publicwhip/lords/2020-06-23b.208.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.208.1" newgid="uk.org.publicwhip/lords/2020-06-23b.208.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.208.2" newgid="uk.org.publicwhip/lords/2020-06-23b.208.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.208.3" newgid="uk.org.publicwhip/lords/2020-06-23b.208.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.208.4" newgid="uk.org.publicwhip/lords/2020-06-23b.208.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.208.5" newgid="uk.org.publicwhip/lords/2020-06-23b.208.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.209.0" newgid="uk.org.publicwhip/lords/2020-06-23b.209.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.209.1" newgid="uk.org.publicwhip/lords/2020-06-23b.209.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.209.2" newgid="uk.org.publicwhip/lords/2020-06-23b.209.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.209.3" newgid="uk.org.publicwhip/lords/2020-06-23b.209.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.209.4" newgid="uk.org.publicwhip/lords/2020-06-23b.209.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.209.5" newgid="uk.org.publicwhip/lords/2020-06-23b.209.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.210.0" newgid="uk.org.publicwhip/lords/2020-06-23b.210.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.210.1" newgid="uk.org.publicwhip/lords/2020-06-23b.210.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.210.2" newgid="uk.org.publicwhip/lords/2020-06-23b.210.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.210.3" newgid="uk.org.publicwhip/lords/2020-06-23b.210.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.211.0" newgid="uk.org.publicwhip/lords/2020-06-23b.211.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.211.1" newgid="uk.org.publicwhip/lords/2020-06-23b.211.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.211.2" newgid="uk.org.publicwhip/lords/2020-06-23b.211.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.211.3" newgid="uk.org.publicwhip/lords/2020-06-23b.211.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.212.0" newgid="uk.org.publicwhip/lords/2020-06-23b.212.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.212.1" newgid="uk.org.publicwhip/lords/2020-06-23b.212.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.212.2" newgid="uk.org.publicwhip/lords/2020-06-23b.212.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.212.3" newgid="uk.org.publicwhip/lords/2020-06-23b.212.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.213.0" newgid="uk.org.publicwhip/lords/2020-06-23b.213.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.213.1" newgid="uk.org.publicwhip/lords/2020-06-23b.213.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.214.0" newgid="uk.org.publicwhip/lords/2020-06-23b.214.0" matchtype="changes"/>
+<minor-heading id="uk.org.publicwhip/lords/2020-06-23a.214.0" nospeaker="true" colnum="214" time="18:46:00" url="">
+Amendments 75 and 76
+</minor-heading>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.214.1" newgid="uk.org.publicwhip/lords/2020-06-23b.214.1" matchtype="multiplecover"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.214.1" newgid="uk.org.publicwhip/lords/2020-06-23b.215.1" matchtype="multiplecover"/>
+<speech id="uk.org.publicwhip/lords/2020-06-23a.214.1" speakername="Lord Callanan" nospeaker="true" colnum="214" time="18:46:00" url="">
+    <p pid="a214.1/1" class="italic" pwmotiontext="unrecognized">Moved by Lord Callanan</p>
+    <p pid="a214.1/2" class="italic" pwmotiontext="unrecognized">75: Schedule 1, page 102, line 9, at end insert—“17A A company is excluded from being eligible unless, before the filing date, it has consulted all the persons who are the appropriate representatives of any of the employees who may be affected by the proposed moratorium or by any reasonably foreseeable consequences of it about those matters.”</p>
+    <p pid="a214.1/3" class="italic" pwmotiontext="unrecognized">76: Schedule 1, page 103, line 2, after “Schedule” insert “, apart from paragraph 2,”Member’s explanatory statementThis amendment limits the Secretary of State’s power to amend new Schedule ZA1 so that it cannot be used to amend paragraph 2 (exclusion from eligibility for companies subject to moratorium or insolvency procedure etc).</p>
+    <p pid="a214.1/4" class="italic">Amendments 75 and 76 agreed.</p>
+    <p pid="a214.1/5">       <b>         <i>Schedule 3: Moratoriums in Great Britain: further amendments</i>       </b>     </p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.214.2" newgid="uk.org.publicwhip/lords/2020-06-23b.215.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.214.3" newgid="uk.org.publicwhip/lords/2020-06-23b.215.3" matchtype="changes"/>
+<speech id="uk.org.publicwhip/lords/2020-06-23a.214.3" speakername="Lord Callanan" nospeaker="true" colnum="214" time="18:46:00" url="">
+    <p pid="a214.3/1" class="italic" pwmotiontext="unrecognized">Moved by Lord Callanan</p>
+    <p pid="a214.3/2" class="italic" pwmotiontext="unrecognized">77: Schedule 3, page 107, line 24, leave out from “debts” to end of line 27 and insert “(within the meaning given by section 174A);(b) priority pre-moratorium debts (within the meaning given by section 174A).”   Member’s explanatory statementThis amendment reflects the changes made by the Minister’s amendments to new section 174A of the Insolvency Act 1986 (on page 109 of the Bill).</p>
+    <p pid="a214.3/3" class="italic" pwmotiontext="unrecognized">78: Schedule 3, page 107, line 30, leave out sub-paragraph (3)Member’s explanatory statementThis amendment leaves out definitions that are no longer needed because of the Minister’s other amendment to page 107.</p>
+    <p pid="a214.3/4" class="italic" pwmotiontext="unrecognized">79: Schedule 3, page 109, line 13, leave out from “and” to end of line 15 and insert “priority pre-moratorium debts.(2A) In subsection (2)(b) “priority pre-moratorium debt” means—(a) any pre-moratorium debt that is payable in respect of—(i) the monitor’s remuneration or expenses,(ii) goods or services supplied during the moratorium,(iii) rent in respect of a period during the moratorium, or(iv) wages or salary arising under a contract of employment, so far as relating to a period of employment before or during the moratorium,(b) any pre-moratorium debt that—(i) consists of a liability to make a redundancy payment, and(ii) fell due before or during the moratorium, and(c) any pre-moratorium debt that—(i) arises under a contract or other instrument involving financial services,(ii) fell due before or during the moratorium, and(iii) is not relevant accelerated debt (see subsection (2B)).(2B) For the purposes of subsection (2A)(c)—“relevant accelerated debt” means any pre-moratorium debt that fell due during the relevant period by reason of the operation of, or the exercise of rights under, an acceleration or early termination clause in a contract or other instrument involving financial services;“the relevant period” means the period—(a) beginning with the day on which the statement under section A6(1)(e) is made, and(b) ending with the last day of the moratorium.”Member’s explanatory statementThis amendment clarifies which pre-moratorium debts get priority for the purposes of new section 174A(2) of the Insolvency Act 1986. Among other things, it excludes certain debts that fall due during the moratorium because they are accelerated (for example, because the creditor exercises a contractual right to require immediate payment in full).</p>
+    <p pid="a214.3/5" class="italic" pwmotiontext="unrecognized">80: Schedule 3, page 109, line 18, at end insert—“(3A) The Secretary of State may by regulations made by statutory instrument amend this section for the purposes of changing the definition of “moratorium debt” or “priority pre-moratorium debt” in this section.(3B) Regulations under subsection (3A) may make consequential, supplementary, incidental or transitional provision or savings.(3C) A statutory instrument containing regulations under subsection (3A) may not be made unless a draft of the instrument has been laid before and approved by a resolution of each House of Parliament.”Member’s explanatory statementThis amendment confers power on the Secretary of State to change the definitions of “moratorium debt” and “priority pre-moratorium debt” for the purposes of new section 174A(2) of the Insolvency Act 1986.</p>
+    <p pid="a214.3/6" class="italic" pwmotiontext="unrecognized">81: Schedule 3, page 109, leave out lines 23 and 24 and insert—“(5) Any rules made under section A18(4) (meaning of supply of goods or services) apply also for the purposes of subsection (2A)(a)(ii) of this section.(6) In this section—“acceleration or early termination clause”, in relation to a contract or other instrument involving financial services, means a provision of the contract or other instrument—(a) under which, on the happening of an event—(i) a debt or other liability falls due earlier than it otherwise would, or(ii) a debt or other liability is terminated and replaced by another debt or liability, or(b) which confers on a party a right which, if exercised, will result in —(i) a debt or other liability falling due earlier than it otherwise would, or(ii) a debt or other liability being terminated and replaced by another debt or liability;“contract or other instrument involving financial services” has the same meaning as it has for the purposes of section A18 (see Schedule ZA2);“monitor’s remuneration or expenses” has the meaning given by section A18;“moratorium debt” has the meaning given by section A51;“pre-moratorium debt” has the meaning given by section A51;“redundancy payment” has the meaning given by section A18;“wages or salary” has the meaning given by section A18.”Member’s explanatory statementThis amendment defines expressions used in the Minister’s first amendment to page 109.</p>
+    <p pid="a214.3/7" class="italic" pwmotiontext="unrecognized">82: Schedule 3, page 111, line 25, leave out from “debts” to end of line 28 and insert “(within the meaning given by section 174A), and(b) priority pre-moratorium debts (within the meaning given by section 174A).”Member’s explanatory statementThis amendment reflects the changes made by the Minister’s amendments to new section 174A of the Insolvency Act 1986 (on page 109 of the Bill).</p>
+    <p pid="a214.3/8" class="italic" pwmotiontext="unrecognized">83: Schedule 3, page 111, line 37, leave out “pre-moratorium debts mentioned in sub-paragraph (2)” and insert “priority pre-moratorium debts”Member’s explanatory statementThis amendment is consequential on the Minister’s first amendment to page 111.</p>
+    <p pid="a214.3/9" class="italic" pwmotiontext="unrecognized">84: Schedule 3, page 111, leave out lines 41 and 42Member’s explanatory statementThis amendment leaves out definitions that are no longer needed because of the Minister’s first amendment to page 111.</p>
+    <p pid="a214.3/10" class="italic">Amendments 77 to 84 agreed.</p>
+    <p pid="a214.3/11">       <b>         <i>Schedule 4: Moratoriums in Great Britain: temporary provision</i>       </b>     </p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.216.0" newgid="uk.org.publicwhip/lords/2020-06-23b.217.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.216.1" newgid="uk.org.publicwhip/lords/2020-06-23b.217.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.217.0" newgid="uk.org.publicwhip/lords/2020-06-23b.217.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.217.1" newgid="uk.org.publicwhip/lords/2020-06-23b.217.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.217.2" newgid="uk.org.publicwhip/lords/2020-06-23b.217.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.217.3" newgid="uk.org.publicwhip/lords/2020-06-23b.217.5" matchtype="changes"/>
+<speech id="uk.org.publicwhip/lords/2020-06-23a.217.3" speakername="Lord Callanan" nospeaker="true" colnum="217" time="18:46:00" url="">
+    <p pid="a217.3/1" class="italic" pwmotiontext="unrecognized">Moved by Lord Callanan</p>
+    <p pid="a217.3/2" class="italic" pwmotiontext="unrecognized">87: Schedule 7, page 158, line 17, after ““Part 1A,”” insert “Article 148A(3A),”Member’s explanatory statementThis amendment paves the way for the Minister’s amendments to new Article 148A of the Insolvency (Northern Ireland) Order 1989 (on page 160 of the Bill).</p>
+    <p pid="a217.3/3" class="italic" pwmotiontext="unrecognized">88: Schedule 7, page 158, line 40, leave out from “debts” to end of line 3 on page 159 and insert “(within the meaning given by Article 148A);(b) priority pre-moratorium debts (within the meaning given by Article 148A);”Member’s explanatory statementThis amendment reflects the changes made by the Minister’s amendments to new Article 148A of the Insolvency (Northern Ireland) Order 1989 (on page 160 of the Bill).</p>
+    <p pid="a217.3/4" class="italic" pwmotiontext="unrecognized">89: Schedule 7, page 159, line 8, leave out sub-paragraph (4)Member’s explanatory statementThis amendment leaves out definitions that are no longer needed because of the Minister’s second amendment to page 158.</p>
+    <p pid="a217.3/5" class="italic" pwmotiontext="unrecognized">90: Schedule 7, page 160, line 31, leave out from “and” to end of line 33 and insert “priority pre-moratorium debts.(2A) In paragraph (2)(b) “priority pre-moratorium debt” means—(a) any pre-moratorium debt that is payable in respect of—(i) the monitor’s remuneration or expenses,(ii) goods or services supplied during the moratorium,(iii) rent in respect of a period during the moratorium, or(iv) wages or salary arising under a contract of employment, so far as relating to a period of employment before or during the moratorium,(b) any pre-moratorium debt that—(i) consists of a liability to make a redundancy payment, and(ii) fell due before or during the moratorium, and(c) any pre-moratorium debt that—  (i) arises under a contract or other instrument involving financial services,(ii) fell due before or during the moratorium, and(iii) is not relevant accelerated debt (see paragraph (2B)).(2B) For the purposes of paragraph (2A)(c)—“relevant accelerated debt” means any pre-moratorium debt that fell due during the relevant period by reason of the operation of, or the exercise of rights under, an acceleration or early termination clause in a contract or other instrument involving financial services;“the relevant period” means the period—(a) beginning with the day on which the statement under Article 13BC(1)(e) is made, and(b) ending with the last day of the moratorium.”Member’s explanatory statementThis amendment clarifies which pre-moratorium debts get priority for the purposes of new Article 148A(2) of the Insolvency (Northern Ireland) Order 1989. Among other things, it excludes certain debts that fall due during the moratorium because they are accelerated (for example, because the creditor exercises a contractual right to require immediate payment in full).</p>
+    <p pid="a217.3/6" class="italic" pwmotiontext="unrecognized">91: Schedule 7, page 160, line 36, at end insert—“(3A) Regulations may amend this Article for the purposes of changing the definition of “moratorium debt” or “priority pre-moratorium debt” in this Article.(3B) Regulations under paragraph (3A) may make consequential, supplementary, incidental or transitional provision or savings.(3C) Regulations may not be made under paragraph (3A) unless a draft of the regulations has been laid before, and approved by a resolution of, the Assembly.”Member’s explanatory statementThis amendment confers power on the Department for the Economy in Northern Ireland to change the definitions of “moratorium debt” and “priority pre-moratorium debt” for the purposes of new Article 148A(2) of the Insolvency (Northern Ireland) Order 1989.</p>
+    <p pid="a217.3/7" class="italic" pwmotiontext="unrecognized">92: Schedule 7, page 160, leave out lines 41 and 42 and insert—“(5) Any rules made under Article 13D(4) (meaning of supply of goods or services) apply also for the purposes of paragraph (2A)(a)(ii) of this Article.(6) In this Article—“acceleration or early termination clause”, in relation to a contract or other instrument involving financial services, means a provision of the contract or other instrument—(a) under which, on the happening of an event—(i) a debt or other liability falls due earlier than it otherwise would, or(ii) a debt or other liability is terminated and replaced by another debt or liability, or(b) which confers on a party a right which, if exercised, will result in —(i) a debt or other liability falling due earlier than it otherwise would, or(ii) a debt or other liability being terminated and replaced by another debt or liability;“contract or other instrument involving financial services” has the same meaning as it has for the purposes of Article 13D (see Schedule ZA2);“monitor’s remuneration or expenses” has the meaning given by Article 13D;“moratorium debt” has the meaning given by Article 13HC;“pre-moratorium debt” has the meaning given by Article 13HC;  “redundancy payment” has the meaning given by Article 13D;“wages or salary” has the meaning given by Article 13D.”Member’s explanatory statementThis amendment defines expressions used in the Minister’s first amendment to page 160.</p>
+    <p pid="a217.3/8" class="italic" pwmotiontext="unrecognized">93: Schedule 7, page 162, line 7, leave out from “debts” to end of line 10 and insert “(within the meaning given by Article 148A), and(b) priority pre-moratorium debts (within the meaning given by Article 148A).”Member’s explanatory statementThis amendment reflects the changes made by the Minister’s amendments to new Article 148A of the Insolvency (Northern Ireland) Order 1989 (on page 160 of the Bill).</p>
+    <p pid="a217.3/9" class="italic" pwmotiontext="unrecognized">94: Schedule 7, page 162, line 18, leave out “pre-moratorium debts mentioned in sub-paragraph (2)” and insert “priority pre-moratorium debts”Member’s explanatory statementThis amendment is consequential on the Minister’s first amendment to page 162.</p>
+    <p pid="a217.3/10" class="italic" pwmotiontext="unrecognized">95: Schedule 7, page 162, leave out lines 22 and 23Member’s explanatory statementThis amendment leaves out definitions that are no longer needed because of the Minister’s first amendment to page 162.</p>
+    <p pid="a217.3/11" class="italic">Amendments 87 to 95 agreed.</p>
+    <p pid="a217.3/12">       <b>         <i>Schedule 8: Moratoriums in Northern Ireland: temporary provision</i>       </b>     </p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.219.0" newgid="uk.org.publicwhip/lords/2020-06-23b.219.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.219.1" newgid="uk.org.publicwhip/lords/2020-06-23b.219.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.219.2" newgid="uk.org.publicwhip/lords/2020-06-23b.219.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.219.3" newgid="uk.org.publicwhip/lords/2020-06-23b.219.3" matchtype="changes"/>
+<speech id="uk.org.publicwhip/lords/2020-06-23a.219.3" speakername="Lord Callanan" nospeaker="true" colnum="219" time="18:46:00" url="">
+    <p pid="a219.3/1" class="italic" pwmotiontext="unrecognized">Moved by Lord Callanan</p>
+    <p pid="a219.3/2" class="italic" pwmotiontext="unrecognized">97: Schedule 9, page 186, line 24, leave out from second “a” to end of line 28 and insert “priority pre-moratorium debt.”Member’s explanatory statementSee the explanatory statement for the Minister’s second amendment on page 186 of the Bill.</p>
+    <p pid="a219.3/3" class="italic" pwmotiontext="unrecognized">98: Schedule 9, page 186, line 43, leave out from “debt”” to end of line 6 on page 187 and insert “—(a) in the case of a moratorium under Part A1 of the Insolvency Act 1986, has the same meaning as in section 174A of that Act;(b) in the case of a moratorium under Part 1A of the Insolvency (Northern Ireland) Order 1989, has the same meaning as in Article 148A of that Order;“priority pre-moratorium debt”—(a) in the case of a moratorium under Part A1 of the Insolvency Act 1986, has the same meaning as in section 174A of that Act;  (b) in the case of a moratorium under Part 1A of the Insolvency (Northern Ireland) Order 1989, has the same meaning as in Article 148A of that Order.”Member’s explanatory statementThe Minister’s amendments on page 186 of the Bill provide that the creditors to whom new section 901H of the Companies Act 2006 applies are those in respect of “moratorium debts” and “priority pre-moratorium debts” within the meaning of section 174A of the Insolvency Act 1986 or Article 148A of the Insolvency (Northern Ireland) Order 1989 (which provide for those kinds of debt to have priority in a winding-up).</p>
+    <p pid="a219.3/4" class="italic" pwmotiontext="unrecognized">99: Schedule 9, page 187, line 6, at end insert—“901HA Pension schemes(1) In a case where the company in respect of which a compromise or arrangement is proposed is or has been an employer in respect of an occupational pension scheme that is not a money purchase scheme, any notice or other document required to be sent to a creditor of the company must also be sent to the Pensions Regulator.(2) In a case where the company in respect of which a compromise or arrangement is proposed is an employer in respect of an eligible scheme, any notice or other document required to be sent to a creditor of the company must also be sent to the Board of the Pension Protection Fund (“the Board”).(3) The Secretary of State may by regulations provide that, in a case where—(a) the company in respect of which a compromise or arrangement is proposed is an employer in respect of an eligible scheme, and(b) the trustees or managers of the scheme are a creditor of the company,the Board may exercise any rights, or any rights of a specified description, that are exercisable under this Part by the trustees or managers as a creditor of the company.(4) Regulations under this section may provide that the Board may exercise any such rights—(a) to the exclusion of the trustees or managers of the scheme, or(b) in addition to the exercise of those rights by the trustees or managers of the scheme.(5) Regulations under this section—(a) may specify conditions that must be met before the Board may exercise any such rights;(b) may provide for any such rights to be exercisable by the Board for a specified period;(c) may make provision in connection with any such rights ceasing to be so exercisable at the end of such a period.(6) Regulations under this section are subject to affirmative resolution procedure (but see subsection (7)).(7) During the period of six months beginning with the day on which this section comes into force, regulations under this section are subject to approval after being made (and subsection (6) does not apply).(8) For the purposes of subsection (7), section 1291 has effect as if any reference in that section to a period of 28 days were to a period of 40 days.(9) In this section—“eligible scheme” means any pension scheme that is an eligible scheme for the purposes of section 126 of the Pensions Act 2004 or Article 110 of the Pensions (Northern Ireland) Order 2005 (S.I. 2005/255 (N.I. 1));“employer”—  (a) in subsection (1), means an employer within the meaning of section 318(1) of the Pensions Act 2004 or Article 2(2) of the Pensions (Northern Ireland) Order 2005;(b) in subsections (2) and (3)—(i) in the case of a pension scheme that is an eligible scheme for the purposes of section 126 of the Pensions Act 2004, has the same meaning as it has for the purposes of Part 2 of that Act (see section 318(1) and (4) of that Act);(ii) in the case of a pension scheme that is an eligible scheme for the purposes of Article 110 of the Pensions (Northern Ireland) Order 2005, has the same meaning as it has for the purposes of Part 3 of that Order (see Article 2(2) and (5) of that Order);“money purchase scheme” means a pension scheme that is a money purchase scheme for the purposes of the Pension Schemes Act 1993 (see section 181(1) of that Act) or the Pension Schemes (Northern Ireland) Act 1993 (see section 176(1) of that Act);“occupational pension scheme” and “pension scheme” have the meaning given by section 1 of the Pension Schemes Act 1993;“specified” means specified in regulations under this section.”Member’s explanatory statementThis amendment would in certain circumstances require information provided to creditors under Part 26A of the Companies Act 2006 also to be provided to the Pensions Regulator and the Board of the Pension Protection Fund. It also enables the Board to be given the power to exercise rights which could be exercised by the trustees or managers of a pension scheme in proceedings under that Part, such as the right to vote on the proposed compromise or arrangement.</p>
+    <p pid="a219.3/5" class="italic" pwmotiontext="unrecognized">100: Schedule 9, page 198, line 11, leave out from second “a” to end of line 15 and insert “priority pre-moratorium debt.”Member’s explanatory statementSee the explanatory statement for the Minister’s second amendment on page 198 of the Bill.</p>
+    <p pid="a219.3/6" class="italic" pwmotiontext="unrecognized">101: Schedule 9, page 198, line 30, leave out from “debt”” to end of line 38 and insert “—(a) in the case of a moratorium under Part A1 of the Insolvency Act 1986, has the same meaning as in section 174A of that Act;(b) in the case of a moratorium under Part 1A of the Insolvency (Northern Ireland) Order 1989, has the same meaning as in Article 148A of that Order;“priority pre-moratorium debt”—(a) in the case of a moratorium under Part A1 of the Insolvency Act 1986, has the same meaning as in section 174A of that Act;(b) in the case of a moratorium under Part 1A of the Insolvency (Northern Ireland) Order 1989, has the same meaning as in Article 148A of that Order.””Member’s explanatory statementThe Minister’s amendments on page 198 of the Bill provide that the creditors to whom new section 899A of the Companies Act 2006 applies are those in respect of “moratorium debts” and “priority pre-moratorium debts” within the meaning of section 174A of the Insolvency Act 1986 or Article 148A of the Insolvency (Northern Ireland) Order 1989 (which provide for those kinds of debt to have priority in a winding-up).</p>
+    <p pid="a219.3/7" class="italic">Amendments 97 to 101 agreed.</p>
+    <p pid="a219.3/8">       <b>         <i>Schedule 10: Winding-up petitions: Great Britain</i>       </b>     </p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.221.0" newgid="uk.org.publicwhip/lords/2020-06-23b.222.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.221.1" newgid="uk.org.publicwhip/lords/2020-06-23b.222.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.222.0" newgid="uk.org.publicwhip/lords/2020-06-23b.222.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.222.1" newgid="uk.org.publicwhip/lords/2020-06-23b.222.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.222.2" newgid="uk.org.publicwhip/lords/2020-06-23b.222.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.222.3" newgid="uk.org.publicwhip/lords/2020-06-23b.222.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.222.4" newgid="uk.org.publicwhip/lords/2020-06-23b.222.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.222.5" newgid="uk.org.publicwhip/lords/2020-06-23b.222.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.222.6" newgid="uk.org.publicwhip/lords/2020-06-23b.222.8" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.222.7" newgid="uk.org.publicwhip/lords/2020-06-23b.222.9" matchtype="changes"/>
+<speech id="uk.org.publicwhip/lords/2020-06-23a.222.7" speakername="Lord Callanan" nospeaker="true" colnum="222" time="18:46:00" url="">
+    <p pid="a222.7/1" class="italic" pwmotiontext="unrecognized">Moved by Lord Callanan</p>
+    <p pid="a222.7/2" class="italic" pwmotiontext="unrecognized">108: Schedule 14, page 236, line 5, leave out “or the Treasury under” and insert “under paragraph 2(2)(a) of”Member’s explanatory statementThis amendment is consequential on the Minister’s other amendment to Schedule 14</p>
+    <p pid="a222.7/3" class="italic" pwmotiontext="unrecognized">109: Schedule 14, page 236, line 7, leave out sub-paragraphs (3) to (5) and insert—“(3) A statutory instrument containing regulations made by the Secretary of State under paragraph 2(2)(b) of this Schedule or containing regulations made by the Secretary of State or the Treasury under paragraph 4 or 6 of this Schedule must be laid before Parliament as soon as reasonably practicable after being made.  (4) Sub-paragraph (3) does not apply if a draft of the statutory instrument has been laid before and approved by a resolution of each House of Parliament.(5) Regulations contained in a statutory instrument laid before Parliament by virtue of sub-paragraph (3) cease to have effect at the end of the period of 40 days beginning with the day on which the instrument is made, unless during that period the instrument is approved by a resolution of each House of Parliament.(6) In calculating the period of 40 days, no account is to be taken of any time during which—(a) Parliament is dissolved or prorogued, or(b) both Houses of Parliament are adjourned for more that 4 days.(7) Where regulations cease to have effect as a result of sub-paragraph (5) that does not—(a) affect anything previously done under or by virtue of the regulations, or(b) prevent the making of new regulations.7A_(1) Regulations made by the Scottish Ministers under paragraph 2(2)(a) of this Schedule are subject to the negative procedure (see section 28 of the Interpretation and Legislative Reform (Scotland) Act 2010 (asp 10)).(2) Regulations made by the Scottish Ministers under paragraph 2(2)(b), 4 or 6 of this Schedule must be laid before the Scottish Parliament as soon as reasonably practicable after being made.(3) Sub-paragraph (2) does not apply if the regulations have been subject to the affirmative procedure (see section 29 of the Interpretation and Legislative Reform (Scotland) Act 2010).(4) Regulations laid before the Scottish Parliament by virtue of sub- paragraph (2) cease to have effect at the end of the period of 40 days beginning with the day on which they are made, unless during that period the regulations are approved by a resolution of the Scottish Parliament.(5) In calculating the period of 40 days, no account is to be taken of any time during which the Scottish Parliament is—(a) dissolved, or(b) in recess for more than 4 days.(6) Where regulations cease to have effect as a result of sub-paragraph (4) that does not—(a) affect anything previously done under or by virtue of the regulations, or(b) prevent the making of new regulations.(7) Section 30 of the Interpretation and Legislative Reform (Scotland) Act 2010 does not apply in relation to regulations to which sub-paragraph (2) applies.7B_(1) Regulations made by the Department for the Economy in Northern Ireland under paragraph 2(2)(a) of this Schedule are subject to negative resolution within the meaning of section 41(6) of the Interpretation Act (Northern Ireland) 1954 (c. 33 (N.I.)).(2) Regulations made by the Department for the Economy in Northern Ireland under paragraph 2(2)(b), 4 or 6 of this Schedule must be laid before the Assembly as soon as reasonably practicable after being made.(3) Sub-paragraph (2) does not apply if a draft of the regulations has been laid before, and approved by a resolution of, the Assembly.  (4) Section 41(3) of the Interpretation Act (Northern Ireland) 1954 applies for the purposes of sub-paragraph (3) in relation to the laying of a draft as it applies in relation to the laying of a statutory document under an enactment.(5) Regulations laid before the Assembly by virtue of sub-paragraph (2) cease to have effect at the end of the period of 40 days beginning with the day on which the regulations are made, unless during that period the regulations are approved by a resolution of the Assembly.(6) In calculating the period of 40 days, no account is to be taken of any time during which the Assembly is—(a) dissolved,(b) in recess for more than 4 days, or(c) adjourned for more than 6 days.(7) Where regulations cease to have effect as a result of sub-paragraph (5) that does not—(a) affect anything previously done under or by virtue of the regulations, or(b) prevent the making of new regulations.(8) A power of the Department for the Economy in Northern Ireland to make regulations under this Schedule is exercisable by statutory rule for the purposes of the Statutory Rules (Northern Ireland) Order 1979 (S.I. 1979/1573 (N.I. 12)).(9) In this paragraph “the Assembly” means the Northern Ireland Assembly.”Member’s explanatory statementThis amendment changes Schedule 14 so that regulations under paragraph 2(2)(b), 4 or 6 of the Schedule that could formerly have been made by a negative procedure will be subject to a made affirmative procedure (or an affirmative procedure).</p>
+    <p pid="a222.7/4" class="italic">Amendments 108 and 109 agreed.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.224.0" newgid="uk.org.publicwhip/lords/2020-06-23b.224.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.224.1" newgid="uk.org.publicwhip/lords/2020-06-23b.224.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.224.2" newgid="uk.org.publicwhip/lords/2020-06-23b.224.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.224.3" newgid="uk.org.publicwhip/lords/2020-06-23b.224.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.225.0" newgid="uk.org.publicwhip/lords/2020-06-23b.225.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-06-23a.226.0" newgid="uk.org.publicwhip/lords/2020-06-23b.226.0" matchtype="perfectmatch"/>
+</publicwhip>
+

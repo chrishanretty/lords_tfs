@@ -1,0 +1,398 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<!DOCTYPE publicwhip
+[
+<!ENTITY ndash   "&#8211;">
+<!ENTITY mdash   "&#8212;">
+<!ENTITY iexcl   "&#161;">
+<!ENTITY divide  "&#247;">
+<!ENTITY euro    "&#8364;">
+<!ENTITY trade   "&#8482;">
+<!ENTITY bull    "&#8226;">
+<!ENTITY lsquo   "&#8216;">
+<!ENTITY rsquo   "&#8217;">
+<!ENTITY sbquo   "&#8218;">
+<!ENTITY ldquo   "&#8220;">
+<!ENTITY rdquo   "&#8221;">
+<!ENTITY bdquo   "&#8222;">
+<!ENTITY dagger  "&#8224;">
+
+<!ENTITY Ouml   "&#214;" >
+<!ENTITY szlig  "&#223;" >
+<!ENTITY agrave "&#224;" >
+<!ENTITY aacute "&#225;" >
+<!ENTITY acirc  "&#226;" >
+<!ENTITY atilde "&#227;" >
+<!ENTITY auml   "&#228;" >
+<!ENTITY ccedil "&#231;" >
+<!ENTITY egrave "&#232;" >
+<!ENTITY eacute "&#233;" >
+<!ENTITY ecirc  "&#234;" >
+<!ENTITY euml   "&#235;" >
+<!ENTITY iacute "&#237;" >
+<!ENTITY icirc  "&#238;" >
+<!ENTITY iuml	"&#239;" >
+<!ENTITY ntilde "&#241;" >
+<!ENTITY nbsp   "&#160;" >
+<!ENTITY oacute "&#243;" >
+<!ENTITY ocirc  "&#244;" >
+<!ENTITY ouml   "&#246;" >
+<!ENTITY oslash "&#248;" >
+<!ENTITY uacute "&#250;" >
+<!ENTITY uuml   "&#252;" >
+<!ENTITY thorn  "&#254;" >
+
+<!ENTITY pound  "&#163;" >
+<!ENTITY sect   "&#167;" >
+<!ENTITY copy   "&#169;" >
+<!ENTITY reg    "&#174;" >
+<!ENTITY deg    "&#176;" >
+<!ENTITY plusmn "&#177;" >
+<!ENTITY sup2   "&#178;" >
+<!ENTITY micro  "&#181;" >
+<!ENTITY para   "&#182;" >
+<!ENTITY middot "&#183;" >
+<!ENTITY ordm   "&#186;" >
+<!ENTITY frac14 "&#188;" >
+<!ENTITY frac12 "&#189;" >
+<!ENTITY frac34 "&#190;" >
+<!ENTITY oelig "&#339;" >
+<!ENTITY aelig  "&#230;" >
+
+]>
+
+<publicwhip scrapeversion="/home/twfy-live/parldata/scrapedxml/lordspages/daylord2023-03-09a.xml" latest="no">
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.879.0" newgid="uk.org.publicwhip/lords/2023-03-09b.879.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.879.1" newgid="uk.org.publicwhip/lords/2023-03-09b.879.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.879.2" newgid="uk.org.publicwhip/lords/2023-03-09b.879.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.879.3" newgid="uk.org.publicwhip/lords/2023-03-09b.879.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.879.4" newgid="uk.org.publicwhip/lords/2023-03-09b.879.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.880.0" newgid="uk.org.publicwhip/lords/2023-03-09b.880.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.880.1" newgid="uk.org.publicwhip/lords/2023-03-09b.880.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.880.2" newgid="uk.org.publicwhip/lords/2023-03-09b.880.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.880.3" newgid="uk.org.publicwhip/lords/2023-03-09b.880.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.880.4" newgid="uk.org.publicwhip/lords/2023-03-09b.880.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.880.5" newgid="uk.org.publicwhip/lords/2023-03-09b.880.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.881.0" newgid="uk.org.publicwhip/lords/2023-03-09b.881.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.881.1" newgid="uk.org.publicwhip/lords/2023-03-09b.881.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.881.2" newgid="uk.org.publicwhip/lords/2023-03-09b.881.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.881.3" newgid="uk.org.publicwhip/lords/2023-03-09b.881.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.882.0" newgid="uk.org.publicwhip/lords/2023-03-09b.882.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.882.1" newgid="uk.org.publicwhip/lords/2023-03-09b.882.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.882.2" newgid="uk.org.publicwhip/lords/2023-03-09b.882.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.882.3" newgid="uk.org.publicwhip/lords/2023-03-09b.882.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.882.4" newgid="uk.org.publicwhip/lords/2023-03-09b.882.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.882.5" newgid="uk.org.publicwhip/lords/2023-03-09b.882.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.883.0" newgid="uk.org.publicwhip/lords/2023-03-09b.883.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.883.1" newgid="uk.org.publicwhip/lords/2023-03-09b.883.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.883.2" newgid="uk.org.publicwhip/lords/2023-03-09b.883.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.883.3" newgid="uk.org.publicwhip/lords/2023-03-09b.883.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.883.4" newgid="uk.org.publicwhip/lords/2023-03-09b.883.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.883.5" newgid="uk.org.publicwhip/lords/2023-03-09b.883.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.884.0" newgid="uk.org.publicwhip/lords/2023-03-09b.884.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.884.1" newgid="uk.org.publicwhip/lords/2023-03-09b.884.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.884.2" newgid="uk.org.publicwhip/lords/2023-03-09b.884.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.884.3" newgid="uk.org.publicwhip/lords/2023-03-09b.884.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.884.4" newgid="uk.org.publicwhip/lords/2023-03-09b.884.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.884.5" newgid="uk.org.publicwhip/lords/2023-03-09b.884.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.884.6" newgid="uk.org.publicwhip/lords/2023-03-09b.884.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.884.7" newgid="uk.org.publicwhip/lords/2023-03-09b.884.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.885.0" newgid="uk.org.publicwhip/lords/2023-03-09b.885.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.885.1" newgid="uk.org.publicwhip/lords/2023-03-09b.885.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.885.2" newgid="uk.org.publicwhip/lords/2023-03-09b.885.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.885.3" newgid="uk.org.publicwhip/lords/2023-03-09b.885.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.885.4" newgid="uk.org.publicwhip/lords/2023-03-09b.885.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.885.5" newgid="uk.org.publicwhip/lords/2023-03-09b.885.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.885.6" newgid="uk.org.publicwhip/lords/2023-03-09b.885.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.885.7" newgid="uk.org.publicwhip/lords/2023-03-09b.885.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.885.8" newgid="uk.org.publicwhip/lords/2023-03-09b.885.8" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.886.0" newgid="uk.org.publicwhip/lords/2023-03-09b.886.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.886.1" newgid="uk.org.publicwhip/lords/2023-03-09b.886.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.886.2" newgid="uk.org.publicwhip/lords/2023-03-09b.886.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.886.3" newgid="uk.org.publicwhip/lords/2023-03-09b.886.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.886.4" newgid="uk.org.publicwhip/lords/2023-03-09b.886.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.886.5" newgid="uk.org.publicwhip/lords/2023-03-09b.886.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.886.6" newgid="uk.org.publicwhip/lords/2023-03-09b.886.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.886.7" newgid="uk.org.publicwhip/lords/2023-03-09b.886.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.887.0" newgid="uk.org.publicwhip/lords/2023-03-09b.887.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.887.1" newgid="uk.org.publicwhip/lords/2023-03-09b.887.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.887.2" newgid="uk.org.publicwhip/lords/2023-03-09b.887.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.887.3" newgid="uk.org.publicwhip/lords/2023-03-09b.887.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.887.4" newgid="uk.org.publicwhip/lords/2023-03-09b.887.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.888.0" newgid="uk.org.publicwhip/lords/2023-03-09b.888.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.888.1" newgid="uk.org.publicwhip/lords/2023-03-09b.888.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.888.2" newgid="uk.org.publicwhip/lords/2023-03-09b.888.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.888.3" newgid="uk.org.publicwhip/lords/2023-03-09b.888.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.888.4" newgid="uk.org.publicwhip/lords/2023-03-09b.888.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.888.5" newgid="uk.org.publicwhip/lords/2023-03-09b.888.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.889.0" newgid="uk.org.publicwhip/lords/2023-03-09b.889.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.889.1" newgid="uk.org.publicwhip/lords/2023-03-09b.889.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.889.2" newgid="uk.org.publicwhip/lords/2023-03-09b.889.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.889.3" newgid="uk.org.publicwhip/lords/2023-03-09b.889.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.889.4" newgid="uk.org.publicwhip/lords/2023-03-09b.889.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.889.5" newgid="uk.org.publicwhip/lords/2023-03-09b.889.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.889.6" newgid="uk.org.publicwhip/lords/2023-03-09b.889.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.889.7" newgid="uk.org.publicwhip/lords/2023-03-09b.889.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.889.8" newgid="uk.org.publicwhip/lords/2023-03-09b.889.8" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.890.0" newgid="uk.org.publicwhip/lords/2023-03-09b.890.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.890.1" newgid="uk.org.publicwhip/lords/2023-03-09b.890.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.890.2" newgid="uk.org.publicwhip/lords/2023-03-09b.890.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.890.3" newgid="uk.org.publicwhip/lords/2023-03-09b.890.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.890.4" newgid="uk.org.publicwhip/lords/2023-03-09b.890.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.891.0" newgid="uk.org.publicwhip/lords/2023-03-09b.891.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.891.1" newgid="uk.org.publicwhip/lords/2023-03-09b.891.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.891.2" newgid="uk.org.publicwhip/lords/2023-03-09b.891.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.891.3" newgid="uk.org.publicwhip/lords/2023-03-09b.891.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.892.0" newgid="uk.org.publicwhip/lords/2023-03-09b.892.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.892.1" newgid="uk.org.publicwhip/lords/2023-03-09b.892.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.892.2" newgid="uk.org.publicwhip/lords/2023-03-09b.892.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.892.3" newgid="uk.org.publicwhip/lords/2023-03-09b.892.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.892.4" newgid="uk.org.publicwhip/lords/2023-03-09b.892.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.892.5" newgid="uk.org.publicwhip/lords/2023-03-09b.892.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.892.6" newgid="uk.org.publicwhip/lords/2023-03-09b.892.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.892.7" newgid="uk.org.publicwhip/lords/2023-03-09b.892.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.892.8" newgid="uk.org.publicwhip/lords/2023-03-09b.892.8" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.893.0" newgid="uk.org.publicwhip/lords/2023-03-09b.893.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.894.0" newgid="uk.org.publicwhip/lords/2023-03-09b.894.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.896.0" newgid="uk.org.publicwhip/lords/2023-03-09b.896.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.896.1" newgid="uk.org.publicwhip/lords/2023-03-09b.896.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.896.2" newgid="uk.org.publicwhip/lords/2023-03-09b.896.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.896.3" newgid="uk.org.publicwhip/lords/2023-03-09b.896.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.896.4" newgid="uk.org.publicwhip/lords/2023-03-09b.896.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.898.0" newgid="uk.org.publicwhip/lords/2023-03-09b.898.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.898.1" newgid="uk.org.publicwhip/lords/2023-03-09b.898.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.898.2" newgid="uk.org.publicwhip/lords/2023-03-09b.898.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.899.0" newgid="uk.org.publicwhip/lords/2023-03-09b.899.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.899.1" newgid="uk.org.publicwhip/lords/2023-03-09b.899.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.900.0" newgid="uk.org.publicwhip/lords/2023-03-09b.900.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.901.0" newgid="uk.org.publicwhip/lords/2023-03-09b.901.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.901.1" newgid="uk.org.publicwhip/lords/2023-03-09b.901.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.903.0" newgid="uk.org.publicwhip/lords/2023-03-09b.903.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.904.0" newgid="uk.org.publicwhip/lords/2023-03-09b.904.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.905.0" newgid="uk.org.publicwhip/lords/2023-03-09b.905.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.907.0" newgid="uk.org.publicwhip/lords/2023-03-09b.907.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.908.0" newgid="uk.org.publicwhip/lords/2023-03-09b.908.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.909.0" newgid="uk.org.publicwhip/lords/2023-03-09b.909.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.909.1" newgid="uk.org.publicwhip/lords/2023-03-09b.909.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.911.0" newgid="uk.org.publicwhip/lords/2023-03-09b.911.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.911.1" newgid="uk.org.publicwhip/lords/2023-03-09b.911.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.911.2" newgid="uk.org.publicwhip/lords/2023-03-09b.911.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.911.3" newgid="uk.org.publicwhip/lords/2023-03-09b.911.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.911.4" newgid="uk.org.publicwhip/lords/2023-03-09b.911.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.911.5" newgid="uk.org.publicwhip/lords/2023-03-09b.911.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.911.6" newgid="uk.org.publicwhip/lords/2023-03-09b.911.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.912.0" newgid="uk.org.publicwhip/lords/2023-03-09b.912.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.912.1" newgid="uk.org.publicwhip/lords/2023-03-09b.912.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.912.2" newgid="uk.org.publicwhip/lords/2023-03-09b.912.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.912.3" newgid="uk.org.publicwhip/lords/2023-03-09b.912.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.912.4" newgid="uk.org.publicwhip/lords/2023-03-09b.912.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.913.0" newgid="uk.org.publicwhip/lords/2023-03-09b.913.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.913.1" newgid="uk.org.publicwhip/lords/2023-03-09b.913.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.913.2" newgid="uk.org.publicwhip/lords/2023-03-09b.913.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.914.0" newgid="uk.org.publicwhip/lords/2023-03-09b.914.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.915.0" newgid="uk.org.publicwhip/lords/2023-03-09b.915.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.917.0" newgid="uk.org.publicwhip/lords/2023-03-09b.917.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.918.0" newgid="uk.org.publicwhip/lords/2023-03-09b.918.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.919.0" newgid="uk.org.publicwhip/lords/2023-03-09b.919.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.919.1" newgid="uk.org.publicwhip/lords/2023-03-09b.919.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.919.2" newgid="uk.org.publicwhip/lords/2023-03-09b.919.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.920.0" newgid="uk.org.publicwhip/lords/2023-03-09b.920.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.920.1" newgid="uk.org.publicwhip/lords/2023-03-09b.920.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.920.2" newgid="uk.org.publicwhip/lords/2023-03-09b.920.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.920.3" newgid="uk.org.publicwhip/lords/2023-03-09b.920.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.920.4" newgid="uk.org.publicwhip/lords/2023-03-09b.920.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.920.5" newgid="uk.org.publicwhip/lords/2023-03-09b.920.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.921.0" newgid="uk.org.publicwhip/lords/2023-03-09b.921.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.921.1" newgid="uk.org.publicwhip/lords/2023-03-09b.921.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.921.2" newgid="uk.org.publicwhip/lords/2023-03-09b.921.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.921.3" newgid="uk.org.publicwhip/lords/2023-03-09b.921.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.922.0" newgid="uk.org.publicwhip/lords/2023-03-09b.922.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.922.1" newgid="uk.org.publicwhip/lords/2023-03-09b.922.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.922.2" newgid="uk.org.publicwhip/lords/2023-03-09b.922.2" matchtype="changes"/>
+<speech id="uk.org.publicwhip/lords/2023-03-09a.922.2" speakername="Baroness O'Grady of Upper Holloway" type="Start Speech" person_id="uk.org.publicwhip/person/26119" colnum="922" time="13:45:00" url="">
+    <p pid="a922.2/1">I am speaking to Amendments 3 and 4 which are tabled in my name and the name of my noble friend Lord Collins. There are many across this House who believe that the Bill is undemocratic, unworkable and incompatible with human rights and international law, but I want to focus on the specific impact on health services.</p>
+    <p pid="a922.2/2">The Bill would have huge negative consequences for our NHS and for all of us who rely on the motivation, commitment and morale of health staff. I am sure noble Lords are aware that the NHS workforce disproportionately relies on the labour of women, who make up 75% of staff, and the dedication of black and ethnic minority staff, among whom trade union membership is highest. No doubt we will get on to the equality impacts of the Bill, but it seems appropriate to start by quoting the Equality and Human Rights Commission’s observations on this Bill. It says:</p>
+    <p pid="a922.2/3" class="indent">“In the human rights memorandum that accompanied the earlier Transport Strikes (Minimum Service Levels) Bill … the case for the lawfulness of similar provisions was made partly by distinguishing the Bill’s transport-focused clauses from measures affecting other sectors, including health and education. In that document, the Government recognised the importance of existing measures to mitigate the impacts of industrial action in health, education and fire and rescue services”,</p>
+    <p pid="a922.2/4">and that</p>
+    <p pid="a922.2/5" class="indent">“healthcare sector trade unions already provide ‘life and limb’ cover during strikes”.</p>
+    <p pid="a922.2/6">Will the Minister explain exactly why, in such a short period of time, the Government’s position on the inclusion of the health sector has apparently somersaulted?</p>
+    <p pid="a922.2/7">The commission also expressed the concern that the Government’s human rights memorandum makes no reference to Article 4 of the European Convention on Human Rights on the prohibition of slavery and forced labour. Given that health workers who do not comply with a notice to work would face the sack, I would be interested to hear the Minister’s reply to the commission’s concern about that article.</p>
+    <p pid="a922.2/8">Many of us have previously questioned the deeply flawed evidence base contained in the Bill. The Government have repeatedly defended themselves by claiming that minimum service levels are mainstream in other countries, but the fact remains that the key question is not about the existence of minimum service levels—after all, we already have those in the NHS. The real concern is whether such arrangements are imposed by Westminster government diktat, as the Bill seeks to do, or are negotiated voluntarily by agreement; that individual workers who do not comply can be sacked; that all striking workers could be stripped of protection against dismissal if their union is deemed not to be taking these mysterious, undefined “reasonable steps”; that injunctions could be more easily issued to stop a strike; and that union funds could be even more heavily sanctioned.</p>
+    <p pid="a922.2/9">Health unions believe that the Bill is a distraction from the real issues of severe workforce shortages, patient safety and decades of underinvestment across health and social care, especially in relation to workforce supply and retention. The sacking of nurses on strike, as the Bill provides for, will only make that crisis worse.</p>
+    <p pid="a922.2/10">There have been many pleas from individual health professionals. One GP who wrote to my noble friend Lady Thornton said they witnessed daily the huge pressures facing the workforce, which is still tackling the pressures of the Covid-19 pandemic and the huge backlog of care that that created. Waiting lists have soared while their pay has been eroded. The Government said the Bill would help to ensure patient safety on strike days, yet they have failed to take action to address the workforce crisis in health and social care.</p>
+    <p pid="a922.2/11">It is already an established principle that healthcare unions co-ordinate strike action in a way that allows critical services to continue, and existing life-and-limb protections exempt certain categories of staff from strikes. Instead of focusing on minimum service levels on strike days, the Government should be taking action to ensure that the NHS is safely staffed 365 days a year. Those are just some of the reasons why health staff on strike have received such strong public support. The latest YouGov poll shows that around two-thirds of the public support nurses and ambulance workers who have taken strike action.</p>
+    <p pid="a922.2/12">The NHS has a long and proud record of social partnership which is at the heart of industrial relations in the NHS between employers and unions. Of course, that social partnership does not guarantee that differences of interest will not arise, but the Bill risks all that good faith and good will, and it is not just unions who are saying so. Noble Lords will be aware of the concerns of NHS Providers, which says it is essential that a focus on legislative change does not worsen industrial relations at a time when it is imperative that the Government and the unions get around the table to seek a resolution and avert further escalation and  disruption to patient care. It believes that the Bill risks damaging the relationship between NHS trust leaders and their staff, and between trust leaders and local union representatives, at a particularly fraught time, without addressing any of the issues underlying current strike action or providing a useful alternative approach to managing service provision during periods of strike action.</p>
+    <p pid="a922.2/13">Concerns have also been raised by large private companies operating in the health sector that currently do not know whether they are in or out. Many of those companies are concerned that they will be caught in the net of this Bill, and they would like to know if they are. Frankly, many of them are telling us that they would really not welcome what they see as unwelcome interference in their own industrial relations. We have to contemplate that there may be banned private sector employers operating in the sector that may be brought into scope for the purposes of the Bill.</p>
+    <p pid="a922.2/14">As Parliament is being kept in the dark about exactly which employers and workers fall within scope, it would be very helpful if the Minister could provide some answers. I am going to give an example I have thought of. Can the Minister tell us in principle whether the designation of health services could include Amazon? We are all aware that various partnerships between Amazon and the NHS have been mooted, largely in respect of data and web services, but also presumably involving the delivery of kit. Your Lordships will be aware that the GMB union has organised workers at the Coventry warehouse, who have been on strike for better pay and conditions and for union recognition. Therefore, can the Minister confirm whether, in principle, a company such as Amazon could be given licence to threaten those workers to work or face the sack?</p>
+    <p pid="a922.2/15">Can the Minister also tell us more about these consultations? We have had a consultation only on ambulance workers. Is it significant that we have not had consultations on other groups of workers? Is it because they are not going to appear, but the threat of these sweeping powers being taken is just left hanging over other groups of workers’ heads? What is the significance of this? Why have the Government issued a consultation only on ambulance workers? Frankly, it is a mess, and workers and employers are worried.</p>
+    <p pid="a922.2/16">Finally, can the Minister give us a straight answer on how on earth these draconian proposals are expected to work in devolved Governments, when health is a devolved matter? For example, Wales is very proud of its social partnership commitments and approach. The Westminster Government’s authoritarian proposals in this Bill stand in direct opposition to the approach Wales has taken. What happens when nations withhold their consent? Railroading through these proposals without proper parliamentary scrutiny and without devolved government consent is a recipe for chaos and conflict. I beg to move.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.924.0" newgid="uk.org.publicwhip/lords/2023-03-09b.924.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.925.0" newgid="uk.org.publicwhip/lords/2023-03-09b.925.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.925.1" newgid="uk.org.publicwhip/lords/2023-03-09b.925.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.925.2" newgid="uk.org.publicwhip/lords/2023-03-09b.925.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.925.3" newgid="uk.org.publicwhip/lords/2023-03-09b.925.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.928.0" newgid="uk.org.publicwhip/lords/2023-03-09b.928.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.929.0" newgid="uk.org.publicwhip/lords/2023-03-09b.929.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.931.0" newgid="uk.org.publicwhip/lords/2023-03-09b.931.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.932.0" newgid="uk.org.publicwhip/lords/2023-03-09b.932.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.932.1" newgid="uk.org.publicwhip/lords/2023-03-09b.932.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.932.2" newgid="uk.org.publicwhip/lords/2023-03-09b.932.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.933.0" newgid="uk.org.publicwhip/lords/2023-03-09b.933.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.933.1" newgid="uk.org.publicwhip/lords/2023-03-09b.933.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.934.0" newgid="uk.org.publicwhip/lords/2023-03-09b.934.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.934.1" newgid="uk.org.publicwhip/lords/2023-03-09b.934.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.934.2" newgid="uk.org.publicwhip/lords/2023-03-09b.934.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.935.0" newgid="uk.org.publicwhip/lords/2023-03-09b.935.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.935.1" newgid="uk.org.publicwhip/lords/2023-03-09b.935.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.935.2" newgid="uk.org.publicwhip/lords/2023-03-09b.935.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.936.0" newgid="uk.org.publicwhip/lords/2023-03-09b.936.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.936.1" newgid="uk.org.publicwhip/lords/2023-03-09b.936.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.936.2" newgid="uk.org.publicwhip/lords/2023-03-09b.936.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.937.0" newgid="uk.org.publicwhip/lords/2023-03-09b.937.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.937.1" newgid="uk.org.publicwhip/lords/2023-03-09b.937.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.937.2" newgid="uk.org.publicwhip/lords/2023-03-09b.937.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.937.3" newgid="uk.org.publicwhip/lords/2023-03-09b.937.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.938.0" newgid="uk.org.publicwhip/lords/2023-03-09b.938.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.938.1" newgid="uk.org.publicwhip/lords/2023-03-09b.938.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.938.2" newgid="uk.org.publicwhip/lords/2023-03-09b.938.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.941.0" newgid="uk.org.publicwhip/lords/2023-03-09b.941.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.941.1" newgid="uk.org.publicwhip/lords/2023-03-09b.941.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.942.0" newgid="uk.org.publicwhip/lords/2023-03-09b.942.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.943.0" newgid="uk.org.publicwhip/lords/2023-03-09b.943.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.945.0" newgid="uk.org.publicwhip/lords/2023-03-09b.945.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.947.0" newgid="uk.org.publicwhip/lords/2023-03-09b.947.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.947.1" newgid="uk.org.publicwhip/lords/2023-03-09b.947.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.948.0" newgid="uk.org.publicwhip/lords/2023-03-09b.948.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.948.1" newgid="uk.org.publicwhip/lords/2023-03-09b.948.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.948.2" newgid="uk.org.publicwhip/lords/2023-03-09b.948.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.949.0" newgid="uk.org.publicwhip/lords/2023-03-09b.949.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.949.1" newgid="uk.org.publicwhip/lords/2023-03-09b.949.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.949.2" newgid="uk.org.publicwhip/lords/2023-03-09b.949.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.949.3" newgid="uk.org.publicwhip/lords/2023-03-09b.949.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.949.4" newgid="uk.org.publicwhip/lords/2023-03-09b.949.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.949.5" newgid="uk.org.publicwhip/lords/2023-03-09b.949.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.949.6" newgid="uk.org.publicwhip/lords/2023-03-09b.949.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.950.0" newgid="uk.org.publicwhip/lords/2023-03-09b.950.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.950.1" newgid="uk.org.publicwhip/lords/2023-03-09b.950.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.950.2" newgid="uk.org.publicwhip/lords/2023-03-09b.950.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.950.3" newgid="uk.org.publicwhip/lords/2023-03-09b.950.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.950.4" newgid="uk.org.publicwhip/lords/2023-03-09b.950.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.951.0" newgid="uk.org.publicwhip/lords/2023-03-09b.951.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.951.1" newgid="uk.org.publicwhip/lords/2023-03-09b.951.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.951.2" newgid="uk.org.publicwhip/lords/2023-03-09b.951.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.952.0" newgid="uk.org.publicwhip/lords/2023-03-09b.952.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.952.1" newgid="uk.org.publicwhip/lords/2023-03-09b.952.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.952.2" newgid="uk.org.publicwhip/lords/2023-03-09b.952.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.952.3" newgid="uk.org.publicwhip/lords/2023-03-09b.952.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.953.0" newgid="uk.org.publicwhip/lords/2023-03-09b.953.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.953.1" newgid="uk.org.publicwhip/lords/2023-03-09b.953.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.953.2" newgid="uk.org.publicwhip/lords/2023-03-09b.953.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.953.3" newgid="uk.org.publicwhip/lords/2023-03-09b.953.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.953.4" newgid="uk.org.publicwhip/lords/2023-03-09b.953.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.953.5" newgid="uk.org.publicwhip/lords/2023-03-09b.953.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.953.6" newgid="uk.org.publicwhip/lords/2023-03-09b.953.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.954.0" newgid="uk.org.publicwhip/lords/2023-03-09b.954.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.954.1" newgid="uk.org.publicwhip/lords/2023-03-09b.954.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.954.2" newgid="uk.org.publicwhip/lords/2023-03-09b.954.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.954.3" newgid="uk.org.publicwhip/lords/2023-03-09b.954.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.954.4" newgid="uk.org.publicwhip/lords/2023-03-09b.954.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.955.0" newgid="uk.org.publicwhip/lords/2023-03-09b.955.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.955.1" newgid="uk.org.publicwhip/lords/2023-03-09b.955.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.955.2" newgid="uk.org.publicwhip/lords/2023-03-09b.955.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.957.0" newgid="uk.org.publicwhip/lords/2023-03-09b.957.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.957.1" newgid="uk.org.publicwhip/lords/2023-03-09b.957.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.959.0" newgid="uk.org.publicwhip/lords/2023-03-09b.959.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.960.0" newgid="uk.org.publicwhip/lords/2023-03-09b.960.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.961.0" newgid="uk.org.publicwhip/lords/2023-03-09b.961.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.962.0" newgid="uk.org.publicwhip/lords/2023-03-09b.962.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.963.0" newgid="uk.org.publicwhip/lords/2023-03-09b.963.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.963.1" newgid="uk.org.publicwhip/lords/2023-03-09b.963.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.963.2" newgid="uk.org.publicwhip/lords/2023-03-09b.963.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.963.3" newgid="uk.org.publicwhip/lords/2023-03-09b.963.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.964.0" newgid="uk.org.publicwhip/lords/2023-03-09b.964.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.964.1" newgid="uk.org.publicwhip/lords/2023-03-09b.964.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.964.2" newgid="uk.org.publicwhip/lords/2023-03-09b.964.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.964.3" newgid="uk.org.publicwhip/lords/2023-03-09b.964.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.964.4" newgid="uk.org.publicwhip/lords/2023-03-09b.964.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.964.5" newgid="uk.org.publicwhip/lords/2023-03-09b.964.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.965.0" newgid="uk.org.publicwhip/lords/2023-03-09b.965.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.965.1" newgid="uk.org.publicwhip/lords/2023-03-09b.965.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.965.2" newgid="uk.org.publicwhip/lords/2023-03-09b.965.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.965.3" newgid="uk.org.publicwhip/lords/2023-03-09b.965.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.965.4" newgid="uk.org.publicwhip/lords/2023-03-09b.965.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.966.0" newgid="uk.org.publicwhip/lords/2023-03-09b.966.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.966.1" newgid="uk.org.publicwhip/lords/2023-03-09b.966.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.966.2" newgid="uk.org.publicwhip/lords/2023-03-09b.966.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.966.3" newgid="uk.org.publicwhip/lords/2023-03-09b.966.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.966.4" newgid="uk.org.publicwhip/lords/2023-03-09b.966.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.966.5" newgid="uk.org.publicwhip/lords/2023-03-09b.966.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.966.6" newgid="uk.org.publicwhip/lords/2023-03-09b.966.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.966.7" newgid="uk.org.publicwhip/lords/2023-03-09b.966.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.967.0" newgid="uk.org.publicwhip/lords/2023-03-09b.967.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.967.1" newgid="uk.org.publicwhip/lords/2023-03-09b.967.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.967.2" newgid="uk.org.publicwhip/lords/2023-03-09b.967.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.968.0" newgid="uk.org.publicwhip/lords/2023-03-09b.968.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.968.1" newgid="uk.org.publicwhip/lords/2023-03-09b.968.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.968.2" newgid="uk.org.publicwhip/lords/2023-03-09b.968.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.968.3" newgid="uk.org.publicwhip/lords/2023-03-09b.968.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.968.4" newgid="uk.org.publicwhip/lords/2023-03-09b.968.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.968.5" newgid="uk.org.publicwhip/lords/2023-03-09b.968.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.969.0" newgid="uk.org.publicwhip/lords/2023-03-09b.969.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.969.1" newgid="uk.org.publicwhip/lords/2023-03-09b.969.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.970.0" newgid="uk.org.publicwhip/lords/2023-03-09b.970.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.970.1" newgid="uk.org.publicwhip/lords/2023-03-09b.970.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.971.0" newgid="uk.org.publicwhip/lords/2023-03-09b.971.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.971.1" newgid="uk.org.publicwhip/lords/2023-03-09b.971.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.972.0" newgid="uk.org.publicwhip/lords/2023-03-09b.972.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.973.0" newgid="uk.org.publicwhip/lords/2023-03-09b.973.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.974.0" newgid="uk.org.publicwhip/lords/2023-03-09b.974.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.974.1" newgid="uk.org.publicwhip/lords/2023-03-09b.974.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.976.0" newgid="uk.org.publicwhip/lords/2023-03-09b.976.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.977.0" newgid="uk.org.publicwhip/lords/2023-03-09b.977.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.978.0" newgid="uk.org.publicwhip/lords/2023-03-09b.978.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.979.0" newgid="uk.org.publicwhip/lords/2023-03-09b.979.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.980.0" newgid="uk.org.publicwhip/lords/2023-03-09b.980.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.980.1" newgid="uk.org.publicwhip/lords/2023-03-09b.980.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.980.2" newgid="uk.org.publicwhip/lords/2023-03-09b.980.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.980.3" newgid="uk.org.publicwhip/lords/2023-03-09b.980.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.980.4" newgid="uk.org.publicwhip/lords/2023-03-09b.980.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.981.0" newgid="uk.org.publicwhip/lords/2023-03-09b.981.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.981.1" newgid="uk.org.publicwhip/lords/2023-03-09b.981.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.981.2" newgid="uk.org.publicwhip/lords/2023-03-09b.981.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.981.3" newgid="uk.org.publicwhip/lords/2023-03-09b.981.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.981.4" newgid="uk.org.publicwhip/lords/2023-03-09b.981.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.981.5" newgid="uk.org.publicwhip/lords/2023-03-09b.981.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.982.0" newgid="uk.org.publicwhip/lords/2023-03-09b.982.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.982.1" newgid="uk.org.publicwhip/lords/2023-03-09b.982.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.982.2" newgid="uk.org.publicwhip/lords/2023-03-09b.982.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.984.0" newgid="uk.org.publicwhip/lords/2023-03-09b.984.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.986.0" newgid="uk.org.publicwhip/lords/2023-03-09b.986.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.987.0" newgid="uk.org.publicwhip/lords/2023-03-09b.987.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.987.1" newgid="uk.org.publicwhip/lords/2023-03-09b.987.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.988.0" newgid="uk.org.publicwhip/lords/2023-03-09b.988.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.989.0" newgid="uk.org.publicwhip/lords/2023-03-09b.989.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.989.1" newgid="uk.org.publicwhip/lords/2023-03-09b.989.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.989.2" newgid="uk.org.publicwhip/lords/2023-03-09b.989.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.990.0" newgid="uk.org.publicwhip/lords/2023-03-09b.990.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.991.0" newgid="uk.org.publicwhip/lords/2023-03-09b.991.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.991.1" newgid="uk.org.publicwhip/lords/2023-03-09b.991.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.992.0" newgid="uk.org.publicwhip/lords/2023-03-09b.992.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.992.1" newgid="uk.org.publicwhip/lords/2023-03-09b.992.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.992.2" newgid="uk.org.publicwhip/lords/2023-03-09b.992.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.992.3" newgid="uk.org.publicwhip/lords/2023-03-09b.992.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.993.0" newgid="uk.org.publicwhip/lords/2023-03-09b.993.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.993.1" newgid="uk.org.publicwhip/lords/2023-03-09b.993.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.993.2" newgid="uk.org.publicwhip/lords/2023-03-09b.993.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.993.3" newgid="uk.org.publicwhip/lords/2023-03-09b.993.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.994.0" newgid="uk.org.publicwhip/lords/2023-03-09b.994.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.996.0" newgid="uk.org.publicwhip/lords/2023-03-09b.996.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.996.1" newgid="uk.org.publicwhip/lords/2023-03-09b.996.0" matchtype="missing"/>
+<speech id="uk.org.publicwhip/lords/2023-03-09a.996.1" nospeaker="true" colnum="996" time="18:45:00" url="">
+    <p pid="a996.0/1" class="italic">The following entry was omitted from the Official Report published on 8 March 2023 in error.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.996.2" newgid="uk.org.publicwhip/lords/2023-03-09b.996.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2023-03-09a.996.3" newgid="uk.org.publicwhip/lords/2023-03-09b.996.2" matchtype="perfectmatch"/>
+</publicwhip>
+

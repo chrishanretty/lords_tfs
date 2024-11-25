@@ -1,0 +1,612 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+
+<!DOCTYPE publicwhip
+[
+<!ENTITY ndash   "&#8211;">
+<!ENTITY mdash   "&#8212;">
+<!ENTITY iexcl   "&#161;">
+<!ENTITY divide  "&#247;">
+<!ENTITY euro    "&#8364;">
+<!ENTITY trade   "&#8482;">
+<!ENTITY bull    "&#8226;">
+<!ENTITY lsquo   "&#8216;">
+<!ENTITY rsquo   "&#8217;">
+<!ENTITY sbquo   "&#8218;">
+<!ENTITY ldquo   "&#8220;">
+<!ENTITY rdquo   "&#8221;">
+<!ENTITY bdquo   "&#8222;">
+<!ENTITY dagger  "&#8224;">
+
+<!ENTITY Ouml   "&#214;" >
+<!ENTITY agrave "&#224;" >
+<!ENTITY aacute "&#225;" >
+<!ENTITY acirc  "&#226;" >
+<!ENTITY atilde "&#227;" >
+<!ENTITY auml   "&#228;" >
+<!ENTITY ccedil "&#231;" >
+<!ENTITY egrave "&#232;" >
+<!ENTITY eacute "&#233;" >
+<!ENTITY ecirc  "&#234;" >
+<!ENTITY euml   "&#235;" >
+<!ENTITY iacute "&#237;" >
+<!ENTITY icirc  "&#238;" >
+<!ENTITY iuml	"&#239;" >
+<!ENTITY ntilde "&#241;" >
+<!ENTITY nbsp   "&#160;" >
+<!ENTITY oacute "&#243;" >
+<!ENTITY ocirc  "&#244;" >
+<!ENTITY ouml   "&#246;" >
+<!ENTITY oslash "&#248;" >
+<!ENTITY uacute "&#250;" >
+<!ENTITY uuml   "&#252;" >
+<!ENTITY thorn  "&#254;" >
+
+<!ENTITY pound  "&#163;" >
+<!ENTITY sect   "&#167;" >
+<!ENTITY copy   "&#169;" >
+<!ENTITY reg    "&#174;" >
+<!ENTITY deg    "&#176;" >
+<!ENTITY plusmn "&#177;" >
+<!ENTITY sup2   "&#178;" >
+<!ENTITY micro  "&#181;" >
+<!ENTITY para   "&#182;" >
+<!ENTITY middot "&#183;" >
+<!ENTITY ordm   "&#186;" >
+<!ENTITY frac14 "&#188;" >
+<!ENTITY frac12 "&#189;" >
+<!ENTITY frac34 "&#190;" >
+<!ENTITY oelig "&#339;" >
+<!ENTITY aelig  "&#230;" >
+
+]>
+
+<publicwhip scrapeversion="b" latest="no">
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1159.0" newgid="uk.org.publicwhip/lords/2005-10-26c.1159.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1159.1" newgid="uk.org.publicwhip/lords/2005-10-26c.1159.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1159.2" newgid="uk.org.publicwhip/lords/2005-10-26c.1159.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1159.3" newgid="uk.org.publicwhip/lords/2005-10-26c.1159.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1159.4" newgid="uk.org.publicwhip/lords/2005-10-26c.1159.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1159.5" newgid="uk.org.publicwhip/lords/2005-10-26c.1159.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1160.0" newgid="uk.org.publicwhip/lords/2005-10-26c.1160.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1160.1" newgid="uk.org.publicwhip/lords/2005-10-26c.1160.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1160.2" newgid="uk.org.publicwhip/lords/2005-10-26c.1160.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1160.3" newgid="uk.org.publicwhip/lords/2005-10-26c.1160.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1160.4" newgid="uk.org.publicwhip/lords/2005-10-26c.1160.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1161.0" newgid="uk.org.publicwhip/lords/2005-10-26c.1161.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1161.1" newgid="uk.org.publicwhip/lords/2005-10-26c.1161.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1161.2" newgid="uk.org.publicwhip/lords/2005-10-26c.1161.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1161.3" newgid="uk.org.publicwhip/lords/2005-10-26c.1161.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1161.4" newgid="uk.org.publicwhip/lords/2005-10-26c.1161.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1161.5" newgid="uk.org.publicwhip/lords/2005-10-26c.1161.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1161.6" newgid="uk.org.publicwhip/lords/2005-10-26c.1161.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1162.0" newgid="uk.org.publicwhip/lords/2005-10-26c.1162.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1162.1" newgid="uk.org.publicwhip/lords/2005-10-26c.1162.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1162.2" newgid="uk.org.publicwhip/lords/2005-10-26c.1162.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1162.3" newgid="uk.org.publicwhip/lords/2005-10-26c.1162.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1162.4" newgid="uk.org.publicwhip/lords/2005-10-26c.1162.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1162.5" newgid="uk.org.publicwhip/lords/2005-10-26c.1162.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1162.6" newgid="uk.org.publicwhip/lords/2005-10-26c.1162.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1163.0" newgid="uk.org.publicwhip/lords/2005-10-26c.1163.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1163.1" newgid="uk.org.publicwhip/lords/2005-10-26c.1163.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1163.2" newgid="uk.org.publicwhip/lords/2005-10-26c.1163.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1163.3" newgid="uk.org.publicwhip/lords/2005-10-26c.1163.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1163.4" newgid="uk.org.publicwhip/lords/2005-10-26c.1163.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1163.5" newgid="uk.org.publicwhip/lords/2005-10-26c.1163.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1164.0" newgid="uk.org.publicwhip/lords/2005-10-26c.1164.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1164.1" newgid="uk.org.publicwhip/lords/2005-10-26c.1164.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1164.2" newgid="uk.org.publicwhip/lords/2005-10-26c.1164.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1164.3" newgid="uk.org.publicwhip/lords/2005-10-26c.1164.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1164.4" newgid="uk.org.publicwhip/lords/2005-10-26c.1164.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1164.5" newgid="uk.org.publicwhip/lords/2005-10-26c.1164.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1164.6" newgid="uk.org.publicwhip/lords/2005-10-26c.1164.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1165.0" newgid="uk.org.publicwhip/lords/2005-10-26c.1165.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1165.1" newgid="uk.org.publicwhip/lords/2005-10-26c.1165.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1165.2" newgid="uk.org.publicwhip/lords/2005-10-26c.1165.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1165.3" newgid="uk.org.publicwhip/lords/2005-10-26c.1165.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1165.4" newgid="uk.org.publicwhip/lords/2005-10-26c.1165.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1166.0" newgid="uk.org.publicwhip/lords/2005-10-26c.1166.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1166.1" newgid="uk.org.publicwhip/lords/2005-10-26c.1166.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1166.2" newgid="uk.org.publicwhip/lords/2005-10-26c.1166.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1166.3" newgid="uk.org.publicwhip/lords/2005-10-26c.1166.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1166.4" newgid="uk.org.publicwhip/lords/2005-10-26c.1166.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1167.0" newgid="uk.org.publicwhip/lords/2005-10-26c.1167.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1167.1" newgid="uk.org.publicwhip/lords/2005-10-26c.1167.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1167.2" newgid="uk.org.publicwhip/lords/2005-10-26c.1167.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1167.3" newgid="uk.org.publicwhip/lords/2005-10-26c.1167.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1167.4" newgid="uk.org.publicwhip/lords/2005-10-26c.1167.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1167.5" newgid="uk.org.publicwhip/lords/2005-10-26c.1167.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1167.6" newgid="uk.org.publicwhip/lords/2005-10-26c.1167.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1167.7" newgid="uk.org.publicwhip/lords/2005-10-26c.1167.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1167.8" newgid="uk.org.publicwhip/lords/2005-10-26c.1167.8" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1168.0" newgid="uk.org.publicwhip/lords/2005-10-26c.1168.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1168.1" newgid="uk.org.publicwhip/lords/2005-10-26c.1168.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1168.2" newgid="uk.org.publicwhip/lords/2005-10-26c.1168.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1168.3" newgid="uk.org.publicwhip/lords/2005-10-26c.1168.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1168.4" newgid="uk.org.publicwhip/lords/2005-10-26c.1168.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1169.0" newgid="uk.org.publicwhip/lords/2005-10-26c.1169.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1169.1" newgid="uk.org.publicwhip/lords/2005-10-26c.1169.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1169.2" newgid="uk.org.publicwhip/lords/2005-10-26c.1169.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1169.3" newgid="uk.org.publicwhip/lords/2005-10-26c.1169.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1169.4" newgid="uk.org.publicwhip/lords/2005-10-26c.1169.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1169.5" newgid="uk.org.publicwhip/lords/2005-10-26c.1169.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1169.6" newgid="uk.org.publicwhip/lords/2005-10-26c.1169.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1169.7" newgid="uk.org.publicwhip/lords/2005-10-26c.1169.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1169.8" newgid="uk.org.publicwhip/lords/2005-10-26c.1169.8" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1169.9" newgid="uk.org.publicwhip/lords/2005-10-26c.1169.9" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1170.0" newgid="uk.org.publicwhip/lords/2005-10-26c.1170.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1170.1" newgid="uk.org.publicwhip/lords/2005-10-26c.1170.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1170.2" newgid="uk.org.publicwhip/lords/2005-10-26c.1170.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1170.3" newgid="uk.org.publicwhip/lords/2005-10-26c.1170.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1170.4" newgid="uk.org.publicwhip/lords/2005-10-26c.1170.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1171.0" newgid="uk.org.publicwhip/lords/2005-10-26c.1171.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1171.1" newgid="uk.org.publicwhip/lords/2005-10-26c.1171.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1172.0" newgid="uk.org.publicwhip/lords/2005-10-26c.1172.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1172.1" newgid="uk.org.publicwhip/lords/2005-10-26c.1172.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1172.2" newgid="uk.org.publicwhip/lords/2005-10-26c.1172.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1172.3" newgid="uk.org.publicwhip/lords/2005-10-26c.1172.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1172.4" newgid="uk.org.publicwhip/lords/2005-10-26c.1172.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1172.5" newgid="uk.org.publicwhip/lords/2005-10-26c.1172.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1172.6" newgid="uk.org.publicwhip/lords/2005-10-26c.1172.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1173.0" newgid="uk.org.publicwhip/lords/2005-10-26c.1173.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1173.1" newgid="uk.org.publicwhip/lords/2005-10-26c.1173.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1173.2" newgid="uk.org.publicwhip/lords/2005-10-26c.1173.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1173.3" newgid="uk.org.publicwhip/lords/2005-10-26c.1173.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1173.4" newgid="uk.org.publicwhip/lords/2005-10-26c.1173.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1173.5" newgid="uk.org.publicwhip/lords/2005-10-26c.1173.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1174.0" newgid="uk.org.publicwhip/lords/2005-10-26c.1174.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1174.1" newgid="uk.org.publicwhip/lords/2005-10-26c.1174.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1175.0" newgid="uk.org.publicwhip/lords/2005-10-26c.1175.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1175.1" newgid="uk.org.publicwhip/lords/2005-10-26c.1175.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1175.2" newgid="uk.org.publicwhip/lords/2005-10-26c.1175.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1176.0" newgid="uk.org.publicwhip/lords/2005-10-26c.1176.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1176.1" newgid="uk.org.publicwhip/lords/2005-10-26c.1176.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1176.2" newgid="uk.org.publicwhip/lords/2005-10-26c.1176.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1176.3" newgid="uk.org.publicwhip/lords/2005-10-26c.1176.3" matchtype="multiplecover"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1176.3" newgid="uk.org.publicwhip/lords/2005-10-26c.1177.0" matchtype="multiplecover"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1176.3" newgid="uk.org.publicwhip/lords/2005-10-26c.1177.1" matchtype="multiplecover"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1176.3" newgid="uk.org.publicwhip/lords/2005-10-26c.1178.0" matchtype="multiplecover"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1176.3" newgid="uk.org.publicwhip/lords/2005-10-26c.1178.1" matchtype="multiplecover"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1176.3" newgid="uk.org.publicwhip/lords/2005-10-26c.1179.0" matchtype="multiplecover"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1176.3" newgid="uk.org.publicwhip/lords/2005-10-26c.1179.1" matchtype="multiplecover"/>
+<speech id="uk.org.publicwhip/lords/2005-10-26b.1176.3" speakerid="uk.org.publicwhip/lord/100164" speakername="Lord Davies of Oldham" colon="" colnum="1176"  time="015:30:00" url="http://www.publications.parliament.uk/pa/ld199900/ldhansrd/pdvn/lds05/text/51026-06.htm#51026-06_spnew4">
+	<p pid="b.1176.3/1" pwmotiontext="moved">moved Amendment No. 122A:</p>
+	<p pid="b.1176.3/2" class="indent" pwmotiontext="moved">Before Schedule 4, insert the following new schedule&mdash;</p>
+	<p pid="b.1176.3/3" pwmotiontext="moved">&quot;NEW SCHEDULE 2A TO THE ROAD TRAFFIC ACT 1988</p>
+	<p pid="b.1176.3/4" pwmotiontext="moved">The Schedule inserted after Schedule 2 to the Road Traffic Act 1988 (c. 52) is as follows&mdash;</p>
+	<p pid="b.1176.3/5" class="indent" pwmotiontext="moved">SCHEDULE 2A</p>
+	<p pid="b.1176.3/6" class="indent" pwmotiontext="moved">Section 144D</p>
+	<p pid="b.1176.3/7" class="indent" pwmotiontext="moved">OFFENCE OF KEEPING VEHICLE WHICH DOES NOT MEET INSURANCE REQUIREMENTS: IMMOBILISATION, REMOVAL AND DISPOSAL OF VEHICLES</p>
+	<p pid="b.1176.3/8" class="indentitalic" pwmotiontext="moved">Immobilisation</p>
+	<p pid="b.1176.3/9" pwmotiontext="moved">1 (1) Regulations may make provision with respect to any case where an authorised person has reason to believe that, on or after such date as may be prescribed, an offence under section 144A of this Act is being committed as regards a vehicle which is stationary on a road or other public place.</p>
+	<p pid="b.1176.3/10" pwmotiontext="moved">(2) The regulations may provide that the authorised person or a person acting under his direction may&mdash;</p>
+	<p pid="b.1176.3/11" class="indent" pwmotiontext="moved">(a) fix an immobilisation device to the vehicle while it remains in the place where it is stationary, or</p>
+	<p pid="b.1176.3/12" class="indent" pwmotiontext="moved">(b) move it from that place to another place on the same or another road or public place and fix an immobilisation device to it in that other place.</p>
+	<p pid="b.1176.3/13" pwmotiontext="moved">(3) The regulations may provide that on any occasion when an immobilisation device is fixed to a vehicle in accordance with the regulations the person fixing the device must also fix to the vehicle a notice&mdash;</p>
+	<p pid="b.1176.3/14" class="indent" pwmotiontext="moved">(a) indicating that the device has been fixed to the vehicle and warning that no attempt should be made to drive it or otherwise put it in motion until it has been released from the device,</p>
+	<p pid="b.1176.3/15" class="indent" pwmotiontext="moved">(b) specifying the steps to be taken to secure its release, and</p>
+	<p pid="b.1176.3/16" class="indent" pwmotiontext="moved">(c) giving such other information as may be prescribed.</p>
+	<p pid="b.1176.3/17" pwmotiontext="moved">(4) The regulations may provide that a vehicle to which an immobilisation device has been fixed in accordance with the regulations&mdash;</p>
+	<p pid="b.1176.3/18" class="indent" pwmotiontext="moved">(a) may only be released from the device by or under the direction of an authorised person, but</p>
+	<p pid="b.1176.3/19" class="indent" pwmotiontext="moved">(b) subject to that, must be released from the device if the first and second requirements specified below are met.</p>
+	<p pid="b.1176.3/20" pwmotiontext="moved">(5) The first requirement is that such charge in respect of the release as may be prescribed is paid in any manner specified in the immobilisation notice.</p>
+	<p pid="b.1176.3/21" pwmotiontext="moved">(6) The second requirement is that, in accordance with instructions specified in the immobilisation notice, there is produced such evidence as may be prescribed establishing&mdash;</p>
+	<p pid="b.1176.3/22" class="indent" pwmotiontext="moved">(a) that any person who proposes to drive the vehicle away will not in doing so be guilty of an offence under section 143 of this Act, and</p>
+	<p pid="b.1176.3/23" class="indent" pwmotiontext="moved">(b) that the person in whose name the vehicle is registered under the Vehicle Excise and Registration Act 1994 is not guilty of an offence under section 144A of this Act as regards the vehicle.</p>
+	<p pid="b.1176.3/24" pwmotiontext="moved">(7) The regulations may provide that they do not apply in relation to a vehicle if&mdash;</p>
+	<p pid="b.1176.3/25" class="indent" pwmotiontext="moved">(a) a current disabled person's badge is displayed on the vehicle, or</p>
+	<p pid="b.1176.3/26" class="indent" pwmotiontext="moved">(b) such other conditions as may be prescribed are fulfilled,</p>
+	<p pid="b.1176.3/27" class="indent" pwmotiontext="moved">and &quot;disabled person's badge&quot; means a badge issued, or having effect as if issued, under any regulations for the time being in force under section 21 of the Chronically Sick and Disabled Persons Act 1970.</p>
+	<p pid="b.1176.3/28" pwmotiontext="moved">(8) The regulations may provide that an immobilisation notice is not to be removed or interfered with except by or on the authority of a person falling within a prescribed description.</p>
+	<p pid="b.1176.3/29" pwmotiontext="moved">Offences connected with immobilisation</p>
+	<p pid="b.1176.3/30" pwmotiontext="moved">2 (1) The regulations may provide that a person contravening provision made under paragraph 1(8) above is guilty of an offence.</p>
+	<p pid="b.1176.3/31" pwmotiontext="moved">(2) The regulations may provide that a person who, without being authorised to do so in accordance with provision made under paragraph 1 above, removes or attempts to remove an immobilisation device fixed to a vehicle in accordance with the regulations is guilty of an offence.</p>
+	<p pid="b.1176.3/32" pwmotiontext="moved">(3) The regulations may provide that where they would apply in relation to a vehicle but for provision made under paragraph 1(7)(a) above and the vehicle was not, at the time it was stationary, being used&mdash;</p>
+	<p pid="b.1176.3/33" class="indent" pwmotiontext="moved">(a) in accordance with regulations under section 21 of the Chronically Sick and Disabled Persons Act 1970, and</p>
+	<p pid="b.1176.3/34" class="indent" pwmotiontext="moved">(b) in circumstances falling within section 117(1)(b) of the Road Traffic Regulation Act 1984 (use where a disabled person's concession would be available),</p>
+	<p pid="b.1176.3/35" class="indent" pwmotiontext="moved">the person in charge of the vehicle at that time is guilty of an offence.</p>
+	<p pid="b.1176.3/36" pwmotiontext="moved">(4) The regulations may provide that where&mdash;</p>
+	<p pid="b.1176.3/37" class="indent" pwmotiontext="moved">(a) a person makes a declaration with a view to securing the release of a vehicle from an immobilisation device purported to have been fixed in accordance with the regulations,</p>
+	<p pid="b.1176.3/38" class="indent" pwmotiontext="moved">(b) the declaration is that no offence under section 144A of this Act is or was being committed as regards the vehicle, and</p>
+	<p pid="b.1176.3/39" class="indent" pwmotiontext="moved">(c) the declaration is to the person's knowledge either false or in any material respect misleading,</p>
+	<p pid="b.1176.3/40" class="indent" pwmotiontext="moved">he is guilty of an offence.</p>
+	<p pid="b.1176.3/41" class="indent" pwmotiontext="moved">Removal and disposal of vehicles</p>
+	<p pid="b.1176.3/42" pwmotiontext="moved">3 (1) The regulations may make provision with respect to any case where&mdash;</p>
+	<p pid="b.1176.3/43" class="indent" pwmotiontext="moved">(a) an authorised person has reason to believe that an offence under section 144A of this Act is being committed as regards a vehicle which is stationary on a road or other public place, and such conditions as may be prescribed are fulfilled, or</p>
+	<p pid="b.1176.3/44" class="indent" pwmotiontext="moved">(b) an authorised person has reason to believe that such an offence was being committed as regards a vehicle at a time when an immobilisation device which is fixed to the vehicle was fixed to it in accordance with the regulations, and such conditions as may be prescribed are fulfilled.</p>
+	<p pid="b.1176.3/45" pwmotiontext="moved">(2) The regulations may provide that the authorised person, or a person acting under his direction, may remove the vehicle and deliver it into the custody of a person&mdash;</p>
+	<p pid="b.1176.3/46" class="indent" pwmotiontext="moved">(a) who is identified in accordance with prescribed rules, and</p>
+	<p pid="b.1176.3/47" class="indent" pwmotiontext="moved">(b) who agrees to accept delivery in accordance with arrangements agreed between that person and the Secretary of State,</p>
+	<p pid="b.1176.3/48" class="indent" pwmotiontext="moved">and the arrangements may include provision as to the payment of a sum to the person into whose custody the vehicle is delivered.</p>
+	<p pid="b.1176.3/49" pwmotiontext="moved">(3) The regulations may provide that the person into whose custody the vehicle is delivered may dispose of it, and may in particular make provision as to&mdash;</p>
+	<p pid="b.1176.3/50" class="indent" pwmotiontext="moved">(a) the time at which the vehicle may be disposed of, and</p>
+	<p pid="b.1176.3/51" class="indent" pwmotiontext="moved">(b) the manner in which it may be disposed of.</p>
+	<p pid="b.1176.3/52" pwmotiontext="moved">(4) The regulations may make provision allowing a person to take possession of the vehicle if&mdash;</p>
+	<p pid="b.1176.3/53" class="indent" pwmotiontext="moved">(a) he claims it before it is disposed of, and</p>
+	<p pid="b.1176.3/54" class="indent" pwmotiontext="moved">(b) any prescribed conditions are fulfilled.</p>
+	<p pid="b.1176.3/55" pwmotiontext="moved">(5) The regulations may provide for a sum of an amount arrived at under prescribed rules to be paid to a person if&mdash;</p>
+	<p pid="b.1176.3/56" class="indent" pwmotiontext="moved">(a) he claims after the vehicle's disposal to be or to have been its owner,</p>
+	<p pid="b.1176.3/57" class="indent" pwmotiontext="moved">(b) the claim is made within a prescribed time of the disposal, and</p>
+	<p pid="b.1176.3/58" class="indent" pwmotiontext="moved">(c) any other prescribed conditions are fulfilled.</p>
+	<p pid="b.1176.3/59" pwmotiontext="moved">(6) The regulations may provide that&mdash;</p>
+	<p pid="b.1176.3/60" class="indent" pwmotiontext="moved">(a) the Secretary of State, or</p>
+	<p pid="b.1176.3/61" class="indent" pwmotiontext="moved">(b) a person into whose custody the vehicle is delivered under the regulations,</p>
+	<p pid="b.1176.3/62" class="indent" pwmotiontext="moved">may recover from the vehicle's owner (whether or not a claim is made under provision made under sub-paragraph (4) or (5) above) such charges as may be prescribed in respect of all or any of the following, namely its release, removal, custody and disposal; and &quot;owner&quot; means the person who was the owner when the vehicle was removed.</p>
+	<p pid="b.1176.3/63" pwmotiontext="moved">(7) The conditions prescribed under sub-paragraph (4) above may include conditions as to&mdash;</p>
+	<p pid="b.1176.3/64" class="indent" pwmotiontext="moved">(a) satisfying the person with custody that the claimant is the vehicle's owner,</p>
+	<p pid="b.1176.3/65" class="indent" pwmotiontext="moved">(b) the payment of prescribed charges in respect of the vehicle's release, removal and custody,</p>
+	<p pid="b.1176.3/66" class="indent" pwmotiontext="moved">(c) the production of such evidence as may be prescribed establishing that in driving the vehicle away the claimant will not be guilty of an offence under section 143 of this Act, and</p>
+	<p pid="b.1176.3/67" class="indent" pwmotiontext="moved">(d) the production of such evidence as may be prescribed establishing that the person in whose name the vehicle is registered under the Vehicle Excise and Registration Act 1994 is not guilty of an offence under section 144A of this Act as regards the vehicle.</p>
+	<p pid="b.1176.3/68" pwmotiontext="moved">(8) The regulations may in particular include provision for purposes corresponding to those of sections 101 and 102 of the Road Traffic Regulation Act 1984 (disposal and charges) subject to such additions, omissions or other modifications as the Secretary of State thinks fit.</p>
+	<p pid="b.1176.3/69" pwmotiontext="moved">Offences as to securing possession of vehicles</p>
+	<p pid="b.1176.3/70" pwmotiontext="moved">4 The regulations may provide that where&mdash;</p>
+	<p pid="b.1176.3/71" class="indent" pwmotiontext="moved">(a) a person makes a declaration with a view to securing possession of a vehicle purported to have been delivered into the custody of a person in accordance with provision made under paragraph 3 above,</p>
+	<p pid="b.1176.3/72" class="indent" pwmotiontext="moved">(b) the declaration is that no offence under section 144A of this Act is or was being committed as regards the vehicle, and</p>
+	<p pid="b.1176.3/73" class="indent" pwmotiontext="moved">(c) the declaration is to the person's knowledge either false or in any material respect misleading,</p>
+	<p pid="b.1176.3/74" class="indent" pwmotiontext="moved">he is guilty of an offence.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1179.0" newgid="uk.org.publicwhip/lords/2005-10-26c.1179.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1179.1" newgid="uk.org.publicwhip/lords/2005-10-26c.1179.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1179.2" newgid="uk.org.publicwhip/lords/2005-10-26c.1179.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1179.3" newgid="uk.org.publicwhip/lords/2005-10-26c.1179.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1180.0" newgid="uk.org.publicwhip/lords/2005-10-26c.1180.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1180.1" newgid="uk.org.publicwhip/lords/2005-10-26c.1180.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1180.2" newgid="uk.org.publicwhip/lords/2005-10-26c.1180.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1180.3" newgid="uk.org.publicwhip/lords/2005-10-26c.1180.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1180.4" newgid="uk.org.publicwhip/lords/2005-10-26c.1180.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1180.5" newgid="uk.org.publicwhip/lords/2005-10-26c.1180.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1180.6" newgid="uk.org.publicwhip/lords/2005-10-26c.1180.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1181.0" newgid="uk.org.publicwhip/lords/2005-10-26c.1181.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1182.0" newgid="uk.org.publicwhip/lords/2005-10-26c.1182.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1182.1" newgid="uk.org.publicwhip/lords/2005-10-26c.1182.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1182.2" newgid="uk.org.publicwhip/lords/2005-10-26c.1182.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1182.3" newgid="uk.org.publicwhip/lords/2005-10-26c.1182.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1182.4" newgid="uk.org.publicwhip/lords/2005-10-26c.1182.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1183.0" newgid="uk.org.publicwhip/lords/2005-10-26c.1183.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1183.1" newgid="uk.org.publicwhip/lords/2005-10-26c.1183.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1183.2" newgid="uk.org.publicwhip/lords/2005-10-26c.1183.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1183.3" newgid="uk.org.publicwhip/lords/2005-10-26c.1183.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1184.0" newgid="uk.org.publicwhip/lords/2005-10-26c.1184.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1184.1" newgid="uk.org.publicwhip/lords/2005-10-26c.1184.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1184.2" newgid="uk.org.publicwhip/lords/2005-10-26c.1184.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1185.0" newgid="uk.org.publicwhip/lords/2005-10-26c.1185.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1185.1" newgid="uk.org.publicwhip/lords/2005-10-26c.1185.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1185.2" newgid="uk.org.publicwhip/lords/2005-10-26c.1185.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1185.3" newgid="uk.org.publicwhip/lords/2005-10-26c.1185.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1186.0" newgid="uk.org.publicwhip/lords/2005-10-26c.1186.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1186.1" newgid="uk.org.publicwhip/lords/2005-10-26c.1186.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1186.2" newgid="uk.org.publicwhip/lords/2005-10-26c.1186.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1187.0" newgid="uk.org.publicwhip/lords/2005-10-26c.1187.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1187.1" newgid="uk.org.publicwhip/lords/2005-10-26c.1187.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1187.2" newgid="uk.org.publicwhip/lords/2005-10-26c.1187.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1188.0" newgid="uk.org.publicwhip/lords/2005-10-26c.1188.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1188.1" newgid="uk.org.publicwhip/lords/2005-10-26c.1188.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1189.0" newgid="uk.org.publicwhip/lords/2005-10-26c.1189.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1190.0" newgid="uk.org.publicwhip/lords/2005-10-26c.1190.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1190.1" newgid="uk.org.publicwhip/lords/2005-10-26c.1190.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1190.2" newgid="uk.org.publicwhip/lords/2005-10-26c.1190.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1190.3" newgid="uk.org.publicwhip/lords/2005-10-26c.1190.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1190.4" newgid="uk.org.publicwhip/lords/2005-10-26c.1190.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1190.5" newgid="uk.org.publicwhip/lords/2005-10-26c.1190.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1190.6" newgid="uk.org.publicwhip/lords/2005-10-26c.1190.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1191.0" newgid="uk.org.publicwhip/lords/2005-10-26c.1191.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1192.0" newgid="uk.org.publicwhip/lords/2005-10-26c.1192.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1192.1" newgid="uk.org.publicwhip/lords/2005-10-26c.1192.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1192.2" newgid="uk.org.publicwhip/lords/2005-10-26c.1192.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1192.3" newgid="uk.org.publicwhip/lords/2005-10-26c.1192.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1193.0" newgid="uk.org.publicwhip/lords/2005-10-26c.1193.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1194.0" newgid="uk.org.publicwhip/lords/2005-10-26c.1194.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1195.0" newgid="uk.org.publicwhip/lords/2005-10-26c.1195.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1195.1" newgid="uk.org.publicwhip/lords/2005-10-26c.1195.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1195.2" newgid="uk.org.publicwhip/lords/2005-10-26c.1195.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1195.3" newgid="uk.org.publicwhip/lords/2005-10-26c.1195.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1197.0" newgid="uk.org.publicwhip/lords/2005-10-26c.1197.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1197.1" newgid="uk.org.publicwhip/lords/2005-10-26c.1197.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1197.2" newgid="uk.org.publicwhip/lords/2005-10-26c.1197.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1197.3" newgid="uk.org.publicwhip/lords/2005-10-26c.1197.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1197.4" newgid="uk.org.publicwhip/lords/2005-10-26c.1197.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1197.5" newgid="uk.org.publicwhip/lords/2005-10-26c.1197.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1198.0" newgid="uk.org.publicwhip/lords/2005-10-26c.1198.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1198.1" newgid="uk.org.publicwhip/lords/2005-10-26c.1198.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1198.2" newgid="uk.org.publicwhip/lords/2005-10-26c.1198.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1198.3" newgid="uk.org.publicwhip/lords/2005-10-26c.1198.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1198.4" newgid="uk.org.publicwhip/lords/2005-10-26c.1198.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1198.5" newgid="uk.org.publicwhip/lords/2005-10-26c.1198.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1198.6" newgid="uk.org.publicwhip/lords/2005-10-26c.1198.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1198.7" newgid="uk.org.publicwhip/lords/2005-10-26c.1198.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1199.0" newgid="uk.org.publicwhip/lords/2005-10-26c.1199.0" matchtype="changes"/>
+<speech id="uk.org.publicwhip/lords/2005-10-26b.1199.0" speakerid="uk.org.publicwhip/lord/100152" speakername="Baroness Crawley" colon=":" colnum="1199"  time="016:30:00" url="http://www.publications.parliament.uk/pa/ld199900/ldhansrd/pdvn/lds05/text/51026-12.htm#51026-12_spnew9">
+	<p pid="b.1199.0/1">I am grateful to the noble Earl, Lord Attlee. I assure him that the Government share his concern that goods vehicles should be properly inspected and maintained. This is one of the prime objectives of the goods vehicles licensing system. As the noble Earl will know, the traffic commissioners set requirements that applicants must meet. Before issuing a licence, traffic commissioners are required to satisfy themselves that there are satisfactory facilities and arrangements for maintaining vehicles in a fit and serviceable condition. Applicants are required to provide an example of the form or checklist that will be used for safety inspections or to state how often such inspections will be carried out. Applicants must also provide details of their maintenance facilities and staff or, if a contractor is used, the contractual arrangements for maintenance and inspection. Applicants are also required to sign an undertaking that vehicles will be kept fit and serviceable; that record of maintenance and safety inspections will be kept for 15 months; and that they will be made available to the traffic commissioner on request. This undertaking is binding and an ongoing obligation. Failure, as the noble Earl will know, to comply with it may lead to revocation of the licence.</p>
+	<p pid="b.1199.0/2">Guidance on the maintenance standards which operators are expected to meet is contained in G<i>uide to Maintaining Roadworthiness</i> published by the Department for Transport. These include a safety inspection of each vehicle at regular intervals&mdash;normally not more than six weeks. A suggested form for recording these inspections is also included in that guide.</p>
+	<p pid="b.1199.0/3">Examiners from the department's Vehicle and Operator Service Agency (VOSA) have powers to check maintenance arrangements and records, and to examine vehicles at the operator's premises or the roadside. Any shortcomings will be brought to the attention of the relevant traffic commissioner. VOSA examiners aim to visit all newly licensed operators within a few months of their starting operations to ensure that they are aware of and meeting their obligations. VOSA examiners also focus their attention on operators where shortcomings have been found previously or where other intelligence suggests that requirements are not being met.</p>
+	<p pid="b.1199.0/4">I hope that this explanation will reassure the noble Earl that effective arrangements are already in force to ensure that goods vehicles are properly maintained and would ask him to withdraw his amendment.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1200.0" newgid="uk.org.publicwhip/lords/2005-10-26c.1200.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1200.1" newgid="uk.org.publicwhip/lords/2005-10-26c.1200.1" matchtype="changes"/>
+<speech id="uk.org.publicwhip/lords/2005-10-26b.1200.1" nospeaker="true" colnum="1200"  time="016:45:00" url="http://www.publications.parliament.uk/pa/ld199900/ldhansrd/pdvn/lds05/text/51026-13.htm#51026-13_spnew0">
+	<p pid="b.1200.1/1" pwmotiontext="withdrawn">Amendment, by leave, withdrawn.</p>
+	<p pid="b.1200.1/2" pwmotiontext="considered">Clause 38 [<i>Disclosure to foreign authorities of licensing and registration information</i>]:</p>
+	<p pid="b.1200.1/3" pwmotiontext="considered">On Question, Whether Clause 38 shall stand part of the Bill?</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1200.2" newgid="uk.org.publicwhip/lords/2005-10-26c.1200.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1201.0" newgid="uk.org.publicwhip/lords/2005-10-26c.1201.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1201.1" newgid="uk.org.publicwhip/lords/2005-10-26c.1201.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1202.0" newgid="uk.org.publicwhip/lords/2005-10-26c.1202.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1203.0" newgid="uk.org.publicwhip/lords/2005-10-26c.1203.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1203.1" newgid="uk.org.publicwhip/lords/2005-10-26c.1203.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1203.2" newgid="uk.org.publicwhip/lords/2005-10-26c.1203.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1203.3" newgid="uk.org.publicwhip/lords/2005-10-26c.1203.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1203.4" newgid="uk.org.publicwhip/lords/2005-10-26c.1203.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1203.5" newgid="uk.org.publicwhip/lords/2005-10-26c.1203.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1203.6" newgid="uk.org.publicwhip/lords/2005-10-26c.1203.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1203.7" newgid="uk.org.publicwhip/lords/2005-10-26c.1203.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1203.8" newgid="uk.org.publicwhip/lords/2005-10-26c.1203.8" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1206.0" newgid="uk.org.publicwhip/lords/2005-10-26c.1206.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1208.0" newgid="uk.org.publicwhip/lords/2005-10-26c.1208.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1209.0" newgid="uk.org.publicwhip/lords/2005-10-26c.1209.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1211.0" newgid="uk.org.publicwhip/lords/2005-10-26c.1211.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1211.1" newgid="uk.org.publicwhip/lords/2005-10-26c.1211.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1212.0" newgid="uk.org.publicwhip/lords/2005-10-26c.1212.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1212.1" newgid="uk.org.publicwhip/lords/2005-10-26c.1212.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1212.2" newgid="uk.org.publicwhip/lords/2005-10-26c.1212.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1212.3" newgid="uk.org.publicwhip/lords/2005-10-26c.1212.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1212.4" newgid="uk.org.publicwhip/lords/2005-10-26c.1212.4" matchtype="changes"/>
+<speech id="uk.org.publicwhip/lords/2005-10-26b.1212.4" speakerid="uk.org.publicwhip/lord/100857" speakername="Lord Stratford" colon=":" colnum="1212"  time="017:27:00" url="http://www.publications.parliament.uk/pa/ld199900/ldhansrd/pdvn/lds05/text/51026-16.htm#51026-16_spnew6">
+	<p pid="b.1212.4/1">My Lords, it really is about time the trade in exotic birds was stopped altogether. Many of these birds are caught in the wild. Frankly, if this gives us a reason to stop it altogether there is obviously a silver cloud. Secondly, does the Minister accept that there is a degree of hysteria about this? I have seen figures in newspapers such as the <i>Daily Mail</i> and <i>Daily Express</i> suggesting that perhaps 750,000 people could die in this country. That seems to relate more to the political agenda of the newspapers than any clinical analysis of the problem that we might face.</p>
+	<p pid="b.1212.4/2">Lastly, while it is obviously most unpleasant if you happen to have died while contracting some mutating form of avian flu, to keep the matter in perspective, I understand that about 60 people have died over the past three years. More people have probably died from eating dodgy Chinese food than contracting some form of avian flu. The last thing we want is for the Daleks from Defra to start suggesting that they want to exterminate wildlife&mdash;as is their normal response when confronted with such a problem. We do not want any proposal that migrating birds are going to be destroyed because of alarmist figures and notions that appear in the Tory press.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1213.0" newgid="uk.org.publicwhip/lords/2005-10-26c.1213.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1213.1" newgid="uk.org.publicwhip/lords/2005-10-26c.1213.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1213.2" newgid="uk.org.publicwhip/lords/2005-10-26c.1213.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1213.3" newgid="uk.org.publicwhip/lords/2005-10-26c.1213.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1213.4" newgid="uk.org.publicwhip/lords/2005-10-26c.1213.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1213.5" newgid="uk.org.publicwhip/lords/2005-10-26c.1213.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1213.6" newgid="uk.org.publicwhip/lords/2005-10-26c.1213.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1214.0" newgid="uk.org.publicwhip/lords/2005-10-26c.1214.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1214.1" newgid="uk.org.publicwhip/lords/2005-10-26c.1214.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1214.2" newgid="uk.org.publicwhip/lords/2005-10-26c.1214.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1214.3" newgid="uk.org.publicwhip/lords/2005-10-26c.1214.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1214.4" newgid="uk.org.publicwhip/lords/2005-10-26c.1214.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1214.5" newgid="uk.org.publicwhip/lords/2005-10-26c.1214.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1214.6" newgid="uk.org.publicwhip/lords/2005-10-26c.1214.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1214.7" newgid="uk.org.publicwhip/lords/2005-10-26c.1214.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1215.0" newgid="uk.org.publicwhip/lords/2005-10-26c.1215.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1215.1" newgid="uk.org.publicwhip/lords/2005-10-26c.1215.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1215.2" newgid="uk.org.publicwhip/lords/2005-10-26c.1215.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1215.3" newgid="uk.org.publicwhip/lords/2005-10-26c.1215.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1216.0" newgid="uk.org.publicwhip/lords/2005-10-26c.1216.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1216.1" newgid="uk.org.publicwhip/lords/2005-10-26c.1216.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1216.2" newgid="uk.org.publicwhip/lords/2005-10-26c.1216.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1217.0" newgid="uk.org.publicwhip/lords/2005-10-26c.1217.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1217.1" newgid="uk.org.publicwhip/lords/2005-10-26c.1217.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1219.0" newgid="uk.org.publicwhip/lords/2005-10-26c.1219.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1219.1" newgid="uk.org.publicwhip/lords/2005-10-26c.1219.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1220.0" newgid="uk.org.publicwhip/lords/2005-10-26c.1220.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1220.1" newgid="uk.org.publicwhip/lords/2005-10-26c.1220.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1220.2" newgid="uk.org.publicwhip/lords/2005-10-26c.1220.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1220.3" newgid="uk.org.publicwhip/lords/2005-10-26c.1220.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1221.0" newgid="uk.org.publicwhip/lords/2005-10-26c.1221.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1221.1" newgid="uk.org.publicwhip/lords/2005-10-26c.1221.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1221.2" newgid="uk.org.publicwhip/lords/2005-10-26c.1221.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1221.3" newgid="uk.org.publicwhip/lords/2005-10-26c.1221.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1221.4" newgid="uk.org.publicwhip/lords/2005-10-26c.1221.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1222.0" newgid="uk.org.publicwhip/lords/2005-10-26c.1222.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1222.1" newgid="uk.org.publicwhip/lords/2005-10-26c.1222.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1223.0" newgid="uk.org.publicwhip/lords/2005-10-26c.1223.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1223.1" newgid="uk.org.publicwhip/lords/2005-10-26c.1223.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1224.0" newgid="uk.org.publicwhip/lords/2005-10-26c.1224.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1224.1" newgid="uk.org.publicwhip/lords/2005-10-26c.1224.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1224.2" newgid="uk.org.publicwhip/lords/2005-10-26c.1224.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1224.3" newgid="uk.org.publicwhip/lords/2005-10-26c.1224.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1225.0" newgid="uk.org.publicwhip/lords/2005-10-26c.1225.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1225.1" newgid="uk.org.publicwhip/lords/2005-10-26c.1225.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1225.2" newgid="uk.org.publicwhip/lords/2005-10-26c.1225.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1225.3" newgid="uk.org.publicwhip/lords/2005-10-26c.1225.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1226.0" newgid="uk.org.publicwhip/lords/2005-10-26c.1226.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1226.1" newgid="uk.org.publicwhip/lords/2005-10-26c.1226.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1226.2" newgid="uk.org.publicwhip/lords/2005-10-26c.1226.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1227.0" newgid="uk.org.publicwhip/lords/2005-10-26c.1227.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1227.1" newgid="uk.org.publicwhip/lords/2005-10-26c.1227.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1227.2" newgid="uk.org.publicwhip/lords/2005-10-26c.1227.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1227.3" newgid="uk.org.publicwhip/lords/2005-10-26c.1227.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1229.0" newgid="uk.org.publicwhip/lords/2005-10-26c.1229.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1229.1" newgid="uk.org.publicwhip/lords/2005-10-26c.1229.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1230.0" newgid="uk.org.publicwhip/lords/2005-10-26c.1230.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1230.1" newgid="uk.org.publicwhip/lords/2005-10-26c.1230.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1230.2" newgid="uk.org.publicwhip/lords/2005-10-26c.1230.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1230.3" newgid="uk.org.publicwhip/lords/2005-10-26c.1230.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1230.4" newgid="uk.org.publicwhip/lords/2005-10-26c.1230.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1231.0" newgid="uk.org.publicwhip/lords/2005-10-26c.1231.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1231.1" newgid="uk.org.publicwhip/lords/2005-10-26c.1231.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1231.2" newgid="uk.org.publicwhip/lords/2005-10-26c.1231.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1231.3" newgid="uk.org.publicwhip/lords/2005-10-26c.1231.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1232.0" newgid="uk.org.publicwhip/lords/2005-10-26c.1232.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1232.1" newgid="uk.org.publicwhip/lords/2005-10-26c.1232.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1232.2" newgid="uk.org.publicwhip/lords/2005-10-26c.1232.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1232.3" newgid="uk.org.publicwhip/lords/2005-10-26c.1232.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1232.4" newgid="uk.org.publicwhip/lords/2005-10-26c.1232.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1233.0" newgid="uk.org.publicwhip/lords/2005-10-26c.1233.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1234.0" newgid="uk.org.publicwhip/lords/2005-10-26c.1234.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1234.1" newgid="uk.org.publicwhip/lords/2005-10-26c.1234.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1234.2" newgid="uk.org.publicwhip/lords/2005-10-26c.1234.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1235.0" newgid="uk.org.publicwhip/lords/2005-10-26c.1235.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1235.1" newgid="uk.org.publicwhip/lords/2005-10-26c.1235.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1235.2" newgid="uk.org.publicwhip/lords/2005-10-26c.1235.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1235.3" newgid="uk.org.publicwhip/lords/2005-10-26c.1235.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1237.0" newgid="uk.org.publicwhip/lords/2005-10-26c.1237.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1237.1" newgid="uk.org.publicwhip/lords/2005-10-26c.1237.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1237.2" newgid="uk.org.publicwhip/lords/2005-10-26c.1237.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1237.3" newgid="uk.org.publicwhip/lords/2005-10-26c.1237.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1237.4" newgid="uk.org.publicwhip/lords/2005-10-26c.1237.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1238.0" newgid="uk.org.publicwhip/lords/2005-10-26c.1238.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1238.1" newgid="uk.org.publicwhip/lords/2005-10-26c.1238.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1240.0" newgid="uk.org.publicwhip/lords/2005-10-26c.1240.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1241.0" newgid="uk.org.publicwhip/lords/2005-10-26c.1241.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1241.1" newgid="uk.org.publicwhip/lords/2005-10-26c.1241.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1243.0" newgid="uk.org.publicwhip/lords/2005-10-26c.1243.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1243.1" newgid="uk.org.publicwhip/lords/2005-10-26c.1243.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1245.0" newgid="uk.org.publicwhip/lords/2005-10-26c.1245.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1245.1" newgid="uk.org.publicwhip/lords/2005-10-26c.1245.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1245.2" newgid="uk.org.publicwhip/lords/2005-10-26c.1245.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1247.0" newgid="uk.org.publicwhip/lords/2005-10-26c.1247.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1247.1" newgid="uk.org.publicwhip/lords/2005-10-26c.1247.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1248.0" newgid="uk.org.publicwhip/lords/2005-10-26c.1248.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1248.1" newgid="uk.org.publicwhip/lords/2005-10-26c.1248.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1248.2" newgid="uk.org.publicwhip/lords/2005-10-26c.1248.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1248.3" newgid="uk.org.publicwhip/lords/2005-10-26c.1248.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1248.4" newgid="uk.org.publicwhip/lords/2005-10-26c.1248.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1248.5" newgid="uk.org.publicwhip/lords/2005-10-26c.1248.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1248.6" newgid="uk.org.publicwhip/lords/2005-10-26c.1248.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1251.0" newgid="uk.org.publicwhip/lords/2005-10-26c.1251.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1251.1" newgid="uk.org.publicwhip/lords/2005-10-26c.1251.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1251.2" newgid="uk.org.publicwhip/lords/2005-10-26c.1251.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1251.3" newgid="uk.org.publicwhip/lords/2005-10-26c.1251.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1254.0" newgid="uk.org.publicwhip/lords/2005-10-26c.1254.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1261.0" newgid="uk.org.publicwhip/lords/2005-10-26c.1261.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1262.0" newgid="uk.org.publicwhip/lords/2005-10-26c.1262.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1262.1" newgid="uk.org.publicwhip/lords/2005-10-26c.1262.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1262.2" newgid="uk.org.publicwhip/lords/2005-10-26c.1262.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1262.3" newgid="uk.org.publicwhip/lords/2005-10-26c.1262.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1262.4" newgid="uk.org.publicwhip/lords/2005-10-26c.1262.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1262.5" newgid="uk.org.publicwhip/lords/2005-10-26c.1262.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1262.6" newgid="uk.org.publicwhip/lords/2005-10-26c.1262.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1263.0" newgid="uk.org.publicwhip/lords/2005-10-26c.1263.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1263.1" newgid="uk.org.publicwhip/lords/2005-10-26c.1263.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1263.2" newgid="uk.org.publicwhip/lords/2005-10-26c.1263.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1263.3" newgid="uk.org.publicwhip/lords/2005-10-26c.1263.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1263.4" newgid="uk.org.publicwhip/lords/2005-10-26c.1263.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1263.5" newgid="uk.org.publicwhip/lords/2005-10-26c.1263.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1263.6" newgid="uk.org.publicwhip/lords/2005-10-26c.1263.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1263.7" newgid="uk.org.publicwhip/lords/2005-10-26c.1263.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1263.8" newgid="uk.org.publicwhip/lords/2005-10-26c.1263.8" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1263.9" newgid="uk.org.publicwhip/lords/2005-10-26c.1263.9" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1263.10" newgid="uk.org.publicwhip/lords/2005-10-26c.1263.10" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1264.0" newgid="uk.org.publicwhip/lords/2005-10-26c.1264.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1264.1" newgid="uk.org.publicwhip/lords/2005-10-26c.1264.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1264.2" newgid="uk.org.publicwhip/lords/2005-10-26c.1264.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1264.3" newgid="uk.org.publicwhip/lords/2005-10-26c.1264.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1264.4" newgid="uk.org.publicwhip/lords/2005-10-26c.1264.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1264.5" newgid="uk.org.publicwhip/lords/2005-10-26c.1264.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1264.6" newgid="uk.org.publicwhip/lords/2005-10-26c.1264.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1265.0" newgid="uk.org.publicwhip/lords/2005-10-26c.1265.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1265.1" newgid="uk.org.publicwhip/lords/2005-10-26c.1265.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1265.2" newgid="uk.org.publicwhip/lords/2005-10-26c.1265.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1265.3" newgid="uk.org.publicwhip/lords/2005-10-26c.1265.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1266.0" newgid="uk.org.publicwhip/lords/2005-10-26c.1266.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1266.1" newgid="uk.org.publicwhip/lords/2005-10-26c.1266.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1266.2" newgid="uk.org.publicwhip/lords/2005-10-26c.1266.2" matchtype="changes"/>
+<speech id="uk.org.publicwhip/lords/2005-10-26b.1266.2" nospeaker="true" colnum="1266"  time="021:00:00" url="http://www.publications.parliament.uk/pa/ld199900/ldhansrd/pdvn/lds05/text/51026-30.htm#51026-30_spnew6">
+	<p pid="b.1266.2/1" pwmotiontext="withdrawn">Amendment, by leave, withdrawn.</p>
+	<p pid="b.1266.2/2" pwmotiontext="notmoved">[<i>Amendments Nos. 149 to 151 not moved.</i>]</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1266.3" newgid="uk.org.publicwhip/lords/2005-10-26c.1266.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1266.4" newgid="uk.org.publicwhip/lords/2005-10-26c.1266.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1266.5" newgid="uk.org.publicwhip/lords/2005-10-26c.1266.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1267.0" newgid="uk.org.publicwhip/lords/2005-10-26c.1267.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1267.1" newgid="uk.org.publicwhip/lords/2005-10-26c.1267.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1267.2" newgid="uk.org.publicwhip/lords/2005-10-26c.1267.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1268.0" newgid="uk.org.publicwhip/lords/2005-10-26c.1268.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1268.1" newgid="uk.org.publicwhip/lords/2005-10-26c.1268.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1268.2" newgid="uk.org.publicwhip/lords/2005-10-26c.1268.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1268.3" newgid="uk.org.publicwhip/lords/2005-10-26c.1268.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1269.0" newgid="uk.org.publicwhip/lords/2005-10-26c.1269.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1269.1" newgid="uk.org.publicwhip/lords/2005-10-26c.1269.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1270.0" newgid="uk.org.publicwhip/lords/2005-10-26c.1270.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1270.1" newgid="uk.org.publicwhip/lords/2005-10-26c.1270.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1270.2" newgid="uk.org.publicwhip/lords/2005-10-26c.1270.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1270.3" newgid="uk.org.publicwhip/lords/2005-10-26c.1270.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1270.4" newgid="uk.org.publicwhip/lords/2005-10-26c.1270.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1270.5" newgid="uk.org.publicwhip/lords/2005-10-26c.1270.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1272.0" newgid="uk.org.publicwhip/lords/2005-10-26c.1272.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1272.1" newgid="uk.org.publicwhip/lords/2005-10-26c.1272.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1272.2" newgid="uk.org.publicwhip/lords/2005-10-26c.1272.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1272.3" newgid="uk.org.publicwhip/lords/2005-10-26c.1272.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1273.0" newgid="uk.org.publicwhip/lords/2005-10-26c.1273.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1273.1" newgid="uk.org.publicwhip/lords/2005-10-26c.1273.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1274.0" newgid="uk.org.publicwhip/lords/2005-10-26c.1274.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1274.1" newgid="uk.org.publicwhip/lords/2005-10-26c.1274.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1274.2" newgid="uk.org.publicwhip/lords/2005-10-26c.1274.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1275.0" newgid="uk.org.publicwhip/lords/2005-10-26c.1275.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1275.1" newgid="uk.org.publicwhip/lords/2005-10-26c.1275.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1275.2" newgid="uk.org.publicwhip/lords/2005-10-26c.1275.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1276.0" newgid="uk.org.publicwhip/lords/2005-10-26c.1276.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1276.1" newgid="uk.org.publicwhip/lords/2005-10-26c.1276.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1276.2" newgid="uk.org.publicwhip/lords/2005-10-26c.1276.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1276.3" newgid="uk.org.publicwhip/lords/2005-10-26c.1276.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1277.0" newgid="uk.org.publicwhip/lords/2005-10-26c.1277.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1277.1" newgid="uk.org.publicwhip/lords/2005-10-26c.1277.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1277.2" newgid="uk.org.publicwhip/lords/2005-10-26c.1277.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1277.3" newgid="uk.org.publicwhip/lords/2005-10-26c.1277.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1279.0" newgid="uk.org.publicwhip/lords/2005-10-26c.1279.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1279.1" newgid="uk.org.publicwhip/lords/2005-10-26c.1279.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1279.2" newgid="uk.org.publicwhip/lords/2005-10-26c.1279.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1279.3" newgid="uk.org.publicwhip/lords/2005-10-26c.1279.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1279.4" newgid="uk.org.publicwhip/lords/2005-10-26c.1279.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1279.5" newgid="uk.org.publicwhip/lords/2005-10-26c.1279.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1279.6" newgid="uk.org.publicwhip/lords/2005-10-26c.1279.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1280.0" newgid="uk.org.publicwhip/lords/2005-10-26c.1280.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1280.1" newgid="uk.org.publicwhip/lords/2005-10-26c.1280.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1280.2" newgid="uk.org.publicwhip/lords/2005-10-26c.1280.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1280.3" newgid="uk.org.publicwhip/lords/2005-10-26c.1280.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1280.4" newgid="uk.org.publicwhip/lords/2005-10-26c.1280.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1280.5" newgid="uk.org.publicwhip/lords/2005-10-26c.1280.5" matchtype="changes"/>
+<speech id="uk.org.publicwhip/lords/2005-10-26b.1280.5" speakerid="uk.org.publicwhip/lord/100593" speakername="Viscount Simon" colon="" colnum="1280"  time="021:45:00" url="http://www.publications.parliament.uk/pa/ld199900/ldhansrd/pdvn/lds05/text/51026-35.htm#51026-35_spnew6">
+	<p pid="b.1280.5/1" pwmotiontext="moved">moved Amendment No. 157:</p>
+	<p pid="b.1280.5/2" class="indent" pwmotiontext="moved">After Clause 42, insert the following new clause&mdash;</p>
+	<p pid="b.1280.5/3" pwmotiontext="moved">&quot;PROSECUTION OF CERTAIN OFFENCES</p>
+	<p pid="b.1280.5/4" pwmotiontext="moved">A relevant police authority shall have such rights in minor road traffic traffic cases as provided by Section 27(b) of the Courts and Legal Services Act 1990 (c. 41)(rights of audience).&quot;</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1280.6" newgid="uk.org.publicwhip/lords/2005-10-26c.1280.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1281.0" newgid="uk.org.publicwhip/lords/2005-10-26c.1281.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1281.1" newgid="uk.org.publicwhip/lords/2005-10-26c.1281.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1281.2" newgid="uk.org.publicwhip/lords/2005-10-26c.1281.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1281.3" newgid="uk.org.publicwhip/lords/2005-10-26c.1281.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1281.4" newgid="uk.org.publicwhip/lords/2005-10-26c.1281.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1283.0" newgid="uk.org.publicwhip/lords/2005-10-26c.1283.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1283.1" newgid="uk.org.publicwhip/lords/2005-10-26c.1283.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1284.0" newgid="uk.org.publicwhip/lords/2005-10-26c.1284.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1284.1" newgid="uk.org.publicwhip/lords/2005-10-26c.1284.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1284.2" newgid="uk.org.publicwhip/lords/2005-10-26c.1284.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1284.3" newgid="uk.org.publicwhip/lords/2005-10-26c.1284.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1284.4" newgid="uk.org.publicwhip/lords/2005-10-26c.1284.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1285.0" newgid="uk.org.publicwhip/lords/2005-10-26c.1285.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1285.1" newgid="uk.org.publicwhip/lords/2005-10-26c.1285.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1285.2" newgid="uk.org.publicwhip/lords/2005-10-26c.1285.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1285.3" newgid="uk.org.publicwhip/lords/2005-10-26c.1285.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1286.0" newgid="uk.org.publicwhip/lords/2005-10-26c.1286.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1286.1" newgid="uk.org.publicwhip/lords/2005-10-26c.1286.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1286.2" newgid="uk.org.publicwhip/lords/2005-10-26c.1286.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1286.3" newgid="uk.org.publicwhip/lords/2005-10-26c.1286.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1287.0" newgid="uk.org.publicwhip/lords/2005-10-26c.1287.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1287.1" newgid="uk.org.publicwhip/lords/2005-10-26c.1287.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1289.0" newgid="uk.org.publicwhip/lords/2005-10-26c.1289.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1290.0" newgid="uk.org.publicwhip/lords/2005-10-26c.1290.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1290.1" newgid="uk.org.publicwhip/lords/2005-10-26c.1290.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1290.2" newgid="uk.org.publicwhip/lords/2005-10-26c.1290.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1291.0" newgid="uk.org.publicwhip/lords/2005-10-26c.1291.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1291.1" newgid="uk.org.publicwhip/lords/2005-10-26c.1291.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1291.2" newgid="uk.org.publicwhip/lords/2005-10-26c.1291.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1291.3" newgid="uk.org.publicwhip/lords/2005-10-26c.1291.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1291.4" newgid="uk.org.publicwhip/lords/2005-10-26c.1291.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1293.0" newgid="uk.org.publicwhip/lords/2005-10-26c.1293.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1293.1" newgid="uk.org.publicwhip/lords/2005-10-26c.1293.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1293.2" newgid="uk.org.publicwhip/lords/2005-10-26c.1293.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1293.3" newgid="uk.org.publicwhip/lords/2005-10-26c.1293.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1293.4" newgid="uk.org.publicwhip/lords/2005-10-26c.1293.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1294.0" newgid="uk.org.publicwhip/lords/2005-10-26c.1294.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1294.1" newgid="uk.org.publicwhip/lords/2005-10-26c.1294.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1294.2" newgid="uk.org.publicwhip/lords/2005-10-26c.1294.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1294.3" newgid="uk.org.publicwhip/lords/2005-10-26c.1294.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1294.4" newgid="uk.org.publicwhip/lords/2005-10-26c.1294.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1294.5" newgid="uk.org.publicwhip/lords/2005-10-26c.1294.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1294.6" newgid="uk.org.publicwhip/lords/2005-10-26c.1294.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1295.0" newgid="uk.org.publicwhip/lords/2005-10-26c.1295.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1295.1" newgid="uk.org.publicwhip/lords/2005-10-26c.1295.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1295.2" newgid="uk.org.publicwhip/lords/2005-10-26c.1295.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1295.3" newgid="uk.org.publicwhip/lords/2005-10-26c.1295.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1295.4" newgid="uk.org.publicwhip/lords/2005-10-26c.1295.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1295.5" newgid="uk.org.publicwhip/lords/2005-10-26c.1295.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1296.0" newgid="uk.org.publicwhip/lords/2005-10-26c.1296.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2005-10-26b.1296.1" newgid="uk.org.publicwhip/lords/2005-10-26c.1296.1" matchtype="perfectmatch"/>
+</publicwhip>
+

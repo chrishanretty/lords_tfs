@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<!DOCTYPE publicwhip
+[
+<!ENTITY ndash   "&#8211;">
+<!ENTITY mdash   "&#8212;">
+<!ENTITY iexcl   "&#161;">
+<!ENTITY divide  "&#247;">
+<!ENTITY euro    "&#8364;">
+<!ENTITY trade   "&#8482;">
+<!ENTITY bull    "&#8226;">
+<!ENTITY lsquo   "&#8216;">
+<!ENTITY rsquo   "&#8217;">
+<!ENTITY sbquo   "&#8218;">
+<!ENTITY ldquo   "&#8220;">
+<!ENTITY rdquo   "&#8221;">
+<!ENTITY bdquo   "&#8222;">
+<!ENTITY dagger  "&#8224;">
+
+<!ENTITY Ouml   "&#214;" >
+<!ENTITY szlig  "&#223;" >
+<!ENTITY agrave "&#224;" >
+<!ENTITY aacute "&#225;" >
+<!ENTITY acirc  "&#226;" >
+<!ENTITY atilde "&#227;" >
+<!ENTITY auml   "&#228;" >
+<!ENTITY ccedil "&#231;" >
+<!ENTITY egrave "&#232;" >
+<!ENTITY eacute "&#233;" >
+<!ENTITY ecirc  "&#234;" >
+<!ENTITY euml   "&#235;" >
+<!ENTITY iacute "&#237;" >
+<!ENTITY icirc  "&#238;" >
+<!ENTITY iuml	"&#239;" >
+<!ENTITY ntilde "&#241;" >
+<!ENTITY nbsp   "&#160;" >
+<!ENTITY oacute "&#243;" >
+<!ENTITY ocirc  "&#244;" >
+<!ENTITY ouml   "&#246;" >
+<!ENTITY oslash "&#248;" >
+<!ENTITY uacute "&#250;" >
+<!ENTITY uuml   "&#252;" >
+<!ENTITY thorn  "&#254;" >
+
+<!ENTITY pound  "&#163;" >
+<!ENTITY sect   "&#167;" >
+<!ENTITY copy   "&#169;" >
+<!ENTITY reg    "&#174;" >
+<!ENTITY deg    "&#176;" >
+<!ENTITY plusmn "&#177;" >
+<!ENTITY sup2   "&#178;" >
+<!ENTITY micro  "&#181;" >
+<!ENTITY para   "&#182;" >
+<!ENTITY middot "&#183;" >
+<!ENTITY ordm   "&#186;" >
+<!ENTITY frac14 "&#188;" >
+<!ENTITY frac12 "&#189;" >
+<!ENTITY frac34 "&#190;" >
+<!ENTITY oelig "&#339;" >
+<!ENTITY aelig  "&#230;" >
+
+]>
+
+<publicwhip scrapeversion="/home/twfy-live/parldata/scrapedxml/lordspages/daylord2016-12-06a.xml" latest="no">
+<gidredirect oldgid="uk.org.publicwhip/lords/2016-12-06a.593.0" newgid="uk.org.publicwhip/lords/2016-12-06b.593.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2016-12-06a.593.1" newgid="uk.org.publicwhip/lords/2016-12-06b.593.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2016-12-06a.593.2" newgid="uk.org.publicwhip/lords/2016-12-06b.593.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2016-12-06a.593.3" newgid="uk.org.publicwhip/lords/2016-12-06b.593.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2016-12-06a.593.4" newgid="uk.org.publicwhip/lords/2016-12-06b.593.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2016-12-06a.593.5" newgid="uk.org.publicwhip/lords/2016-12-06b.593.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2016-12-06a.593.6" newgid="uk.org.publicwhip/lords/2016-12-06b.593.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2016-12-06a.594.0" newgid="uk.org.publicwhip/lords/2016-12-06b.594.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2016-12-06a.594.1" newgid="uk.org.publicwhip/lords/2016-12-06b.594.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2016-12-06a.594.2" newgid="uk.org.publicwhip/lords/2016-12-06b.594.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2016-12-06a.594.3" newgid="uk.org.publicwhip/lords/2016-12-06b.594.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2016-12-06a.594.4" newgid="uk.org.publicwhip/lords/2016-12-06b.594.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2016-12-06a.594.5" newgid="uk.org.publicwhip/lords/2016-12-06b.594.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2016-12-06a.594.6" newgid="uk.org.publicwhip/lords/2016-12-06b.594.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2016-12-06a.594.7" newgid="uk.org.publicwhip/lords/2016-12-06b.594.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2016-12-06a.595.0" newgid="uk.org.publicwhip/lords/2016-12-06b.595.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2016-12-06a.595.1" newgid="uk.org.publicwhip/lords/2016-12-06b.595.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2016-12-06a.595.2" newgid="uk.org.publicwhip/lords/2016-12-06b.595.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2016-12-06a.595.3" newgid="uk.org.publicwhip/lords/2016-12-06b.595.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2016-12-06a.595.4" newgid="uk.org.publicwhip/lords/2016-12-06b.595.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2016-12-06a.595.5" newgid="uk.org.publicwhip/lords/2016-12-06b.595.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2016-12-06a.595.6" newgid="uk.org.publicwhip/lords/2016-12-06b.595.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2016-12-06a.596.0" newgid="uk.org.publicwhip/lords/2016-12-06b.596.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2016-12-06a.596.1" newgid="uk.org.publicwhip/lords/2016-12-06b.596.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2016-12-06a.596.2" newgid="uk.org.publicwhip/lords/2016-12-06b.596.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2016-12-06a.596.3" newgid="uk.org.publicwhip/lords/2016-12-06b.596.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2016-12-06a.596.4" newgid="uk.org.publicwhip/lords/2016-12-06b.596.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2016-12-06a.596.5" newgid="uk.org.publicwhip/lords/2016-12-06b.596.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2016-12-06a.597.0" newgid="uk.org.publicwhip/lords/2016-12-06b.597.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2016-12-06a.597.1" newgid="uk.org.publicwhip/lords/2016-12-06b.597.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2016-12-06a.597.2" newgid="uk.org.publicwhip/lords/2016-12-06b.597.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2016-12-06a.597.3" newgid="uk.org.publicwhip/lords/2016-12-06b.597.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2016-12-06a.597.4" newgid="uk.org.publicwhip/lords/2016-12-06b.597.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2016-12-06a.597.5" newgid="uk.org.publicwhip/lords/2016-12-06b.597.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2016-12-06a.597.6" newgid="uk.org.publicwhip/lords/2016-12-06b.597.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2016-12-06a.597.7" newgid="uk.org.publicwhip/lords/2016-12-06b.597.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2016-12-06a.597.8" newgid="uk.org.publicwhip/lords/2016-12-06b.597.8" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2016-12-06a.597.9" newgid="uk.org.publicwhip/lords/2016-12-06b.597.9" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2016-12-06a.598.0" newgid="uk.org.publicwhip/lords/2016-12-06b.598.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2016-12-06a.598.1" newgid="uk.org.publicwhip/lords/2016-12-06b.598.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2016-12-06a.598.2" newgid="uk.org.publicwhip/lords/2016-12-06b.598.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2016-12-06a.598.3" newgid="uk.org.publicwhip/lords/2016-12-06b.598.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2016-12-06a.598.4" newgid="uk.org.publicwhip/lords/2016-12-06b.598.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2016-12-06a.598.5" newgid="uk.org.publicwhip/lords/2016-12-06b.598.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2016-12-06a.599.0" newgid="uk.org.publicwhip/lords/2016-12-06b.599.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2016-12-06a.599.1" newgid="uk.org.publicwhip/lords/2016-12-06b.599.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2016-12-06a.599.2" newgid="uk.org.publicwhip/lords/2016-12-06b.599.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2016-12-06a.599.3" newgid="uk.org.publicwhip/lords/2016-12-06b.599.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2016-12-06a.599.4" newgid="uk.org.publicwhip/lords/2016-12-06b.599.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2016-12-06a.600.0" newgid="uk.org.publicwhip/lords/2016-12-06b.600.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2016-12-06a.600.1" newgid="uk.org.publicwhip/lords/2016-12-06b.600.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2016-12-06a.600.2" newgid="uk.org.publicwhip/lords/2016-12-06b.600.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2016-12-06a.600.3" newgid="uk.org.publicwhip/lords/2016-12-06b.600.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2016-12-06a.600.4" newgid="uk.org.publicwhip/lords/2016-12-06b.600.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2016-12-06a.600.5" newgid="uk.org.publicwhip/lords/2016-12-06b.600.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2016-12-06a.600.6" newgid="uk.org.publicwhip/lords/2016-12-06b.600.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2016-12-06a.601.0" newgid="uk.org.publicwhip/lords/2016-12-06b.601.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2016-12-06a.601.1" newgid="uk.org.publicwhip/lords/2016-12-06b.601.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2016-12-06a.601.2" newgid="uk.org.publicwhip/lords/2016-12-06b.601.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2016-12-06a.601.3" newgid="uk.org.publicwhip/lords/2016-12-06b.601.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2016-12-06a.601.4" newgid="uk.org.publicwhip/lords/2016-12-06b.601.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2016-12-06a.601.5" newgid="uk.org.publicwhip/lords/2016-12-06b.601.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2016-12-06a.601.6" newgid="uk.org.publicwhip/lords/2016-12-06b.601.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2016-12-06a.601.7" newgid="uk.org.publicwhip/lords/2016-12-06b.601.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2016-12-06a.601.8" newgid="uk.org.publicwhip/lords/2016-12-06b.601.8" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2016-12-06a.602.0" newgid="uk.org.publicwhip/lords/2016-12-06b.602.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2016-12-06a.602.1" newgid="uk.org.publicwhip/lords/2016-12-06b.602.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2016-12-06a.602.2" newgid="uk.org.publicwhip/lords/2016-12-06b.602.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2016-12-06a.602.3" newgid="uk.org.publicwhip/lords/2016-12-06b.602.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2016-12-06a.602.4" newgid="uk.org.publicwhip/lords/2016-12-06b.602.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2016-12-06a.602.5" newgid="uk.org.publicwhip/lords/2016-12-06b.602.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2016-12-06a.602.6" newgid="uk.org.publicwhip/lords/2016-12-06b.602.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2016-12-06a.602.7" newgid="uk.org.publicwhip/lords/2016-12-06b.602.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2016-12-06a.602.8" newgid="uk.org.publicwhip/lords/2016-12-06b.602.8" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2016-12-06a.602.9" newgid="uk.org.publicwhip/lords/2016-12-06b.602.9" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2016-12-06a.602.10" newgid="uk.org.publicwhip/lords/2016-12-06b.602.10" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2016-12-06a.602.11" newgid="uk.org.publicwhip/lords/2016-12-06b.602.11" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2016-12-06a.602.12" newgid="uk.org.publicwhip/lords/2016-12-06b.602.12" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2016-12-06a.604.0" newgid="uk.org.publicwhip/lords/2016-12-06b.604.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2016-12-06a.604.1" newgid="uk.org.publicwhip/lords/2016-12-06b.604.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2016-12-06a.604.2" newgid="uk.org.publicwhip/lords/2016-12-06b.604.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2016-12-06a.604.3" newgid="uk.org.publicwhip/lords/2016-12-06b.604.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2016-12-06a.605.0" newgid="uk.org.publicwhip/lords/2016-12-06b.605.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2016-12-06a.605.1" newgid="uk.org.publicwhip/lords/2016-12-06b.605.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2016-12-06a.605.2" newgid="uk.org.publicwhip/lords/2016-12-06b.605.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2016-12-06a.606.0" newgid="uk.org.publicwhip/lords/2016-12-06b.606.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2016-12-06a.606.1" newgid="uk.org.publicwhip/lords/2016-12-06b.606.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2016-12-06a.606.2" newgid="uk.org.publicwhip/lords/2016-12-06b.606.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2016-12-06a.606.3" newgid="uk.org.publicwhip/lords/2016-12-06b.606.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2016-12-06a.606.4" newgid="uk.org.publicwhip/lords/2016-12-06b.606.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2016-12-06a.606.5" newgid="uk.org.publicwhip/lords/2016-12-06b.606.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2016-12-06a.606.6" newgid="uk.org.publicwhip/lords/2016-12-06b.606.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2016-12-06a.606.7" newgid="uk.org.publicwhip/lords/2016-12-06b.606.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2016-12-06a.607.0" newgid="uk.org.publicwhip/lords/2016-12-06b.607.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2016-12-06a.607.1" newgid="uk.org.publicwhip/lords/2016-12-06b.607.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2016-12-06a.608.0" newgid="uk.org.publicwhip/lords/2016-12-06b.608.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2016-12-06a.608.1" newgid="uk.org.publicwhip/lords/2016-12-06b.608.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2016-12-06a.608.2" newgid="uk.org.publicwhip/lords/2016-12-06b.608.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2016-12-06a.608.3" newgid="uk.org.publicwhip/lords/2016-12-06b.608.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2016-12-06a.609.0" newgid="uk.org.publicwhip/lords/2016-12-06b.609.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2016-12-06a.609.1" newgid="uk.org.publicwhip/lords/2016-12-06b.609.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2016-12-06a.609.2" newgid="uk.org.publicwhip/lords/2016-12-06b.609.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2016-12-06a.610.0" newgid="uk.org.publicwhip/lords/2016-12-06b.610.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2016-12-06a.610.1" newgid="uk.org.publicwhip/lords/2016-12-06b.610.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2016-12-06a.610.2" newgid="uk.org.publicwhip/lords/2016-12-06b.610.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2016-12-06a.610.3" newgid="uk.org.publicwhip/lords/2016-12-06b.610.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2016-12-06a.610.4" newgid="uk.org.publicwhip/lords/2016-12-06b.610.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2016-12-06a.614.0" newgid="uk.org.publicwhip/lords/2016-12-06b.614.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2016-12-06a.618.0" newgid="uk.org.publicwhip/lords/2016-12-06b.618.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2016-12-06a.619.0" newgid="uk.org.publicwhip/lords/2016-12-06b.619.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2016-12-06a.620.0" newgid="uk.org.publicwhip/lords/2016-12-06b.620.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2016-12-06a.622.0" newgid="uk.org.publicwhip/lords/2016-12-06b.622.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2016-12-06a.623.0" newgid="uk.org.publicwhip/lords/2016-12-06b.623.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2016-12-06a.624.0" newgid="uk.org.publicwhip/lords/2016-12-06b.624.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2016-12-06a.626.0" newgid="uk.org.publicwhip/lords/2016-12-06b.626.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2016-12-06a.627.0" newgid="uk.org.publicwhip/lords/2016-12-06b.627.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2016-12-06a.629.0" newgid="uk.org.publicwhip/lords/2016-12-06b.629.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2016-12-06a.630.0" newgid="uk.org.publicwhip/lords/2016-12-06b.630.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2016-12-06a.632.0" newgid="uk.org.publicwhip/lords/2016-12-06b.632.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2016-12-06a.633.0" newgid="uk.org.publicwhip/lords/2016-12-06b.633.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2016-12-06a.635.0" newgid="uk.org.publicwhip/lords/2016-12-06b.635.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2016-12-06a.637.0" newgid="uk.org.publicwhip/lords/2016-12-06b.637.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2016-12-06a.638.0" newgid="uk.org.publicwhip/lords/2016-12-06b.638.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2016-12-06a.640.0" newgid="uk.org.publicwhip/lords/2016-12-06b.640.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2016-12-06a.641.0" newgid="uk.org.publicwhip/lords/2016-12-06b.641.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2016-12-06a.642.0" newgid="uk.org.publicwhip/lords/2016-12-06b.642.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2016-12-06a.643.0" newgid="uk.org.publicwhip/lords/2016-12-06b.643.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2016-12-06a.646.0" newgid="uk.org.publicwhip/lords/2016-12-06b.646.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2016-12-06a.647.0" newgid="uk.org.publicwhip/lords/2016-12-06b.647.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2016-12-06a.648.0" newgid="uk.org.publicwhip/lords/2016-12-06b.648.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2016-12-06a.649.0" newgid="uk.org.publicwhip/lords/2016-12-06b.649.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2016-12-06a.652.0" newgid="uk.org.publicwhip/lords/2016-12-06b.652.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2016-12-06a.653.0" newgid="uk.org.publicwhip/lords/2016-12-06b.653.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2016-12-06a.654.0" newgid="uk.org.publicwhip/lords/2016-12-06b.654.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2016-12-06a.655.0" newgid="uk.org.publicwhip/lords/2016-12-06b.655.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2016-12-06a.657.0" newgid="uk.org.publicwhip/lords/2016-12-06b.657.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2016-12-06a.659.0" newgid="uk.org.publicwhip/lords/2016-12-06b.659.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2016-12-06a.660.0" newgid="uk.org.publicwhip/lords/2016-12-06b.660.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2016-12-06a.662.0" newgid="uk.org.publicwhip/lords/2016-12-06b.662.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2016-12-06a.663.0" newgid="uk.org.publicwhip/lords/2016-12-06b.663.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2016-12-06a.664.0" newgid="uk.org.publicwhip/lords/2016-12-06b.664.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2016-12-06a.666.0" newgid="uk.org.publicwhip/lords/2016-12-06b.666.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2016-12-06a.667.0" newgid="uk.org.publicwhip/lords/2016-12-06b.667.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2016-12-06a.670.0" newgid="uk.org.publicwhip/lords/2016-12-06b.670.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2016-12-06a.671.0" newgid="uk.org.publicwhip/lords/2016-12-06b.671.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2016-12-06a.672.0" newgid="uk.org.publicwhip/lords/2016-12-06b.672.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2016-12-06a.674.0" newgid="uk.org.publicwhip/lords/2016-12-06b.674.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2016-12-06a.675.0" newgid="uk.org.publicwhip/lords/2016-12-06b.675.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2016-12-06a.676.0" newgid="uk.org.publicwhip/lords/2016-12-06b.676.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2016-12-06a.678.0" newgid="uk.org.publicwhip/lords/2016-12-06b.678.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2016-12-06a.680.0" newgid="uk.org.publicwhip/lords/2016-12-06b.680.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2016-12-06a.681.0" newgid="uk.org.publicwhip/lords/2016-12-06b.681.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2016-12-06a.683.0" newgid="uk.org.publicwhip/lords/2016-12-06b.683.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2016-12-06a.684.0" newgid="uk.org.publicwhip/lords/2016-12-06b.684.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2016-12-06a.685.0" newgid="uk.org.publicwhip/lords/2016-12-06b.685.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2016-12-06a.687.0" newgid="uk.org.publicwhip/lords/2016-12-06b.687.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2016-12-06a.688.0" newgid="uk.org.publicwhip/lords/2016-12-06b.688.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2016-12-06a.690.0" newgid="uk.org.publicwhip/lords/2016-12-06b.690.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2016-12-06a.691.0" newgid="uk.org.publicwhip/lords/2016-12-06b.691.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2016-12-06a.692.0" newgid="uk.org.publicwhip/lords/2016-12-06b.692.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2016-12-06a.694.0" newgid="uk.org.publicwhip/lords/2016-12-06b.694.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2016-12-06a.695.0" newgid="uk.org.publicwhip/lords/2016-12-06b.695.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2016-12-06a.697.0" newgid="uk.org.publicwhip/lords/2016-12-06b.697.0" matchtype="changes"/>
+<speech id="uk.org.publicwhip/lords/2016-12-06a.697.0" speakername="Baroness Royall of Blaisdon" person_id="uk.org.publicwhip/person/13452" colnum="697" time="21:13:00" url="">
+    <p pid="a697.0/1">My Lords, I am proud to be pro-chancellor of the University of Bath, where we undertake ground-breaking research which improves the lives of people today and tomorrow. We are also celebrating the 50th anniversary of the granting of our charter. I strongly urge Ministers to review everything to do with royal charters, which should continue.</p>
+    <p pid="a697.0/2">There are many common themes in today’s debate, including the increasing domination of market forces, potentially at the expense of quality, if new entrants to the market are not subject to the same requirements as existing universities. Students, staff and the reputation of the sector as a whole will be vulnerable. It cannot be right that new institutions are granted probationary degree-awarding powers from day one.</p>
+    <p pid="a697.0/3">Like other noble Lords, I regret the timing of the Bill, when there is so much uncertainty in higher education—as in every other sector—as a consequence of Brexit. I simply do not understand why the Government had to add to the insecurity by introducing the Bill so soon after the referendum, when the challenges facing our universities changed and grew exponentially. The brave new post-Brexit world has huge implications for students and staff and, of course, for research collaboration and funding. We are awaiting answers from the Government to myriad questions, including on EU students considering studying in the UK from 2018-19, who have no certainty about their tuition fee status and access to student finance. We want—we need— to welcome EU students but UCAS figures show a 9% decrease in applications so far this year; without certainty, next year these figures could be worse. When will clarification on this point be forthcoming?</p>
+    <p pid="a697.0/4">Why is there the rush with the TEF? There is deep concern about the metrics, including how to assess teaching excellence. The swift introduction of the TEF really increases the burdens on universities and will have a profound effect on smaller institutions. The desire of many institutions is to increase the number of non-EU students, so why does the TEF only partially reflect the quality of teaching experienced by these students? The impression given is that the Government are avoiding parliamentary scrutiny on these issues.</p>
+    <p pid="a697.0/5">What would be the implications for an institution’s future if it were judged bronze rather than silver or gold, especially when it may have some excellent departments and courses? I am concerned about the link of the TEF to fees. In practical terms, would a university judged to be gold one year have to reduce its fees in future years if it were then deemed bronze or silver—or, perhaps, vice versa? Such insecurity is unacceptable. What will be the relationship between the TEF and the granting of student visas, which many noble Lords have raised? The speech by the Home Secretary at the Conservative Party conference was deeply concerning. Any additional barriers to attracting international students will naturally lead to a reduction in numbers, which will affect universities, their communities and the economy of our country. I am concerned about the link with immigration policy, and I suggest to the Minister that the mismatch in timing between this Bill and the Home Office consultation on the study immigration route is not helpful.</p>
+    <p pid="a697.0/6">Many noble Lords have spoken of the intrinsic link between teaching and research, and the need for co-operation and collaboration between the OfS and UKRI. The requirement in the Bill that the two bodies must co-operate if required to by the Secretary of State is simply not enough; neither is the planned memorandum of understanding between the two bodies. To ensure that the separation of teaching and research in the new HE architecture does not lead to the loss of the benefits of research informing teaching and learning practices, the Bill must make the requirement to co-operate explicit.</p>
+    <p pid="a697.0/7">The next point may seem peripheral but I wish to mention voter registration. I am confident that all noble Lords would wish to improve the level of voter registration among students: the Bill could do exactly that by requiring universities to introduce the integrated student enrolment system with voter registration. This system was recommended by Universities UK and supported by the Cabinet Office. It was originally and very successfully piloted by the University of Sheffield. Unfortunately, an amendment on it was rejected in the Commons. The Minister suggested that there should be further consultation but I think the time for consultation is over and I will seek to amend the Bill accordingly.</p>
+    <p pid="a697.0/8">Like many other noble Lords, I welcome the emphasis on access, participation and equality of opportunity but there is so much more to be done. My noble friend Lord Winston mentioned outreach to schools. I would mention the excellent work of the charity IntoUniversity, which is doing precisely this. Mention has been made of children in care; we should also reflect on the needs of young carers. There was an excellent programme on the radio the other day about a young carer who has just got into Cambridge, which was great news—but she could not have got there without the support of Gloucestershire Young Carers. There are many things that we should reflect on.</p>
+    <p pid="a697.0/9">I regret that the Bill does not address properly the falling numbers of part-time students or introduce measures that would ease access, allowing greater flexibility in study and therefore greater social mobility. The noble Lord, Lord Rees, said in another debate that we need a revolution in the way we formalise the system to allow more readily for transfers between institutions, and between part-time and full-time study. The demand for part-time and distance learning is bound to grow for financial reasons and because of the changing world of work, which has the potential for huge insecurity if people are not able to learn and gain new skills to equip them for employment and increased leisure. Our education system is simply not prepared for or preparing people for the technological revolution which will radically change work in the 21st century, so we should grasp the opportunity in this Bill to make lifelong learning in higher and further education a reality. It is an important means of social mobility and a ladder out of social disadvantage. This used to be an attractive aspiration about which too little was done, but it is now vital for the future well-being of our citizens and our country.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/lords/2016-12-06a.698.0" newgid="uk.org.publicwhip/lords/2016-12-06b.698.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2016-12-06a.700.0" newgid="uk.org.publicwhip/lords/2016-12-06b.700.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2016-12-06a.702.0" newgid="uk.org.publicwhip/lords/2016-12-06b.702.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2016-12-06a.703.0" newgid="uk.org.publicwhip/lords/2016-12-06b.703.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2016-12-06a.705.0" newgid="uk.org.publicwhip/lords/2016-12-06b.705.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2016-12-06a.706.0" newgid="uk.org.publicwhip/lords/2016-12-06b.706.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2016-12-06a.707.0" newgid="uk.org.publicwhip/lords/2016-12-06b.707.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2016-12-06a.708.0" newgid="uk.org.publicwhip/lords/2016-12-06b.708.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2016-12-06a.710.0" newgid="uk.org.publicwhip/lords/2016-12-06b.710.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2016-12-06a.712.0" newgid="uk.org.publicwhip/lords/2016-12-06b.712.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2016-12-06a.715.0" newgid="uk.org.publicwhip/lords/2016-12-06b.715.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2016-12-06a.718.0" newgid="uk.org.publicwhip/lords/2016-12-06b.718.0" matchtype="changes"/>
+<speech id="uk.org.publicwhip/lords/2016-12-06a.718.0" speakername="Viscount Younger of Leckie" person_id="uk.org.publicwhip/person/24992" colnum="718" time="22:34:00" url="">
+    <p pid="a718.0/1">My Lords, we have heard many passionate and expert contributions today from noble Lords with considerable collective experience of the higher education sector. I have absolutely no doubt that the scrutiny in this House will further improve the Bill, which has already been strengthened through debate in the other place. I hope that, as the noble Lord, Lord Liddle, said, we might reach some cross-party consensus on the Bill despite the number of reservations raised. I suppose that to this extent I need to be poet and plumber, and more besides, to pick up on the words of the noble Lord, Lord Hennessy. Many valuable points have been raised which merit thorough response and consideration. Cognisant of the hour, though, I will cover as many as I can of your Lordships’ points as time allows. For all others, bearing in mind the 68 contributions today, I will write a letter—a long one, I suspect—which will be copied to all noble Lords. I will place a copy in the House Library and I look forward to following up in greater detail, including with factsheets for and during Committee.</p>
+    <p pid="a718.0/2">Before I get into the Bill, I will address some important issues raised by my noble friend Lord Polak, who focused on harassment on campuses. Let me be clear: anti-Semitism, hate crime and harassment of any kind have no place in our universities. My honourable friend in the other place, Jo Johnson, asked Universities UK to convene a task force to look into these issues. It reported this autumn and the Government have asked UUK to survey progress against the harassment task force’s recommendations.</p>
+    <p pid="a718.0/3">I am pleased that during the debate, we have found a number of areas where there is some agreement: that our world-class universities must continue to adapt; that excellent teaching should be encouraged; and that a powerful voice for research and innovation on the global stage is needed. The noble Lords, Lord Liddle and Lord Hannay, mentioned the value of soft power, which was a point well made. There is some agreement that students need better information to make good choices and that our higher education system can and should be the driver of social mobility. The noble Lord, Lord Mandelson, mentioned not just the importance of having high quality but the need for a level playing field. The noble Baroness, Lady Dean, and the noble Lord, Lord Watson, made the very basic point that universities are important for our jobs and our economy—how true is that? However, I understand that there are many differing views as to how we best meet these challenges and I look forward to productive debate on them as the Bill moves forward.</p>
+    <p pid="a718.0/4">I wish to go straight to addressing some of the specific points raised by noble Lords in more detail. Turning first to social mobility, I say many congratulations to my noble friend Lady Sugg on a fine maiden speech. I am delighted that she chose this debate to raise the important issues of social mobility and disadvantaged students. We are fortunate to have someone so dedicated to public service who will continue to serve as a Member of this House. Her expertise will be invaluable. As I have said, we have seen real progress in the proportion of those from disadvantaged backgrounds progressing to higher education but we can do more. The Bill will bring the activity commonly divided between OFFA and HEFCE together into the new Office for Students, which will be required as one of its core responsibilities to consider the need to promote equality of opportunity throughout the student’s time in higher education. It must consider this wherever it exercises its function under the Bill.</p>
+    <p pid="a718.0/5">The new Director for Fair Access and Participation—DFAP—will be appointed by the Secretary of State and will be able, within the OfS, to consider not just access for a student’s participation throughout their time in higher education. The noble Baroness, Lady Blackstone, asked about the responsibilities of the Director for Fair Access and Participation. The noble Baroness, Lady Rebuck, spoke about adult learners and lifelong learning, as did the noble Baroness, Lady Royall. Our clear intention is that the OfS will give responsibility to DFAP for fair access and participation activities. In practice, we envisage this meaning that the other OfS members will agree a broad remit with the director, and that the director will report back to them on those activities. The director would have  responsibility for these important activities, including agreeing the access and participation plan on a day-to-day basis.</p>
+    <p pid="a718.0/6">My noble friend Lord Lingfield raised the important issue of special educational needs, as did the noble Lord, Lord Addington, and the noble Earl, Lord Listowel. These are important issues. Let me be clear: higher education institutions already have specific duties under the Equality Act not to discriminate against disabled students. The Government’s aim is to encourage all institutions to provide an inclusive learning environment and thus improve the choice of all disabled students and students with special educational needs, wherever they study. In our recent letter of guidance to the Director of Fair Access, we asked him to consider the provision of support for students with mental health issues or specific learning difficulties and the access agreement, which the noble Baroness, Lady Garden, raised.</p>
+    <p pid="a718.0/7">The noble Lord, Lord Sharkey, raised a point about alternative student finance consistent with the principles of Islamic finance. I am pleased that this Government are the first to take the necessary legislative steps towards making alternative student finance available to support the participation of Muslim students.</p>
+    <p pid="a718.0/8">I now turn to the important point raised by the noble Baronesses, Lady Blackstone and Lady Blackwell, and the noble Lord, Lord Stevenson concerning part-time provision and the key role it plays in social mobility. The Government believe that students should be able to study in a way that works for them, including part-time study, and support mature learners. The OfS will assist this by focusing on student choice as well as providing a level playing field for new, innovative providers. This is alongside the other practical support the Government are giving to part-time students including, for the first time, providing tuition fee loans. We are also consulting on providing part-time maintenance loans so that the same support that is available for full-time students is available for part-time students.</p>
+    <p pid="a718.0/9">I now turn to another important subject which was raised: the teaching excellence framework. We all agree that teaching quality is of paramount importance. It frames the experience students have while in higher education, and it plays a major part in determining their future opportunities and experiences in the workplace. Her strong speech showed that there can clearly be nobody better than the noble Baroness, Lady Benjamin, at championing students’ experiences and aspirations.</p>
+    <p pid="a718.0/10">The TEF will set a framework for the impartial assessment of different aspects of teaching, including the student experience and the job prospects of graduates. In doing so, it puts teaching on a par with our country’s world-leading research, so that we not only get more students into higher education but ensure it is worth while when they get there. The Bill will allow the OfS to run the TEF, and fee caps to be linked with providers’ performance at different levels, meaning that, for the first time, funding for teaching, like research, will be linked to quality rather than just quantity.</p>
+    <p pid="a718.0/11">I note the concerns raised about the impact of the TEF on the reputation of our important higher education sector. There were similar concerns about the earliest  versions of the research excellence framework when it was introduced at least 30 years ago. However, since that was introduced, the OECD has identified a clear international trend towards regimes with characteristics similar to those of the UK. We are, once again, world- leading by tackling the challenge of assessing teaching excellence and expect that, like the REF, the TEF will only enhance, not detract from, our international reputation.</p>
+    <p pid="a718.0/12">The TEF is designed to improve teaching, while recognising the diversity and autonomy of providers. TEF ratings will be based on an independent assessment made by assessors including academics and students. The noble Baroness, Lady Wolf, made points about the cost of administering the TEF. We are designing the TEF in a way that will not impose significant bureaucratic costs on universities. Our estimates suggest that the administrative cost to universities will be less than one-quarter of those of the REF, and no university will have to pay to enter the TEF. Furthermore, the up-front costs incurred by the OfS in delivering the TEF will not be met by the Government and will be included in the registration fee.</p>
+    <p pid="a718.0/13">I now turn to points raised by the noble Lords, Lord Smith and Lord Patel, and my noble friend Lady Eccles, on standards in the Bill. Any assessment of whether a provider meets baseline quality expectations may have to look at both quality and standards in order to protect the value of a student’s learning experience and the value of their qualification. They should not be treated separately. This is not about undermining the ability of providers to determine their standards. We are clear that these standards are currently set out in Frameworks for Higher Education Qualifications in England, Wales and Northern Ireland, a document endorsed and agreed by the sector.</p>
+    <p pid="a718.0/14">We are working carefully with the sector to ensure that TEF implementation is robust. Professor Dame Julia Goodfellow, president of UUK, has said:</p>
+    <p pid="a718.0/15">“We are pleased that government has listened to the views of universities on their plans for a Teaching Excellence Framework. Universities will work with the government to see how this can best add value to all students, whatever their choice of subject or university”.</p>
+    <p pid="a718.0/16">The noble and learned Lord, Lord Wallace of Tankerness, my noble and learned friend Lord Mackay and the noble Lord, Lord Watson, spoke about the Scottish experience with TEF. I am pleased that all three devolved Administrations have agreed that providers in their respective nations may take part in TEF year 2, if they choose to do so. The TEF framework has been adjusted to ensure that it can fairly assess the distinctive nature of higher education provision in each of the four nations of the UK.</p>
+    <p pid="a718.0/17">Another important point that was raised is our measures to facilitate new providers entering the HE sector. I thank the noble Lord, Lord Sawyer, for his contribution and for raising the important issue of collaboration between universities. The competition elements of the Bill do not prevent collaboration. There are many examples of effective collaboration between universities, and the OfS will recognise its importance where this enables efficiencies which are in the interests of students. The OfS has a general duty to have regard to choice and opportunities for students, so it can encourage  collaboration which improves those opportunities. To reassure the noble Lords, Lord Mandelson and Lord Giddens, I agree that universities already deliver significant benefits to their regions and communities. There is no reason why new universities would change this. This is not a current criterion for university title, and we do not intend to change that. As at present, we will expect new institutions to meet tough financial sustainability and governance rules. More information on market entry and our tough quality controls is set out, as mentioned earlier, in a factsheet published online and available in the House Libraries, entitled Higher Education and Research Bill: Technical Note on Market Entry and Quality Assurance.</p>
+    <p pid="a718.0/18">Another important point is institutional autonomy, which many noble Lords raised, including the noble Lords, Lord Sutherland, Lord Mandelson and Lord Triesman, and my noble friends Lord Willetts and Lord Waldegrave. Let me reassure noble Lords that we agree that this principle is a cornerstone of our higher education sector’s success, and we seek to preserve it in the Bill. I could say much more about this and about how we intend to protect institutional autonomy with the necessary checks and controls, and I think it is best that I both write to noble Lords on this complex issue and of course leave it to full debate—which I am sure there will be—in Committee.</p>
+    <p pid="a718.0/19">The noble Lord, Lord Storey, and the noble Baroness, Lady Warwick, raised concerns about the role of the OfS as a validator of last resort. At the moment, typically, the sole option for providers is to have their courses validated by an incumbent institution. The ability of the OfS to validate courses as a last resort removes the conflict of incumbent providers being both gamekeepers and poachers. Like HEFCE, the OfS will have arm’s-length status, and the Bill will, for the first time, require the Secretary of State to have regard to the need to protect academic freedom when issuing guidance.</p>
+    <p pid="a718.0/20">My noble friend Lord Patten raised the ability of the Secretary of State to issue guidance in relation to particular courses of study. I can, I hope, reassure my noble friend further that we listened to concerns that the drafting of the Bill might lead to greater control of individual courses and introduced an amendment in the other place to explicitly restrict the ability of the Secretary of State to intervene in a way that could lead the OfS to prohibit or to require the provision of a particular course of study. This will further protect the great diversity and specialisms that exist across the sector in key areas such as science—which again was raised this evening—the creative arts and specialist languages, which was raised by the noble Lord, Lord Williams.</p>
+    <p pid="a718.0/21">I turn to the specific issue of university royal charters. I want to be clear on one point: the Bill will not remove royal charters from our universities. It will empower the OfS to remove an institution’s ability to award degrees or call itself a university, but this should happen only in rare circumstances—for example, to protect students and the global reputation of our higher education sector, so only where quality has dropped to unacceptable levels. Noble Lords including the noble Baroness, Lady Chakrabarti, the noble Lord,  Lord Renfrew, and the noble Viscount, Lord Hanworth, have raised concerns about this, and we are listening. I reassure noble Lords that we envisage this power being used only if other interventions have failed to produce the necessary results. In addition, providers will be able to appeal to the First-tier Tribunal on specified grounds.</p>
+    <p pid="a718.0/22">While on the important subject of university titles, I shall address some other points made, notably by the right reverend Prelate the Bishop of Winchester, who suggested we should define what a university is, which is a fair point. I reassure noble Lords that we are not planning any wide-ranging changes to the criteria for a university title; a university will continue to be,</p>
+    <p pid="a718.0/23" class="indent">“an institution that brings together a body of scholars to form a cohesive and self-critical academic community”.—[<phrase class="offrep" id=", Commons, Higher Education and Research Bill Committee, 15/09/16; col. 271.]"><i>Official Report</i>, Commons, Higher Education and Research Bill Committee, 15/09/16; col. 271.]</phrase></p>
+    <p pid="a718.0/24">That is the definition I have, and I shall stick with it. In the unlikely situation that a university were to have its degree-awarding powers or university title removed, and these were contained in a royal charter, the Secretary of State could amend the charter to reflect the changes. This would be subject to parliamentary scrutiny.</p>
+    <p pid="a718.0/25">I turn to the relationship between teaching and research, something that I know many noble Lords feel strongly about, including my noble friends Lord Patten and Lord Norton of Louth and the noble Lord, Lord Hennessy. The noble Lord, Lord Stevenson, raised this point as well. We are committed to our universities delivering top-quality teaching and research. These reforms recognise the integration of teaching and research at all levels. The OfS and UKRI have been designed to work closely together. The Bill enables joint working, and supports co-operation and the sharing of information. Furthermore, the Secretary of State can require them to work together if some aspect is being overlooked. More information concerning how the OfS and UKRI will work together is set out in a factsheet—sorry, my Lords, another factsheet—published by the Government and available in the House Library.</p>
+    <p pid="a718.0/26">The noble Lord, Lord Smith of Finsbury, raised the subject of research degree-awarding powers, while the OfS will be responsible for all degree-awarding powers. I reassure him that UKRI will play a key role in relation to research degree-awarding powers, such as working with the department to develop criteria and guidance and working with the OfS on the assessment process.</p>
+    <p pid="a718.0/27">I turn to the research elements of the Bill, for which more information can be found in yet another factsheet. We are all agreed that we should be proud of the UK’s standing as a world leader in research and innovation, as was pointed out by my noble friends Lady Finn and Lady Rock. I agree with the noble Lord, Lord Mandelson, that UKRI will provide the cohesive and cross-disciplinary leadership needed to maximise international collaboration across the research system. This is more important than ever in light of the UK’s decision to leave the European Union. Noble Lords such as the noble Lords, Lord Stevenson and Lord Bilimoria, and my noble friends Lord Waldegrave and Lord Patten have highlighted not just the research funding that the EU provides but the fact that our European neighbours are among our  closest research partners. As my noble friend Lord Willetts set out, UKRI will be a powerful voice for research in the coming negotiations.</p>
+    <p pid="a718.0/28">It was recently announced that the Government will be investing an extra £2 billion a year in R&amp;D by the end of this Parliament, as I mentioned in my opening speech. UKRI will play a central role in delivering that funding. This investment is a clear vote of confidence for the central role of research and innovation in delivering our future knowledge economy. The industrial strategy, which was raised by the noble Lord, Lord Giddens, is an extra point to make. I assure both him and the noble Lord, Lord Mair, that the new funding announced in the Autumn Statement will include a substantial increase in grant funding through Innovate UK.</p>
+    <p pid="a718.0/29">I know that the independence of research is of great importance to noble Lords. It is important to emphasise that we remain committed to the Haldane principle, which has been mentioned today, particularly as interpreted in a Written Ministerial Statement as laid out by my noble friend Lord Willetts in 2010. The structure and design of UKRI cements that principle at its heart.</p>
+    <p pid="a718.0/30">UKRI will be established as an arm’s-length body, independent of government. I can reassure the noble Lord, Lord Renfrew, that it will be required to delegate authority for research and innovation funding decisions to its executive chair, who will have autonomy where this falls into the area of expertise. This includes the continuation of the partnership working with others, such as research charities, as highlighted by the noble Lord, Lord Sharkey.</p>
+    <p pid="a718.0/31">My noble friend Lord Waldegrave focused on efficiency, and was concerned that creating UKRI would create additional bureaucracy. Sir John Kingman, chair of UKRI, has said that the UKRI strategic function needs to be lean and focused. Sir Paul Nurse’s report is clear that greater strategic leadership is required to secure the future success of our research base, but we must and will protect the strength of the existing bodies through this Bill, and support their continuing autonomy.</p>
+    <p pid="a718.0/32">In the interests of time, I want to focus on international students and immigration—a particularly important subject that has caused a lot of interest throughout the day. On international student migration, the Government will shortly be seeking views on the study immigration route. This will include consideration of what more we can do to strengthen the system—to strengthen the best institutions and those that stick to the rules—and to attract the best talent. No decision has been taken as to the best way to differentiate to achieve this. I hope that I can reassure noble Lords that my department is working closely with the Home Office to ensure that any changes maintain the prestigious reputation and high quality of the UK’s higher education sector. I would like to clear up any confusion about how this relates to the Bill, as raised by the noble Lords, Lord Mandelson and Lord Stevenson, the noble Baroness, Lady Blackstone, and others. There is nothing in this Bill that links the TEF to any limits on international student recruitment.</p>
+    <p pid="a718.0/33">I want to be clear on another point. We understand and value very much the contribution that international students, staff and researchers make to our HE sector. Let me be clear on another potential area of confusion. There is no cap on how many genuine international students can come to study here, and we have no intention of limiting how many genuine students can come here to study. We want our top universities to continue to attract the best students—a point that has been made around the House this evening.</p>
+    <p pid="a718.0/34">I should probably draw to a conclusion now. It has been a passionate and enlightening debate, and I look forward to more discussions throughout the Bill’s passage. Finally, some noble Lords have raised concerns about pressing on with the Bill at this point—notably  the noble Lord, Lord Hannay. Let me be clear. The Bill delivers on the manifesto and other commitments, and the time is right to press ahead with the Bill. It provides stability and support for our world-leading higher education and research sector, helping to ensure that we remain attractive internationally for decades to come. We are listening and reflecting on the important points raised tonight by noble Lords, and I look forward to more detailed scrutiny in Committee. I commend the Bill to the House.</p>
+    <p pid="a718.0/35" class="italic">Bill read a second time and committed to a Committee of the Whole House.</p>
+    <p pid="a718.0/36" class="italic">House adjourned at 10.58 pm.</p>
+</speech>
+</publicwhip>
+

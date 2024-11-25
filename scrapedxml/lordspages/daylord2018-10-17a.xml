@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<!DOCTYPE publicwhip
+[
+<!ENTITY ndash   "&#8211;">
+<!ENTITY mdash   "&#8212;">
+<!ENTITY iexcl   "&#161;">
+<!ENTITY divide  "&#247;">
+<!ENTITY euro    "&#8364;">
+<!ENTITY trade   "&#8482;">
+<!ENTITY bull    "&#8226;">
+<!ENTITY lsquo   "&#8216;">
+<!ENTITY rsquo   "&#8217;">
+<!ENTITY sbquo   "&#8218;">
+<!ENTITY ldquo   "&#8220;">
+<!ENTITY rdquo   "&#8221;">
+<!ENTITY bdquo   "&#8222;">
+<!ENTITY dagger  "&#8224;">
+
+<!ENTITY Ouml   "&#214;" >
+<!ENTITY szlig  "&#223;" >
+<!ENTITY agrave "&#224;" >
+<!ENTITY aacute "&#225;" >
+<!ENTITY acirc  "&#226;" >
+<!ENTITY atilde "&#227;" >
+<!ENTITY auml   "&#228;" >
+<!ENTITY ccedil "&#231;" >
+<!ENTITY egrave "&#232;" >
+<!ENTITY eacute "&#233;" >
+<!ENTITY ecirc  "&#234;" >
+<!ENTITY euml   "&#235;" >
+<!ENTITY iacute "&#237;" >
+<!ENTITY icirc  "&#238;" >
+<!ENTITY iuml	"&#239;" >
+<!ENTITY ntilde "&#241;" >
+<!ENTITY nbsp   "&#160;" >
+<!ENTITY oacute "&#243;" >
+<!ENTITY ocirc  "&#244;" >
+<!ENTITY ouml   "&#246;" >
+<!ENTITY oslash "&#248;" >
+<!ENTITY uacute "&#250;" >
+<!ENTITY uuml   "&#252;" >
+<!ENTITY thorn  "&#254;" >
+
+<!ENTITY pound  "&#163;" >
+<!ENTITY sect   "&#167;" >
+<!ENTITY copy   "&#169;" >
+<!ENTITY reg    "&#174;" >
+<!ENTITY deg    "&#176;" >
+<!ENTITY plusmn "&#177;" >
+<!ENTITY sup2   "&#178;" >
+<!ENTITY micro  "&#181;" >
+<!ENTITY para   "&#182;" >
+<!ENTITY middot "&#183;" >
+<!ENTITY ordm   "&#186;" >
+<!ENTITY frac14 "&#188;" >
+<!ENTITY frac12 "&#189;" >
+<!ENTITY frac34 "&#190;" >
+<!ENTITY oelig "&#339;" >
+<!ENTITY aelig  "&#230;" >
+
+]>
+
+<publicwhip scrapeversion="/home/twfy-live/parldata/scrapedxml/lordspages/daylord2018-10-17a.xml" latest="no">
+<gidredirect oldgid="uk.org.publicwhip/lords/2018-10-17a.451.0" newgid="uk.org.publicwhip/lords/2018-10-17b.451.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2018-10-17a.451.1" newgid="uk.org.publicwhip/lords/2018-10-17b.451.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2018-10-17a.451.2" newgid="uk.org.publicwhip/lords/2018-10-17b.451.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2018-10-17a.451.3" newgid="uk.org.publicwhip/lords/2018-10-17b.451.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2018-10-17a.451.4" newgid="uk.org.publicwhip/lords/2018-10-17b.451.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2018-10-17a.451.5" newgid="uk.org.publicwhip/lords/2018-10-17b.451.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2018-10-17a.452.0" newgid="uk.org.publicwhip/lords/2018-10-17b.452.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2018-10-17a.452.1" newgid="uk.org.publicwhip/lords/2018-10-17b.452.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2018-10-17a.452.2" newgid="uk.org.publicwhip/lords/2018-10-17b.452.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2018-10-17a.452.3" newgid="uk.org.publicwhip/lords/2018-10-17b.452.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2018-10-17a.453.0" newgid="uk.org.publicwhip/lords/2018-10-17b.453.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2018-10-17a.453.1" newgid="uk.org.publicwhip/lords/2018-10-17b.453.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2018-10-17a.453.2" newgid="uk.org.publicwhip/lords/2018-10-17b.453.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2018-10-17a.453.3" newgid="uk.org.publicwhip/lords/2018-10-17b.453.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2018-10-17a.453.4" newgid="uk.org.publicwhip/lords/2018-10-17b.453.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2018-10-17a.453.5" newgid="uk.org.publicwhip/lords/2018-10-17b.453.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2018-10-17a.454.0" newgid="uk.org.publicwhip/lords/2018-10-17b.454.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2018-10-17a.454.1" newgid="uk.org.publicwhip/lords/2018-10-17b.454.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2018-10-17a.454.2" newgid="uk.org.publicwhip/lords/2018-10-17b.454.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2018-10-17a.454.3" newgid="uk.org.publicwhip/lords/2018-10-17b.454.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2018-10-17a.454.4" newgid="uk.org.publicwhip/lords/2018-10-17b.454.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2018-10-17a.454.5" newgid="uk.org.publicwhip/lords/2018-10-17b.454.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2018-10-17a.455.0" newgid="uk.org.publicwhip/lords/2018-10-17b.455.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2018-10-17a.455.1" newgid="uk.org.publicwhip/lords/2018-10-17b.455.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2018-10-17a.455.2" newgid="uk.org.publicwhip/lords/2018-10-17b.455.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2018-10-17a.455.3" newgid="uk.org.publicwhip/lords/2018-10-17b.455.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2018-10-17a.455.4" newgid="uk.org.publicwhip/lords/2018-10-17b.455.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2018-10-17a.455.5" newgid="uk.org.publicwhip/lords/2018-10-17b.455.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2018-10-17a.456.0" newgid="uk.org.publicwhip/lords/2018-10-17b.456.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2018-10-17a.456.1" newgid="uk.org.publicwhip/lords/2018-10-17b.456.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2018-10-17a.456.2" newgid="uk.org.publicwhip/lords/2018-10-17b.456.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2018-10-17a.456.3" newgid="uk.org.publicwhip/lords/2018-10-17b.456.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2018-10-17a.456.4" newgid="uk.org.publicwhip/lords/2018-10-17b.456.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2018-10-17a.456.5" newgid="uk.org.publicwhip/lords/2018-10-17b.456.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2018-10-17a.456.6" newgid="uk.org.publicwhip/lords/2018-10-17b.456.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2018-10-17a.457.0" newgid="uk.org.publicwhip/lords/2018-10-17b.457.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2018-10-17a.457.1" newgid="uk.org.publicwhip/lords/2018-10-17b.457.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2018-10-17a.457.2" newgid="uk.org.publicwhip/lords/2018-10-17b.457.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2018-10-17a.457.3" newgid="uk.org.publicwhip/lords/2018-10-17b.457.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2018-10-17a.457.4" newgid="uk.org.publicwhip/lords/2018-10-17b.457.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2018-10-17a.457.5" newgid="uk.org.publicwhip/lords/2018-10-17b.457.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2018-10-17a.458.0" newgid="uk.org.publicwhip/lords/2018-10-17b.458.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2018-10-17a.458.1" newgid="uk.org.publicwhip/lords/2018-10-17b.458.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2018-10-17a.458.2" newgid="uk.org.publicwhip/lords/2018-10-17b.458.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2018-10-17a.458.3" newgid="uk.org.publicwhip/lords/2018-10-17b.458.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2018-10-17a.458.4" newgid="uk.org.publicwhip/lords/2018-10-17b.458.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2018-10-17a.458.5" newgid="uk.org.publicwhip/lords/2018-10-17b.458.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2018-10-17a.458.6" newgid="uk.org.publicwhip/lords/2018-10-17b.458.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2018-10-17a.458.7" newgid="uk.org.publicwhip/lords/2018-10-17b.458.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2018-10-17a.459.0" newgid="uk.org.publicwhip/lords/2018-10-17b.459.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2018-10-17a.459.1" newgid="uk.org.publicwhip/lords/2018-10-17b.459.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2018-10-17a.459.2" newgid="uk.org.publicwhip/lords/2018-10-17b.459.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2018-10-17a.459.3" newgid="uk.org.publicwhip/lords/2018-10-17b.459.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2018-10-17a.459.4" newgid="uk.org.publicwhip/lords/2018-10-17b.459.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2018-10-17a.460.0" newgid="uk.org.publicwhip/lords/2018-10-17b.460.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2018-10-17a.460.1" newgid="uk.org.publicwhip/lords/2018-10-17b.460.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2018-10-17a.460.2" newgid="uk.org.publicwhip/lords/2018-10-17b.460.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2018-10-17a.460.3" newgid="uk.org.publicwhip/lords/2018-10-17b.460.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2018-10-17a.460.4" newgid="uk.org.publicwhip/lords/2018-10-17b.460.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2018-10-17a.460.5" newgid="uk.org.publicwhip/lords/2018-10-17b.460.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2018-10-17a.461.0" newgid="uk.org.publicwhip/lords/2018-10-17b.461.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2018-10-17a.461.1" newgid="uk.org.publicwhip/lords/2018-10-17b.461.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2018-10-17a.461.2" newgid="uk.org.publicwhip/lords/2018-10-17b.461.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2018-10-17a.461.3" newgid="uk.org.publicwhip/lords/2018-10-17b.461.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2018-10-17a.461.4" newgid="uk.org.publicwhip/lords/2018-10-17b.461.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2018-10-17a.461.5" newgid="uk.org.publicwhip/lords/2018-10-17b.461.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2018-10-17a.464.0" newgid="uk.org.publicwhip/lords/2018-10-17b.464.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2018-10-17a.467.0" newgid="uk.org.publicwhip/lords/2018-10-17b.467.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2018-10-17a.471.0" newgid="uk.org.publicwhip/lords/2018-10-17b.471.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2018-10-17a.473.0" newgid="uk.org.publicwhip/lords/2018-10-17b.473.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2018-10-17a.475.0" newgid="uk.org.publicwhip/lords/2018-10-17b.475.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2018-10-17a.477.0" newgid="uk.org.publicwhip/lords/2018-10-17b.477.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2018-10-17a.478.0" newgid="uk.org.publicwhip/lords/2018-10-17b.478.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2018-10-17a.481.0" newgid="uk.org.publicwhip/lords/2018-10-17b.481.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2018-10-17a.483.0" newgid="uk.org.publicwhip/lords/2018-10-17b.483.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2018-10-17a.484.0" newgid="uk.org.publicwhip/lords/2018-10-17b.484.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2018-10-17a.487.0" newgid="uk.org.publicwhip/lords/2018-10-17b.487.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2018-10-17a.490.0" newgid="uk.org.publicwhip/lords/2018-10-17b.490.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2018-10-17a.491.0" newgid="uk.org.publicwhip/lords/2018-10-17b.491.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2018-10-17a.491.1" newgid="uk.org.publicwhip/lords/2018-10-17b.491.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2018-10-17a.493.0" newgid="uk.org.publicwhip/lords/2018-10-17b.493.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2018-10-17a.493.1" newgid="uk.org.publicwhip/lords/2018-10-17b.493.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2018-10-17a.495.0" newgid="uk.org.publicwhip/lords/2018-10-17b.495.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2018-10-17a.495.1" newgid="uk.org.publicwhip/lords/2018-10-17b.495.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2018-10-17a.496.0" newgid="uk.org.publicwhip/lords/2018-10-17b.496.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2018-10-17a.497.0" newgid="uk.org.publicwhip/lords/2018-10-17b.497.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2018-10-17a.497.1" newgid="uk.org.publicwhip/lords/2018-10-17b.497.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2018-10-17a.497.2" newgid="uk.org.publicwhip/lords/2018-10-17b.497.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2018-10-17a.501.0" newgid="uk.org.publicwhip/lords/2018-10-17b.501.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2018-10-17a.505.0" newgid="uk.org.publicwhip/lords/2018-10-17b.505.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2018-10-17a.508.0" newgid="uk.org.publicwhip/lords/2018-10-17b.508.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2018-10-17a.509.0" newgid="uk.org.publicwhip/lords/2018-10-17b.509.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2018-10-17a.512.0" newgid="uk.org.publicwhip/lords/2018-10-17b.512.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2018-10-17a.515.0" newgid="uk.org.publicwhip/lords/2018-10-17b.515.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2018-10-17a.519.0" newgid="uk.org.publicwhip/lords/2018-10-17b.519.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2018-10-17a.521.0" newgid="uk.org.publicwhip/lords/2018-10-17b.521.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2018-10-17a.524.0" newgid="uk.org.publicwhip/lords/2018-10-17b.524.0" matchtype="changes"/>
+<speech id="uk.org.publicwhip/lords/2018-10-17a.524.0" speakername="Lord Pickles" person_id="uk.org.publicwhip/person/10477" colnum="524" time="19:55:00" url="">
+    <p pid="a524.0/1">My Lords, I draw attention to my entry in the register of interests. I hold a number of voluntary posts in Holocaust remembrance. It is a great pleasure to follow my noble friend Lord Gadhia. We recently visited a number of projects in Israel to bring Israelis and Palestinians together. In reference to what the most reverend Primate said about bringing communities together, contributing and making up an identity, I certainly feel that Hindus are an immensely important part of the British identity, not least because of my favourite religious festival of all, Diwali, which I am looking forward to with great enthusiasm.</p>
+    <p pid="a524.0/2">The rise in the hate crime figures that my noble friend just mentioned is truly frightening: more than 94,000 incidents, the bulk being of either race crime or religious hatred. They are both shocking and shaming, not just to the Government but to the two Houses of Parliament and British society as a whole. I am proud to be a friend of the Home Secretary, who recently spoke movingly about the racial prejudice that his family had suffered, which they faced very bravely. I hope my friend Saj will forgive me but I am even prouder of my noble friend Lady Warsi. I congratulate her on not just a fine speech but the even greater achievement of being recently elected Yorkshire Woman of the Year. She chided me a little bit—which rankles even now—about Tell MAMA. It has to be said that the original application was all over the place and a complete mess. What my noble friend did not say is that she got it into some kind of proper order. She put together something that has lasted a number of years. I was pleased to support her in that and in ensuring that this country remembers Srebrenica and we have a proper ceremony each year.</p>
+    <p pid="a524.0/3">I hope my noble friend will forgive me if I tell a story about her. I persuaded her—against her better judgment, I think, and at relatively short notice—to be an after-dinner speaker at a conference of Conservative councillors, which is not the easiest of audiences. They tend to be middle-aged men, a bit bored and wanting some kind of entertainment. Anyone who knows my noble friend knows that she is a very entertaining person. She started to talk about her early experience of politics, of canvassing in Dewsbury and of people shouting the P-word at her. I looked round the room at this hard-bitten bunch of councillors and I could see tears forming because they had made a connection with Sayeeda. They liked her and they felt the pain, perhaps for the first time, of what it is like to be persecuted. They admired her bravery enormously.</p>
+    <p pid="a524.0/4">Thinking of those statistics, imagine the pain of a friend, all their friends and family, and the 94,000 people who feel the hurt that persecution causes, and consider the corrosive effect it has on society. The noble Lord, Lord Hain, who is no longer in his place, talked about it being an intolerant time. I have been involved in politics for 50 years, and in fighting racists and anti-Semites for just as long. I have never before experienced more intolerance in politics and society. There is a coarseness in politics.</p>
+    <p pid="a524.0/5">The noble Lord, Lord Hain, outlined the growth in the far right—I do not seek to diminish it—but I cannot help but feel that is only half the picture. We had an hour-long debate, when people spoke for two and a half minutes, including my noble friend Lord Popat. I thought it a fine occasion, with some fine speeches, but nothing came close to the speech by the former Chief Rabbi, the noble Lord, Lord Sacks. I will read a short piece from a speech that sums up everything.</p>
+    <p pid="a524.0/6">“Anti-Semitism, or any hate, becomes dangerous when three things happen. First, when it moves from the fringes of politics to a mainstream party and its leadership. Secondly, when the party sees that its popularity with the general public is not harmed thereby. Thirdly, when those who stand up and protest are vilified and abused for doing so. All three factors exist in Britain now”.—[Official Report, 13/9/18; col 2413.]</p>
+    <p pid="a524.0/7">I think we are beholden, as politicians—as leaders of society—to speak clearly and robustly against anti-Semitism and any form of prejudice, but to do so in moderate and liberal language. Whether we are politicians or distinguished columnists, we have a duty to ensure that in defending liberal values, we do not speak in illiberal terms.</p>
+    <p pid="a524.0/8">Britain has a number of vibrant communities that are a fundamental part of the British identity. Sometimes we have a romantic view of John Bull, or of a Dickensian existence, but it was never so. Even in Tudor times this country had people from different backgrounds, races and countries. They are all a fundamental part of the British identity: Christians, Muslims, Jews, Hindu, Sikhs, Jains, Buddhists and others—people of faith and no faith—are a vital part of what makes this nation tick. Without them we would be a lesser place. If we want to understand what the effect would be, we need only look at central and eastern Europe. Even 70-odd years after the war, the removal of their Jewish communities has ripped the heart out of those countries, and even now they have not recovered from that devastation. We all, therefore, have a vested interest in fighting intolerance.</p>
+    <p pid="a524.0/9">I join the noble Baroness, Lady Deech, in thanking the most reverend Primate for adopting the IHRA definition. I am a lead delegate on the IHRA delegation. It will make a change gradually over the years, not because it is legally binding—it is not—but because it has been adopted by police forces and education authorities, it is well established in training and used in questions of proof. Over time it will make a difference, and that is why the number of countries adopting it is growing.</p>
+    <p pid="a524.0/10">There is, right now, a growing number of countries across the world which are starting to build new monuments and institutions relating to anti-Semitism and the Holocaust. Why is this happening? The historian Simon Schama said that the true assessment of the French revolution did not occur until the 1850s, when anyone who had experienced it had passed away. We have some experience of that here, in the centenary of the First World War, of which a great reassessment has been taking place.</p>
+    <p pid="a524.0/11">In my maiden speech in this House I talked about the influence of my grandfather Smith, who served in the Royal Navy, and my grandfather Pickles, who served on the Somme. Nobody doubts that those two gentlemen served their time in the War: there is no industry saying that the First World War did not happen, or the Somme did not happen, but there is a whole industry of Holocaust denial, and we remember that the final stage of a genocide is denial.</p>
+    <p pid="a524.0/12">About a year ago I visited Treblinka, one of the terrible death camps, which was only in existence for about a year and killed almost a million people. Nobody was separated for work; everyone was killed. I took a photograph of the monument, which is quite a moving one, and posted it on Twitter, as we politicians tend to do. Within minutes I received a reply that said, “No-one died at Treblinka, it was a transit camp. There was no death there, and any deaths related to influenza”. You wonder whether someone like that really believes it. This morning I met representatives of the United States  Holocaust Museum. It has the distinction of being the second most popular site on the web relating to the Holocaust. The most popular is the Holocaust denial site, which leads by a considerable margin.</p>
+    <p pid="a524.0/13">A number of organisations, including the Holocaust Education Trust, the Holocaust Memorial Day Trust and the Anne Frank Trust, are doing so much to educate and explain. There has, however, been a growth in casual anti-Semitism. The CST recently found that while hard anti-Semitism was down in single figures, casual anti-Semitism was around 30%.</p>
+    <p pid="a524.0/14">I will now mention the new monument. I raise it here because it relates to anti-Semitism. Most people object to it because they do not want it in that particular place: they are worried about the trees, the grass, the mess—all kinds of things. That is perfectly legitimate. As part of the modern planning process for something like that you have exhibitions and people in to explain what has happened. I will give a sample of what people said: “Just put it near the War Museum, they have space for it. Or better still, somewhere south of the river, where it is more suitable for the people who live around there. Or in north London, where the Jews live”. One said: “Why do I need to be reminded of the bloody Holocaust? I just want to walk my dog in the park; I don’t want to be reminded of the bloody effing Holocaust”. And another said: “You should get all these people who are against Jews and we will see all the bloody Muslims come and protest”. I suppose that is an equal opportunity bigot.</p>
+    <p pid="a524.0/15">During the exhibition, we heard people say, “Why should we be building a memorial for Jewish people next to the British Parliament”? They then went on to list British subjects, saying that Jewish people were foreigners. One man said that he liked the design and thought we had worked very hard on it, but that it was in the wrong place. He went on to ask, “Why a memorial for them? Why not the Sikhs or the Hindus? Is it because they have so much power and influence in Parliament?”.</p>
+    <p pid="a524.0/16">These things were said by people at the exhibition to government officials without any worry. I may have read out just a selection, but that was 25% of the people who commented at the exhibition, which is roughly similar to the CSD figure of 30%.</p>
+    <p pid="a524.0/17">We are building this memorial. It was announced by the Prime Minister in January 2016, and endorsed by his predecessor. The site was selected—just outside this building. An international competition was held, which attracted some 92 entries. We got down to the last 10 or so, which were displayed in this building, the Scottish Parliament, the Welsh Assembly, and in Manchester. All kinds of people made suggestions, and 11,000 people contributed. Then a distinguished panel looked at the various designs. We have come up with a design that will be a monument and a learning centre, which will deal with the Holocaust through British eyes. It will tackle some very difficult questions with regard to our involvement—things that we should be proud of, and some things that we should perhaps be slightly less proud of.</p>
+    <p pid="a524.0/18">At a time when parts of Europe are seeking to rewrite history, it is important for us to set a clear example that we will look at our history with an  unblinking eye. The real reason it will go there is because it will stand right next to Parliament and remind people, as they leave the monument and look towards Victoria Tower, that this place is a bastion against tyranny. As we look out at the memorial, it will remind both Houses of Parliament that the legislature has a power to protect or to oppress. We will remember that a compliant legislature introduced the Nuremberg laws. It is my sincere hope that we will build a monument of which we will all be proud; we will build a learning centre that will be a beacon to the world.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/lords/2018-10-17a.528.0" newgid="uk.org.publicwhip/lords/2018-10-17b.528.0" matchtype="changes"/>
+<speech id="uk.org.publicwhip/lords/2018-10-17a.528.0" speakername="Lord Bilimoria" person_id="uk.org.publicwhip/person/13881" colnum="528" time="20:14:00" url="">
+    <p pid="a528.0/1">My Lords, I shall tell you a story. Three years ago in Kerala in South India, the heart of a Hindu man was transported across Kerala for a Christian patient in dire need of a new one. Funds were raised by a Muslim businessman to pay for the operation which was performed by the state’s top heart surgeon: a Christian. Kerala is known as “God’s own country”. Over the centuries, people have come from different cultures and communities and travelled to live in Kerala—Jewish and Christian migrants, Arab merchants, European traders and colonisers. The city of Cochin—Kochi, as it is now called—has the oldest active synagogue and the oldest European church, both from the 16th century. Kerala is a symbol of religious co-existence—not just tolerance, but co-existence in a world that is struggling with virulent intolerance and violence, which is what this debate is all about. The state has a mix of three of the world’s largest religions—30% Muslim; 20% Christian and 50% Hindu.</p>
+    <p pid="a528.0/2">The essence of all this is when it comes to religion we are all too quick to focus on what divides us rather than what brings us together. The former Indian President, Peram Mukaji, said that a society as diverse as India can be governed only as a democratic, federal and pluralistic polity.</p>
+    <p pid="a528.0/3">I thank the noble Lord, Lord Bourne, for leading this debate and everything that he does for the communities in our country, which I have seen first hand. He wrote an article in the House magazine, headlined:</p>
+    <p pid="a528.0/4">“We will not allow hatred and intolerance to go unchecked”.</p>
+    <p pid="a528.0/5">He summed it up by saying:</p>
+    <p pid="a528.0/6">“Britain is a proudly tolerant nation—a nation where everyone has the right to live according to their beliefs. Indeed, this is a quality Britain champions and recognises as one of its great strengths. We believe that our differences make us stronger—that together we can learn from one another and grow as individuals and as a society”.</p>
+    <p pid="a528.0/7">Yet if we look at the statistics in the data provided to us, they show that Christians have declined from 72% to 59%; Muslims have increased from 3% to 5% and the number of Hindus, Sikhs and Buddhists rose slightly, while the Jewish population remained broadly the same. There were 80,393 offences recorded by the police in which one or more hate crimes was a motivating factor. The majority were race hate crimes—78%—but 7% were religious hate crimes. There has been a surge in reports of hate crimes directed at people in England and Wales because of their religious beliefs. They rose by 40% from 5,949 to 8,336 this year, according to Home Office data. To back up what the  noble Baroness, Lady Warsi, said, most religious hate crimes—sadly, 52% of all offences—were aimed at Muslims.</p>
+    <p pid="a528.0/8">I am so happy that the Government have appointed the noble Lord, Lord Ahmad, as a special envoy to promote religious freedom. As the Prime Minister said:</p>
+    <p pid="a528.0/9">“Tolerance for those of different faiths is fundamental to our values, and is an issue I know is already of great importance to Lord Ahmad, who is constantly looking for fresh ways to promote religious liberty in his role as Minister for Human Rights at the Foreign Office”.</p>
+    <p pid="a528.0/10">I commend the work that he does.</p>
+    <p pid="a528.0/11">Minorities in this country make up 14% of the population. We have to keep this in context. Sadly, we have heard, and I shall not repeat it, about the religious prejudice that exists at the moment within political parties. These statistics were again provided to us. In the Labour Party in particular there have been statistics after statistics of anti-Semitism, and I shall cite just some of them. The Conservative Party and the Labour Party were prejudiced against six groups: Christians, British Jews, British Muslims, British Hindus, Sikhs and atheists. In the case of the Conservative Party, definite or probable prejudice was said to range from 13% against Christians to 27% against Muslims but for the Labour Party it was 11% against atheists to 36% against Jews.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/lords/2018-10-17a.529.0" newgid="uk.org.publicwhip/lords/2018-10-17b.529.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2018-10-17a.529.1" newgid="uk.org.publicwhip/lords/2018-10-17b.529.1" matchtype="changes"/>
+<speech id="uk.org.publicwhip/lords/2018-10-17a.529.1" speakername="Lord Bilimoria" person_id="uk.org.publicwhip/person/13881" colnum="529" time="20:14:00" url="">
+    <p pid="a529.1/1">I am just quoting the figures I have been given—36% and 34%. These are really worrying statistics.</p>
+    <p pid="a529.1/2">An omnibus survey was carried out demonstrating the relatively low significance attached to religion by a cross-section of the population. Given 12 options to define personal identity, just 7% chose religion. Asked how important religion was to them, 72% said that it was not important at all. This is worrying. Another survey included the statement that religions are inherently violent and 32% agreed. On the question that the teachings of religion are essentially peaceful, 61% agreed. On the statement:</p>
+    <p pid="a529.1/3">“It is religious extremists, not religions themselves that are violent”,</p>
+    <p pid="a529.1/4">81% agreed. That is the important statistic. Here is another example:</p>
+    <p pid="a529.1/5">“Most of the wars in world history have been caused by religions”,</p>
+    <p pid="a529.1/6">70% agreed. Here is another worrying one:</p>
+    <p pid="a529.1/7">“On balance, religions are much more peaceful today than violent”.</p>
+    <p pid="a529.1/8">With that, 44% agree and 44% disagree.</p>
+    <p pid="a529.1/9">On antisemitism in the Labour Party, another poll revealed that 34% of the entire electorate—even 16% of the Labour Party—believe that it is a serious problem within the party. The noble Lord, Lord Kestenbaum, spoke about that. Another very scary fact is that 1 million people in our country have experienced faith discrimination.</p>
+    <p pid="a529.1/10">There is one other fact that nobody else has mentioned, or probably will mention. One of the best lectures I attended at Harvard Business School was given by  Professor Mahzarin Banaji, who is a fellow Parsi—and, ironically, hails from Hyderabad in India, where I too am from. She creates awareness of unconscious bias in self-professed egalitarians. She studies human thinking and feeling as it unfolds in social contexts, and her focus is on mental systems that operate in implicit or unconscious modes. How much unconscious bias exists, most often unintended, within social groups? We should all be aware of this. Professor Banaji has written a book, with Tony Greenwald, entitled Blindspot: Hidden Biases of Good People.</p>
+    <p pid="a529.1/11">His Holiness the Dalai Lama, who I have had the privilege of meeting, said:</p>
+    <p pid="a529.1/12">“India’s treasure is that all major religious traditions co-exist in harmony”.</p>
+    <p pid="a529.1/13">The Nobel laureate talked about</p>
+    <p pid="a529.1/14" class="indent">“education for wisdom and compassion”,</p>
+    <p pid="a529.1/15">and said:</p>
+    <p pid="a529.1/16">“There are different spiritual traditions whose philosophies are also different, but all of them carry the same message of love. All religions teach us the practice of tolerance and have the same potential of bringing inner peace”.</p>
+    <p pid="a529.1/17">He stressed the need to get rid of conflict in the name of religion, and called upon people to</p>
+    <p pid="a529.1/18" class="indent">“acknowledge each other as brothers and sisters and develop a sense of oneness with others ... a concern for other human beings without being self-centred or short sighted. We need a sense of global responsibility”.</p>
+    <p pid="a529.1/19">Last year when the Foreign Office celebrated UN Human Rights Day, its theme was “freedom of religion or belief”. Here I should read out Article 18 of the UN declaration of human rights, which says:</p>
+    <p pid="a529.1/20">“Everyone has the right to freedom of thought, conscience and religion; this right includes freedom to change his religion or belief, and freedom, either alone or in community with others and in public or private, to manifest his religion or belief in teaching, practice, worship and observance”.</p>
+    <p pid="a529.1/21">Yet look at what is happening; look at the sadness of what ISIS—so-called Islamic State—is doing. Its behaviour in the Middle East has been absolutely appalling. Article 18 has been completely disrespected around the world. Religious intolerance is the virus that causes the persecution, and if not treated it will lead to more and more of the atrocities that we have seen.</p>
+    <p pid="a529.1/22">Archbishop Desmond Tutu—a fellow fellow of my college at Cambridge, Sydney Sussex—said about Nelson Mandela that he was a magnanimous individual. In a situation of ongoing conflict and violence, we should try to achieve conflict resolution. That is what the archbishop and Mandela did so brilliantly. The principles of reconciliation should be based on truth, justice and forgiveness.</p>
+    <p pid="a529.1/23">The most reverend Primate the Archbishop of Canterbury, when he led a debate two years ago, said:</p>
+    <p pid="a529.1/24">“At their heart they bring true integration based on the God-given dignity of all human beings whatever their ethnicity, gender, sexuality, ability or economic worth. A vision of this kind will promote cohesion around the common good, it will encourage courage and creativity, it will lead us to train young people in new skills, it will give us the strength to open new markets, to share our wealth and wisdom fairly and not only to our advantage, and to welcome the alien and the stranger. It will challenge us to be consistent and to have an eye to our relationship with future generations, notwithstanding the events that intervene”.—[Official Report, 2/12/2016; col. 418.]</p>
+    <p pid="a529.1/25">From a Zoroastrian perspective, my community—one of the smallest communities in the world—has full freedom to practise our ancient religion over here in the UK. We have never been persecuted. Yet to see the persecution of the Zoroastrians in Iran is very sad. One thing that worried me greatly when I came to this country in the early 1980s from India, is that I was told that this country had a glass ceiling for foreigners, and that if I ever wanted to work after I finished my studies I would never get to the top because I was a foreigner. That was so true, I am afraid to say, years ago. Today it has changed, and this country has evolved into a country of aspiration, where anyone can get anywhere, regardless of race, religion or background. I led a debate here a few years ago on the contribution of minority and ethnic religious communities to the culture and economy of Britain. In that debate, which some Members here tonight spoke in, it was said that we would not be where we are today—the fifth largest economy in the world—without the contribution of those minority communities.</p>
+    <p pid="a529.1/26">In India there are only 59,000 Zoroastrian Parsis out of a population of 1.25 billion; here there are less than 6,000 of us out of a population of 65 million. Yet wherever you go, people know who a Parsi is. Mahatma Gandhi said: “In numbers they are beneath contempt, in contribution, beyond compare”. Ambitiously, I say that by achievement per capita we have done so well, going back to Cyrus the Great. Forget Magna Carta: that is modern. In 539 BC, Cyrus the Great, with his cylinder in the British Museum, issued the first bill of human rights, in which he allowed people in his kingdom to practise whatever religion they wished and allowed the Jewish community to go back to their homeland.</p>
+    <p pid="a529.1/27">In the context of the European Union, Brexit, as the noble Lord, Lord Gadhia said, is dividing this country. Immigration was the highlight of that—yet where would we be without those 3 million immigrants from the European Union who came to this country and contributed to it? The most reverend Primate spoke about assimilation and integration. My father, the late General Bilimoria, said, “Wherever you live in the world, integrate as best you can, but never forget your roots”. It is important that people can integrate but also be proud of their roots. That is the difference between secularism and pluralism: we are proud of our own religions but we celebrate, not just tolerate, all other religions—and we do so with integrity.</p>
+    <p pid="a529.1/28">The most reverend Primate’s predecessor, Rowan Williams—Archbishop of Canterbury at the time, and now master of Magdalene College, Cambridge—spoke about integrity. That word comes from the Latin words “integritas” and “integer”, and you cannot practise integrity unless you are whole and complete as an individual, as an entity, or as a community. You cannot be fragmented in front of the light; you can only practise integrity if you are whole.</p>
+    <p pid="a529.1/29">Yet, as the noble Lord, Lord Bourne, said, we have had a chilling reminder that many people around the world live in fear purely because of their beliefs. We must never let ourselves fall victim to such intolerance and divisiveness. That is where my favourite poem by Rabindranath Tagore, the Nobel laureate, starts:</p>
+    <p pid="a529.1/30">“Where the mind is without fear and the head is held high …</p>
+    <p pid="a529.1/31">Where the world has not been broken up into fragments</p>
+    <p pid="a529.1/32">By narrow domestic walls”,</p>
+    <p pid="a529.1/33">and ends:</p>
+    <p pid="a529.1/34">“Into that heaven of freedom, my Father, let my country awake”.</p>
+    <p pid="a529.1/35">Although the fundamentalists in each religion affirm that their religion is exclusive, and look on other religions as enemies, according to their scriptural and theological traditions all religions have a notion of a god who is inclusive. This morning I was talking to my elder son Kai, who has just graduated in theology from Cambridge. I said, “I’m speaking in this debate, Kai. Have you got any advice for me?” He said, “Yes dad: where religion is concerned, we are more similar than we are different”. He talked about the difference between secularism and pluralism, and about celebration rather than tolerance. Then he reminded me of his grandfather—my father—and said that when he was in the army there would be cavalry regiments with a Sikh squadron, a Hindu squadron and a Muslim squadron, not just living together but fighting together as comrades in arms. Finally, he said, “Dad, there’s a Chinese proverb: there are many paths to the top of the mountain, but once you’re there, the view is the same”. Brexit is dividing this country and threatening the existence of our precious union. My wife is South African, and there is a wonderful South African saying: if you want to go fast, go alone, and if you want to go far, go together. We have to go together as a country, and then we will go far.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/lords/2018-10-17a.532.0" newgid="uk.org.publicwhip/lords/2018-10-17b.532.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2018-10-17a.535.0" newgid="uk.org.publicwhip/lords/2018-10-17b.535.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2018-10-17a.539.0" newgid="uk.org.publicwhip/lords/2018-10-17b.539.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2018-10-17a.541.0" newgid="uk.org.publicwhip/lords/2018-10-17b.541.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2018-10-17a.543.0" newgid="uk.org.publicwhip/lords/2018-10-17b.543.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2018-10-17a.544.0" newgid="uk.org.publicwhip/lords/2018-10-17b.544.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2018-10-17a.547.0" newgid="uk.org.publicwhip/lords/2018-10-17b.547.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2018-10-17a.549.0" newgid="uk.org.publicwhip/lords/2018-10-17b.549.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2018-10-17a.552.0" newgid="uk.org.publicwhip/lords/2018-10-17b.552.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2018-10-17a.554.0" newgid="uk.org.publicwhip/lords/2018-10-17b.554.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2018-10-17a.554.1" newgid="uk.org.publicwhip/lords/2018-10-17b.554.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2018-10-17a.555.0" newgid="uk.org.publicwhip/lords/2018-10-17b.555.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2018-10-17a.555.1" newgid="uk.org.publicwhip/lords/2018-10-17b.555.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2018-10-17a.555.2" newgid="uk.org.publicwhip/lords/2018-10-17b.555.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2018-10-17a.555.3" newgid="uk.org.publicwhip/lords/2018-10-17b.555.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2018-10-17a.556.0" newgid="uk.org.publicwhip/lords/2018-10-17b.556.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2018-10-17a.556.1" newgid="uk.org.publicwhip/lords/2018-10-17b.556.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2018-10-17a.558.0" newgid="uk.org.publicwhip/lords/2018-10-17b.558.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2018-10-17a.558.1" newgid="uk.org.publicwhip/lords/2018-10-17b.558.1" matchtype="perfectmatch"/>
+</publicwhip>
+

@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<!DOCTYPE publicwhip
+[
+<!ENTITY ndash   "&#8211;">
+<!ENTITY mdash   "&#8212;">
+<!ENTITY iexcl   "&#161;">
+<!ENTITY divide  "&#247;">
+<!ENTITY euro    "&#8364;">
+<!ENTITY trade   "&#8482;">
+<!ENTITY bull    "&#8226;">
+<!ENTITY lsquo   "&#8216;">
+<!ENTITY rsquo   "&#8217;">
+<!ENTITY sbquo   "&#8218;">
+<!ENTITY ldquo   "&#8220;">
+<!ENTITY rdquo   "&#8221;">
+<!ENTITY bdquo   "&#8222;">
+<!ENTITY dagger  "&#8224;">
+
+<!ENTITY Ouml   "&#214;" >
+<!ENTITY szlig  "&#223;" >
+<!ENTITY agrave "&#224;" >
+<!ENTITY aacute "&#225;" >
+<!ENTITY acirc  "&#226;" >
+<!ENTITY atilde "&#227;" >
+<!ENTITY auml   "&#228;" >
+<!ENTITY ccedil "&#231;" >
+<!ENTITY egrave "&#232;" >
+<!ENTITY eacute "&#233;" >
+<!ENTITY ecirc  "&#234;" >
+<!ENTITY euml   "&#235;" >
+<!ENTITY iacute "&#237;" >
+<!ENTITY icirc  "&#238;" >
+<!ENTITY iuml	"&#239;" >
+<!ENTITY ntilde "&#241;" >
+<!ENTITY nbsp   "&#160;" >
+<!ENTITY oacute "&#243;" >
+<!ENTITY ocirc  "&#244;" >
+<!ENTITY ouml   "&#246;" >
+<!ENTITY oslash "&#248;" >
+<!ENTITY uacute "&#250;" >
+<!ENTITY uuml   "&#252;" >
+<!ENTITY thorn  "&#254;" >
+
+<!ENTITY pound  "&#163;" >
+<!ENTITY sect   "&#167;" >
+<!ENTITY copy   "&#169;" >
+<!ENTITY reg    "&#174;" >
+<!ENTITY deg    "&#176;" >
+<!ENTITY plusmn "&#177;" >
+<!ENTITY sup2   "&#178;" >
+<!ENTITY micro  "&#181;" >
+<!ENTITY para   "&#182;" >
+<!ENTITY middot "&#183;" >
+<!ENTITY ordm   "&#186;" >
+<!ENTITY frac14 "&#188;" >
+<!ENTITY frac12 "&#189;" >
+<!ENTITY frac34 "&#190;" >
+<!ENTITY oelig "&#339;" >
+<!ENTITY aelig  "&#230;" >
+
+]>
+
+<publicwhip scrapeversion="/home/twfy-live/parldata/scrapedxml/lordspages/daylord2020-10-05b.xml" latest="no">
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.361.0" newgid="uk.org.publicwhip/lords/2020-10-05c.361.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.361.1" newgid="uk.org.publicwhip/lords/2020-10-05c.361.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.361.2" newgid="uk.org.publicwhip/lords/2020-10-05c.361.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.361.3" newgid="uk.org.publicwhip/lords/2020-10-05c.361.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.361.4" newgid="uk.org.publicwhip/lords/2020-10-05c.361.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.361.5" newgid="uk.org.publicwhip/lords/2020-10-05c.361.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.361.6" newgid="uk.org.publicwhip/lords/2020-10-05c.361.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.361.7" newgid="uk.org.publicwhip/lords/2020-10-05c.361.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.361.8" newgid="uk.org.publicwhip/lords/2020-10-05c.361.8" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.361.9" newgid="uk.org.publicwhip/lords/2020-10-05c.361.9" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.361.10" newgid="uk.org.publicwhip/lords/2020-10-05c.361.10" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.361.11" newgid="uk.org.publicwhip/lords/2020-10-05c.361.11" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.362.0" newgid="uk.org.publicwhip/lords/2020-10-05c.362.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.362.1" newgid="uk.org.publicwhip/lords/2020-10-05c.362.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.362.2" newgid="uk.org.publicwhip/lords/2020-10-05c.362.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.362.3" newgid="uk.org.publicwhip/lords/2020-10-05c.362.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.362.4" newgid="uk.org.publicwhip/lords/2020-10-05c.362.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.362.5" newgid="uk.org.publicwhip/lords/2020-10-05c.362.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.362.6" newgid="uk.org.publicwhip/lords/2020-10-05c.362.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.363.0" newgid="uk.org.publicwhip/lords/2020-10-05c.363.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.363.1" newgid="uk.org.publicwhip/lords/2020-10-05c.363.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.363.2" newgid="uk.org.publicwhip/lords/2020-10-05c.363.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.363.3" newgid="uk.org.publicwhip/lords/2020-10-05c.363.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.363.4" newgid="uk.org.publicwhip/lords/2020-10-05c.363.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.363.5" newgid="uk.org.publicwhip/lords/2020-10-05c.363.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.367.0" newgid="uk.org.publicwhip/lords/2020-10-05c.367.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.367.1" newgid="uk.org.publicwhip/lords/2020-10-05c.367.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.370.0" newgid="uk.org.publicwhip/lords/2020-10-05c.370.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.370.1" newgid="uk.org.publicwhip/lords/2020-10-05c.370.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.374.0" newgid="uk.org.publicwhip/lords/2020-10-05c.374.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.374.1" newgid="uk.org.publicwhip/lords/2020-10-05c.374.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.374.2" newgid="uk.org.publicwhip/lords/2020-10-05c.374.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.375.0" newgid="uk.org.publicwhip/lords/2020-10-05c.375.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.375.1" newgid="uk.org.publicwhip/lords/2020-10-05c.375.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.375.2" newgid="uk.org.publicwhip/lords/2020-10-05c.375.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.375.3" newgid="uk.org.publicwhip/lords/2020-10-05c.375.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.375.4" newgid="uk.org.publicwhip/lords/2020-10-05c.375.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.375.5" newgid="uk.org.publicwhip/lords/2020-10-05c.375.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.375.6" newgid="uk.org.publicwhip/lords/2020-10-05c.375.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.376.0" newgid="uk.org.publicwhip/lords/2020-10-05c.376.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.376.1" newgid="uk.org.publicwhip/lords/2020-10-05c.376.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.376.2" newgid="uk.org.publicwhip/lords/2020-10-05c.376.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.376.3" newgid="uk.org.publicwhip/lords/2020-10-05c.376.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.376.4" newgid="uk.org.publicwhip/lords/2020-10-05c.376.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.376.5" newgid="uk.org.publicwhip/lords/2020-10-05c.376.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.377.0" newgid="uk.org.publicwhip/lords/2020-10-05c.377.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.377.1" newgid="uk.org.publicwhip/lords/2020-10-05c.377.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.377.2" newgid="uk.org.publicwhip/lords/2020-10-05c.377.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.377.3" newgid="uk.org.publicwhip/lords/2020-10-05c.377.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.377.4" newgid="uk.org.publicwhip/lords/2020-10-05c.377.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.377.5" newgid="uk.org.publicwhip/lords/2020-10-05c.377.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.377.6" newgid="uk.org.publicwhip/lords/2020-10-05c.377.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.378.0" newgid="uk.org.publicwhip/lords/2020-10-05c.378.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.378.1" newgid="uk.org.publicwhip/lords/2020-10-05c.378.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.378.2" newgid="uk.org.publicwhip/lords/2020-10-05c.378.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.378.3" newgid="uk.org.publicwhip/lords/2020-10-05c.378.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.378.4" newgid="uk.org.publicwhip/lords/2020-10-05c.378.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.379.0" newgid="uk.org.publicwhip/lords/2020-10-05c.379.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.379.1" newgid="uk.org.publicwhip/lords/2020-10-05c.379.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.379.2" newgid="uk.org.publicwhip/lords/2020-10-05c.379.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.379.3" newgid="uk.org.publicwhip/lords/2020-10-05c.379.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.379.4" newgid="uk.org.publicwhip/lords/2020-10-05c.379.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.379.5" newgid="uk.org.publicwhip/lords/2020-10-05c.379.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.380.0" newgid="uk.org.publicwhip/lords/2020-10-05c.380.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.380.1" newgid="uk.org.publicwhip/lords/2020-10-05c.380.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.380.2" newgid="uk.org.publicwhip/lords/2020-10-05c.380.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.380.3" newgid="uk.org.publicwhip/lords/2020-10-05c.380.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.380.4" newgid="uk.org.publicwhip/lords/2020-10-05c.380.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.380.5" newgid="uk.org.publicwhip/lords/2020-10-05c.380.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.380.6" newgid="uk.org.publicwhip/lords/2020-10-05c.380.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.381.0" newgid="uk.org.publicwhip/lords/2020-10-05c.381.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.381.1" newgid="uk.org.publicwhip/lords/2020-10-05c.381.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.381.2" newgid="uk.org.publicwhip/lords/2020-10-05c.381.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.381.3" newgid="uk.org.publicwhip/lords/2020-10-05c.381.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.381.4" newgid="uk.org.publicwhip/lords/2020-10-05c.381.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.382.0" newgid="uk.org.publicwhip/lords/2020-10-05c.382.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.382.1" newgid="uk.org.publicwhip/lords/2020-10-05c.382.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.382.2" newgid="uk.org.publicwhip/lords/2020-10-05c.382.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.382.3" newgid="uk.org.publicwhip/lords/2020-10-05c.382.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.382.4" newgid="uk.org.publicwhip/lords/2020-10-05c.382.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.383.0" newgid="uk.org.publicwhip/lords/2020-10-05c.383.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.383.1" newgid="uk.org.publicwhip/lords/2020-10-05c.383.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.383.2" newgid="uk.org.publicwhip/lords/2020-10-05c.383.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.383.3" newgid="uk.org.publicwhip/lords/2020-10-05c.383.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.383.4" newgid="uk.org.publicwhip/lords/2020-10-05c.383.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.383.5" newgid="uk.org.publicwhip/lords/2020-10-05c.383.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.384.0" newgid="uk.org.publicwhip/lords/2020-10-05c.384.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.384.1" newgid="uk.org.publicwhip/lords/2020-10-05c.384.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.384.2" newgid="uk.org.publicwhip/lords/2020-10-05c.384.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.384.3" newgid="uk.org.publicwhip/lords/2020-10-05c.384.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.384.4" newgid="uk.org.publicwhip/lords/2020-10-05c.384.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.384.5" newgid="uk.org.publicwhip/lords/2020-10-05c.384.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.384.6" newgid="uk.org.publicwhip/lords/2020-10-05c.384.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.384.7" newgid="uk.org.publicwhip/lords/2020-10-05c.384.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.385.0" newgid="uk.org.publicwhip/lords/2020-10-05c.385.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.385.1" newgid="uk.org.publicwhip/lords/2020-10-05c.385.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.385.2" newgid="uk.org.publicwhip/lords/2020-10-05c.385.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.385.3" newgid="uk.org.publicwhip/lords/2020-10-05c.385.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.385.4" newgid="uk.org.publicwhip/lords/2020-10-05c.385.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.385.5" newgid="uk.org.publicwhip/lords/2020-10-05c.385.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.385.6" newgid="uk.org.publicwhip/lords/2020-10-05c.385.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.386.0" newgid="uk.org.publicwhip/lords/2020-10-05c.386.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.386.1" newgid="uk.org.publicwhip/lords/2020-10-05c.386.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.386.2" newgid="uk.org.publicwhip/lords/2020-10-05c.386.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.386.3" newgid="uk.org.publicwhip/lords/2020-10-05c.386.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.386.4" newgid="uk.org.publicwhip/lords/2020-10-05c.386.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.386.5" newgid="uk.org.publicwhip/lords/2020-10-05c.386.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.387.0" newgid="uk.org.publicwhip/lords/2020-10-05c.387.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.387.1" newgid="uk.org.publicwhip/lords/2020-10-05c.387.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.387.2" newgid="uk.org.publicwhip/lords/2020-10-05c.387.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.387.3" newgid="uk.org.publicwhip/lords/2020-10-05c.387.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.387.4" newgid="uk.org.publicwhip/lords/2020-10-05c.387.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.387.5" newgid="uk.org.publicwhip/lords/2020-10-05c.387.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.388.0" newgid="uk.org.publicwhip/lords/2020-10-05c.388.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.388.1" newgid="uk.org.publicwhip/lords/2020-10-05c.388.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.388.2" newgid="uk.org.publicwhip/lords/2020-10-05c.388.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.388.3" newgid="uk.org.publicwhip/lords/2020-10-05c.388.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.388.4" newgid="uk.org.publicwhip/lords/2020-10-05c.388.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.388.5" newgid="uk.org.publicwhip/lords/2020-10-05c.388.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.388.6" newgid="uk.org.publicwhip/lords/2020-10-05c.388.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.388.7" newgid="uk.org.publicwhip/lords/2020-10-05c.388.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.389.0" newgid="uk.org.publicwhip/lords/2020-10-05c.389.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.389.1" newgid="uk.org.publicwhip/lords/2020-10-05c.389.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.389.2" newgid="uk.org.publicwhip/lords/2020-10-05c.389.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.389.3" newgid="uk.org.publicwhip/lords/2020-10-05c.389.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.389.4" newgid="uk.org.publicwhip/lords/2020-10-05c.389.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.389.5" newgid="uk.org.publicwhip/lords/2020-10-05c.389.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.390.0" newgid="uk.org.publicwhip/lords/2020-10-05c.390.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.390.1" newgid="uk.org.publicwhip/lords/2020-10-05c.390.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.390.2" newgid="uk.org.publicwhip/lords/2020-10-05c.390.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.390.3" newgid="uk.org.publicwhip/lords/2020-10-05c.390.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.390.4" newgid="uk.org.publicwhip/lords/2020-10-05c.390.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.391.0" newgid="uk.org.publicwhip/lords/2020-10-05c.391.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.391.1" newgid="uk.org.publicwhip/lords/2020-10-05c.391.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.391.2" newgid="uk.org.publicwhip/lords/2020-10-05c.391.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.391.3" newgid="uk.org.publicwhip/lords/2020-10-05c.391.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.391.4" newgid="uk.org.publicwhip/lords/2020-10-05c.391.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.391.5" newgid="uk.org.publicwhip/lords/2020-10-05c.391.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.391.6" newgid="uk.org.publicwhip/lords/2020-10-05c.391.6" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.391.7" newgid="uk.org.publicwhip/lords/2020-10-05c.391.7" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.391.8" newgid="uk.org.publicwhip/lords/2020-10-05c.391.8" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.392.0" newgid="uk.org.publicwhip/lords/2020-10-05c.392.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.392.1" newgid="uk.org.publicwhip/lords/2020-10-05c.392.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.393.0" newgid="uk.org.publicwhip/lords/2020-10-05c.393.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.396.0" newgid="uk.org.publicwhip/lords/2020-10-05c.396.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.398.0" newgid="uk.org.publicwhip/lords/2020-10-05c.398.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.398.1" newgid="uk.org.publicwhip/lords/2020-10-05c.398.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.399.0" newgid="uk.org.publicwhip/lords/2020-10-05c.399.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.400.0" newgid="uk.org.publicwhip/lords/2020-10-05c.400.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.401.0" newgid="uk.org.publicwhip/lords/2020-10-05c.401.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.402.0" newgid="uk.org.publicwhip/lords/2020-10-05c.402.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.402.1" newgid="uk.org.publicwhip/lords/2020-10-05c.402.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.403.0" newgid="uk.org.publicwhip/lords/2020-10-05c.403.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.403.1" newgid="uk.org.publicwhip/lords/2020-10-05c.403.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.404.0" newgid="uk.org.publicwhip/lords/2020-10-05c.404.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.405.0" newgid="uk.org.publicwhip/lords/2020-10-05c.405.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.409.0" newgid="uk.org.publicwhip/lords/2020-10-05c.409.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.409.1" newgid="uk.org.publicwhip/lords/2020-10-05c.409.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.409.2" newgid="uk.org.publicwhip/lords/2020-10-05c.409.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.409.3" newgid="uk.org.publicwhip/lords/2020-10-05c.409.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.409.4" newgid="uk.org.publicwhip/lords/2020-10-05c.409.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.410.0" newgid="uk.org.publicwhip/lords/2020-10-05c.410.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.411.0" newgid="uk.org.publicwhip/lords/2020-10-05c.411.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.411.1" newgid="uk.org.publicwhip/lords/2020-10-05c.411.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.414.0" newgid="uk.org.publicwhip/lords/2020-10-05c.414.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.414.1" newgid="uk.org.publicwhip/lords/2020-10-05c.414.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.414.2" newgid="uk.org.publicwhip/lords/2020-10-05c.414.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.416.0" newgid="uk.org.publicwhip/lords/2020-10-05c.416.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.419.0" newgid="uk.org.publicwhip/lords/2020-10-05c.419.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.421.0" newgid="uk.org.publicwhip/lords/2020-10-05c.421.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.422.0" newgid="uk.org.publicwhip/lords/2020-10-05c.422.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.422.1" newgid="uk.org.publicwhip/lords/2020-10-05c.422.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.423.0" newgid="uk.org.publicwhip/lords/2020-10-05c.423.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.423.1" newgid="uk.org.publicwhip/lords/2020-10-05c.423.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.424.0" newgid="uk.org.publicwhip/lords/2020-10-05c.424.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.425.0" newgid="uk.org.publicwhip/lords/2020-10-05c.425.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.427.0" newgid="uk.org.publicwhip/lords/2020-10-05c.427.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.427.1" newgid="uk.org.publicwhip/lords/2020-10-05c.427.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.428.0" newgid="uk.org.publicwhip/lords/2020-10-05c.428.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.429.0" newgid="uk.org.publicwhip/lords/2020-10-05c.429.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.429.1" newgid="uk.org.publicwhip/lords/2020-10-05c.429.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.430.0" newgid="uk.org.publicwhip/lords/2020-10-05c.430.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.430.1" newgid="uk.org.publicwhip/lords/2020-10-05c.430.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.430.2" newgid="uk.org.publicwhip/lords/2020-10-05c.430.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.430.3" newgid="uk.org.publicwhip/lords/2020-10-05c.430.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.430.4" newgid="uk.org.publicwhip/lords/2020-10-05c.430.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.431.0" newgid="uk.org.publicwhip/lords/2020-10-05c.431.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.433.0" newgid="uk.org.publicwhip/lords/2020-10-05c.433.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.434.0" newgid="uk.org.publicwhip/lords/2020-10-05c.434.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.435.0" newgid="uk.org.publicwhip/lords/2020-10-05c.435.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.436.0" newgid="uk.org.publicwhip/lords/2020-10-05c.436.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.437.0" newgid="uk.org.publicwhip/lords/2020-10-05c.437.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.438.0" newgid="uk.org.publicwhip/lords/2020-10-05c.438.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.439.0" newgid="uk.org.publicwhip/lords/2020-10-05c.439.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.439.1" newgid="uk.org.publicwhip/lords/2020-10-05c.439.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.440.0" newgid="uk.org.publicwhip/lords/2020-10-05c.440.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.441.0" newgid="uk.org.publicwhip/lords/2020-10-05c.441.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.442.0" newgid="uk.org.publicwhip/lords/2020-10-05c.442.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.443.0" newgid="uk.org.publicwhip/lords/2020-10-05c.443.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.445.0" newgid="uk.org.publicwhip/lords/2020-10-05c.445.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.446.0" newgid="uk.org.publicwhip/lords/2020-10-05c.446.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.446.1" newgid="uk.org.publicwhip/lords/2020-10-05c.446.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.446.2" newgid="uk.org.publicwhip/lords/2020-10-05c.446.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.446.3" newgid="uk.org.publicwhip/lords/2020-10-05c.446.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.448.0" newgid="uk.org.publicwhip/lords/2020-10-05c.448.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.449.0" newgid="uk.org.publicwhip/lords/2020-10-05c.449.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.450.0" newgid="uk.org.publicwhip/lords/2020-10-05c.450.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.451.0" newgid="uk.org.publicwhip/lords/2020-10-05c.451.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.452.0" newgid="uk.org.publicwhip/lords/2020-10-05c.452.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.453.0" newgid="uk.org.publicwhip/lords/2020-10-05c.453.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.454.0" newgid="uk.org.publicwhip/lords/2020-10-05c.454.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.454.1" newgid="uk.org.publicwhip/lords/2020-10-05c.454.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.455.0" newgid="uk.org.publicwhip/lords/2020-10-05c.455.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.456.0" newgid="uk.org.publicwhip/lords/2020-10-05c.456.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.457.0" newgid="uk.org.publicwhip/lords/2020-10-05c.457.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.457.1" newgid="uk.org.publicwhip/lords/2020-10-05c.457.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.458.0" newgid="uk.org.publicwhip/lords/2020-10-05c.458.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.459.0" newgid="uk.org.publicwhip/lords/2020-10-05c.459.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.460.0" newgid="uk.org.publicwhip/lords/2020-10-05c.460.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.461.0" newgid="uk.org.publicwhip/lords/2020-10-05c.461.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.461.1" newgid="uk.org.publicwhip/lords/2020-10-05c.461.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.462.0" newgid="uk.org.publicwhip/lords/2020-10-05c.462.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.463.0" newgid="uk.org.publicwhip/lords/2020-10-05c.463.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.464.0" newgid="uk.org.publicwhip/lords/2020-10-05c.464.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.465.0" newgid="uk.org.publicwhip/lords/2020-10-05c.465.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.467.0" newgid="uk.org.publicwhip/lords/2020-10-05c.467.0" matchtype="changes"/>
+<speech id="uk.org.publicwhip/lords/2020-10-05b.467.0" speakername="Baroness Williams of Trafford" type="Start Speech" person_id="uk.org.publicwhip/person/25213" colnum="467" time="21:30:00" url="">
+    <p pid="b467.0/1">My Lords, I think that there is one thing on which we can all agree this evening—that it is not a great week to be promoting the benefits of technology, and the difficulties have arisen on the immigration Bill as well, which is very irritating.</p>
+    <p pid="b467.0/2">It is also true to say that, when speaking, the noble Baroness, Lady Bull, for example, absolutely relied on her iPad, and rightly so. It has been great to see noble Lords trusting the technology. In fact, it is probably fair to say that the past six months have seen us very reliant on technology, and for the most part it has not let us down. In addition, it has staved off loneliness for many people. I congratulate the the3million group on engendering concern on this matter but I hope—in fact, I know—that in the same way as noble Lords have thoughtfully addressed that concern, they will also listen to the points that I will be making this evening.</p>
+    <p pid="b467.0/3">I think that it was my noble friend Lord Horam who talked about when the post office book was abolished. In fact, I remember when the children’s allowance book was abolished. I really did not trust that the money would be put into my bank account. More recently, the tax disc has been abolished. There is no paper record of you having paid the tax, but somehow the police know that you have because of the technology.</p>
+    <p pid="b467.0/4">I thank the noble Lord, Lord Oates, for so thoroughly outlining his case and for providing the House with the chance to discuss the issue of physical documents for EEA citizens who apply under the EU settlement scheme. He knows that I will not agree with him and will try to argue that it is a hindrance to modernising our immigration system. He asked me about the policy equality statement. I understand that it will be published shortly.</p>
+    <p pid="b467.0/5">Some noble Lords—in fact, I would say almost all, other than my noble friend Lady Neville-Rolfe—expressed concern about the move to providing access to immigration status online to EEA citizens granted leave under the EU settlement scheme. Like many other government  departments, we are moving our services online and there are noble Lords who support digital systems, albeit maybe not in the context of this evening.</p>
+    <p pid="b467.0/6">The noble Lord, Lord Oates, attested that those protected by the withdrawal agreement do not have their rights underpinned by legislation, but of course they do, through the withdrawal agreement Act. Moving to online services is part of our declared aim of moving to a system which is digital by default, whereby all migrants, not just EEA citizens, will have online access to their immigration status, rather than having physical proof. They will be able to access their immigration status online at any time and from anywhere via the view-and-prove service on GOV.UK, which is available through a variety of devices ranging from smartphones to desktop computers. I am very impressed to hear that my noble friend Lord Cormack has availed of the last few months to use computer software. I never thought I would hear him say that.</p>
+    <p pid="b467.0/7">All this represents a major change. We have recently seen a real shift in how people behave; in the culture and habits of how the Home Office issues proof of immigration status, and the way in which migrants and others will be able to use this. Of course, we want a robust and secure system that is both efficient and convenient. My noble friend Lady Shackleton pointed out the horrors of having anything hacked. We are at the beginning of this important journey and we recognise that some people may not see it this way, but I urge noble Lords to persevere and let us see this journey unfold properly in a systematic and focused way. We have to commence change somewhere, and the EU settlement scheme has provided the right opportunity.</p>
+    <p pid="b467.0/8">Noble Lords may remember that, not too long ago, we introduced a new application process for the settlement scheme based on a smartphone app. There was an absolute outcry against it, with press stories and complaints about people not being able to use it or adjust to this new way of making an application. However, this process has proved to be a success and over 3.9 million—almost 4 million—people have used it since its launch in August 2018. I challenge any noble Lord who has not seen the process work to take the time to do so. I will arrange for them to have a look; it is very simple. Change obviously brings complexity and resistance, but we have to embrace it and ensure the right mitigation and support for those who need it most. We have done that through the measures I have outlined previously.</p>
+    <p pid="b467.0/9">As I said earlier, recent events with Covid have highlighted how vital it is that government systems and services are accessed digitally. As a result of the restrictions placed on the public by the pandemic, we have seen a sharp uptake in providers of services moving online and people have shown their ability to adapt. Digital services have enabled this country to cope during the pandemic, enabling many people—not us, obviously—to work from home, shop and obtain government services remotely.</p>
+    <p pid="b467.0/10">Our online service has enabled many employers to conduct remote right-to-work checks on foreign national employees since January last year—nearly two years. This has removed the need for physical documents to be handed over, enabling social distancing rules to be  followed and reducing contagion risks. This service is available to non-EEA holders of biometric residence cards, or biometric residence permits, and to those granted status under the EU settlement scheme. It represented the first step in our journey to make evidence of immigration status accessible online.</p>
+    <p pid="b467.0/11">Making this status information available via secure online services has also meant that we can simplify and standardise the system of checks for employers, by providing information about an individual’s status in a format that is easy to understand and accessible to all users, removing the need for employers, and others, to authenticate the myriad different physical documents and interpret complex legal terminology or confusing abbreviations. This service provides employers with a secure, auditable record that they have conducted a check on the employee, which they can store electronically. There is no need for them to check whether a document is genuine, or to go through the process of photocopying it, signing and dating it and then filing it away in a folder or cabinet, all of which they have to do when relying on a physical document.</p>
+    <p pid="b467.0/12">For those individuals, including employers, landlords and other third-party checkers, who have not already made use of the online service, we are developing an extensive package of communications to ensure that everyone is fully aware of the move to digital and how online immigration status can be accessed and used. The noble Lord, Lord Paddick, again brought up the issue of the physical document to enable renting. It does enable people to rent, but it is not a proof of status.</p>
+    <p pid="b467.0/13">However, I reassure noble Lords that EEA citizens who are granted settled or pre-settled status will continue to receive a document which is a formal written notification of their leave. This is in the form of a letter sent by post, or a PDF document sent by email, which sets out their immigration status in the UK. They can retain the letter sent by post or print or electronically store the PDF document and keep it as confirmation of their status for their own personal records and for use when contacting the Home Office about their status. That should reassure individuals that they can prove their status when dealing with the Home Office in the future. If necessary, EEA citizens can show third parties their written confirmation of status, and it includes details of the “view and prove” service so the person checking their status can see that there is an online service where they can check the individual’s status. I must stress that the written notification is not in and of itself sufficient proof of status for right to work or right to rent, because it is not a biometric document. Nevertheless, it is a physical missive.</p>
+    <p pid="b467.0/14">In Committee, the noble Lord, Lord Kennedy of Southwark, pointed out that we still issued paper certificates on granting British citizenship. He is absolutely correct, and I have written to him on this point. We have been issuing naturalisation certificates since long before we were able to digitise immigration status documents. The primary purpose of the naturalisation certificate is to act as a record of an event and, as he said, it is normally handed out at citizenship ceremonies to commemorate the occasion, and new citizens keep  it secure and often frame it with pride. Most newly naturalised British citizens go on to apply for a UK passport to use as evidence of their status and would not need a digital status.</p>
+    <p pid="b467.0/15">I know that noble Lords are worried about the impact of digital by default on the elderly and the vulnerable, but I assure them that we are taking steps to ensure that those individuals are not disadvantaged by the move to digital services. We are also developing services to make the relevant immigration status information available automatically through system-to-system checks, with other departments and the NHS. This will mean that at the point at which the person seeks to access public services such as healthcare and benefits, that service provider will check status directly with the Home Office, thereby reducing the number of occasions where individuals need to prove their status or need a document to do so.</p>
+    <p pid="b467.0/16">In moving to a digital system, we also recognise there are people who cannot access online services and who need additional support. We are committed to delivering a service that reflects the diverse needs of all users. Either the noble Lord, Lord Oates, or the noble Lord, Lord Alton, mentioned the Roma. Help on how to use the online service and share status information is available through our telephone contact centre, and we provide a free-to-use assisted digital service where applicants to the EU settlement scheme, or others making online applications in the UK, are able to get support. This assistance is tailored to an individual’s circumstances. We also provide a telephone helpline for landlords and employers to provide guidance on conducting right-to-work and right-to-rent checks, and we are exploring additional support options for those using our online services to ensure that they are fully able to demonstrate their rights in the UK.</p>
+    <p pid="b467.0/17">We will require EEA citizens to use the online service to prove their immigration status only after <phrase class="date" code="2020-06-30">30 June</phrase> 2021, although many are using it now. That may go to some of the questions that the noble Lord, Lord Kerslake, and other noble Lords asked. We will have major campaigns to promote and publicise digital status to employers and other providers to ensure a successful transition by next summer.</p>
+    <p pid="b467.0/18">To answer the noble Lord, Lord Kerslake, it is worth pointing out that migrants and providers are already getting used to checking and sharing status digitally. In the last reporting period, from April to June this year, there have been over 400,000 views of the “view and prove” service by migrants. In the same period, there have been over 100,000 checks of EU settlement scheme status by organisations. The average user satisfaction score across the migrant and checker sides of the online service, for the same period, was a positive 88%. We have designed the service to be easy to use, but guidance will be available if required. This will include guidance for those who care for vulnerable users and for use by a range of stakeholders working with local groups, including vulnerable groups.</p>
+    <p pid="b467.0/19">Both the noble Lord, Lord Oates, and the noble Baroness, Lady Bull, raised concerns about those who may be in coercive or abusive relationships, or victims of modern slavery, being denied access to their immigration status information. That problem already exists with  physical documents, which may be controlled by a third party who holds on to those physical documents. I assure noble Lords—I hope the noble Baroness, Lady Bull, is comforted by this—that there are processes in place to help those people regain access to their online information, in those rare circumstances in which a third party refuses to hand over access.</p>
+    <p pid="b467.0/20">To answer the noble Baroness more fully, users are advised on the service log-in screen to contact the customer contact centre if they no longer have access to the mobile number or email address needed to access the service. Our trained call handlers will complete the necessary security authentication steps over the phone to be certain that they are speaking to the applicant. Once authentication is complete, the call handler will arrange for the log-in details to be manually reset with the new credentials provided by the applicant. This service is already being used by applicants who, for some reason, no longer have access to their online information.</p>
+    <p pid="b467.0/21">As I have already said, we will replace biometric cards with access to online services for evidence of immigration status for all migrants, not just EEA citizens, over the next few years. These changes are being introduced gradually, in a way that builds confidence for users and provides opportunities for adaptations and improvements informed by user feedback.</p>
+    <p pid="b467.0/22">The reason we rolled out our online immigration status service to EEA citizens granted leave under the EU settlement scheme first is because they will be able to use their passport or identity card until the end of June next year and, therefore, will have time to get used to transitioning from using physical documents to accessing and sharing their immigration status information online. Moreover, they have already enjoyed the advantage of being able to travel to and from the UK using just their passports or ID cards, unlike many of their non-EEA family members, who are required to produce a physical document demonstrating their immigration status to board for carriage to the UK. The online system is operating in parallel to existing document checks of passports or identity documents. The approach is helping employers, landlords and EEA citizens to transition from using physical documents to online services.</p>
+    <p pid="b467.0/23">The concern about data security and continued access to status is essential. We have built our systems to ensure that digital status is accessible 24 hours a day, 365 days a year. Our digital services are designed to be highly resilient, with rigorous testing to build assurance before the services are seen by a user. To answer the point of my noble friend Lady Shackleton, multiple security controls are in place to protect against cyberattacks. We have employed third-party organisations to conduct vulnerability and penetration testing to provide additional assurance that our online services cannot be compromised. Services and components are engineered to be highly available and are deployed across multiple data centres, meaning that, if one fails, another will take over. By backing up our data and services—I think she even used those words—in this way, we can maintain services without any disruption to users.</p>
+    <p pid="b467.0/24">Services and their constituent parts are also monitored for failures, which will highlight any potential problems to allow support teams to triage and resolve as quickly as possible. Individuals are able to contact the Home Office in the event of any issues being encountered. We have secure authentication procedures in place to verify an applicant’s identity and status. Using internal databases, applicants and users can also refer to their written notification when engaging with the Home Office.</p>
+    <p pid="b467.0/25">This amendment, if accepted, would, in practice, require the Government to issue a secure biometric document. If it is to serve as proof of status to third parties such as employers and landlords, and as we need to reduce the risk of document fraud, this would mean issuing biometrics cards, which would incur a significant and unfunded cost, not a small, insignificant cost. Any offer of a physical card, whether or not anyone chose to avail themselves of it, would result in non-recoverable fixed costs being incurred. However, the real cost of administering such a scheme would lie in the volumes of people choosing to obtain a card. That is the real unknown here. The amendment is based on those who want a card, rather than those who need one.</p>
+    <p pid="b467.0/26">In respect of the questions raised by my noble friends Lord Polak and Lady Neville-Rolfe, if the report by the 3million group is correct, and 89% of all EEA citizens who have already been granted status under the scheme are discontent with the lack of a physical document and would choose to apply for a card, that cost would be over £100 million. If only 2% of people, the over-65s, were to ask for a physical document, the cost would be several millions—we estimate about £5 million but I am relying on the 3million group which thinks that 89% of all EEA citizens will want this physical document.</p>
+    <p pid="b467.0/27">Equally, those under 65 may be vulnerable, less able to access digital services or may just want a card for additional reassurance, as has been suggested in this House. So, this just provides a starting benchmark when, in reality, we expect the volume of demand to be higher, particularly given that the amendment specifies that the card must be free of charge. Of course, any of these figures will grow if the overall numbers applying under the scheme continue to rise. These are just the costs of producing and processing the initial application for a card.</p>
+    <p pid="b467.0/28">On top of this, we would need to incur ongoing maintenance costs to replace lost and stolen cards or reissue cards following changes to personal details such as names and following marriage. As it is a physical document, you cannot just go online and update your details. We would also need to factor in new cards for those who transition from pre-settled status to settled status. The cost of communicating the process is additional. This will divert investment away from developing the digital services and support for migrants using those services that we need for the future. Third parties would have to continue dealing with physical documents, checking they are genuine, retaining copies to show that they have done so and generally requiring a more complex and bureaucratic process.</p>
+    <p pid="b467.0/29">I thank noble Lords for listening so carefully during what has been quite a long debate, and one not without a high degree of concern. I hope that the costs I have  outlined—and the fact that 500,000 people are using various aspects of the digital system—will help some noble Lords to pause for thought before voting for this amendment.</p>
+</speech>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.473.0" newgid="uk.org.publicwhip/lords/2020-10-05c.473.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.473.1" newgid="uk.org.publicwhip/lords/2020-10-05c.473.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.473.2" newgid="uk.org.publicwhip/lords/2020-10-05c.473.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.473.3" newgid="uk.org.publicwhip/lords/2020-10-05c.473.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.473.4" newgid="uk.org.publicwhip/lords/2020-10-05c.473.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.473.5" newgid="uk.org.publicwhip/lords/2020-10-05c.473.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.474.0" newgid="uk.org.publicwhip/lords/2020-10-05c.474.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.474.1" newgid="uk.org.publicwhip/lords/2020-10-05c.474.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.478.0" newgid="uk.org.publicwhip/lords/2020-10-05c.478.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.478.1" newgid="uk.org.publicwhip/lords/2020-10-05c.478.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.478.2" newgid="uk.org.publicwhip/lords/2020-10-05c.478.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.478.3" newgid="uk.org.publicwhip/lords/2020-10-05c.478.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.480.0" newgid="uk.org.publicwhip/lords/2020-10-05c.480.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.481.0" newgid="uk.org.publicwhip/lords/2020-10-05c.481.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.481.1" newgid="uk.org.publicwhip/lords/2020-10-05c.481.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.482.0" newgid="uk.org.publicwhip/lords/2020-10-05c.482.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.482.1" newgid="uk.org.publicwhip/lords/2020-10-05c.482.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.482.2" newgid="uk.org.publicwhip/lords/2020-10-05c.482.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.482.3" newgid="uk.org.publicwhip/lords/2020-10-05c.482.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.483.0" newgid="uk.org.publicwhip/lords/2020-10-05c.483.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.484.0" newgid="uk.org.publicwhip/lords/2020-10-05c.484.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.485.0" newgid="uk.org.publicwhip/lords/2020-10-05c.485.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.485.1" newgid="uk.org.publicwhip/lords/2020-10-05c.485.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.485.2" newgid="uk.org.publicwhip/lords/2020-10-05c.485.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.487.0" newgid="uk.org.publicwhip/lords/2020-10-05c.487.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.487.1" newgid="uk.org.publicwhip/lords/2020-10-05c.487.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.487.2" newgid="uk.org.publicwhip/lords/2020-10-05c.487.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.488.0" newgid="uk.org.publicwhip/lords/2020-10-05c.488.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.490.0" newgid="uk.org.publicwhip/lords/2020-10-05c.490.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.490.1" newgid="uk.org.publicwhip/lords/2020-10-05c.490.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.491.0" newgid="uk.org.publicwhip/lords/2020-10-05c.491.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.491.1" newgid="uk.org.publicwhip/lords/2020-10-05c.491.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.492.0" newgid="uk.org.publicwhip/lords/2020-10-05c.492.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.493.0" newgid="uk.org.publicwhip/lords/2020-10-05c.493.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.494.0" newgid="uk.org.publicwhip/lords/2020-10-05c.494.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.495.0" newgid="uk.org.publicwhip/lords/2020-10-05c.495.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.495.1" newgid="uk.org.publicwhip/lords/2020-10-05c.495.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.496.0" newgid="uk.org.publicwhip/lords/2020-10-05c.496.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.497.0" newgid="uk.org.publicwhip/lords/2020-10-05c.497.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.497.1" newgid="uk.org.publicwhip/lords/2020-10-05c.497.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.499.0" newgid="uk.org.publicwhip/lords/2020-10-05c.499.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.500.0" newgid="uk.org.publicwhip/lords/2020-10-05c.500.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.500.1" newgid="uk.org.publicwhip/lords/2020-10-05c.500.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.500.2" newgid="uk.org.publicwhip/lords/2020-10-05c.500.2" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.500.3" newgid="uk.org.publicwhip/lords/2020-10-05c.500.3" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.500.4" newgid="uk.org.publicwhip/lords/2020-10-05c.500.4" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.500.5" newgid="uk.org.publicwhip/lords/2020-10-05c.500.5" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.503.0" newgid="uk.org.publicwhip/lords/2020-10-05c.503.0" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.503.1" newgid="uk.org.publicwhip/lords/2020-10-05c.503.1" matchtype="perfectmatch"/>
+<gidredirect oldgid="uk.org.publicwhip/lords/2020-10-05b.504.0" newgid="uk.org.publicwhip/lords/2020-10-05c.504.0" matchtype="perfectmatch"/>
+</publicwhip>
+
